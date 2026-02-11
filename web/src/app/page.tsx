@@ -33,7 +33,7 @@ export default function Home() {
 
         {/* Distribution chart */}
         <div className="mb-8">
-          <DistributionChart data={distribution} />
+          <DistributionChart data={distribution} players={players} />
         </div>
 
         {/* Leaderboard */}

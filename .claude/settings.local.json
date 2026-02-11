@@ -9,7 +9,10 @@
       "Bash(npm install:*)",
       "Bash(npm run build:*)",
       "Bash(curl:*)",
-      "Bash(pkill:*)"
+      "Bash(pkill:*)",
+      "WebSearch",
+      "WebFetch(domain:developers.cloudflare.com)",
+      "Bash(git ls-tree:*)"
     ]
   }
 }
