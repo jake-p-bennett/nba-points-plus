@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import Link from "next/link";
 import { X } from "lucide-react";
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer, ReferenceLine, Cell } from "recharts";
@@ -17,6 +17,14 @@ export default function DistributionChart({
   players: LeaderboardPlayer[];
 }) {
   const [selectedBin, setSelectedBin] = useState<DistributionBin | null>(null);
+  const [isMobile, setIsMobile] = useState(false);
+
+  useEffect(() => {
+    const check = () => setIsMobile(window.innerWidth < 768);
+    check();
+    window.addEventListener("resize", check);
+    return () => window.removeEventListener("resize", check);
+  }, []);
 
   const filteredPlayers = selectedBin
     ? players.filter((p) => p.pointsPlus >= selectedBin.min && p.pointsPlus < selectedBin.max)
@@ -57,10 +65,12 @@ export default function DistributionChart({
           >
             <XAxis
               dataKey="label"
-              tick={{ fill: "#94a3b8", fontSize: 10 }}
+              tick={{ fill: "#94a3b8", fontSize: isMobile ? 8 : 10 }}
               axisLine={{ stroke: "#334155" }}
               tickLine={false}
-              interval={1}
+              interval={isMobile ? 3 : 1}
+              angle={isMobile ? -45 : 0}
+              textAnchor={isMobile ? "end" : "middle"}
             />
             <YAxis
               tick={{ fill: "#94a3b8", fontSize: 10 }}
