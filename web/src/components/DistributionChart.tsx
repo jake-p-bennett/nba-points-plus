@@ -29,6 +29,20 @@ export default function DistributionChart({
     setSelectedBin((prev) => (prev?.label === bin.label ? null : bin));
   }
 
+  // Custom bar shape with full-height transparent click target
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  function ClickableBar(props: any) {
+    const { x, y, width, height, fill, opacity, background } = props;
+    const fullY = background?.y ?? 0;
+    const fullHeight = background?.height ?? 0;
+    return (
+      <g style={{ cursor: "pointer" }}>
+        <rect x={x} y={fullY} width={width} height={fullHeight} fill="transparent" />
+        <rect x={x} y={y} width={width} height={height} fill={fill} opacity={opacity} rx={3} ry={3} />
+      </g>
+    );
+  }
+
   return (
     <div className="rounded-lg border border-slate-800 bg-slate-900/50 p-4">
       <h3 className="mb-4 text-sm font-medium text-slate-400 uppercase tracking-wider">
@@ -74,7 +88,12 @@ export default function DistributionChart({
               stroke="#f59e0b"
               strokeDasharray="3 3"
             />
-            <Bar dataKey="count" radius={[3, 3, 0, 0]} onClick={handleBarClick} style={{ cursor: "pointer" }}>
+            <Bar
+              dataKey="count"
+              shape={<ClickableBar />}
+              background={{ fill: "transparent" }}
+              onClick={handleBarClick}
+            >
               {data.map((entry, index) => (
                 <Cell
                   key={index}

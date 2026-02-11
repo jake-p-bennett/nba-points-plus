@@ -3,7 +3,7 @@
 import os
 import json
 import numpy as np
-from datetime import datetime
+from datetime import datetime, timedelta
 
 OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "output")
 
@@ -115,7 +115,7 @@ def generate_metadata(qualifying):
     meta = {
         "generatedAt": datetime.now().isoformat(),
         "season": "2025-26",
-        "asOfDate": "2026-02-10",
+        "asOfDate": (datetime.now() - timedelta(days=1)).strftime("%Y-%m-%d"),
         "qualifyingCriteria": {
             "minGames": 20,
             "minMpg": 15.0,
