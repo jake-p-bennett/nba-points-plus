@@ -21,7 +21,7 @@ export default function Home() {
             Points<span className="text-amber-500">+</span> Leaderboard
           </h2>
           <p className="text-slate-400 text-sm max-w-lg mx-auto">
-            Scoring efficiency relative to league average (100), adjusted for opponent
+            Scoring volume relative to league average (100), adjusted for opponent
             defensive strength and game pace. Data as of {metadata.asOfDate}.
           </p>
         </div>

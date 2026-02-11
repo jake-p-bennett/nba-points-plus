@@ -242,6 +242,20 @@ export default function AboutPage() {
               Data last updated: {metadata.asOfDate}
             </p>
           </section>
+
+          <div className="border-t border-slate-800 pt-6 text-center text-sm text-slate-400">
+            Built by{" "}
+            <a
+              href="https://www.linkedin.com/in/jacob-peltier-bennett/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-white hover:text-amber-400 transition-colors"
+            >
+              Jake Bennett
+            </a>
+            {" "}and{" "}
+            <span className="text-white">Claude Code</span>
+          </div>
         </div>
       </main>
 
