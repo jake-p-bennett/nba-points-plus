@@ -102,14 +102,16 @@ def calculate(game_logs, team_stats, player_index, player_advanced):
     league_avg_adj_ppg = qualifying["ADJ_PPG"].mean()
     qualifying["POINTS_PLUS"] = (qualifying["ADJ_PPG"] / league_avg_adj_ppg) * 100
 
-    # Round values
+    # Sort by Points+ with unrounded adj PPG as tiebreaker
+    qualifying = qualifying.sort_values(
+        ["POINTS_PLUS", "ADJ_PPG"], ascending=[False, False]
+    ).reset_index(drop=True)
+
+    # Round values after sorting
     qualifying["RAW_PPG"] = qualifying["RAW_PPG"].round(1)
     qualifying["ADJ_PPG"] = qualifying["ADJ_PPG"].round(1)
     qualifying["MPG"] = qualifying["MPG"].round(1)
     qualifying["POINTS_PLUS"] = qualifying["POINTS_PLUS"].round(0).astype(int)
-
-    # Sort by Points+
-    qualifying = qualifying.sort_values("POINTS_PLUS", ascending=False).reset_index(drop=True)
     qualifying["RANK"] = qualifying.index + 1
 
     # Merge player metadata
