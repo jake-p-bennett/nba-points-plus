@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "NBA Points+ | 2025-26 Season",
-  description: "Points+ measures NBA player scoring relative to league average, adjusted for opponent defense and pace.",
+  title: "NBA Points+",
+  description: "NBA scoring volume relative to league average, adjusted for opponent defense and pace.",
 };
 
 export default function RootLayout({
