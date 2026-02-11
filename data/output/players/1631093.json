@@ -1,0 +1,341 @@
+{
+  "id": 1631093,
+  "name": "Jaden Ivey",
+  "team": "CHI",
+  "rank": 213,
+  "gp": 36,
+  "ppg": 8.5,
+  "adjPpg": 8.5,
+  "pointsPlus": 68,
+  "mpg": 17.8,
+  "position": "G",
+  "jersey": "31",
+  "usgPct": 19.5,
+  "tsPct": 57.3,
+  "gameLog": [
+    {
+      "date": "2025-11-22",
+      "matchup": "DET @ MIL",
+      "result": "W",
+      "min": 15,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 80
+    },
+    {
+      "date": "2025-11-24",
+      "matchup": "DET @ IND",
+      "result": "W",
+      "min": 12,
+      "pts": 12,
+      "adjPts": 11.7,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "DET @ BOS",
+      "result": "L",
+      "min": 15,
+      "pts": 7,
+      "adjPts": 7.5,
+      "pointsPlus": 60
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "DET vs. ORL",
+      "result": "L",
+      "min": 10,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 24
+    },
+    {
+      "date": "2025-11-29",
+      "matchup": "DET @ MIA",
+      "result": "W",
+      "min": 14,
+      "pts": 9,
+      "adjPts": 8.8,
+      "pointsPlus": 71
+    },
+    {
+      "date": "2025-12-01",
+      "matchup": "DET vs. ATL",
+      "result": "W",
+      "min": 14,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "DET @ MIL",
+      "result": "L",
+      "min": 19,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 120
+    },
+    {
+      "date": "2025-12-05",
+      "matchup": "DET vs. POR",
+      "result": "W",
+      "min": 10,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 16
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "DET vs. MIL",
+      "result": "W",
+      "min": 16,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 80
+    },
+    {
+      "date": "2025-12-12",
+      "matchup": "DET vs. ATL",
+      "result": "W",
+      "min": 19,
+      "pts": 10,
+      "adjPts": 9.7,
+      "pointsPlus": 78
+    },
+    {
+      "date": "2025-12-15",
+      "matchup": "DET @ BOS",
+      "result": "W",
+      "min": 21,
+      "pts": 10,
+      "adjPts": 10.7,
+      "pointsPlus": 85
+    },
+    {
+      "date": "2025-12-18",
+      "matchup": "DET @ DAL",
+      "result": "L",
+      "min": 14,
+      "pts": 8,
+      "adjPts": 7.9,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "DET vs. CHA",
+      "result": "W",
+      "min": 13,
+      "pts": 5,
+      "adjPts": 5.1,
+      "pointsPlus": 41
+    },
+    {
+      "date": "2025-12-22",
+      "matchup": "DET @ POR",
+      "result": "W",
+      "min": 18,
+      "pts": 11,
+      "adjPts": 10.7,
+      "pointsPlus": 86
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "DET @ SAC",
+      "result": "W",
+      "min": 14,
+      "pts": 8,
+      "adjPts": 7.7,
+      "pointsPlus": 62
+    },
+    {
+      "date": "2025-12-26",
+      "matchup": "DET @ UTA",
+      "result": "L",
+      "min": 14,
+      "pts": 11,
+      "adjPts": 10.1,
+      "pointsPlus": 81
+    },
+    {
+      "date": "2025-12-28",
+      "matchup": "DET @ LAC",
+      "result": "L",
+      "min": 29,
+      "pts": 11,
+      "adjPts": 11.3,
+      "pointsPlus": 91
+    },
+    {
+      "date": "2025-12-30",
+      "matchup": "DET @ LAL",
+      "result": "W",
+      "min": 17,
+      "pts": 9,
+      "adjPts": 8.9,
+      "pointsPlus": 71
+    },
+    {
+      "date": "2026-01-01",
+      "matchup": "DET vs. MIA",
+      "result": "L",
+      "min": 21,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 16
+    },
+    {
+      "date": "2026-01-04",
+      "matchup": "DET @ CLE",
+      "result": "W",
+      "min": 19,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 56
+    },
+    {
+      "date": "2026-01-05",
+      "matchup": "DET vs. NYK",
+      "result": "W",
+      "min": 22,
+      "pts": 16,
+      "adjPts": 16.5,
+      "pointsPlus": 132
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "DET vs. CHI",
+      "result": "W",
+      "min": 20,
+      "pts": 8,
+      "adjPts": 7.6,
+      "pointsPlus": 61
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "DET vs. LAC",
+      "result": "L",
+      "min": 20,
+      "pts": 8,
+      "adjPts": 8.2,
+      "pointsPlus": 66
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "DET vs. PHX",
+      "result": "W",
+      "min": 17,
+      "pts": 15,
+      "adjPts": 15.5,
+      "pointsPlus": 124
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "DET vs. IND",
+      "result": "W",
+      "min": 21,
+      "pts": 5,
+      "adjPts": 4.9,
+      "pointsPlus": 39
+    },
+    {
+      "date": "2026-01-19",
+      "matchup": "DET vs. BOS",
+      "result": "W",
+      "min": 17,
+      "pts": 7,
+      "adjPts": 7.5,
+      "pointsPlus": 60
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "DET @ NOP",
+      "result": "W",
+      "min": 18,
+      "pts": 7,
+      "adjPts": 6.7,
+      "pointsPlus": 54
+    },
+    {
+      "date": "2026-01-23",
+      "matchup": "DET vs. HOU",
+      "result": "L",
+      "min": 14,
+      "pts": 8,
+      "adjPts": 8.5,
+      "pointsPlus": 68
+    },
+    {
+      "date": "2026-01-25",
+      "matchup": "DET vs. SAC",
+      "result": "W",
+      "min": 17,
+      "pts": 11,
+      "adjPts": 10.5,
+      "pointsPlus": 85
+    },
+    {
+      "date": "2026-01-27",
+      "matchup": "DET @ DEN",
+      "result": "W",
+      "min": 18,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 64
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "DET @ PHX",
+      "result": "L",
+      "min": 7,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-30",
+      "matchup": "DET @ GSW",
+      "result": "W",
+      "min": 18,
+      "pts": 9,
+      "adjPts": 9.1,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2026-02-01",
+      "matchup": "DET vs. BKN",
+      "result": "W",
+      "min": 21,
+      "pts": 8,
+      "adjPts": 8.1,
+      "pointsPlus": 65
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "CHI @ TOR",
+      "result": "L",
+      "min": 33,
+      "pts": 13,
+      "adjPts": 13.4,
+      "pointsPlus": 108
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "CHI vs. DEN",
+      "result": "L",
+      "min": 30,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 80
+    },
+    {
+      "date": "2026-02-09",
+      "matchup": "CHI @ BKN",
+      "result": "L",
+      "min": 24,
+      "pts": 13,
+      "adjPts": 13.1,
+      "pointsPlus": 105
+    }
+  ]
+}

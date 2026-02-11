@@ -1,0 +1,215 @@
+{
+  "id": 203937,
+  "name": "Kyle Anderson",
+  "team": "MEM",
+  "rank": 239,
+  "gp": 22,
+  "ppg": 7.3,
+  "adjPpg": 7.4,
+  "pointsPlus": 59,
+  "mpg": 20.7,
+  "position": "F-G",
+  "jersey": "2",
+  "usgPct": 14.8,
+  "tsPct": 58.4,
+  "gameLog": [
+    {
+      "date": "2025-10-31",
+      "matchup": "UTA @ PHX",
+      "result": "L",
+      "min": 25,
+      "pts": 8,
+      "adjPts": 8.3,
+      "pointsPlus": 66
+    },
+    {
+      "date": "2025-11-02",
+      "matchup": "UTA @ CHA",
+      "result": "L",
+      "min": 12,
+      "pts": 5,
+      "adjPts": 5.1,
+      "pointsPlus": 41
+    },
+    {
+      "date": "2025-11-07",
+      "matchup": "UTA @ MIN",
+      "result": "L",
+      "min": 12,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 65
+    },
+    {
+      "date": "2025-11-18",
+      "matchup": "UTA @ LAL",
+      "result": "L",
+      "min": 20,
+      "pts": 5,
+      "adjPts": 4.9,
+      "pointsPlus": 40
+    },
+    {
+      "date": "2025-11-24",
+      "matchup": "UTA @ GSW",
+      "result": "L",
+      "min": 24,
+      "pts": 12,
+      "adjPts": 12.2,
+      "pointsPlus": 98
+    },
+    {
+      "date": "2025-11-30",
+      "matchup": "UTA vs. HOU",
+      "result": "L",
+      "min": 25,
+      "pts": 7,
+      "adjPts": 7.4,
+      "pointsPlus": 60
+    },
+    {
+      "date": "2025-12-04",
+      "matchup": "UTA @ BKN",
+      "result": "W",
+      "min": 17,
+      "pts": 8,
+      "adjPts": 8.1,
+      "pointsPlus": 65
+    },
+    {
+      "date": "2025-12-05",
+      "matchup": "UTA @ NYK",
+      "result": "L",
+      "min": 12,
+      "pts": 7,
+      "adjPts": 7.2,
+      "pointsPlus": 58
+    },
+    {
+      "date": "2025-12-15",
+      "matchup": "UTA vs. DAL",
+      "result": "W",
+      "min": 15,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-01",
+      "matchup": "UTA @ LAC",
+      "result": "L",
+      "min": 32,
+      "pts": 22,
+      "adjPts": 22.6,
+      "pointsPlus": 181
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "UTA vs. DAL",
+      "result": "W",
+      "min": 26,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 16
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "UTA vs. CHA",
+      "result": "L",
+      "min": 21,
+      "pts": 7,
+      "adjPts": 7.1,
+      "pointsPlus": 57
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "UTA @ CHI",
+      "result": "L",
+      "min": 17,
+      "pts": 7,
+      "adjPts": 6.7,
+      "pointsPlus": 54
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "UTA @ DAL",
+      "result": "L",
+      "min": 26,
+      "pts": 12,
+      "adjPts": 11.9,
+      "pointsPlus": 95
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "UTA @ DAL",
+      "result": "L",
+      "min": 19,
+      "pts": 8,
+      "adjPts": 7.9,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2026-01-20",
+      "matchup": "UTA vs. MIN",
+      "result": "W",
+      "min": 17,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 16
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "UTA vs. MIA",
+      "result": "L",
+      "min": 15,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 16
+    },
+    {
+      "date": "2026-01-27",
+      "matchup": "UTA vs. LAC",
+      "result": "L",
+      "min": 25,
+      "pts": 12,
+      "adjPts": 12.3,
+      "pointsPlus": 99
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "UTA vs. GSW",
+      "result": "L",
+      "min": 22,
+      "pts": 6,
+      "adjPts": 6.1,
+      "pointsPlus": 49
+    },
+    {
+      "date": "2026-01-30",
+      "matchup": "UTA vs. BKN",
+      "result": "L",
+      "min": 20,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 16
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "MEM @ POR",
+      "result": "L",
+      "min": 27,
+      "pts": 11,
+      "adjPts": 10.7,
+      "pointsPlus": 86
+    },
+    {
+      "date": "2026-02-09",
+      "matchup": "MEM @ GSW",
+      "result": "L",
+      "min": 26,
+      "pts": 8,
+      "adjPts": 8.1,
+      "pointsPlus": 65
+    }
+  ]
+}

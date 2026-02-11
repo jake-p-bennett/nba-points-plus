@@ -1,0 +1,395 @@
+{
+  "id": 1631094,
+  "name": "Paolo Banchero",
+  "team": "ORL",
+  "rank": 35,
+  "gp": 42,
+  "ppg": 21.4,
+  "adjPpg": 21.3,
+  "pointsPlus": 171,
+  "mpg": 34.3,
+  "position": "F",
+  "jersey": "5",
+  "usgPct": 26.7,
+  "tsPct": 56.2,
+  "gameLog": [
+    {
+      "date": "2025-10-22",
+      "matchup": "ORL vs. MIA",
+      "result": "W",
+      "min": 35,
+      "pts": 24,
+      "adjPts": 23.5,
+      "pointsPlus": 189
+    },
+    {
+      "date": "2025-10-24",
+      "matchup": "ORL vs. ATL",
+      "result": "L",
+      "min": 36,
+      "pts": 11,
+      "adjPts": 10.7,
+      "pointsPlus": 86
+    },
+    {
+      "date": "2025-10-25",
+      "matchup": "ORL vs. CHI",
+      "result": "L",
+      "min": 36,
+      "pts": 24,
+      "adjPts": 22.9,
+      "pointsPlus": 184
+    },
+    {
+      "date": "2025-10-27",
+      "matchup": "ORL @ PHI",
+      "result": "L",
+      "min": 38,
+      "pts": 32,
+      "adjPts": 32.3,
+      "pointsPlus": 259
+    },
+    {
+      "date": "2025-10-29",
+      "matchup": "ORL @ DET",
+      "result": "L",
+      "min": 35,
+      "pts": 24,
+      "adjPts": 25.3,
+      "pointsPlus": 203
+    },
+    {
+      "date": "2025-10-30",
+      "matchup": "ORL @ CHA",
+      "result": "W",
+      "min": 33,
+      "pts": 20,
+      "adjPts": 20.3,
+      "pointsPlus": 163
+    },
+    {
+      "date": "2025-11-01",
+      "matchup": "ORL @ WAS",
+      "result": "W",
+      "min": 26,
+      "pts": 28,
+      "adjPts": 26.2,
+      "pointsPlus": 211
+    },
+    {
+      "date": "2025-11-04",
+      "matchup": "ORL @ ATL",
+      "result": "L",
+      "min": 37,
+      "pts": 22,
+      "adjPts": 21.4,
+      "pointsPlus": 171
+    },
+    {
+      "date": "2025-11-07",
+      "matchup": "ORL vs. BOS",
+      "result": "W",
+      "min": 36,
+      "pts": 15,
+      "adjPts": 16.0,
+      "pointsPlus": 128
+    },
+    {
+      "date": "2025-11-09",
+      "matchup": "ORL vs. BOS",
+      "result": "L",
+      "min": 35,
+      "pts": 28,
+      "adjPts": 29.8,
+      "pointsPlus": 239
+    },
+    {
+      "date": "2025-11-10",
+      "matchup": "ORL vs. POR",
+      "result": "W",
+      "min": 35,
+      "pts": 28,
+      "adjPts": 27.4,
+      "pointsPlus": 220
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "ORL @ NYK",
+      "result": "W",
+      "min": 12,
+      "pts": 4,
+      "adjPts": 4.1,
+      "pointsPlus": 33
+    },
+    {
+      "date": "2025-12-05",
+      "matchup": "ORL vs. MIA",
+      "result": "W",
+      "min": 20,
+      "pts": 9,
+      "adjPts": 8.8,
+      "pointsPlus": 71
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "ORL @ NYK",
+      "result": "L",
+      "min": 24,
+      "pts": 16,
+      "adjPts": 16.5,
+      "pointsPlus": 132
+    },
+    {
+      "date": "2025-12-09",
+      "matchup": "ORL vs. MIA",
+      "result": "W",
+      "min": 32,
+      "pts": 18,
+      "adjPts": 17.6,
+      "pointsPlus": 142
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "ORL @ NYK",
+      "result": "L",
+      "min": 35,
+      "pts": 25,
+      "adjPts": 25.7,
+      "pointsPlus": 206
+    },
+    {
+      "date": "2025-12-18",
+      "matchup": "ORL @ DEN",
+      "result": "L",
+      "min": 39,
+      "pts": 26,
+      "adjPts": 26.0,
+      "pointsPlus": 208
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "ORL @ UTA",
+      "result": "W",
+      "min": 42,
+      "pts": 23,
+      "adjPts": 21.1,
+      "pointsPlus": 170
+    },
+    {
+      "date": "2025-12-22",
+      "matchup": "ORL @ GSW",
+      "result": "L",
+      "min": 34,
+      "pts": 21,
+      "adjPts": 21.3,
+      "pointsPlus": 171
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "ORL @ POR",
+      "result": "W",
+      "min": 36,
+      "pts": 12,
+      "adjPts": 11.7,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-12-26",
+      "matchup": "ORL vs. CHA",
+      "result": "L",
+      "min": 31,
+      "pts": 13,
+      "adjPts": 13.2,
+      "pointsPlus": 106
+    },
+    {
+      "date": "2025-12-27",
+      "matchup": "ORL vs. DEN",
+      "result": "W",
+      "min": 36,
+      "pts": 12,
+      "adjPts": 12.0,
+      "pointsPlus": 96
+    },
+    {
+      "date": "2025-12-29",
+      "matchup": "ORL @ TOR",
+      "result": "L",
+      "min": 38,
+      "pts": 23,
+      "adjPts": 23.7,
+      "pointsPlus": 190
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "ORL @ IND",
+      "result": "W",
+      "min": 35,
+      "pts": 29,
+      "adjPts": 28.2,
+      "pointsPlus": 226
+    },
+    {
+      "date": "2026-01-02",
+      "matchup": "ORL @ CHI",
+      "result": "L",
+      "min": 35,
+      "pts": 31,
+      "adjPts": 29.6,
+      "pointsPlus": 238
+    },
+    {
+      "date": "2026-01-04",
+      "matchup": "ORL vs. IND",
+      "result": "W",
+      "min": 36,
+      "pts": 28,
+      "adjPts": 27.2,
+      "pointsPlus": 219
+    },
+    {
+      "date": "2026-01-06",
+      "matchup": "ORL @ WAS",
+      "result": "L",
+      "min": 25,
+      "pts": 14,
+      "adjPts": 13.1,
+      "pointsPlus": 105
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "ORL @ BKN",
+      "result": "W",
+      "min": 43,
+      "pts": 30,
+      "adjPts": 30.2,
+      "pointsPlus": 242
+    },
+    {
+      "date": "2026-01-09",
+      "matchup": "ORL vs. PHI",
+      "result": "L",
+      "min": 37,
+      "pts": 14,
+      "adjPts": 14.1,
+      "pointsPlus": 113
+    },
+    {
+      "date": "2026-01-11",
+      "matchup": "ORL vs. NOP",
+      "result": "W",
+      "min": 39,
+      "pts": 23,
+      "adjPts": 22.2,
+      "pointsPlus": 178
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "ORL @ MEM",
+      "result": "W",
+      "min": 37,
+      "pts": 26,
+      "adjPts": 25.5,
+      "pointsPlus": 205
+    },
+    {
+      "date": "2026-01-18",
+      "matchup": "ORL @ MEM",
+      "result": "L",
+      "min": 36,
+      "pts": 16,
+      "adjPts": 15.7,
+      "pointsPlus": 126
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "ORL vs. CHA",
+      "result": "L",
+      "min": 30,
+      "pts": 23,
+      "adjPts": 23.3,
+      "pointsPlus": 187
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "ORL vs. CLE",
+      "result": "L",
+      "min": 38,
+      "pts": 27,
+      "adjPts": 26.9,
+      "pointsPlus": 216
+    },
+    {
+      "date": "2026-01-26",
+      "matchup": "ORL @ CLE",
+      "result": "L",
+      "min": 40,
+      "pts": 37,
+      "adjPts": 36.8,
+      "pointsPlus": 296
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "ORL @ MIA",
+      "result": "W",
+      "min": 38,
+      "pts": 31,
+      "adjPts": 30.4,
+      "pointsPlus": 244
+    },
+    {
+      "date": "2026-01-30",
+      "matchup": "ORL vs. TOR",
+      "result": "W",
+      "min": 41,
+      "pts": 20,
+      "adjPts": 20.6,
+      "pointsPlus": 166
+    },
+    {
+      "date": "2026-02-01",
+      "matchup": "ORL @ SAS",
+      "result": "L",
+      "min": 35,
+      "pts": 19,
+      "adjPts": 19.5,
+      "pointsPlus": 157
+    },
+    {
+      "date": "2026-02-03",
+      "matchup": "ORL @ OKC",
+      "result": "L",
+      "min": 33,
+      "pts": 17,
+      "adjPts": 18.3,
+      "pointsPlus": 147
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "ORL vs. BKN",
+      "result": "W",
+      "min": 31,
+      "pts": 22,
+      "adjPts": 22.1,
+      "pointsPlus": 178
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "ORL vs. UTA",
+      "result": "W",
+      "min": 38,
+      "pts": 23,
+      "adjPts": 21.1,
+      "pointsPlus": 170
+    },
+    {
+      "date": "2026-02-09",
+      "matchup": "ORL vs. MIL",
+      "result": "W",
+      "min": 33,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 88
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "id": 203114,
+  "name": "Khris Middleton",
+  "team": "DAL",
+  "rank": 169,
+  "gp": 35,
+  "ppg": 10.4,
+  "adjPpg": 10.5,
+  "pointsPlus": 84,
+  "mpg": 24.3,
+  "position": "F",
+  "jersey": "20",
+  "usgPct": 18.9,
+  "tsPct": 53.6,
+  "gameLog": [
+    {
+      "date": "2025-10-22",
+      "matchup": "WAS @ MIL",
+      "result": "L",
+      "min": 29,
+      "pts": 23,
+      "adjPts": 23.0,
+      "pointsPlus": 184
+    },
+    {
+      "date": "2025-10-24",
+      "matchup": "WAS @ DAL",
+      "result": "W",
+      "min": 30,
+      "pts": 9,
+      "adjPts": 8.9,
+      "pointsPlus": 71
+    },
+    {
+      "date": "2025-10-26",
+      "matchup": "WAS vs. CHA",
+      "result": "L",
+      "min": 20,
+      "pts": 11,
+      "adjPts": 11.2,
+      "pointsPlus": 90
+    },
+    {
+      "date": "2025-10-28",
+      "matchup": "WAS vs. PHI",
+      "result": "L",
+      "min": 31,
+      "pts": 13,
+      "adjPts": 13.1,
+      "pointsPlus": 105
+    },
+    {
+      "date": "2025-10-30",
+      "matchup": "WAS @ OKC",
+      "result": "L",
+      "min": 20,
+      "pts": 6,
+      "adjPts": 6.4,
+      "pointsPlus": 52
+    },
+    {
+      "date": "2025-11-01",
+      "matchup": "WAS vs. ORL",
+      "result": "L",
+      "min": 20,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 48
+    },
+    {
+      "date": "2025-11-07",
+      "matchup": "WAS vs. CLE",
+      "result": "L",
+      "min": 22,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 32
+    },
+    {
+      "date": "2025-11-10",
+      "matchup": "WAS @ DET",
+      "result": "L",
+      "min": 26,
+      "pts": 6,
+      "adjPts": 6.3,
+      "pointsPlus": 51
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "WAS @ HOU",
+      "result": "L",
+      "min": 23,
+      "pts": 7,
+      "adjPts": 7.4,
+      "pointsPlus": 60
+    },
+    {
+      "date": "2025-11-16",
+      "matchup": "WAS vs. BKN",
+      "result": "L",
+      "min": 27,
+      "pts": 14,
+      "adjPts": 14.1,
+      "pointsPlus": 113
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "WAS @ MIN",
+      "result": "L",
+      "min": 27,
+      "pts": 13,
+      "adjPts": 13.1,
+      "pointsPlus": 105
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "WAS @ TOR",
+      "result": "L",
+      "min": 24,
+      "pts": 2,
+      "adjPts": 2.1,
+      "pointsPlus": 17
+    },
+    {
+      "date": "2025-11-25",
+      "matchup": "WAS vs. ATL",
+      "result": "W",
+      "min": 31,
+      "pts": 10,
+      "adjPts": 9.7,
+      "pointsPlus": 78
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "WAS @ IND",
+      "result": "L",
+      "min": 26,
+      "pts": 12,
+      "adjPts": 11.7,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-12-01",
+      "matchup": "WAS vs. MIL",
+      "result": "W",
+      "min": 31,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 120
+    },
+    {
+      "date": "2025-12-04",
+      "matchup": "WAS vs. BOS",
+      "result": "L",
+      "min": 25,
+      "pts": 16,
+      "adjPts": 17.0,
+      "pointsPlus": 137
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "WAS @ MEM",
+      "result": "W",
+      "min": 22,
+      "pts": 6,
+      "adjPts": 5.9,
+      "pointsPlus": 47
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "WAS @ CHA",
+      "result": "L",
+      "min": 22,
+      "pts": 16,
+      "adjPts": 16.2,
+      "pointsPlus": 130
+    },
+    {
+      "date": "2025-12-26",
+      "matchup": "WAS vs. TOR",
+      "result": "W",
+      "min": 19,
+      "pts": 6,
+      "adjPts": 6.2,
+      "pointsPlus": 50
+    },
+    {
+      "date": "2025-12-28",
+      "matchup": "WAS vs. MEM",
+      "result": "W",
+      "min": 23,
+      "pts": 10,
+      "adjPts": 9.8,
+      "pointsPlus": 79
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "WAS @ MIL",
+      "result": "W",
+      "min": 23,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-02",
+      "matchup": "WAS vs. BKN",
+      "result": "W",
+      "min": 23,
+      "pts": 9,
+      "adjPts": 9.1,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2026-01-04",
+      "matchup": "WAS vs. MIN",
+      "result": "L",
+      "min": 18,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 81
+    },
+    {
+      "date": "2026-01-06",
+      "matchup": "WAS vs. ORL",
+      "result": "W",
+      "min": 23,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 88
+    },
+    {
+      "date": "2026-01-09",
+      "matchup": "WAS vs. NOP",
+      "result": "L",
+      "min": 21,
+      "pts": 4,
+      "adjPts": 3.9,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2026-01-11",
+      "matchup": "WAS @ PHX",
+      "result": "L",
+      "min": 18,
+      "pts": 2,
+      "adjPts": 2.1,
+      "pointsPlus": 17
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "WAS @ LAC",
+      "result": "L",
+      "min": 27,
+      "pts": 17,
+      "adjPts": 17.5,
+      "pointsPlus": 140
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "WAS @ DEN",
+      "result": "L",
+      "min": 27,
+      "pts": 16,
+      "adjPts": 16.0,
+      "pointsPlus": 128
+    },
+    {
+      "date": "2026-01-19",
+      "matchup": "WAS vs. LAC",
+      "result": "L",
+      "min": 28,
+      "pts": 11,
+      "adjPts": 11.3,
+      "pointsPlus": 91
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "WAS vs. DEN",
+      "result": "L",
+      "min": 28,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 72
+    },
+    {
+      "date": "2026-01-27",
+      "matchup": "WAS vs. POR",
+      "result": "W",
+      "min": 27,
+      "pts": 19,
+      "adjPts": 18.6,
+      "pointsPlus": 149
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "WAS vs. MIL",
+      "result": "W",
+      "min": 26,
+      "pts": 13,
+      "adjPts": 13.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2026-02-01",
+      "matchup": "WAS vs. SAC",
+      "result": "W",
+      "min": 18,
+      "pts": 13,
+      "adjPts": 12.5,
+      "pointsPlus": 100
+    },
+    {
+      "date": "2026-02-03",
+      "matchup": "WAS vs. NYK",
+      "result": "L",
+      "min": 22,
+      "pts": 12,
+      "adjPts": 12.3,
+      "pointsPlus": 99
+    },
+    {
+      "date": "2026-02-10",
+      "matchup": "DAL @ PHX",
+      "result": "L",
+      "min": 22,
+      "pts": 13,
+      "adjPts": 13.4,
+      "pointsPlus": 108
+    }
+  ]
+}

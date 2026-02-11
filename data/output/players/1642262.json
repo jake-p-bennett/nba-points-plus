@@ -1,0 +1,377 @@
+{
+  "id": 1642262,
+  "name": "Cody Williams",
+  "team": "UTA",
+  "rank": 283,
+  "gp": 40,
+  "ppg": 5.8,
+  "adjPpg": 5.8,
+  "pointsPlus": 46,
+  "mpg": 19.2,
+  "position": "F",
+  "jersey": "5",
+  "usgPct": 12.8,
+  "tsPct": 52.6,
+  "gameLog": [
+    {
+      "date": "2025-10-22",
+      "matchup": "UTA vs. LAC",
+      "result": "W",
+      "min": 2,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-10-29",
+      "matchup": "UTA vs. POR",
+      "result": "L",
+      "min": 12,
+      "pts": 4,
+      "adjPts": 3.9,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2025-10-31",
+      "matchup": "UTA @ PHX",
+      "result": "L",
+      "min": 15,
+      "pts": 8,
+      "adjPts": 8.3,
+      "pointsPlus": 66
+    },
+    {
+      "date": "2025-11-02",
+      "matchup": "UTA @ CHA",
+      "result": "L",
+      "min": 9,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-07",
+      "matchup": "UTA @ MIN",
+      "result": "L",
+      "min": 10,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 40
+    },
+    {
+      "date": "2025-11-11",
+      "matchup": "UTA vs. IND",
+      "result": "W",
+      "min": 19,
+      "pts": 2,
+      "adjPts": 1.9,
+      "pointsPlus": 16
+    },
+    {
+      "date": "2025-11-13",
+      "matchup": "UTA vs. ATL",
+      "result": "L",
+      "min": 12,
+      "pts": 2,
+      "adjPts": 1.9,
+      "pointsPlus": 16
+    },
+    {
+      "date": "2025-11-16",
+      "matchup": "UTA vs. CHI",
+      "result": "W",
+      "min": 19,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-18",
+      "matchup": "UTA @ LAL",
+      "result": "L",
+      "min": 21,
+      "pts": 4,
+      "adjPts": 3.9,
+      "pointsPlus": 32
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "UTA vs. OKC",
+      "result": "L",
+      "min": 20,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-23",
+      "matchup": "UTA vs. LAL",
+      "result": "L",
+      "min": 3,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-04",
+      "matchup": "UTA @ BKN",
+      "result": "W",
+      "min": 8,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "UTA vs. OKC",
+      "result": "L",
+      "min": 8,
+      "pts": 4,
+      "adjPts": 4.3,
+      "pointsPlus": 34
+    },
+    {
+      "date": "2025-12-15",
+      "matchup": "UTA vs. DAL",
+      "result": "W",
+      "min": 22,
+      "pts": 11,
+      "adjPts": 10.9,
+      "pointsPlus": 87
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "UTA vs. ORL",
+      "result": "L",
+      "min": 13,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-22",
+      "matchup": "UTA @ DEN",
+      "result": "L",
+      "min": 8,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "UTA vs. MEM",
+      "result": "L",
+      "min": 9,
+      "pts": 4,
+      "adjPts": 3.9,
+      "pointsPlus": 32
+    },
+    {
+      "date": "2025-12-27",
+      "matchup": "UTA @ SAS",
+      "result": "W",
+      "min": 19,
+      "pts": 8,
+      "adjPts": 8.2,
+      "pointsPlus": 66
+    },
+    {
+      "date": "2025-12-30",
+      "matchup": "UTA vs. BOS",
+      "result": "L",
+      "min": 13,
+      "pts": 2,
+      "adjPts": 2.1,
+      "pointsPlus": 17
+    },
+    {
+      "date": "2026-01-01",
+      "matchup": "UTA @ LAC",
+      "result": "L",
+      "min": 26,
+      "pts": 18,
+      "adjPts": 18.5,
+      "pointsPlus": 148
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "UTA @ GSW",
+      "result": "L",
+      "min": 13,
+      "pts": 6,
+      "adjPts": 6.1,
+      "pointsPlus": 49
+    },
+    {
+      "date": "2026-01-05",
+      "matchup": "UTA @ POR",
+      "result": "L",
+      "min": 20,
+      "pts": 8,
+      "adjPts": 7.8,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "UTA @ OKC",
+      "result": "L",
+      "min": 14,
+      "pts": 5,
+      "adjPts": 5.4,
+      "pointsPlus": 43
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "UTA vs. DAL",
+      "result": "W",
+      "min": 22,
+      "pts": 8,
+      "adjPts": 7.9,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "UTA vs. CHA",
+      "result": "L",
+      "min": 32,
+      "pts": 15,
+      "adjPts": 15.2,
+      "pointsPlus": 122
+    },
+    {
+      "date": "2026-01-12",
+      "matchup": "UTA @ CLE",
+      "result": "W",
+      "min": 21,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 64
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "UTA @ CHI",
+      "result": "L",
+      "min": 31,
+      "pts": 6,
+      "adjPts": 5.7,
+      "pointsPlus": 46
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "UTA @ DAL",
+      "result": "L",
+      "min": 31,
+      "pts": 13,
+      "adjPts": 12.9,
+      "pointsPlus": 103
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "UTA @ DAL",
+      "result": "L",
+      "min": 28,
+      "pts": 11,
+      "adjPts": 10.9,
+      "pointsPlus": 87
+    },
+    {
+      "date": "2026-01-19",
+      "matchup": "UTA @ SAS",
+      "result": "L",
+      "min": 24,
+      "pts": 5,
+      "adjPts": 5.1,
+      "pointsPlus": 41
+    },
+    {
+      "date": "2026-01-20",
+      "matchup": "UTA vs. MIN",
+      "result": "W",
+      "min": 29,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 65
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "UTA vs. SAS",
+      "result": "L",
+      "min": 23,
+      "pts": 12,
+      "adjPts": 12.3,
+      "pointsPlus": 99
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "UTA vs. MIA",
+      "result": "L",
+      "min": 30,
+      "pts": 5,
+      "adjPts": 4.9,
+      "pointsPlus": 39
+    },
+    {
+      "date": "2026-01-27",
+      "matchup": "UTA vs. LAC",
+      "result": "L",
+      "min": 25,
+      "pts": 11,
+      "adjPts": 11.3,
+      "pointsPlus": 91
+    },
+    {
+      "date": "2026-01-30",
+      "matchup": "UTA vs. BKN",
+      "result": "L",
+      "min": 28,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 48
+    },
+    {
+      "date": "2026-02-01",
+      "matchup": "UTA @ TOR",
+      "result": "L",
+      "min": 20,
+      "pts": 10,
+      "adjPts": 10.3,
+      "pointsPlus": 83
+    },
+    {
+      "date": "2026-02-03",
+      "matchup": "UTA @ IND",
+      "result": "W",
+      "min": 40,
+      "pts": 14,
+      "adjPts": 13.6,
+      "pointsPlus": 109
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "UTA @ ATL",
+      "result": "L",
+      "min": 38,
+      "pts": 5,
+      "adjPts": 4.9,
+      "pointsPlus": 39
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "UTA @ ORL",
+      "result": "L",
+      "min": 14,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-09",
+      "matchup": "UTA @ MIA",
+      "result": "W",
+      "min": 19,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 16
+    }
+  ]
+}

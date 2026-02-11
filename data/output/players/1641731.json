@@ -1,0 +1,305 @@
+{
+  "id": 1641731,
+  "name": "Bilal Coulibaly",
+  "team": "WAS",
+  "rank": 189,
+  "gp": 32,
+  "ppg": 9.7,
+  "adjPpg": 9.7,
+  "pointsPlus": 78,
+  "mpg": 26.9,
+  "position": "G",
+  "jersey": "0",
+  "usgPct": 16.9,
+  "tsPct": 50.6,
+  "gameLog": [
+    {
+      "date": "2025-10-30",
+      "matchup": "WAS @ OKC",
+      "result": "L",
+      "min": 24,
+      "pts": 16,
+      "adjPts": 17.2,
+      "pointsPlus": 138
+    },
+    {
+      "date": "2025-11-01",
+      "matchup": "WAS vs. ORL",
+      "result": "L",
+      "min": 27,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 80
+    },
+    {
+      "date": "2025-11-03",
+      "matchup": "WAS @ NYK",
+      "result": "L",
+      "min": 28,
+      "pts": 15,
+      "adjPts": 15.4,
+      "pointsPlus": 124
+    },
+    {
+      "date": "2025-11-05",
+      "matchup": "WAS @ BOS",
+      "result": "L",
+      "min": 16,
+      "pts": 1,
+      "adjPts": 1.1,
+      "pointsPlus": 9
+    },
+    {
+      "date": "2025-11-16",
+      "matchup": "WAS vs. BKN",
+      "result": "L",
+      "min": 28,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 48
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "WAS @ MIN",
+      "result": "L",
+      "min": 29,
+      "pts": 13,
+      "adjPts": 13.1,
+      "pointsPlus": 105
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "WAS @ TOR",
+      "result": "L",
+      "min": 26,
+      "pts": 9,
+      "adjPts": 9.3,
+      "pointsPlus": 74
+    },
+    {
+      "date": "2025-11-22",
+      "matchup": "WAS @ CHI",
+      "result": "L",
+      "min": 25,
+      "pts": 7,
+      "adjPts": 6.7,
+      "pointsPlus": 54
+    },
+    {
+      "date": "2025-11-25",
+      "matchup": "WAS vs. ATL",
+      "result": "W",
+      "min": 34,
+      "pts": 9,
+      "adjPts": 8.7,
+      "pointsPlus": 70
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "WAS @ IND",
+      "result": "L",
+      "min": 31,
+      "pts": 11,
+      "adjPts": 10.7,
+      "pointsPlus": 86
+    },
+    {
+      "date": "2025-12-01",
+      "matchup": "WAS vs. MIL",
+      "result": "W",
+      "min": 33,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 56
+    },
+    {
+      "date": "2025-12-02",
+      "matchup": "WAS @ PHI",
+      "result": "L",
+      "min": 25,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 16
+    },
+    {
+      "date": "2025-12-18",
+      "matchup": "WAS @ SAS",
+      "result": "L",
+      "min": 23,
+      "pts": 3,
+      "adjPts": 3.1,
+      "pointsPlus": 25
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "WAS @ CHA",
+      "result": "L",
+      "min": 23,
+      "pts": 14,
+      "adjPts": 14.2,
+      "pointsPlus": 114
+    },
+    {
+      "date": "2025-12-26",
+      "matchup": "WAS vs. TOR",
+      "result": "W",
+      "min": 26,
+      "pts": 21,
+      "adjPts": 21.7,
+      "pointsPlus": 174
+    },
+    {
+      "date": "2025-12-28",
+      "matchup": "WAS vs. MEM",
+      "result": "W",
+      "min": 29,
+      "pts": 14,
+      "adjPts": 13.7,
+      "pointsPlus": 110
+    },
+    {
+      "date": "2025-12-29",
+      "matchup": "WAS vs. PHX",
+      "result": "L",
+      "min": 27,
+      "pts": 13,
+      "adjPts": 13.4,
+      "pointsPlus": 108
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "WAS @ MIL",
+      "result": "W",
+      "min": 25,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 80
+    },
+    {
+      "date": "2026-01-02",
+      "matchup": "WAS vs. BKN",
+      "result": "W",
+      "min": 29,
+      "pts": 11,
+      "adjPts": 11.1,
+      "pointsPlus": 89
+    },
+    {
+      "date": "2026-01-04",
+      "matchup": "WAS vs. MIN",
+      "result": "L",
+      "min": 28,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 48
+    },
+    {
+      "date": "2026-01-06",
+      "matchup": "WAS vs. ORL",
+      "result": "W",
+      "min": 34,
+      "pts": 14,
+      "adjPts": 14.0,
+      "pointsPlus": 113
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "WAS @ PHI",
+      "result": "L",
+      "min": 28,
+      "pts": 18,
+      "adjPts": 18.2,
+      "pointsPlus": 146
+    },
+    {
+      "date": "2026-01-09",
+      "matchup": "WAS vs. NOP",
+      "result": "L",
+      "min": 30,
+      "pts": 8,
+      "adjPts": 7.7,
+      "pointsPlus": 62
+    },
+    {
+      "date": "2026-01-11",
+      "matchup": "WAS @ PHX",
+      "result": "L",
+      "min": 28,
+      "pts": 12,
+      "adjPts": 12.4,
+      "pointsPlus": 99
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "WAS @ LAC",
+      "result": "L",
+      "min": 10,
+      "pts": 3,
+      "adjPts": 3.1,
+      "pointsPlus": 25
+    },
+    {
+      "date": "2026-01-27",
+      "matchup": "WAS vs. POR",
+      "result": "W",
+      "min": 28,
+      "pts": 5,
+      "adjPts": 4.9,
+      "pointsPlus": 39
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "WAS vs. MIL",
+      "result": "W",
+      "min": 28,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 64
+    },
+    {
+      "date": "2026-01-30",
+      "matchup": "WAS vs. LAL",
+      "result": "L",
+      "min": 24,
+      "pts": 7,
+      "adjPts": 6.9,
+      "pointsPlus": 55
+    },
+    {
+      "date": "2026-02-01",
+      "matchup": "WAS vs. SAC",
+      "result": "W",
+      "min": 21,
+      "pts": 15,
+      "adjPts": 14.4,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2026-02-03",
+      "matchup": "WAS vs. NYK",
+      "result": "L",
+      "min": 24,
+      "pts": 3,
+      "adjPts": 3.1,
+      "pointsPlus": 25
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "WAS @ DET",
+      "result": "W",
+      "min": 36,
+      "pts": 11,
+      "adjPts": 11.6,
+      "pointsPlus": 93
+    },
+    {
+      "date": "2026-02-08",
+      "matchup": "WAS vs. MIA",
+      "result": "L",
+      "min": 34,
+      "pts": 7,
+      "adjPts": 6.9,
+      "pointsPlus": 55
+    }
+  ]
+}

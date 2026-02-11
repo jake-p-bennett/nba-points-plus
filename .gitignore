@@ -1,0 +1,10 @@
+CLAUDE.md
+
+# Python
+__pycache__/
+data/raw/
+
+# Node
+web/node_modules/
+web/.next/
+web/out/

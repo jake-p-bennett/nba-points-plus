@@ -1,0 +1,422 @@
+{
+  "id": 1630198,
+  "name": "Isaiah Joe",
+  "team": "OKC",
+  "rank": 179,
+  "gp": 45,
+  "ppg": 10.2,
+  "adjPpg": 10.1,
+  "pointsPlus": 81,
+  "mpg": 21.0,
+  "position": "G",
+  "jersey": "11",
+  "usgPct": 17.2,
+  "tsPct": 63.4,
+  "gameLog": [
+    {
+      "date": "2025-10-30",
+      "matchup": "OKC vs. WAS",
+      "result": "W",
+      "min": 24,
+      "pts": 20,
+      "adjPts": 18.7,
+      "pointsPlus": 150
+    },
+    {
+      "date": "2025-11-02",
+      "matchup": "OKC vs. NOP",
+      "result": "W",
+      "min": 27,
+      "pts": 13,
+      "adjPts": 12.5,
+      "pointsPlus": 101
+    },
+    {
+      "date": "2025-11-04",
+      "matchup": "OKC @ LAC",
+      "result": "W",
+      "min": 21,
+      "pts": 22,
+      "adjPts": 22.6,
+      "pointsPlus": 181
+    },
+    {
+      "date": "2025-11-05",
+      "matchup": "OKC @ POR",
+      "result": "L",
+      "min": 26,
+      "pts": 14,
+      "adjPts": 13.7,
+      "pointsPlus": 110
+    },
+    {
+      "date": "2025-11-07",
+      "matchup": "OKC @ SAC",
+      "result": "W",
+      "min": 28,
+      "pts": 14,
+      "adjPts": 13.4,
+      "pointsPlus": 108
+    },
+    {
+      "date": "2025-11-09",
+      "matchup": "OKC @ MEM",
+      "result": "W",
+      "min": 21,
+      "pts": 8,
+      "adjPts": 7.9,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-11-11",
+      "matchup": "OKC vs. GSW",
+      "result": "W",
+      "min": 29,
+      "pts": 18,
+      "adjPts": 18.3,
+      "pointsPlus": 147
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "OKC vs. LAL",
+      "result": "W",
+      "min": 35,
+      "pts": 21,
+      "adjPts": 20.7,
+      "pointsPlus": 166
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "OKC @ CHA",
+      "result": "W",
+      "min": 21,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 24
+    },
+    {
+      "date": "2025-11-17",
+      "matchup": "OKC @ NOP",
+      "result": "W",
+      "min": 26,
+      "pts": 14,
+      "adjPts": 13.5,
+      "pointsPlus": 108
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "OKC vs. SAC",
+      "result": "W",
+      "min": 20,
+      "pts": 7,
+      "adjPts": 6.7,
+      "pointsPlus": 54
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "OKC @ UTA",
+      "result": "W",
+      "min": 25,
+      "pts": 16,
+      "adjPts": 14.7,
+      "pointsPlus": 118
+    },
+    {
+      "date": "2025-11-23",
+      "matchup": "OKC vs. POR",
+      "result": "W",
+      "min": 24,
+      "pts": 10,
+      "adjPts": 9.8,
+      "pointsPlus": 78
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "OKC vs. MIN",
+      "result": "W",
+      "min": 12,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 40
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "OKC vs. PHX",
+      "result": "W",
+      "min": 24,
+      "pts": 10,
+      "adjPts": 10.3,
+      "pointsPlus": 83
+    },
+    {
+      "date": "2025-11-30",
+      "matchup": "OKC @ POR",
+      "result": "W",
+      "min": 15,
+      "pts": 15,
+      "adjPts": 14.7,
+      "pointsPlus": 118
+    },
+    {
+      "date": "2025-12-02",
+      "matchup": "OKC @ GSW",
+      "result": "W",
+      "min": 18,
+      "pts": 9,
+      "adjPts": 9.1,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-12-18",
+      "matchup": "OKC vs. LAC",
+      "result": "W",
+      "min": 22,
+      "pts": 14,
+      "adjPts": 14.4,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-12-19",
+      "matchup": "OKC @ MIN",
+      "result": "L",
+      "min": 13,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 48
+    },
+    {
+      "date": "2025-12-22",
+      "matchup": "OKC vs. MEM",
+      "result": "W",
+      "min": 20,
+      "pts": 5,
+      "adjPts": 4.9,
+      "pointsPlus": 39
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "OKC @ SAS",
+      "result": "L",
+      "min": 16,
+      "pts": 8,
+      "adjPts": 8.2,
+      "pointsPlus": 66
+    },
+    {
+      "date": "2025-12-25",
+      "matchup": "OKC vs. SAS",
+      "result": "L",
+      "min": 15,
+      "pts": 5,
+      "adjPts": 5.1,
+      "pointsPlus": 41
+    },
+    {
+      "date": "2025-12-28",
+      "matchup": "OKC vs. PHI",
+      "result": "W",
+      "min": 5,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-29",
+      "matchup": "OKC vs. ATL",
+      "result": "W",
+      "min": 10,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "OKC vs. POR",
+      "result": "W",
+      "min": 19,
+      "pts": 15,
+      "adjPts": 14.7,
+      "pointsPlus": 118
+    },
+    {
+      "date": "2026-01-02",
+      "matchup": "OKC @ GSW",
+      "result": "W",
+      "min": 20,
+      "pts": 5,
+      "adjPts": 5.1,
+      "pointsPlus": 41
+    },
+    {
+      "date": "2026-01-04",
+      "matchup": "OKC @ PHX",
+      "result": "L",
+      "min": 10,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-05",
+      "matchup": "OKC vs. CHA",
+      "result": "L",
+      "min": 22,
+      "pts": 5,
+      "adjPts": 5.1,
+      "pointsPlus": 41
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "OKC vs. UTA",
+      "result": "W",
+      "min": 10,
+      "pts": 5,
+      "adjPts": 4.6,
+      "pointsPlus": 37
+    },
+    {
+      "date": "2026-01-09",
+      "matchup": "OKC @ MEM",
+      "result": "W",
+      "min": 16,
+      "pts": 3,
+      "adjPts": 2.9,
+      "pointsPlus": 24
+    },
+    {
+      "date": "2026-01-11",
+      "matchup": "OKC vs. MIA",
+      "result": "W",
+      "min": 19,
+      "pts": 11,
+      "adjPts": 10.8,
+      "pointsPlus": 87
+    },
+    {
+      "date": "2026-01-13",
+      "matchup": "OKC vs. SAS",
+      "result": "W",
+      "min": 14,
+      "pts": 8,
+      "adjPts": 8.2,
+      "pointsPlus": 66
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "OKC @ HOU",
+      "result": "W",
+      "min": 8,
+      "pts": 6,
+      "adjPts": 6.4,
+      "pointsPlus": 51
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "OKC @ MIA",
+      "result": "L",
+      "min": 19,
+      "pts": 8,
+      "adjPts": 7.8,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2026-01-19",
+      "matchup": "OKC @ CLE",
+      "result": "W",
+      "min": 25,
+      "pts": 16,
+      "adjPts": 15.9,
+      "pointsPlus": 128
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "OKC @ MIL",
+      "result": "W",
+      "min": 25,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 40
+    },
+    {
+      "date": "2026-01-23",
+      "matchup": "OKC vs. IND",
+      "result": "L",
+      "min": 30,
+      "pts": 7,
+      "adjPts": 6.8,
+      "pointsPlus": 55
+    },
+    {
+      "date": "2026-01-25",
+      "matchup": "OKC vs. TOR",
+      "result": "L",
+      "min": 22,
+      "pts": 10,
+      "adjPts": 10.3,
+      "pointsPlus": 83
+    },
+    {
+      "date": "2026-01-27",
+      "matchup": "OKC vs. NOP",
+      "result": "W",
+      "min": 24,
+      "pts": 17,
+      "adjPts": 16.4,
+      "pointsPlus": 131
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "OKC @ MIN",
+      "result": "L",
+      "min": 25,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 48
+    },
+    {
+      "date": "2026-02-01",
+      "matchup": "OKC @ DEN",
+      "result": "W",
+      "min": 23,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 72
+    },
+    {
+      "date": "2026-02-03",
+      "matchup": "OKC vs. ORL",
+      "result": "W",
+      "min": 23,
+      "pts": 22,
+      "adjPts": 22.0,
+      "pointsPlus": 177
+    },
+    {
+      "date": "2026-02-04",
+      "matchup": "OKC @ SAS",
+      "result": "L",
+      "min": 37,
+      "pts": 2,
+      "adjPts": 2.1,
+      "pointsPlus": 16
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "OKC vs. HOU",
+      "result": "L",
+      "min": 29,
+      "pts": 21,
+      "adjPts": 22.3,
+      "pointsPlus": 179
+    },
+    {
+      "date": "2026-02-09",
+      "matchup": "OKC @ LAL",
+      "result": "W",
+      "min": 27,
+      "pts": 19,
+      "adjPts": 18.7,
+      "pointsPlus": 150
+    }
+  ]
+}

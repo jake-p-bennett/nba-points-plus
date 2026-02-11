@@ -1,0 +1,323 @@
+{
+  "id": 1630557,
+  "name": "Corey Kispert",
+  "team": "ATL",
+  "rank": 184,
+  "gp": 34,
+  "ppg": 9.8,
+  "adjPpg": 9.9,
+  "pointsPlus": 79,
+  "mpg": 20.4,
+  "position": "F",
+  "jersey": "24",
+  "usgPct": 17.1,
+  "tsPct": 61.3,
+  "gameLog": [
+    {
+      "date": "2025-10-22",
+      "matchup": "WAS @ MIL",
+      "result": "L",
+      "min": 18,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 88
+    },
+    {
+      "date": "2025-10-24",
+      "matchup": "WAS @ DAL",
+      "result": "W",
+      "min": 21,
+      "pts": 7,
+      "adjPts": 6.9,
+      "pointsPlus": 56
+    },
+    {
+      "date": "2025-10-26",
+      "matchup": "WAS vs. CHA",
+      "result": "L",
+      "min": 20,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-10-28",
+      "matchup": "WAS vs. PHI",
+      "result": "L",
+      "min": 25,
+      "pts": 13,
+      "adjPts": 13.1,
+      "pointsPlus": 105
+    },
+    {
+      "date": "2025-10-30",
+      "matchup": "WAS @ OKC",
+      "result": "L",
+      "min": 20,
+      "pts": 8,
+      "adjPts": 8.6,
+      "pointsPlus": 69
+    },
+    {
+      "date": "2025-11-01",
+      "matchup": "WAS vs. ORL",
+      "result": "L",
+      "min": 15,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 16
+    },
+    {
+      "date": "2025-11-03",
+      "matchup": "WAS @ NYK",
+      "result": "L",
+      "min": 15,
+      "pts": 15,
+      "adjPts": 15.4,
+      "pointsPlus": 124
+    },
+    {
+      "date": "2025-11-05",
+      "matchup": "WAS @ BOS",
+      "result": "L",
+      "min": 13,
+      "pts": 8,
+      "adjPts": 8.5,
+      "pointsPlus": 68
+    },
+    {
+      "date": "2025-11-07",
+      "matchup": "WAS vs. CLE",
+      "result": "L",
+      "min": 20,
+      "pts": 16,
+      "adjPts": 15.9,
+      "pointsPlus": 128
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "WAS vs. DAL",
+      "result": "L",
+      "min": 24,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 32
+    },
+    {
+      "date": "2025-11-10",
+      "matchup": "WAS @ DET",
+      "result": "L",
+      "min": 23,
+      "pts": 8,
+      "adjPts": 8.4,
+      "pointsPlus": 68
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "WAS @ HOU",
+      "result": "L",
+      "min": 19,
+      "pts": 8,
+      "adjPts": 8.5,
+      "pointsPlus": 68
+    },
+    {
+      "date": "2025-11-16",
+      "matchup": "WAS vs. BKN",
+      "result": "L",
+      "min": 15,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 32
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "WAS @ MIN",
+      "result": "L",
+      "min": 11,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "WAS @ TOR",
+      "result": "L",
+      "min": 19,
+      "pts": 9,
+      "adjPts": 9.3,
+      "pointsPlus": 74
+    },
+    {
+      "date": "2025-11-22",
+      "matchup": "WAS @ CHI",
+      "result": "L",
+      "min": 37,
+      "pts": 20,
+      "adjPts": 19.1,
+      "pointsPlus": 153
+    },
+    {
+      "date": "2025-11-25",
+      "matchup": "WAS vs. ATL",
+      "result": "W",
+      "min": 24,
+      "pts": 19,
+      "adjPts": 18.4,
+      "pointsPlus": 148
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "WAS @ CHA",
+      "result": "L",
+      "min": 13,
+      "pts": 9,
+      "adjPts": 9.1,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2026-01-04",
+      "matchup": "WAS vs. MIN",
+      "result": "L",
+      "min": 18,
+      "pts": 13,
+      "adjPts": 13.1,
+      "pointsPlus": 105
+    },
+    {
+      "date": "2026-01-11",
+      "matchup": "ATL @ GSW",
+      "result": "W",
+      "min": 14,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 16
+    },
+    {
+      "date": "2026-01-13",
+      "matchup": "ATL @ LAL",
+      "result": "L",
+      "min": 26,
+      "pts": 19,
+      "adjPts": 18.7,
+      "pointsPlus": 150
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "ATL @ POR",
+      "result": "L",
+      "min": 13,
+      "pts": 3,
+      "adjPts": 2.9,
+      "pointsPlus": 24
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "ATL vs. BOS",
+      "result": "L",
+      "min": 23,
+      "pts": 16,
+      "adjPts": 17.0,
+      "pointsPlus": 137
+    },
+    {
+      "date": "2026-01-19",
+      "matchup": "ATL vs. MIL",
+      "result": "L",
+      "min": 20,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 16
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "ATL @ MEM",
+      "result": "W",
+      "min": 14,
+      "pts": 8,
+      "adjPts": 7.9,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2026-01-23",
+      "matchup": "ATL vs. PHX",
+      "result": "W",
+      "min": 15,
+      "pts": 8,
+      "adjPts": 8.3,
+      "pointsPlus": 66
+    },
+    {
+      "date": "2026-01-26",
+      "matchup": "ATL vs. IND",
+      "result": "W",
+      "min": 17,
+      "pts": 7,
+      "adjPts": 6.8,
+      "pointsPlus": 55
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "ATL @ BOS",
+      "result": "W",
+      "min": 20,
+      "pts": 13,
+      "adjPts": 13.8,
+      "pointsPlus": 111
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "ATL vs. HOU",
+      "result": "L",
+      "min": 31,
+      "pts": 17,
+      "adjPts": 18.0,
+      "pointsPlus": 145
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "ATL @ IND",
+      "result": "L",
+      "min": 22,
+      "pts": 11,
+      "adjPts": 10.7,
+      "pointsPlus": 86
+    },
+    {
+      "date": "2026-02-03",
+      "matchup": "ATL @ MIA",
+      "result": "W",
+      "min": 28,
+      "pts": 13,
+      "adjPts": 12.7,
+      "pointsPlus": 102
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "ATL vs. UTA",
+      "result": "W",
+      "min": 25,
+      "pts": 20,
+      "adjPts": 18.4,
+      "pointsPlus": 148
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "ATL vs. CHA",
+      "result": "L",
+      "min": 23,
+      "pts": 8,
+      "adjPts": 8.1,
+      "pointsPlus": 65
+    },
+    {
+      "date": "2026-02-09",
+      "matchup": "ATL @ MIN",
+      "result": "L",
+      "min": 31,
+      "pts": 12,
+      "adjPts": 12.1,
+      "pointsPlus": 97
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "id": 1630544,
+  "name": "Tre Mann",
+  "team": "CHA",
+  "rank": 244,
+  "gp": 33,
+  "ppg": 7.2,
+  "adjPpg": 7.1,
+  "pointsPlus": 57,
+  "mpg": 16.0,
+  "position": "G",
+  "jersey": "23",
+  "usgPct": 23.2,
+  "tsPct": 46.8,
+  "gameLog": [
+    {
+      "date": "2025-10-22",
+      "matchup": "CHA vs. BKN",
+      "result": "W",
+      "min": 21,
+      "pts": 12,
+      "adjPts": 12.1,
+      "pointsPlus": 97
+    },
+    {
+      "date": "2025-10-25",
+      "matchup": "CHA @ PHI",
+      "result": "L",
+      "min": 22,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 32
+    },
+    {
+      "date": "2025-10-26",
+      "matchup": "CHA @ WAS",
+      "result": "W",
+      "min": 12,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-10-28",
+      "matchup": "CHA @ MIA",
+      "result": "L",
+      "min": 27,
+      "pts": 8,
+      "adjPts": 7.8,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-10-30",
+      "matchup": "CHA vs. ORL",
+      "result": "L",
+      "min": 16,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 72
+    },
+    {
+      "date": "2025-11-01",
+      "matchup": "CHA vs. MIN",
+      "result": "L",
+      "min": 23,
+      "pts": 16,
+      "adjPts": 16.1,
+      "pointsPlus": 129
+    },
+    {
+      "date": "2025-11-02",
+      "matchup": "CHA vs. UTA",
+      "result": "W",
+      "min": 22,
+      "pts": 13,
+      "adjPts": 12.0,
+      "pointsPlus": 96
+    },
+    {
+      "date": "2025-11-04",
+      "matchup": "CHA @ NOP",
+      "result": "L",
+      "min": 24,
+      "pts": 18,
+      "adjPts": 17.3,
+      "pointsPlus": 139
+    },
+    {
+      "date": "2025-11-07",
+      "matchup": "CHA @ MIA",
+      "result": "L",
+      "min": 35,
+      "pts": 20,
+      "adjPts": 19.6,
+      "pointsPlus": 157
+    },
+    {
+      "date": "2025-11-10",
+      "matchup": "CHA vs. LAL",
+      "result": "L",
+      "min": 18,
+      "pts": 6,
+      "adjPts": 5.9,
+      "pointsPlus": 48
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "CHA vs. MIL",
+      "result": "W",
+      "min": 25,
+      "pts": 13,
+      "adjPts": 13.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-11-14",
+      "matchup": "CHA @ MIL",
+      "result": "L",
+      "min": 29,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 72
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "CHA vs. OKC",
+      "result": "L",
+      "min": 21,
+      "pts": 10,
+      "adjPts": 10.7,
+      "pointsPlus": 86
+    },
+    {
+      "date": "2025-11-17",
+      "matchup": "CHA @ TOR",
+      "result": "L",
+      "min": 12,
+      "pts": 4,
+      "adjPts": 4.1,
+      "pointsPlus": 33
+    },
+    {
+      "date": "2025-11-23",
+      "matchup": "CHA @ ATL",
+      "result": "L",
+      "min": 17,
+      "pts": 3,
+      "adjPts": 2.9,
+      "pointsPlus": 23
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "CHA vs. NYK",
+      "result": "L",
+      "min": 21,
+      "pts": 15,
+      "adjPts": 15.4,
+      "pointsPlus": 124
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "CHA vs. CHI",
+      "result": "W",
+      "min": 14,
+      "pts": 5,
+      "adjPts": 4.8,
+      "pointsPlus": 38
+    },
+    {
+      "date": "2025-11-29",
+      "matchup": "CHA vs. TOR",
+      "result": "W",
+      "min": 11,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "CHA @ DET",
+      "result": "L",
+      "min": 18,
+      "pts": 3,
+      "adjPts": 3.2,
+      "pointsPlus": 25
+    },
+    {
+      "date": "2025-12-22",
+      "matchup": "CHA @ CLE",
+      "result": "L",
+      "min": 17,
+      "pts": 13,
+      "adjPts": 12.9,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "CHA vs. WAS",
+      "result": "W",
+      "min": 12,
+      "pts": 3,
+      "adjPts": 2.8,
+      "pointsPlus": 23
+    },
+    {
+      "date": "2025-12-26",
+      "matchup": "CHA @ ORL",
+      "result": "W",
+      "min": 8,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-29",
+      "matchup": "CHA vs. MIL",
+      "result": "L",
+      "min": 4,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-05",
+      "matchup": "CHA @ OKC",
+      "result": "W",
+      "min": 2,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "CHA @ UTA",
+      "result": "W",
+      "min": 12,
+      "pts": 20,
+      "adjPts": 18.4,
+      "pointsPlus": 148
+    },
+    {
+      "date": "2026-01-12",
+      "matchup": "CHA @ LAC",
+      "result": "L",
+      "min": 13,
+      "pts": 9,
+      "adjPts": 9.2,
+      "pointsPlus": 74
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "CHA @ GSW",
+      "result": "L",
+      "min": 4,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 24
+    },
+    {
+      "date": "2026-01-18",
+      "matchup": "CHA @ DEN",
+      "result": "W",
+      "min": 12,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 16
+    },
+    {
+      "date": "2026-01-26",
+      "matchup": "CHA vs. PHI",
+      "result": "W",
+      "min": 12,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 32
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "CHA @ MEM",
+      "result": "W",
+      "min": 3,
+      "pts": 3,
+      "adjPts": 2.9,
+      "pointsPlus": 24
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "CHA @ HOU",
+      "result": "W",
+      "min": 17,
+      "pts": 5,
+      "adjPts": 5.3,
+      "pointsPlus": 43
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "CHA @ ATL",
+      "result": "W",
+      "min": 10,
+      "pts": 3,
+      "adjPts": 2.9,
+      "pointsPlus": 23
+    },
+    {
+      "date": "2026-02-09",
+      "matchup": "CHA vs. DET",
+      "result": "L",
+      "min": 14,
+      "pts": 5,
+      "adjPts": 5.3,
+      "pointsPlus": 42
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "id": 1630695,
+  "name": "Micah Potter",
+  "team": "IND",
+  "rank": 246,
+  "gp": 21,
+  "ppg": 7.0,
+  "adjPpg": 7.1,
+  "pointsPlus": 57,
+  "mpg": 18.1,
+  "position": "C",
+  "jersey": "11",
+  "usgPct": 14.4,
+  "tsPct": 62.8,
+  "gameLog": [
+    {
+      "date": "2025-12-26",
+      "matchup": "IND vs. BOS",
+      "result": "L",
+      "min": 18,
+      "pts": 9,
+      "adjPts": 9.6,
+      "pointsPlus": 77
+    },
+    {
+      "date": "2025-12-27",
+      "matchup": "IND @ MIA",
+      "result": "L",
+      "min": 11,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 16
+    },
+    {
+      "date": "2025-12-29",
+      "matchup": "IND @ HOU",
+      "result": "L",
+      "min": 12,
+      "pts": 3,
+      "adjPts": 3.2,
+      "pointsPlus": 26
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "IND vs. ORL",
+      "result": "L",
+      "min": 26,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 64
+    },
+    {
+      "date": "2026-01-02",
+      "matchup": "IND vs. SAS",
+      "result": "L",
+      "min": 28,
+      "pts": 16,
+      "adjPts": 16.4,
+      "pointsPlus": 132
+    },
+    {
+      "date": "2026-01-04",
+      "matchup": "IND @ ORL",
+      "result": "L",
+      "min": 29,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 88
+    },
+    {
+      "date": "2026-01-06",
+      "matchup": "IND vs. CLE",
+      "result": "L",
+      "min": 17,
+      "pts": 11,
+      "adjPts": 10.9,
+      "pointsPlus": 88
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "IND @ CHA",
+      "result": "W",
+      "min": 8,
+      "pts": 5,
+      "adjPts": 5.1,
+      "pointsPlus": 41
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "IND vs. MIA",
+      "result": "W",
+      "min": 16,
+      "pts": 14,
+      "adjPts": 13.7,
+      "pointsPlus": 110
+    },
+    {
+      "date": "2026-01-12",
+      "matchup": "IND vs. BOS",
+      "result": "W",
+      "min": 13,
+      "pts": 5,
+      "adjPts": 5.3,
+      "pointsPlus": 43
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "IND vs. TOR",
+      "result": "L",
+      "min": 8,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "IND @ DET",
+      "result": "L",
+      "min": 33,
+      "pts": 2,
+      "adjPts": 2.1,
+      "pointsPlus": 17
+    },
+    {
+      "date": "2026-01-19",
+      "matchup": "IND @ PHI",
+      "result": "L",
+      "min": 1,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "IND @ BOS",
+      "result": "L",
+      "min": 17,
+      "pts": 9,
+      "adjPts": 9.6,
+      "pointsPlus": 77
+    },
+    {
+      "date": "2026-01-23",
+      "matchup": "IND @ OKC",
+      "result": "W",
+      "min": 25,
+      "pts": 10,
+      "adjPts": 10.7,
+      "pointsPlus": 86
+    },
+    {
+      "date": "2026-01-26",
+      "matchup": "IND @ ATL",
+      "result": "L",
+      "min": 20,
+      "pts": 4,
+      "adjPts": 3.9,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "IND vs. CHI",
+      "result": "W",
+      "min": 17,
+      "pts": 7,
+      "adjPts": 6.7,
+      "pointsPlus": 54
+    },
+    {
+      "date": "2026-02-02",
+      "matchup": "IND vs. HOU",
+      "result": "L",
+      "min": 11,
+      "pts": 5,
+      "adjPts": 5.3,
+      "pointsPlus": 43
+    },
+    {
+      "date": "2026-02-06",
+      "matchup": "IND @ MIL",
+      "result": "L",
+      "min": 16,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 64
+    },
+    {
+      "date": "2026-02-08",
+      "matchup": "IND @ TOR",
+      "result": "L",
+      "min": 26,
+      "pts": 8,
+      "adjPts": 8.2,
+      "pointsPlus": 66
+    },
+    {
+      "date": "2026-02-10",
+      "matchup": "IND @ NYK",
+      "result": "W",
+      "min": 29,
+      "pts": 10,
+      "adjPts": 10.3,
+      "pointsPlus": 83
+    }
+  ]
+}

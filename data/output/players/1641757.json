@@ -1,0 +1,305 @@
+{
+  "id": 1641757,
+  "name": "Jordan Miller",
+  "team": "LAC",
+  "rank": 195,
+  "gp": 32,
+  "ppg": 9.3,
+  "adjPpg": 9.3,
+  "pointsPlus": 74,
+  "mpg": 19.8,
+  "position": "G",
+  "jersey": "22",
+  "usgPct": 19.0,
+  "tsPct": 63.1,
+  "gameLog": [
+    {
+      "date": "2025-11-12",
+      "matchup": "LAC vs. DEN",
+      "result": "L",
+      "min": 26,
+      "pts": 22,
+      "adjPts": 22.0,
+      "pointsPlus": 176
+    },
+    {
+      "date": "2025-11-14",
+      "matchup": "LAC @ DAL",
+      "result": "W",
+      "min": 11,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 16
+    },
+    {
+      "date": "2025-11-16",
+      "matchup": "LAC @ BOS",
+      "result": "L",
+      "min": 11,
+      "pts": 4,
+      "adjPts": 4.3,
+      "pointsPlus": 34
+    },
+    {
+      "date": "2025-12-01",
+      "matchup": "LAC @ MIA",
+      "result": "L",
+      "min": 6,
+      "pts": 6,
+      "adjPts": 5.9,
+      "pointsPlus": 47
+    },
+    {
+      "date": "2025-12-15",
+      "matchup": "LAC vs. MEM",
+      "result": "L",
+      "min": 22,
+      "pts": 10,
+      "adjPts": 9.8,
+      "pointsPlus": 79
+    },
+    {
+      "date": "2025-12-18",
+      "matchup": "LAC @ OKC",
+      "result": "L",
+      "min": 20,
+      "pts": 3,
+      "adjPts": 3.2,
+      "pointsPlus": 26
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "LAC vs. LAL",
+      "result": "W",
+      "min": 2,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "LAC vs. HOU",
+      "result": "W",
+      "min": 4,
+      "pts": 4,
+      "adjPts": 4.2,
+      "pointsPlus": 34
+    },
+    {
+      "date": "2025-12-26",
+      "matchup": "LAC @ POR",
+      "result": "W",
+      "min": 14,
+      "pts": 3,
+      "adjPts": 2.9,
+      "pointsPlus": 24
+    },
+    {
+      "date": "2025-12-28",
+      "matchup": "LAC vs. DET",
+      "result": "W",
+      "min": 17,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-30",
+      "matchup": "LAC vs. SAC",
+      "result": "W",
+      "min": 7,
+      "pts": 6,
+      "adjPts": 5.8,
+      "pointsPlus": 46
+    },
+    {
+      "date": "2026-01-01",
+      "matchup": "LAC vs. UTA",
+      "result": "W",
+      "min": 1,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "LAC vs. BOS",
+      "result": "L",
+      "min": 6,
+      "pts": 2,
+      "adjPts": 2.1,
+      "pointsPlus": 17
+    },
+    {
+      "date": "2026-01-05",
+      "matchup": "LAC vs. GSW",
+      "result": "W",
+      "min": 22,
+      "pts": 9,
+      "adjPts": 9.1,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "LAC @ NYK",
+      "result": "L",
+      "min": 15,
+      "pts": 6,
+      "adjPts": 6.2,
+      "pointsPlus": 50
+    },
+    {
+      "date": "2026-01-09",
+      "matchup": "LAC @ BKN",
+      "result": "W",
+      "min": 27,
+      "pts": 21,
+      "adjPts": 21.1,
+      "pointsPlus": 170
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "LAC @ DET",
+      "result": "W",
+      "min": 28,
+      "pts": 9,
+      "adjPts": 9.5,
+      "pointsPlus": 76
+    },
+    {
+      "date": "2026-01-12",
+      "matchup": "LAC vs. CHA",
+      "result": "W",
+      "min": 27,
+      "pts": 14,
+      "adjPts": 14.2,
+      "pointsPlus": 114
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "LAC vs. WAS",
+      "result": "W",
+      "min": 34,
+      "pts": 11,
+      "adjPts": 10.3,
+      "pointsPlus": 83
+    },
+    {
+      "date": "2026-01-16",
+      "matchup": "LAC @ TOR",
+      "result": "W",
+      "min": 46,
+      "pts": 19,
+      "adjPts": 19.6,
+      "pointsPlus": 157
+    },
+    {
+      "date": "2026-01-19",
+      "matchup": "LAC @ WAS",
+      "result": "W",
+      "min": 28,
+      "pts": 16,
+      "adjPts": 15.0,
+      "pointsPlus": 120
+    },
+    {
+      "date": "2026-01-20",
+      "matchup": "LAC @ CHI",
+      "result": "L",
+      "min": 22,
+      "pts": 12,
+      "adjPts": 11.5,
+      "pointsPlus": 92
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "LAC vs. LAL",
+      "result": "W",
+      "min": 25,
+      "pts": 14,
+      "adjPts": 13.8,
+      "pointsPlus": 111
+    },
+    {
+      "date": "2026-01-25",
+      "matchup": "LAC vs. BKN",
+      "result": "W",
+      "min": 23,
+      "pts": 16,
+      "adjPts": 16.1,
+      "pointsPlus": 129
+    },
+    {
+      "date": "2026-01-27",
+      "matchup": "LAC @ UTA",
+      "result": "W",
+      "min": 25,
+      "pts": 11,
+      "adjPts": 10.1,
+      "pointsPlus": 81
+    },
+    {
+      "date": "2026-01-30",
+      "matchup": "LAC @ DEN",
+      "result": "L",
+      "min": 19,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 56
+    },
+    {
+      "date": "2026-02-01",
+      "matchup": "LAC @ PHX",
+      "result": "W",
+      "min": 24,
+      "pts": 20,
+      "adjPts": 20.7,
+      "pointsPlus": 166
+    },
+    {
+      "date": "2026-02-02",
+      "matchup": "LAC vs. PHI",
+      "result": "L",
+      "min": 28,
+      "pts": 21,
+      "adjPts": 21.2,
+      "pointsPlus": 170
+    },
+    {
+      "date": "2026-02-04",
+      "matchup": "LAC vs. CLE",
+      "result": "L",
+      "min": 30,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 40
+    },
+    {
+      "date": "2026-02-06",
+      "matchup": "LAC @ SAC",
+      "result": "W",
+      "min": 24,
+      "pts": 7,
+      "adjPts": 6.7,
+      "pointsPlus": 54
+    },
+    {
+      "date": "2026-02-08",
+      "matchup": "LAC @ MIN",
+      "result": "W",
+      "min": 23,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 65
+    },
+    {
+      "date": "2026-02-10",
+      "matchup": "LAC @ HOU",
+      "result": "L",
+      "min": 17,
+      "pts": 9,
+      "adjPts": 9.5,
+      "pointsPlus": 77
+    }
+  ]
+}

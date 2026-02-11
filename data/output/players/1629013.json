@@ -1,0 +1,278 @@
+{
+  "id": 1629013,
+  "name": "Landry Shamet",
+  "team": "NYK",
+  "rank": 192,
+  "gp": 29,
+  "ppg": 9.6,
+  "adjPpg": 9.5,
+  "pointsPlus": 76,
+  "mpg": 21.9,
+  "position": "G",
+  "jersey": "44",
+  "usgPct": 15.2,
+  "tsPct": 61.6,
+  "gameLog": [
+    {
+      "date": "2025-10-22",
+      "matchup": "NYK vs. CLE",
+      "result": "W",
+      "min": 14,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 72
+    },
+    {
+      "date": "2025-10-24",
+      "matchup": "NYK vs. BOS",
+      "result": "W",
+      "min": 14,
+      "pts": 3,
+      "adjPts": 3.2,
+      "pointsPlus": 26
+    },
+    {
+      "date": "2025-10-26",
+      "matchup": "NYK @ MIA",
+      "result": "L",
+      "min": 16,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-10-28",
+      "matchup": "NYK @ MIL",
+      "result": "L",
+      "min": 30,
+      "pts": 16,
+      "adjPts": 16.0,
+      "pointsPlus": 128
+    },
+    {
+      "date": "2025-10-31",
+      "matchup": "NYK @ CHI",
+      "result": "L",
+      "min": 15,
+      "pts": 4,
+      "adjPts": 3.8,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2025-11-02",
+      "matchup": "NYK vs. CHI",
+      "result": "W",
+      "min": 18,
+      "pts": 9,
+      "adjPts": 8.6,
+      "pointsPlus": 69
+    },
+    {
+      "date": "2025-11-03",
+      "matchup": "NYK vs. WAS",
+      "result": "W",
+      "min": 25,
+      "pts": 11,
+      "adjPts": 10.3,
+      "pointsPlus": 83
+    },
+    {
+      "date": "2025-11-05",
+      "matchup": "NYK vs. MIN",
+      "result": "W",
+      "min": 12,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 24
+    },
+    {
+      "date": "2025-11-09",
+      "matchup": "NYK vs. BKN",
+      "result": "W",
+      "min": 21,
+      "pts": 8,
+      "adjPts": 8.1,
+      "pointsPlus": 65
+    },
+    {
+      "date": "2025-11-11",
+      "matchup": "NYK vs. MEM",
+      "result": "W",
+      "min": 21,
+      "pts": 10,
+      "adjPts": 9.8,
+      "pointsPlus": 79
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "NYK vs. ORL",
+      "result": "L",
+      "min": 27,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 88
+    },
+    {
+      "date": "2025-11-14",
+      "matchup": "NYK vs. MIA",
+      "result": "W",
+      "min": 37,
+      "pts": 36,
+      "adjPts": 35.3,
+      "pointsPlus": 283
+    },
+    {
+      "date": "2025-11-17",
+      "matchup": "NYK @ MIA",
+      "result": "L",
+      "min": 39,
+      "pts": 10,
+      "adjPts": 9.8,
+      "pointsPlus": 79
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "NYK @ DAL",
+      "result": "W",
+      "min": 23,
+      "pts": 9,
+      "adjPts": 8.9,
+      "pointsPlus": 71
+    },
+    {
+      "date": "2025-11-22",
+      "matchup": "NYK @ ORL",
+      "result": "L",
+      "min": 3,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "NYK @ GSW",
+      "result": "L",
+      "min": 16,
+      "pts": 6,
+      "adjPts": 6.1,
+      "pointsPlus": 49
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "NYK vs. PHX",
+      "result": "L",
+      "min": 14,
+      "pts": 5,
+      "adjPts": 5.2,
+      "pointsPlus": 41
+    },
+    {
+      "date": "2026-01-19",
+      "matchup": "NYK vs. DAL",
+      "result": "L",
+      "min": 23,
+      "pts": 6,
+      "adjPts": 5.9,
+      "pointsPlus": 48
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "NYK vs. BKN",
+      "result": "W",
+      "min": 15,
+      "pts": 18,
+      "adjPts": 18.1,
+      "pointsPlus": 145
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "NYK @ PHI",
+      "result": "W",
+      "min": 25,
+      "pts": 12,
+      "adjPts": 12.1,
+      "pointsPlus": 97
+    },
+    {
+      "date": "2026-01-27",
+      "matchup": "NYK vs. SAC",
+      "result": "W",
+      "min": 17,
+      "pts": 2,
+      "adjPts": 1.9,
+      "pointsPlus": 15
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "NYK @ TOR",
+      "result": "W",
+      "min": 21,
+      "pts": 9,
+      "adjPts": 9.3,
+      "pointsPlus": 74
+    },
+    {
+      "date": "2026-01-30",
+      "matchup": "NYK vs. POR",
+      "result": "W",
+      "min": 19,
+      "pts": 3,
+      "adjPts": 2.9,
+      "pointsPlus": 24
+    },
+    {
+      "date": "2026-02-01",
+      "matchup": "NYK vs. LAL",
+      "result": "W",
+      "min": 26,
+      "pts": 23,
+      "adjPts": 22.7,
+      "pointsPlus": 182
+    },
+    {
+      "date": "2026-02-03",
+      "matchup": "NYK @ WAS",
+      "result": "W",
+      "min": 21,
+      "pts": 14,
+      "adjPts": 13.1,
+      "pointsPlus": 105
+    },
+    {
+      "date": "2026-02-04",
+      "matchup": "NYK vs. DEN",
+      "result": "W",
+      "min": 36,
+      "pts": 16,
+      "adjPts": 16.0,
+      "pointsPlus": 128
+    },
+    {
+      "date": "2026-02-06",
+      "matchup": "NYK @ DET",
+      "result": "L",
+      "min": 21,
+      "pts": 5,
+      "adjPts": 5.3,
+      "pointsPlus": 42
+    },
+    {
+      "date": "2026-02-08",
+      "matchup": "NYK @ BOS",
+      "result": "W",
+      "min": 28,
+      "pts": 3,
+      "adjPts": 3.2,
+      "pointsPlus": 26
+    },
+    {
+      "date": "2026-02-10",
+      "matchup": "NYK vs. IND",
+      "result": "L",
+      "min": 38,
+      "pts": 17,
+      "adjPts": 16.5,
+      "pointsPlus": 133
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "id": 203897,
+  "name": "Zach LaVine",
+  "team": "SAC",
+  "rank": 49,
+  "gp": 39,
+  "ppg": 19.2,
+  "adjPpg": 19.1,
+  "pointsPlus": 153,
+  "mpg": 31.4,
+  "position": "G",
+  "jersey": "8",
+  "usgPct": 23.4,
+  "tsPct": 61.4,
+  "gameLog": [
+    {
+      "date": "2025-10-22",
+      "matchup": "SAC @ PHX",
+      "result": "L",
+      "min": 35,
+      "pts": 30,
+      "adjPts": 31.0,
+      "pointsPlus": 249
+    },
+    {
+      "date": "2025-10-24",
+      "matchup": "SAC vs. UTA",
+      "result": "W",
+      "min": 37,
+      "pts": 31,
+      "adjPts": 28.5,
+      "pointsPlus": 229
+    },
+    {
+      "date": "2025-10-26",
+      "matchup": "SAC vs. LAL",
+      "result": "L",
+      "min": 40,
+      "pts": 32,
+      "adjPts": 31.6,
+      "pointsPlus": 253
+    },
+    {
+      "date": "2025-10-28",
+      "matchup": "SAC @ OKC",
+      "result": "L",
+      "min": 35,
+      "pts": 23,
+      "adjPts": 24.7,
+      "pointsPlus": 198
+    },
+    {
+      "date": "2025-10-29",
+      "matchup": "SAC @ CHI",
+      "result": "L",
+      "min": 36,
+      "pts": 30,
+      "adjPts": 28.7,
+      "pointsPlus": 230
+    },
+    {
+      "date": "2025-11-01",
+      "matchup": "SAC @ MIL",
+      "result": "W",
+      "min": 39,
+      "pts": 31,
+      "adjPts": 31.0,
+      "pointsPlus": 248
+    },
+    {
+      "date": "2025-11-03",
+      "matchup": "SAC @ DEN",
+      "result": "L",
+      "min": 37,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 120
+    },
+    {
+      "date": "2025-11-07",
+      "matchup": "SAC vs. OKC",
+      "result": "L",
+      "min": 29,
+      "pts": 9,
+      "adjPts": 9.7,
+      "pointsPlus": 78
+    },
+    {
+      "date": "2025-11-09",
+      "matchup": "SAC vs. MIN",
+      "result": "L",
+      "min": 30,
+      "pts": 26,
+      "adjPts": 26.1,
+      "pointsPlus": 210
+    },
+    {
+      "date": "2025-11-11",
+      "matchup": "SAC vs. DEN",
+      "result": "L",
+      "min": 35,
+      "pts": 12,
+      "adjPts": 12.0,
+      "pointsPlus": 96
+    },
+    {
+      "date": "2025-11-14",
+      "matchup": "SAC @ MIN",
+      "result": "L",
+      "min": 36,
+      "pts": 25,
+      "adjPts": 25.1,
+      "pointsPlus": 202
+    },
+    {
+      "date": "2025-11-16",
+      "matchup": "SAC @ SAS",
+      "result": "L",
+      "min": 25,
+      "pts": 8,
+      "adjPts": 8.2,
+      "pointsPlus": 66
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "SAC @ OKC",
+      "result": "L",
+      "min": 30,
+      "pts": 8,
+      "adjPts": 8.6,
+      "pointsPlus": 69
+    },
+    {
+      "date": "2025-11-20",
+      "matchup": "SAC @ MEM",
+      "result": "L",
+      "min": 26,
+      "pts": 26,
+      "adjPts": 25.5,
+      "pointsPlus": 205
+    },
+    {
+      "date": "2025-11-22",
+      "matchup": "SAC @ DEN",
+      "result": "W",
+      "min": 36,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 120
+    },
+    {
+      "date": "2025-11-24",
+      "matchup": "SAC vs. MIN",
+      "result": "W",
+      "min": 32,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 56
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "SAC vs. PHX",
+      "result": "L",
+      "min": 32,
+      "pts": 13,
+      "adjPts": 13.4,
+      "pointsPlus": 108
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "SAC @ UTA",
+      "result": "L",
+      "min": 39,
+      "pts": 34,
+      "adjPts": 31.3,
+      "pointsPlus": 251
+    },
+    {
+      "date": "2025-11-30",
+      "matchup": "SAC vs. MEM",
+      "result": "L",
+      "min": 35,
+      "pts": 19,
+      "adjPts": 18.7,
+      "pointsPlus": 150
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "SAC @ HOU",
+      "result": "L",
+      "min": 19,
+      "pts": 2,
+      "adjPts": 2.1,
+      "pointsPlus": 17
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "SAC @ MIA",
+      "result": "W",
+      "min": 39,
+      "pts": 42,
+      "adjPts": 41.2,
+      "pointsPlus": 330
+    },
+    {
+      "date": "2025-12-08",
+      "matchup": "SAC @ IND",
+      "result": "L",
+      "min": 38,
+      "pts": 16,
+      "adjPts": 15.6,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "SAC @ MIN",
+      "result": "L",
+      "min": 16,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 81
+    },
+    {
+      "date": "2026-01-04",
+      "matchup": "SAC vs. MIL",
+      "result": "L",
+      "min": 36,
+      "pts": 20,
+      "adjPts": 20.0,
+      "pointsPlus": 160
+    },
+    {
+      "date": "2026-01-06",
+      "matchup": "SAC vs. DAL",
+      "result": "L",
+      "min": 37,
+      "pts": 20,
+      "adjPts": 19.8,
+      "pointsPlus": 159
+    },
+    {
+      "date": "2026-01-09",
+      "matchup": "SAC @ GSW",
+      "result": "L",
+      "min": 30,
+      "pts": 15,
+      "adjPts": 15.2,
+      "pointsPlus": 122
+    },
+    {
+      "date": "2026-01-11",
+      "matchup": "SAC vs. HOU",
+      "result": "W",
+      "min": 28,
+      "pts": 18,
+      "adjPts": 19.1,
+      "pointsPlus": 153
+    },
+    {
+      "date": "2026-01-12",
+      "matchup": "SAC vs. LAL",
+      "result": "W",
+      "min": 32,
+      "pts": 19,
+      "adjPts": 18.7,
+      "pointsPlus": 150
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "SAC vs. NYK",
+      "result": "W",
+      "min": 36,
+      "pts": 25,
+      "adjPts": 25.7,
+      "pointsPlus": 206
+    },
+    {
+      "date": "2026-01-16",
+      "matchup": "SAC vs. WAS",
+      "result": "W",
+      "min": 32,
+      "pts": 16,
+      "adjPts": 15.0,
+      "pointsPlus": 120
+    },
+    {
+      "date": "2026-01-18",
+      "matchup": "SAC vs. POR",
+      "result": "L",
+      "min": 29,
+      "pts": 18,
+      "adjPts": 17.6,
+      "pointsPlus": 141
+    },
+    {
+      "date": "2026-01-20",
+      "matchup": "SAC vs. MIA",
+      "result": "L",
+      "min": 22,
+      "pts": 18,
+      "adjPts": 17.6,
+      "pointsPlus": 142
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "SAC vs. TOR",
+      "result": "L",
+      "min": 38,
+      "pts": 19,
+      "adjPts": 19.6,
+      "pointsPlus": 157
+    },
+    {
+      "date": "2026-01-23",
+      "matchup": "SAC @ CLE",
+      "result": "L",
+      "min": 23,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 80
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "SAC @ PHI",
+      "result": "L",
+      "min": 29,
+      "pts": 17,
+      "adjPts": 17.2,
+      "pointsPlus": 138
+    },
+    {
+      "date": "2026-01-30",
+      "matchup": "SAC @ BOS",
+      "result": "L",
+      "min": 23,
+      "pts": 17,
+      "adjPts": 18.1,
+      "pointsPlus": 145
+    },
+    {
+      "date": "2026-02-01",
+      "matchup": "SAC @ WAS",
+      "result": "L",
+      "min": 35,
+      "pts": 35,
+      "adjPts": 32.8,
+      "pointsPlus": 263
+    },
+    {
+      "date": "2026-02-04",
+      "matchup": "SAC vs. MEM",
+      "result": "L",
+      "min": 22,
+      "pts": 11,
+      "adjPts": 10.8,
+      "pointsPlus": 87
+    },
+    {
+      "date": "2026-02-06",
+      "matchup": "SAC vs. LAC",
+      "result": "L",
+      "min": 18,
+      "pts": 6,
+      "adjPts": 6.2,
+      "pointsPlus": 49
+    }
+  ]
+}

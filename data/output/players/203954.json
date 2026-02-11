@@ -1,0 +1,296 @@
+{
+  "id": 203954,
+  "name": "Joel Embiid",
+  "team": "PHI",
+  "rank": 13,
+  "gp": 31,
+  "ppg": 26.6,
+  "adjPpg": 26.5,
+  "pointsPlus": 213,
+  "mpg": 31.3,
+  "position": "C-F",
+  "jersey": "21",
+  "usgPct": 33.7,
+  "tsPct": 60.6,
+  "gameLog": [
+    {
+      "date": "2025-10-22",
+      "matchup": "PHI @ BOS",
+      "result": "W",
+      "min": 20,
+      "pts": 4,
+      "adjPts": 4.3,
+      "pointsPlus": 34
+    },
+    {
+      "date": "2025-10-25",
+      "matchup": "PHI vs. CHA",
+      "result": "W",
+      "min": 20,
+      "pts": 20,
+      "adjPts": 20.3,
+      "pointsPlus": 163
+    },
+    {
+      "date": "2025-10-28",
+      "matchup": "PHI @ WAS",
+      "result": "W",
+      "min": 23,
+      "pts": 25,
+      "adjPts": 23.4,
+      "pointsPlus": 188
+    },
+    {
+      "date": "2025-10-31",
+      "matchup": "PHI vs. BOS",
+      "result": "L",
+      "min": 25,
+      "pts": 20,
+      "adjPts": 21.3,
+      "pointsPlus": 171
+    },
+    {
+      "date": "2025-11-04",
+      "matchup": "PHI @ CHI",
+      "result": "L",
+      "min": 26,
+      "pts": 20,
+      "adjPts": 19.1,
+      "pointsPlus": 153
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "PHI vs. TOR",
+      "result": "W",
+      "min": 26,
+      "pts": 29,
+      "adjPts": 29.9,
+      "pointsPlus": 240
+    },
+    {
+      "date": "2025-11-30",
+      "matchup": "PHI vs. ATL",
+      "result": "L",
+      "min": 30,
+      "pts": 18,
+      "adjPts": 17.5,
+      "pointsPlus": 140
+    },
+    {
+      "date": "2025-12-04",
+      "matchup": "PHI vs. GSW",
+      "result": "W",
+      "min": 25,
+      "pts": 12,
+      "adjPts": 12.2,
+      "pointsPlus": 98
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "PHI vs. LAL",
+      "result": "L",
+      "min": 30,
+      "pts": 16,
+      "adjPts": 15.8,
+      "pointsPlus": 127
+    },
+    {
+      "date": "2025-12-12",
+      "matchup": "PHI vs. IND",
+      "result": "W",
+      "min": 32,
+      "pts": 39,
+      "adjPts": 37.9,
+      "pointsPlus": 305
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "PHI @ ATL",
+      "result": "L",
+      "min": 30,
+      "pts": 22,
+      "adjPts": 21.4,
+      "pointsPlus": 171
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "PHI vs. BKN",
+      "result": "L",
+      "min": 31,
+      "pts": 27,
+      "adjPts": 27.2,
+      "pointsPlus": 218
+    },
+    {
+      "date": "2025-12-26",
+      "matchup": "PHI @ CHI",
+      "result": "L",
+      "min": 32,
+      "pts": 31,
+      "adjPts": 29.6,
+      "pointsPlus": 238
+    },
+    {
+      "date": "2025-12-30",
+      "matchup": "PHI @ MEM",
+      "result": "W",
+      "min": 38,
+      "pts": 34,
+      "adjPts": 33.4,
+      "pointsPlus": 268
+    },
+    {
+      "date": "2026-01-01",
+      "matchup": "PHI @ DAL",
+      "result": "W",
+      "min": 35,
+      "pts": 22,
+      "adjPts": 21.8,
+      "pointsPlus": 175
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "PHI @ NYK",
+      "result": "W",
+      "min": 33,
+      "pts": 26,
+      "adjPts": 26.7,
+      "pointsPlus": 215
+    },
+    {
+      "date": "2026-01-05",
+      "matchup": "PHI vs. DEN",
+      "result": "L",
+      "min": 40,
+      "pts": 32,
+      "adjPts": 32.0,
+      "pointsPlus": 257
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "PHI vs. WAS",
+      "result": "W",
+      "min": 25,
+      "pts": 28,
+      "adjPts": 26.2,
+      "pointsPlus": 211
+    },
+    {
+      "date": "2026-01-09",
+      "matchup": "PHI @ ORL",
+      "result": "W",
+      "min": 31,
+      "pts": 22,
+      "adjPts": 22.0,
+      "pointsPlus": 177
+    },
+    {
+      "date": "2026-01-12",
+      "matchup": "PHI @ TOR",
+      "result": "W",
+      "min": 36,
+      "pts": 27,
+      "adjPts": 27.8,
+      "pointsPlus": 223
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "PHI vs. CLE",
+      "result": "L",
+      "min": 25,
+      "pts": 20,
+      "adjPts": 19.9,
+      "pointsPlus": 160
+    },
+    {
+      "date": "2026-01-16",
+      "matchup": "PHI vs. CLE",
+      "result": "L",
+      "min": 33,
+      "pts": 33,
+      "adjPts": 32.8,
+      "pointsPlus": 264
+    },
+    {
+      "date": "2026-01-19",
+      "matchup": "PHI vs. IND",
+      "result": "W",
+      "min": 33,
+      "pts": 30,
+      "adjPts": 29.2,
+      "pointsPlus": 234
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "PHI vs. HOU",
+      "result": "W",
+      "min": 46,
+      "pts": 32,
+      "adjPts": 33.9,
+      "pointsPlus": 272
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "PHI vs. NYK",
+      "result": "L",
+      "min": 36,
+      "pts": 38,
+      "adjPts": 39.1,
+      "pointsPlus": 314
+    },
+    {
+      "date": "2026-01-27",
+      "matchup": "PHI vs. MIL",
+      "result": "W",
+      "min": 29,
+      "pts": 29,
+      "adjPts": 29.0,
+      "pointsPlus": 232
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "PHI vs. SAC",
+      "result": "W",
+      "min": 36,
+      "pts": 37,
+      "adjPts": 35.5,
+      "pointsPlus": 285
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "PHI vs. NOP",
+      "result": "W",
+      "min": 39,
+      "pts": 40,
+      "adjPts": 38.5,
+      "pointsPlus": 309
+    },
+    {
+      "date": "2026-02-02",
+      "matchup": "PHI @ LAC",
+      "result": "W",
+      "min": 32,
+      "pts": 24,
+      "adjPts": 24.7,
+      "pointsPlus": 198
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "PHI @ LAL",
+      "result": "L",
+      "min": 39,
+      "pts": 35,
+      "adjPts": 34.5,
+      "pointsPlus": 277
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "PHI @ PHX",
+      "result": "W",
+      "min": 33,
+      "pts": 33,
+      "adjPts": 34.1,
+      "pointsPlus": 274
+    }
+  ]
+}

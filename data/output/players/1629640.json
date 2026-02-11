@@ -1,0 +1,494 @@
+{
+  "id": 1629640,
+  "name": "Keldon Johnson",
+  "team": "SAS",
+  "rank": 117,
+  "gp": 53,
+  "ppg": 13.4,
+  "adjPpg": 13.3,
+  "pointsPlus": 107,
+  "mpg": 23.7,
+  "position": "F-G",
+  "jersey": "3",
+  "usgPct": 19.5,
+  "tsPct": 64.1,
+  "gameLog": [
+    {
+      "date": "2025-10-22",
+      "matchup": "SAS @ DAL",
+      "result": "W",
+      "min": 25,
+      "pts": 11,
+      "adjPts": 10.9,
+      "pointsPlus": 87
+    },
+    {
+      "date": "2025-10-24",
+      "matchup": "SAS @ NOP",
+      "result": "W",
+      "min": 19,
+      "pts": 8,
+      "adjPts": 7.7,
+      "pointsPlus": 62
+    },
+    {
+      "date": "2025-10-26",
+      "matchup": "SAS vs. BKN",
+      "result": "W",
+      "min": 29,
+      "pts": 19,
+      "adjPts": 19.1,
+      "pointsPlus": 154
+    },
+    {
+      "date": "2025-10-27",
+      "matchup": "SAS vs. TOR",
+      "result": "W",
+      "min": 24,
+      "pts": 10,
+      "adjPts": 10.3,
+      "pointsPlus": 83
+    },
+    {
+      "date": "2025-10-30",
+      "matchup": "SAS vs. MIA",
+      "result": "W",
+      "min": 23,
+      "pts": 11,
+      "adjPts": 10.8,
+      "pointsPlus": 87
+    },
+    {
+      "date": "2025-11-02",
+      "matchup": "SAS @ PHX",
+      "result": "L",
+      "min": 24,
+      "pts": 19,
+      "adjPts": 19.6,
+      "pointsPlus": 158
+    },
+    {
+      "date": "2025-11-05",
+      "matchup": "SAS @ LAL",
+      "result": "L",
+      "min": 24,
+      "pts": 12,
+      "adjPts": 11.8,
+      "pointsPlus": 95
+    },
+    {
+      "date": "2025-11-07",
+      "matchup": "SAS vs. HOU",
+      "result": "W",
+      "min": 27,
+      "pts": 8,
+      "adjPts": 8.5,
+      "pointsPlus": 68
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "SAS vs. NOP",
+      "result": "W",
+      "min": 20,
+      "pts": 12,
+      "adjPts": 11.6,
+      "pointsPlus": 93
+    },
+    {
+      "date": "2025-11-10",
+      "matchup": "SAS @ CHI",
+      "result": "W",
+      "min": 19,
+      "pts": 10,
+      "adjPts": 9.6,
+      "pointsPlus": 77
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "SAS vs. GSW",
+      "result": "L",
+      "min": 24,
+      "pts": 6,
+      "adjPts": 6.1,
+      "pointsPlus": 49
+    },
+    {
+      "date": "2025-11-14",
+      "matchup": "SAS vs. GSW",
+      "result": "L",
+      "min": 19,
+      "pts": 4,
+      "adjPts": 4.1,
+      "pointsPlus": 33
+    },
+    {
+      "date": "2025-11-16",
+      "matchup": "SAS vs. SAC",
+      "result": "W",
+      "min": 23,
+      "pts": 14,
+      "adjPts": 13.4,
+      "pointsPlus": 108
+    },
+    {
+      "date": "2025-11-18",
+      "matchup": "SAS vs. MEM",
+      "result": "W",
+      "min": 30,
+      "pts": 18,
+      "adjPts": 17.7,
+      "pointsPlus": 142
+    },
+    {
+      "date": "2025-11-20",
+      "matchup": "SAS vs. ATL",
+      "result": "W",
+      "min": 32,
+      "pts": 25,
+      "adjPts": 24.3,
+      "pointsPlus": 195
+    },
+    {
+      "date": "2025-11-23",
+      "matchup": "SAS @ PHX",
+      "result": "L",
+      "min": 25,
+      "pts": 14,
+      "adjPts": 14.5,
+      "pointsPlus": 116
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "SAS @ POR",
+      "result": "W",
+      "min": 23,
+      "pts": 11,
+      "adjPts": 10.7,
+      "pointsPlus": 86
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "SAS @ DEN",
+      "result": "W",
+      "min": 22,
+      "pts": 14,
+      "adjPts": 14.0,
+      "pointsPlus": 112
+    },
+    {
+      "date": "2025-11-30",
+      "matchup": "SAS @ MIN",
+      "result": "L",
+      "min": 26,
+      "pts": 22,
+      "adjPts": 22.1,
+      "pointsPlus": 177
+    },
+    {
+      "date": "2025-12-02",
+      "matchup": "SAS vs. MEM",
+      "result": "W",
+      "min": 28,
+      "pts": 11,
+      "adjPts": 10.8,
+      "pointsPlus": 87
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "SAS @ ORL",
+      "result": "W",
+      "min": 25,
+      "pts": 13,
+      "adjPts": 13.0,
+      "pointsPlus": 105
+    },
+    {
+      "date": "2025-12-05",
+      "matchup": "SAS @ CLE",
+      "result": "L",
+      "min": 25,
+      "pts": 14,
+      "adjPts": 13.9,
+      "pointsPlus": 112
+    },
+    {
+      "date": "2025-12-08",
+      "matchup": "SAS @ NOP",
+      "result": "W",
+      "min": 17,
+      "pts": 12,
+      "adjPts": 11.6,
+      "pointsPlus": 93
+    },
+    {
+      "date": "2025-12-10",
+      "matchup": "SAS @ LAL",
+      "result": "W",
+      "min": 22,
+      "pts": 17,
+      "adjPts": 16.8,
+      "pointsPlus": 135
+    },
+    {
+      "date": "2025-12-13",
+      "matchup": "SAS @ OKC",
+      "result": "W",
+      "min": 14,
+      "pts": 3,
+      "adjPts": 3.2,
+      "pointsPlus": 26
+    },
+    {
+      "date": "2025-12-18",
+      "matchup": "SAS vs. WAS",
+      "result": "W",
+      "min": 21,
+      "pts": 9,
+      "adjPts": 8.4,
+      "pointsPlus": 68
+    },
+    {
+      "date": "2025-12-19",
+      "matchup": "SAS @ ATL",
+      "result": "W",
+      "min": 16,
+      "pts": 13,
+      "adjPts": 12.6,
+      "pointsPlus": 101
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "SAS @ WAS",
+      "result": "W",
+      "min": 24,
+      "pts": 12,
+      "adjPts": 11.2,
+      "pointsPlus": 90
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "SAS vs. OKC",
+      "result": "W",
+      "min": 22,
+      "pts": 25,
+      "adjPts": 26.8,
+      "pointsPlus": 215
+    },
+    {
+      "date": "2025-12-25",
+      "matchup": "SAS @ OKC",
+      "result": "W",
+      "min": 17,
+      "pts": 9,
+      "adjPts": 9.7,
+      "pointsPlus": 78
+    },
+    {
+      "date": "2025-12-27",
+      "matchup": "SAS vs. UTA",
+      "result": "L",
+      "min": 25,
+      "pts": 27,
+      "adjPts": 24.8,
+      "pointsPlus": 199
+    },
+    {
+      "date": "2025-12-29",
+      "matchup": "SAS vs. CLE",
+      "result": "L",
+      "min": 18,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 64
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "SAS vs. NYK",
+      "result": "W",
+      "min": 31,
+      "pts": 19,
+      "adjPts": 19.5,
+      "pointsPlus": 157
+    },
+    {
+      "date": "2026-01-02",
+      "matchup": "SAS @ IND",
+      "result": "W",
+      "min": 26,
+      "pts": 16,
+      "adjPts": 15.6,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "SAS vs. POR",
+      "result": "L",
+      "min": 24,
+      "pts": 5,
+      "adjPts": 4.9,
+      "pointsPlus": 39
+    },
+    {
+      "date": "2026-01-06",
+      "matchup": "SAS @ MEM",
+      "result": "L",
+      "min": 28,
+      "pts": 13,
+      "adjPts": 12.8,
+      "pointsPlus": 102
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "SAS vs. LAL",
+      "result": "W",
+      "min": 28,
+      "pts": 27,
+      "adjPts": 26.6,
+      "pointsPlus": 214
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "SAS @ BOS",
+      "result": "W",
+      "min": 28,
+      "pts": 18,
+      "adjPts": 19.2,
+      "pointsPlus": 154
+    },
+    {
+      "date": "2026-01-11",
+      "matchup": "SAS @ MIN",
+      "result": "L",
+      "min": 26,
+      "pts": 15,
+      "adjPts": 15.1,
+      "pointsPlus": 121
+    },
+    {
+      "date": "2026-01-13",
+      "matchup": "SAS @ OKC",
+      "result": "L",
+      "min": 20,
+      "pts": 9,
+      "adjPts": 9.7,
+      "pointsPlus": 78
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "SAS vs. MIL",
+      "result": "W",
+      "min": 21,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 56
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "SAS vs. MIN",
+      "result": "W",
+      "min": 31,
+      "pts": 20,
+      "adjPts": 20.1,
+      "pointsPlus": 161
+    },
+    {
+      "date": "2026-01-19",
+      "matchup": "SAS vs. UTA",
+      "result": "W",
+      "min": 24,
+      "pts": 2,
+      "adjPts": 1.8,
+      "pointsPlus": 15
+    },
+    {
+      "date": "2026-01-20",
+      "matchup": "SAS @ HOU",
+      "result": "L",
+      "min": 27,
+      "pts": 12,
+      "adjPts": 12.7,
+      "pointsPlus": 102
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "SAS @ UTA",
+      "result": "W",
+      "min": 31,
+      "pts": 21,
+      "adjPts": 19.3,
+      "pointsPlus": 155
+    },
+    {
+      "date": "2026-01-25",
+      "matchup": "SAS vs. NOP",
+      "result": "L",
+      "min": 28,
+      "pts": 15,
+      "adjPts": 14.5,
+      "pointsPlus": 116
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "SAS @ HOU",
+      "result": "W",
+      "min": 27,
+      "pts": 17,
+      "adjPts": 18.0,
+      "pointsPlus": 145
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "SAS @ CHA",
+      "result": "L",
+      "min": 16,
+      "pts": 6,
+      "adjPts": 6.1,
+      "pointsPlus": 49
+    },
+    {
+      "date": "2026-02-01",
+      "matchup": "SAS vs. ORL",
+      "result": "W",
+      "min": 25,
+      "pts": 14,
+      "adjPts": 14.0,
+      "pointsPlus": 113
+    },
+    {
+      "date": "2026-02-04",
+      "matchup": "SAS vs. OKC",
+      "result": "W",
+      "min": 29,
+      "pts": 25,
+      "adjPts": 26.8,
+      "pointsPlus": 215
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "SAS @ DAL",
+      "result": "W",
+      "min": 19,
+      "pts": 12,
+      "adjPts": 11.9,
+      "pointsPlus": 95
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "SAS vs. DAL",
+      "result": "W",
+      "min": 16,
+      "pts": 8,
+      "adjPts": 7.9,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2026-02-10",
+      "matchup": "SAS @ LAL",
+      "result": "W",
+      "min": 21,
+      "pts": 6,
+      "adjPts": 5.9,
+      "pointsPlus": 48
+    }
+  ]
+}

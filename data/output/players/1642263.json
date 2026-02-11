@@ -1,0 +1,485 @@
+{
+  "id": 1642263,
+  "name": "Reed Sheppard",
+  "team": "HOU",
+  "rank": 131,
+  "gp": 52,
+  "ppg": 12.6,
+  "adjPpg": 12.6,
+  "pointsPlus": 101,
+  "mpg": 24.8,
+  "position": "G",
+  "jersey": "15",
+  "usgPct": 20.7,
+  "tsPct": 54.7,
+  "gameLog": [
+    {
+      "date": "2025-10-21",
+      "matchup": "HOU @ OKC",
+      "result": "L",
+      "min": 28,
+      "pts": 9,
+      "adjPts": 9.7,
+      "pointsPlus": 78
+    },
+    {
+      "date": "2025-10-24",
+      "matchup": "HOU vs. DET",
+      "result": "L",
+      "min": 20,
+      "pts": 9,
+      "adjPts": 9.5,
+      "pointsPlus": 76
+    },
+    {
+      "date": "2025-10-27",
+      "matchup": "HOU vs. BKN",
+      "result": "W",
+      "min": 24,
+      "pts": 15,
+      "adjPts": 15.1,
+      "pointsPlus": 121
+    },
+    {
+      "date": "2025-10-29",
+      "matchup": "HOU @ TOR",
+      "result": "W",
+      "min": 18,
+      "pts": 7,
+      "adjPts": 7.2,
+      "pointsPlus": 58
+    },
+    {
+      "date": "2025-11-01",
+      "matchup": "HOU @ BOS",
+      "result": "W",
+      "min": 17,
+      "pts": 12,
+      "adjPts": 12.8,
+      "pointsPlus": 103
+    },
+    {
+      "date": "2025-11-03",
+      "matchup": "HOU vs. DAL",
+      "result": "W",
+      "min": 17,
+      "pts": 5,
+      "adjPts": 4.9,
+      "pointsPlus": 40
+    },
+    {
+      "date": "2025-11-05",
+      "matchup": "HOU @ MEM",
+      "result": "W",
+      "min": 17,
+      "pts": 12,
+      "adjPts": 11.8,
+      "pointsPlus": 95
+    },
+    {
+      "date": "2025-11-07",
+      "matchup": "HOU @ SAS",
+      "result": "L",
+      "min": 26,
+      "pts": 16,
+      "adjPts": 16.4,
+      "pointsPlus": 132
+    },
+    {
+      "date": "2025-11-09",
+      "matchup": "HOU @ MIL",
+      "result": "W",
+      "min": 29,
+      "pts": 16,
+      "adjPts": 16.0,
+      "pointsPlus": 128
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "HOU vs. WAS",
+      "result": "W",
+      "min": 25,
+      "pts": 21,
+      "adjPts": 19.7,
+      "pointsPlus": 158
+    },
+    {
+      "date": "2025-11-14",
+      "matchup": "HOU vs. POR",
+      "result": "W",
+      "min": 26,
+      "pts": 13,
+      "adjPts": 12.7,
+      "pointsPlus": 102
+    },
+    {
+      "date": "2025-11-16",
+      "matchup": "HOU vs. ORL",
+      "result": "W",
+      "min": 29,
+      "pts": 16,
+      "adjPts": 16.0,
+      "pointsPlus": 129
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "HOU @ CLE",
+      "result": "W",
+      "min": 23,
+      "pts": 12,
+      "adjPts": 11.9,
+      "pointsPlus": 96
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "HOU vs. DEN",
+      "result": "L",
+      "min": 37,
+      "pts": 27,
+      "adjPts": 27.0,
+      "pointsPlus": 217
+    },
+    {
+      "date": "2025-11-24",
+      "matchup": "HOU @ PHX",
+      "result": "W",
+      "min": 27,
+      "pts": 7,
+      "adjPts": 7.2,
+      "pointsPlus": 58
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "HOU @ GSW",
+      "result": "W",
+      "min": 37,
+      "pts": 31,
+      "adjPts": 31.5,
+      "pointsPlus": 253
+    },
+    {
+      "date": "2025-11-30",
+      "matchup": "HOU @ UTA",
+      "result": "W",
+      "min": 31,
+      "pts": 9,
+      "adjPts": 8.3,
+      "pointsPlus": 66
+    },
+    {
+      "date": "2025-12-01",
+      "matchup": "HOU @ UTA",
+      "result": "L",
+      "min": 23,
+      "pts": 9,
+      "adjPts": 8.3,
+      "pointsPlus": 66
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "HOU vs. SAC",
+      "result": "W",
+      "min": 28,
+      "pts": 5,
+      "adjPts": 4.8,
+      "pointsPlus": 38
+    },
+    {
+      "date": "2025-12-05",
+      "matchup": "HOU vs. PHX",
+      "result": "W",
+      "min": 21,
+      "pts": 10,
+      "adjPts": 10.3,
+      "pointsPlus": 83
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "HOU @ DAL",
+      "result": "L",
+      "min": 20,
+      "pts": 12,
+      "adjPts": 11.9,
+      "pointsPlus": 95
+    },
+    {
+      "date": "2025-12-11",
+      "matchup": "HOU vs. LAC",
+      "result": "W",
+      "min": 26,
+      "pts": 10,
+      "adjPts": 10.3,
+      "pointsPlus": 82
+    },
+    {
+      "date": "2025-12-15",
+      "matchup": "HOU @ DEN",
+      "result": "L",
+      "min": 32,
+      "pts": 14,
+      "adjPts": 14.0,
+      "pointsPlus": 112
+    },
+    {
+      "date": "2025-12-18",
+      "matchup": "HOU @ NOP",
+      "result": "L",
+      "min": 27,
+      "pts": 11,
+      "adjPts": 10.6,
+      "pointsPlus": 85
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "HOU @ DEN",
+      "result": "W",
+      "min": 30,
+      "pts": 28,
+      "adjPts": 28.0,
+      "pointsPlus": 225
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "HOU @ SAC",
+      "result": "L",
+      "min": 34,
+      "pts": 15,
+      "adjPts": 14.4,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "HOU @ LAC",
+      "result": "L",
+      "min": 26,
+      "pts": 8,
+      "adjPts": 8.2,
+      "pointsPlus": 66
+    },
+    {
+      "date": "2025-12-25",
+      "matchup": "HOU @ LAL",
+      "result": "W",
+      "min": 19,
+      "pts": 13,
+      "adjPts": 12.8,
+      "pointsPlus": 103
+    },
+    {
+      "date": "2025-12-27",
+      "matchup": "HOU vs. CLE",
+      "result": "W",
+      "min": 32,
+      "pts": 18,
+      "adjPts": 17.9,
+      "pointsPlus": 144
+    },
+    {
+      "date": "2025-12-29",
+      "matchup": "HOU vs. IND",
+      "result": "W",
+      "min": 24,
+      "pts": 13,
+      "adjPts": 12.6,
+      "pointsPlus": 102
+    },
+    {
+      "date": "2026-01-01",
+      "matchup": "HOU @ BKN",
+      "result": "W",
+      "min": 31,
+      "pts": 14,
+      "adjPts": 14.1,
+      "pointsPlus": 113
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "HOU @ DAL",
+      "result": "L",
+      "min": 22,
+      "pts": 8,
+      "adjPts": 7.9,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2026-01-05",
+      "matchup": "HOU vs. PHX",
+      "result": "W",
+      "min": 23,
+      "pts": 11,
+      "adjPts": 11.4,
+      "pointsPlus": 91
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "HOU @ POR",
+      "result": "L",
+      "min": 22,
+      "pts": 8,
+      "adjPts": 7.8,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2026-01-09",
+      "matchup": "HOU @ POR",
+      "result": "L",
+      "min": 34,
+      "pts": 20,
+      "adjPts": 19.5,
+      "pointsPlus": 157
+    },
+    {
+      "date": "2026-01-11",
+      "matchup": "HOU @ SAC",
+      "result": "L",
+      "min": 15,
+      "pts": 6,
+      "adjPts": 5.8,
+      "pointsPlus": 46
+    },
+    {
+      "date": "2026-01-13",
+      "matchup": "HOU vs. CHI",
+      "result": "W",
+      "min": 22,
+      "pts": 8,
+      "adjPts": 7.6,
+      "pointsPlus": 61
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "HOU vs. OKC",
+      "result": "L",
+      "min": 19,
+      "pts": 7,
+      "adjPts": 7.5,
+      "pointsPlus": 60
+    },
+    {
+      "date": "2026-01-16",
+      "matchup": "HOU vs. MIN",
+      "result": "W",
+      "min": 19,
+      "pts": 14,
+      "adjPts": 14.1,
+      "pointsPlus": 113
+    },
+    {
+      "date": "2026-01-18",
+      "matchup": "HOU vs. NOP",
+      "result": "W",
+      "min": 18,
+      "pts": 11,
+      "adjPts": 10.6,
+      "pointsPlus": 85
+    },
+    {
+      "date": "2026-01-20",
+      "matchup": "HOU vs. SAS",
+      "result": "W",
+      "min": 29,
+      "pts": 21,
+      "adjPts": 21.6,
+      "pointsPlus": 173
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "HOU @ PHI",
+      "result": "L",
+      "min": 23,
+      "pts": 14,
+      "adjPts": 14.1,
+      "pointsPlus": 113
+    },
+    {
+      "date": "2026-01-23",
+      "matchup": "HOU @ DET",
+      "result": "W",
+      "min": 25,
+      "pts": 18,
+      "adjPts": 19.0,
+      "pointsPlus": 152
+    },
+    {
+      "date": "2026-01-26",
+      "matchup": "HOU vs. MEM",
+      "result": "W",
+      "min": 15,
+      "pts": 4,
+      "adjPts": 3.9,
+      "pointsPlus": 32
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "HOU vs. SAS",
+      "result": "L",
+      "min": 26,
+      "pts": 9,
+      "adjPts": 9.2,
+      "pointsPlus": 74
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "HOU @ ATL",
+      "result": "W",
+      "min": 26,
+      "pts": 13,
+      "adjPts": 12.6,
+      "pointsPlus": 101
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "HOU vs. DAL",
+      "result": "W",
+      "min": 17,
+      "pts": 6,
+      "adjPts": 5.9,
+      "pointsPlus": 48
+    },
+    {
+      "date": "2026-02-02",
+      "matchup": "HOU @ IND",
+      "result": "W",
+      "min": 25,
+      "pts": 11,
+      "adjPts": 10.7,
+      "pointsPlus": 86
+    },
+    {
+      "date": "2026-02-04",
+      "matchup": "HOU vs. BOS",
+      "result": "L",
+      "min": 19,
+      "pts": 9,
+      "adjPts": 9.6,
+      "pointsPlus": 77
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "HOU vs. CHA",
+      "result": "L",
+      "min": 22,
+      "pts": 7,
+      "adjPts": 7.1,
+      "pointsPlus": 57
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "HOU @ OKC",
+      "result": "W",
+      "min": 32,
+      "pts": 16,
+      "adjPts": 17.2,
+      "pointsPlus": 138
+    },
+    {
+      "date": "2026-02-10",
+      "matchup": "HOU vs. LAC",
+      "result": "W",
+      "min": 30,
+      "pts": 16,
+      "adjPts": 16.4,
+      "pointsPlus": 132
+    }
+  ]
+}
