@@ -1,0 +1,11 @@
+{
+  "generatedAt": "2026-02-10T22:52:10.368025",
+  "season": "2025-26",
+  "asOfDate": "2026-02-10",
+  "qualifyingCriteria": {
+    "minGames": 20,
+    "minMpg": 15.0
+  },
+  "totalQualifyingPlayers": 315,
+  "leagueAvgPointsPlus": 100
+}

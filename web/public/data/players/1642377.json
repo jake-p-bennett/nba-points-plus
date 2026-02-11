@@ -1,0 +1,476 @@
+{
+  "id": 1642377,
+  "name": "Jaylen Wells",
+  "team": "MEM",
+  "rank": 144,
+  "gp": 51,
+  "ppg": 12.0,
+  "adjPpg": 12.0,
+  "pointsPlus": 96,
+  "mpg": 26.8,
+  "position": "F",
+  "jersey": "0",
+  "usgPct": 18.5,
+  "tsPct": 53.4,
+  "gameLog": [
+    {
+      "date": "2025-10-22",
+      "matchup": "MEM vs. NOP",
+      "result": "W",
+      "min": 28,
+      "pts": 14,
+      "adjPts": 13.5,
+      "pointsPlus": 108
+    },
+    {
+      "date": "2025-10-24",
+      "matchup": "MEM vs. MIA",
+      "result": "L",
+      "min": 22,
+      "pts": 9,
+      "adjPts": 8.8,
+      "pointsPlus": 71
+    },
+    {
+      "date": "2025-10-25",
+      "matchup": "MEM vs. IND",
+      "result": "W",
+      "min": 27,
+      "pts": 5,
+      "adjPts": 4.9,
+      "pointsPlus": 39
+    },
+    {
+      "date": "2025-10-27",
+      "matchup": "MEM @ GSW",
+      "result": "L",
+      "min": 28,
+      "pts": 10,
+      "adjPts": 10.2,
+      "pointsPlus": 82
+    },
+    {
+      "date": "2025-10-29",
+      "matchup": "MEM @ PHX",
+      "result": "W",
+      "min": 29,
+      "pts": 9,
+      "adjPts": 9.3,
+      "pointsPlus": 75
+    },
+    {
+      "date": "2025-10-31",
+      "matchup": "MEM vs. LAL",
+      "result": "L",
+      "min": 27,
+      "pts": 16,
+      "adjPts": 15.8,
+      "pointsPlus": 127
+    },
+    {
+      "date": "2025-11-02",
+      "matchup": "MEM @ TOR",
+      "result": "L",
+      "min": 26,
+      "pts": 7,
+      "adjPts": 7.2,
+      "pointsPlus": 58
+    },
+    {
+      "date": "2025-11-03",
+      "matchup": "MEM vs. DET",
+      "result": "L",
+      "min": 21,
+      "pts": 4,
+      "adjPts": 4.2,
+      "pointsPlus": 34
+    },
+    {
+      "date": "2025-11-05",
+      "matchup": "MEM vs. HOU",
+      "result": "L",
+      "min": 20,
+      "pts": 8,
+      "adjPts": 8.5,
+      "pointsPlus": 68
+    },
+    {
+      "date": "2025-11-07",
+      "matchup": "MEM vs. DAL",
+      "result": "W",
+      "min": 25,
+      "pts": 8,
+      "adjPts": 7.9,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2025-11-09",
+      "matchup": "MEM vs. OKC",
+      "result": "L",
+      "min": 23,
+      "pts": 12,
+      "adjPts": 12.9,
+      "pointsPlus": 103
+    },
+    {
+      "date": "2025-11-11",
+      "matchup": "MEM @ NYK",
+      "result": "L",
+      "min": 29,
+      "pts": 18,
+      "adjPts": 18.5,
+      "pointsPlus": 149
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "MEM @ BOS",
+      "result": "L",
+      "min": 24,
+      "pts": 5,
+      "adjPts": 5.3,
+      "pointsPlus": 43
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "MEM @ CLE",
+      "result": "L",
+      "min": 24,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 64
+    },
+    {
+      "date": "2025-11-18",
+      "matchup": "MEM @ SAS",
+      "result": "L",
+      "min": 27,
+      "pts": 9,
+      "adjPts": 9.2,
+      "pointsPlus": 74
+    },
+    {
+      "date": "2025-11-20",
+      "matchup": "MEM vs. SAC",
+      "result": "W",
+      "min": 19,
+      "pts": 13,
+      "adjPts": 12.5,
+      "pointsPlus": 100
+    },
+    {
+      "date": "2025-11-22",
+      "matchup": "MEM @ DAL",
+      "result": "W",
+      "min": 31,
+      "pts": 9,
+      "adjPts": 8.9,
+      "pointsPlus": 71
+    },
+    {
+      "date": "2025-11-24",
+      "matchup": "MEM vs. DEN",
+      "result": "L",
+      "min": 33,
+      "pts": 22,
+      "adjPts": 22.0,
+      "pointsPlus": 176
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "MEM @ NOP",
+      "result": "W",
+      "min": 32,
+      "pts": 25,
+      "adjPts": 24.1,
+      "pointsPlus": 193
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "MEM @ LAC",
+      "result": "W",
+      "min": 28,
+      "pts": 13,
+      "adjPts": 13.4,
+      "pointsPlus": 107
+    },
+    {
+      "date": "2025-11-30",
+      "matchup": "MEM @ SAC",
+      "result": "W",
+      "min": 30,
+      "pts": 15,
+      "adjPts": 14.4,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-12-02",
+      "matchup": "MEM @ SAS",
+      "result": "L",
+      "min": 28,
+      "pts": 20,
+      "adjPts": 20.5,
+      "pointsPlus": 165
+    },
+    {
+      "date": "2025-12-05",
+      "matchup": "MEM vs. LAC",
+      "result": "W",
+      "min": 27,
+      "pts": 17,
+      "adjPts": 17.5,
+      "pointsPlus": 140
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "MEM vs. POR",
+      "result": "W",
+      "min": 26,
+      "pts": 16,
+      "adjPts": 15.6,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2025-12-12",
+      "matchup": "MEM vs. UTA",
+      "result": "L",
+      "min": 33,
+      "pts": 19,
+      "adjPts": 17.5,
+      "pointsPlus": 140
+    },
+    {
+      "date": "2025-12-15",
+      "matchup": "MEM @ LAC",
+      "result": "W",
+      "min": 30,
+      "pts": 16,
+      "adjPts": 16.4,
+      "pointsPlus": 132
+    },
+    {
+      "date": "2025-12-17",
+      "matchup": "MEM @ MIN",
+      "result": "W",
+      "min": 31,
+      "pts": 17,
+      "adjPts": 17.1,
+      "pointsPlus": 137
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "MEM vs. WAS",
+      "result": "L",
+      "min": 32,
+      "pts": 4,
+      "adjPts": 3.7,
+      "pointsPlus": 30
+    },
+    {
+      "date": "2025-12-22",
+      "matchup": "MEM @ OKC",
+      "result": "L",
+      "min": 32,
+      "pts": 12,
+      "adjPts": 12.9,
+      "pointsPlus": 103
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "MEM @ UTA",
+      "result": "W",
+      "min": 32,
+      "pts": 12,
+      "adjPts": 11.0,
+      "pointsPlus": 89
+    },
+    {
+      "date": "2025-12-26",
+      "matchup": "MEM vs. MIL",
+      "result": "W",
+      "min": 29,
+      "pts": 14,
+      "adjPts": 14.0,
+      "pointsPlus": 112
+    },
+    {
+      "date": "2025-12-28",
+      "matchup": "MEM @ WAS",
+      "result": "L",
+      "min": 27,
+      "pts": 11,
+      "adjPts": 10.3,
+      "pointsPlus": 83
+    },
+    {
+      "date": "2025-12-30",
+      "matchup": "MEM vs. PHI",
+      "result": "L",
+      "min": 32,
+      "pts": 14,
+      "adjPts": 14.1,
+      "pointsPlus": 113
+    },
+    {
+      "date": "2026-01-02",
+      "matchup": "MEM @ LAL",
+      "result": "L",
+      "min": 28,
+      "pts": 6,
+      "adjPts": 5.9,
+      "pointsPlus": 48
+    },
+    {
+      "date": "2026-01-04",
+      "matchup": "MEM @ LAL",
+      "result": "L",
+      "min": 25,
+      "pts": 23,
+      "adjPts": 22.7,
+      "pointsPlus": 182
+    },
+    {
+      "date": "2026-01-06",
+      "matchup": "MEM vs. SAS",
+      "result": "W",
+      "min": 28,
+      "pts": 8,
+      "adjPts": 8.2,
+      "pointsPlus": 66
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "MEM vs. PHX",
+      "result": "L",
+      "min": 27,
+      "pts": 9,
+      "adjPts": 9.3,
+      "pointsPlus": 75
+    },
+    {
+      "date": "2026-01-09",
+      "matchup": "MEM vs. OKC",
+      "result": "L",
+      "min": 28,
+      "pts": 10,
+      "adjPts": 10.7,
+      "pointsPlus": 86
+    },
+    {
+      "date": "2026-01-11",
+      "matchup": "MEM vs. BKN",
+      "result": "W",
+      "min": 22,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 16
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "MEM @ ORL",
+      "result": "L",
+      "min": 18,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 16
+    },
+    {
+      "date": "2026-01-18",
+      "matchup": "MEM @ ORL",
+      "result": "W",
+      "min": 21,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 80
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "MEM vs. ATL",
+      "result": "L",
+      "min": 26,
+      "pts": 18,
+      "adjPts": 17.5,
+      "pointsPlus": 140
+    },
+    {
+      "date": "2026-01-23",
+      "matchup": "MEM vs. NOP",
+      "result": "L",
+      "min": 25,
+      "pts": 11,
+      "adjPts": 10.6,
+      "pointsPlus": 85
+    },
+    {
+      "date": "2026-01-26",
+      "matchup": "MEM @ HOU",
+      "result": "L",
+      "min": 26,
+      "pts": 12,
+      "adjPts": 12.7,
+      "pointsPlus": 102
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "MEM vs. CHA",
+      "result": "L",
+      "min": 25,
+      "pts": 6,
+      "adjPts": 6.1,
+      "pointsPlus": 49
+    },
+    {
+      "date": "2026-01-30",
+      "matchup": "MEM @ NOP",
+      "result": "L",
+      "min": 26,
+      "pts": 10,
+      "adjPts": 9.6,
+      "pointsPlus": 77
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "MEM vs. MIN",
+      "result": "L",
+      "min": 27,
+      "pts": 15,
+      "adjPts": 15.1,
+      "pointsPlus": 121
+    },
+    {
+      "date": "2026-02-02",
+      "matchup": "MEM vs. MIN",
+      "result": "W",
+      "min": 26,
+      "pts": 18,
+      "adjPts": 18.1,
+      "pointsPlus": 145
+    },
+    {
+      "date": "2026-02-04",
+      "matchup": "MEM @ SAC",
+      "result": "W",
+      "min": 26,
+      "pts": 18,
+      "adjPts": 17.3,
+      "pointsPlus": 139
+    },
+    {
+      "date": "2026-02-06",
+      "matchup": "MEM @ POR",
+      "result": "L",
+      "min": 27,
+      "pts": 13,
+      "adjPts": 12.7,
+      "pointsPlus": 102
+    },
+    {
+      "date": "2026-02-09",
+      "matchup": "MEM @ GSW",
+      "result": "L",
+      "min": 26,
+      "pts": 10,
+      "adjPts": 10.2,
+      "pointsPlus": 82
+    }
+  ]
+}

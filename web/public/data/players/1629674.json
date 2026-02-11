@@ -1,0 +1,467 @@
+{
+  "id": 1629674,
+  "name": "Neemias Queta",
+  "team": "BOS",
+  "rank": 187,
+  "gp": 50,
+  "ppg": 9.8,
+  "adjPpg": 9.7,
+  "pointsPlus": 78,
+  "mpg": 25.3,
+  "position": "C",
+  "jersey": "88",
+  "usgPct": 14.6,
+  "tsPct": 65.2,
+  "gameLog": [
+    {
+      "date": "2025-10-22",
+      "matchup": "BOS vs. PHI",
+      "result": "L",
+      "min": 25,
+      "pts": 17,
+      "adjPts": 17.2,
+      "pointsPlus": 138
+    },
+    {
+      "date": "2025-10-24",
+      "matchup": "BOS @ NYK",
+      "result": "L",
+      "min": 22,
+      "pts": 8,
+      "adjPts": 8.2,
+      "pointsPlus": 66
+    },
+    {
+      "date": "2025-10-26",
+      "matchup": "BOS @ DET",
+      "result": "L",
+      "min": 26,
+      "pts": 4,
+      "adjPts": 4.2,
+      "pointsPlus": 34
+    },
+    {
+      "date": "2025-10-27",
+      "matchup": "BOS @ NOP",
+      "result": "W",
+      "min": 22,
+      "pts": 6,
+      "adjPts": 5.8,
+      "pointsPlus": 46
+    },
+    {
+      "date": "2025-10-29",
+      "matchup": "BOS vs. CLE",
+      "result": "W",
+      "min": 26,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 80
+    },
+    {
+      "date": "2025-10-31",
+      "matchup": "BOS @ PHI",
+      "result": "W",
+      "min": 19,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 32
+    },
+    {
+      "date": "2025-11-01",
+      "matchup": "BOS vs. HOU",
+      "result": "L",
+      "min": 15,
+      "pts": 9,
+      "adjPts": 9.5,
+      "pointsPlus": 77
+    },
+    {
+      "date": "2025-11-03",
+      "matchup": "BOS vs. UTA",
+      "result": "L",
+      "min": 26,
+      "pts": 9,
+      "adjPts": 8.3,
+      "pointsPlus": 66
+    },
+    {
+      "date": "2025-11-05",
+      "matchup": "BOS vs. WAS",
+      "result": "W",
+      "min": 24,
+      "pts": 15,
+      "adjPts": 14.1,
+      "pointsPlus": 113
+    },
+    {
+      "date": "2025-11-07",
+      "matchup": "BOS @ ORL",
+      "result": "L",
+      "min": 30,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 40
+    },
+    {
+      "date": "2025-11-09",
+      "matchup": "BOS @ ORL",
+      "result": "W",
+      "min": 26,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 64
+    },
+    {
+      "date": "2025-11-11",
+      "matchup": "BOS @ PHI",
+      "result": "L",
+      "min": 29,
+      "pts": 8,
+      "adjPts": 8.1,
+      "pointsPlus": 65
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "BOS vs. MEM",
+      "result": "W",
+      "min": 20,
+      "pts": 13,
+      "adjPts": 12.8,
+      "pointsPlus": 102
+    },
+    {
+      "date": "2025-11-16",
+      "matchup": "BOS vs. LAC",
+      "result": "W",
+      "min": 33,
+      "pts": 14,
+      "adjPts": 14.4,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-11-18",
+      "matchup": "BOS @ BKN",
+      "result": "W",
+      "min": 23,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 48
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "BOS vs. BKN",
+      "result": "L",
+      "min": 29,
+      "pts": 16,
+      "adjPts": 16.1,
+      "pointsPlus": 129
+    },
+    {
+      "date": "2025-11-23",
+      "matchup": "BOS vs. ORL",
+      "result": "W",
+      "min": 6,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 48
+    },
+    {
+      "date": "2025-11-29",
+      "matchup": "BOS @ MIN",
+      "result": "L",
+      "min": 29,
+      "pts": 19,
+      "adjPts": 19.1,
+      "pointsPlus": 153
+    },
+    {
+      "date": "2025-12-02",
+      "matchup": "BOS vs. NYK",
+      "result": "W",
+      "min": 21,
+      "pts": 8,
+      "adjPts": 8.2,
+      "pointsPlus": 66
+    },
+    {
+      "date": "2025-12-04",
+      "matchup": "BOS @ WAS",
+      "result": "W",
+      "min": 21,
+      "pts": 17,
+      "adjPts": 15.9,
+      "pointsPlus": 128
+    },
+    {
+      "date": "2025-12-05",
+      "matchup": "BOS vs. LAL",
+      "result": "W",
+      "min": 26,
+      "pts": 10,
+      "adjPts": 9.9,
+      "pointsPlus": 79
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "BOS @ TOR",
+      "result": "W",
+      "min": 34,
+      "pts": 11,
+      "adjPts": 11.3,
+      "pointsPlus": 91
+    },
+    {
+      "date": "2025-12-11",
+      "matchup": "BOS @ MIL",
+      "result": "L",
+      "min": 25,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 72
+    },
+    {
+      "date": "2025-12-15",
+      "matchup": "BOS vs. DET",
+      "result": "L",
+      "min": 34,
+      "pts": 6,
+      "adjPts": 6.3,
+      "pointsPlus": 51
+    },
+    {
+      "date": "2025-12-19",
+      "matchup": "BOS vs. MIA",
+      "result": "W",
+      "min": 25,
+      "pts": 10,
+      "adjPts": 9.8,
+      "pointsPlus": 79
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "BOS @ TOR",
+      "result": "W",
+      "min": 22,
+      "pts": 14,
+      "adjPts": 14.4,
+      "pointsPlus": 116
+    },
+    {
+      "date": "2025-12-22",
+      "matchup": "BOS vs. IND",
+      "result": "W",
+      "min": 23,
+      "pts": 8,
+      "adjPts": 7.8,
+      "pointsPlus": 62
+    },
+    {
+      "date": "2025-12-26",
+      "matchup": "BOS @ IND",
+      "result": "W",
+      "min": 21,
+      "pts": 8,
+      "adjPts": 7.8,
+      "pointsPlus": 62
+    },
+    {
+      "date": "2025-12-28",
+      "matchup": "BOS @ POR",
+      "result": "L",
+      "min": 29,
+      "pts": 11,
+      "adjPts": 10.7,
+      "pointsPlus": 86
+    },
+    {
+      "date": "2025-12-30",
+      "matchup": "BOS @ UTA",
+      "result": "W",
+      "min": 29,
+      "pts": 12,
+      "adjPts": 11.0,
+      "pointsPlus": 89
+    },
+    {
+      "date": "2026-01-01",
+      "matchup": "BOS @ SAC",
+      "result": "W",
+      "min": 23,
+      "pts": 13,
+      "adjPts": 12.5,
+      "pointsPlus": 100
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "BOS @ LAC",
+      "result": "W",
+      "min": 23,
+      "pts": 8,
+      "adjPts": 8.2,
+      "pointsPlus": 66
+    },
+    {
+      "date": "2026-01-05",
+      "matchup": "BOS vs. CHI",
+      "result": "W",
+      "min": 25,
+      "pts": 13,
+      "adjPts": 12.4,
+      "pointsPlus": 100
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "BOS vs. DEN",
+      "result": "L",
+      "min": 24,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 48
+    },
+    {
+      "date": "2026-01-09",
+      "matchup": "BOS vs. TOR",
+      "result": "W",
+      "min": 27,
+      "pts": 10,
+      "adjPts": 10.3,
+      "pointsPlus": 83
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "BOS vs. SAS",
+      "result": "L",
+      "min": 24,
+      "pts": 9,
+      "adjPts": 9.2,
+      "pointsPlus": 74
+    },
+    {
+      "date": "2026-01-12",
+      "matchup": "BOS @ IND",
+      "result": "L",
+      "min": 32,
+      "pts": 15,
+      "adjPts": 14.6,
+      "pointsPlus": 117
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "BOS @ MIA",
+      "result": "W",
+      "min": 20,
+      "pts": 9,
+      "adjPts": 8.8,
+      "pointsPlus": 71
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "BOS @ ATL",
+      "result": "W",
+      "min": 24,
+      "pts": 14,
+      "adjPts": 13.6,
+      "pointsPlus": 109
+    },
+    {
+      "date": "2026-01-19",
+      "matchup": "BOS @ DET",
+      "result": "L",
+      "min": 28,
+      "pts": 10,
+      "adjPts": 10.5,
+      "pointsPlus": 85
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "BOS vs. IND",
+      "result": "W",
+      "min": 29,
+      "pts": 17,
+      "adjPts": 16.5,
+      "pointsPlus": 133
+    },
+    {
+      "date": "2026-01-23",
+      "matchup": "BOS @ BKN",
+      "result": "W",
+      "min": 28,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 48
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "BOS @ CHI",
+      "result": "L",
+      "min": 24,
+      "pts": 6,
+      "adjPts": 5.7,
+      "pointsPlus": 46
+    },
+    {
+      "date": "2026-01-26",
+      "matchup": "BOS vs. POR",
+      "result": "W",
+      "min": 22,
+      "pts": 4,
+      "adjPts": 3.9,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2026-01-30",
+      "matchup": "BOS vs. SAC",
+      "result": "W",
+      "min": 29,
+      "pts": 10,
+      "adjPts": 9.6,
+      "pointsPlus": 77
+    },
+    {
+      "date": "2026-02-01",
+      "matchup": "BOS vs. MIL",
+      "result": "W",
+      "min": 31,
+      "pts": 14,
+      "adjPts": 14.0,
+      "pointsPlus": 112
+    },
+    {
+      "date": "2026-02-03",
+      "matchup": "BOS @ DAL",
+      "result": "W",
+      "min": 28,
+      "pts": 8,
+      "adjPts": 7.9,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2026-02-04",
+      "matchup": "BOS @ HOU",
+      "result": "W",
+      "min": 39,
+      "pts": 10,
+      "adjPts": 10.6,
+      "pointsPlus": 85
+    },
+    {
+      "date": "2026-02-06",
+      "matchup": "BOS vs. MIA",
+      "result": "W",
+      "min": 22,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 16
+    },
+    {
+      "date": "2026-02-08",
+      "matchup": "BOS vs. NYK",
+      "result": "L",
+      "min": 23,
+      "pts": 4,
+      "adjPts": 4.1,
+      "pointsPlus": 33
+    }
+  ]
+}

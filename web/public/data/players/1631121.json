@@ -1,0 +1,296 @@
+{
+  "id": 1631121,
+  "name": "Bryce McGowens",
+  "team": "NOP",
+  "rank": 231,
+  "gp": 31,
+  "ppg": 7.7,
+  "adjPpg": 7.7,
+  "pointsPlus": 62,
+  "mpg": 19.9,
+  "position": "G",
+  "jersey": "11",
+  "usgPct": 14.1,
+  "tsPct": 61.1,
+  "gameLog": [
+    {
+      "date": "2025-10-27",
+      "matchup": "NOP vs. BOS",
+      "result": "L",
+      "min": 3,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-10-29",
+      "matchup": "NOP @ DEN",
+      "result": "L",
+      "min": 6,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 16
+    },
+    {
+      "date": "2025-11-02",
+      "matchup": "NOP @ OKC",
+      "result": "L",
+      "min": 3,
+      "pts": 2,
+      "adjPts": 2.1,
+      "pointsPlus": 17
+    },
+    {
+      "date": "2025-11-10",
+      "matchup": "NOP @ PHX",
+      "result": "L",
+      "min": 5,
+      "pts": 2,
+      "adjPts": 2.1,
+      "pointsPlus": 17
+    },
+    {
+      "date": "2025-11-16",
+      "matchup": "NOP vs. GSW",
+      "result": "L",
+      "min": 13,
+      "pts": 8,
+      "adjPts": 8.1,
+      "pointsPlus": 65
+    },
+    {
+      "date": "2025-11-17",
+      "matchup": "NOP vs. OKC",
+      "result": "L",
+      "min": 13,
+      "pts": 4,
+      "adjPts": 4.3,
+      "pointsPlus": 34
+    },
+    {
+      "date": "2025-11-22",
+      "matchup": "NOP vs. ATL",
+      "result": "L",
+      "min": 20,
+      "pts": 9,
+      "adjPts": 8.7,
+      "pointsPlus": 70
+    },
+    {
+      "date": "2025-11-24",
+      "matchup": "NOP vs. CHI",
+      "result": "W",
+      "min": 18,
+      "pts": 11,
+      "adjPts": 10.5,
+      "pointsPlus": 84
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "NOP vs. MEM",
+      "result": "L",
+      "min": 14,
+      "pts": 6,
+      "adjPts": 5.9,
+      "pointsPlus": 47
+    },
+    {
+      "date": "2025-11-29",
+      "matchup": "NOP @ GSW",
+      "result": "L",
+      "min": 26,
+      "pts": 5,
+      "adjPts": 5.1,
+      "pointsPlus": 41
+    },
+    {
+      "date": "2025-11-30",
+      "matchup": "NOP @ LAL",
+      "result": "L",
+      "min": 33,
+      "pts": 23,
+      "adjPts": 22.7,
+      "pointsPlus": 182
+    },
+    {
+      "date": "2025-12-02",
+      "matchup": "NOP vs. MIN",
+      "result": "L",
+      "min": 26,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 48
+    },
+    {
+      "date": "2025-12-04",
+      "matchup": "NOP vs. MIN",
+      "result": "L",
+      "min": 34,
+      "pts": 15,
+      "adjPts": 15.1,
+      "pointsPlus": 121
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "NOP @ BKN",
+      "result": "L",
+      "min": 24,
+      "pts": 16,
+      "adjPts": 16.1,
+      "pointsPlus": 129
+    },
+    {
+      "date": "2025-12-08",
+      "matchup": "NOP vs. SAS",
+      "result": "L",
+      "min": 24,
+      "pts": 8,
+      "adjPts": 8.2,
+      "pointsPlus": 66
+    },
+    {
+      "date": "2025-12-11",
+      "matchup": "NOP vs. POR",
+      "result": "W",
+      "min": 30,
+      "pts": 23,
+      "adjPts": 22.5,
+      "pointsPlus": 180
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "NOP @ CHI",
+      "result": "W",
+      "min": 14,
+      "pts": 5,
+      "adjPts": 4.8,
+      "pointsPlus": 38
+    },
+    {
+      "date": "2025-12-18",
+      "matchup": "NOP vs. HOU",
+      "result": "W",
+      "min": 5,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "NOP @ CLE",
+      "result": "L",
+      "min": 31,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 64
+    },
+    {
+      "date": "2025-12-26",
+      "matchup": "NOP vs. PHX",
+      "result": "L",
+      "min": 22,
+      "pts": 4,
+      "adjPts": 4.1,
+      "pointsPlus": 33
+    },
+    {
+      "date": "2025-12-27",
+      "matchup": "NOP vs. PHX",
+      "result": "L",
+      "min": 24,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-02",
+      "matchup": "NOP vs. POR",
+      "result": "L",
+      "min": 24,
+      "pts": 13,
+      "adjPts": 12.7,
+      "pointsPlus": 102
+    },
+    {
+      "date": "2026-01-04",
+      "matchup": "NOP @ MIA",
+      "result": "L",
+      "min": 16,
+      "pts": 5,
+      "adjPts": 4.9,
+      "pointsPlus": 39
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "NOP @ ATL",
+      "result": "L",
+      "min": 37,
+      "pts": 20,
+      "adjPts": 19.4,
+      "pointsPlus": 156
+    },
+    {
+      "date": "2026-01-09",
+      "matchup": "NOP @ WAS",
+      "result": "W",
+      "min": 29,
+      "pts": 6,
+      "adjPts": 5.6,
+      "pointsPlus": 45
+    },
+    {
+      "date": "2026-01-11",
+      "matchup": "NOP @ ORL",
+      "result": "L",
+      "min": 26,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 48
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "NOP vs. BKN",
+      "result": "W",
+      "min": 15,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 40
+    },
+    {
+      "date": "2026-01-16",
+      "matchup": "NOP @ IND",
+      "result": "L",
+      "min": 16,
+      "pts": 4,
+      "adjPts": 3.9,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "NOP vs. DET",
+      "result": "L",
+      "min": 13,
+      "pts": 5,
+      "adjPts": 5.3,
+      "pointsPlus": 42
+    },
+    {
+      "date": "2026-02-06",
+      "matchup": "NOP @ MIN",
+      "result": "W",
+      "min": 28,
+      "pts": 11,
+      "adjPts": 11.1,
+      "pointsPlus": 89
+    },
+    {
+      "date": "2026-02-09",
+      "matchup": "NOP vs. SAC",
+      "result": "W",
+      "min": 24,
+      "pts": 8,
+      "adjPts": 7.7,
+      "pointsPlus": 62
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "id": 1631123,
+  "name": "Jamaree Bouyea",
+  "team": "PHX",
+  "rank": 255,
+  "gp": 27,
+  "ppg": 6.7,
+  "adjPpg": 6.8,
+  "pointsPlus": 54,
+  "mpg": 15.2,
+  "position": "G",
+  "jersey": "17",
+  "usgPct": 17.5,
+  "tsPct": 58.8,
+  "gameLog": [
+    {
+      "date": "2025-11-18",
+      "matchup": "PHX @ POR",
+      "result": "W",
+      "min": 3,
+      "pts": 3,
+      "adjPts": 2.9,
+      "pointsPlus": 24
+    },
+    {
+      "date": "2025-11-24",
+      "matchup": "PHX vs. HOU",
+      "result": "L",
+      "min": 3,
+      "pts": 3,
+      "adjPts": 3.2,
+      "pointsPlus": 26
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "PHX @ SAC",
+      "result": "W",
+      "min": 19,
+      "pts": 11,
+      "adjPts": 10.5,
+      "pointsPlus": 85
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "PHX @ OKC",
+      "result": "L",
+      "min": 14,
+      "pts": 9,
+      "adjPts": 9.7,
+      "pointsPlus": 78
+    },
+    {
+      "date": "2025-11-29",
+      "matchup": "PHX vs. DEN",
+      "result": "L",
+      "min": 15,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 24
+    },
+    {
+      "date": "2025-12-01",
+      "matchup": "PHX @ LAL",
+      "result": "W",
+      "min": 23,
+      "pts": 7,
+      "adjPts": 6.9,
+      "pointsPlus": 55
+    },
+    {
+      "date": "2025-12-05",
+      "matchup": "PHX @ HOU",
+      "result": "L",
+      "min": 18,
+      "pts": 18,
+      "adjPts": 19.1,
+      "pointsPlus": 153
+    },
+    {
+      "date": "2025-12-08",
+      "matchup": "PHX @ MIN",
+      "result": "W",
+      "min": 12,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 40
+    },
+    {
+      "date": "2025-12-10",
+      "matchup": "PHX @ OKC",
+      "result": "L",
+      "min": 28,
+      "pts": 14,
+      "adjPts": 15.0,
+      "pointsPlus": 121
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "PHX vs. LAL",
+      "result": "L",
+      "min": 6,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 16
+    },
+    {
+      "date": "2025-12-18",
+      "matchup": "PHX vs. GSW",
+      "result": "W",
+      "min": 14,
+      "pts": 4,
+      "adjPts": 4.1,
+      "pointsPlus": 33
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "PHX @ GSW",
+      "result": "L",
+      "min": 16,
+      "pts": 5,
+      "adjPts": 5.1,
+      "pointsPlus": 41
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "PHX vs. LAL",
+      "result": "W",
+      "min": 24,
+      "pts": 14,
+      "adjPts": 13.8,
+      "pointsPlus": 111
+    },
+    {
+      "date": "2025-12-26",
+      "matchup": "PHX @ NOP",
+      "result": "W",
+      "min": 12,
+      "pts": 3,
+      "adjPts": 2.9,
+      "pointsPlus": 23
+    },
+    {
+      "date": "2025-12-27",
+      "matchup": "PHX @ NOP",
+      "result": "W",
+      "min": 12,
+      "pts": 12,
+      "adjPts": 11.6,
+      "pointsPlus": 93
+    },
+    {
+      "date": "2025-12-29",
+      "matchup": "PHX @ WAS",
+      "result": "W",
+      "min": 13,
+      "pts": 2,
+      "adjPts": 1.9,
+      "pointsPlus": 15
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "PHX @ CLE",
+      "result": "L",
+      "min": 15,
+      "pts": 18,
+      "adjPts": 17.9,
+      "pointsPlus": 144
+    },
+    {
+      "date": "2026-01-02",
+      "matchup": "PHX vs. SAC",
+      "result": "W",
+      "min": 23,
+      "pts": 12,
+      "adjPts": 11.5,
+      "pointsPlus": 92
+    },
+    {
+      "date": "2026-01-04",
+      "matchup": "PHX vs. OKC",
+      "result": "W",
+      "min": 9,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-25",
+      "matchup": "PHX vs. MIA",
+      "result": "L",
+      "min": 13,
+      "pts": 5,
+      "adjPts": 4.9,
+      "pointsPlus": 39
+    },
+    {
+      "date": "2026-01-27",
+      "matchup": "PHX vs. BKN",
+      "result": "W",
+      "min": 24,
+      "pts": 10,
+      "adjPts": 10.1,
+      "pointsPlus": 81
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "PHX vs. DET",
+      "result": "W",
+      "min": 20,
+      "pts": 6,
+      "adjPts": 6.3,
+      "pointsPlus": 51
+    },
+    {
+      "date": "2026-01-30",
+      "matchup": "PHX vs. CLE",
+      "result": "W",
+      "min": 21,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 56
+    },
+    {
+      "date": "2026-02-01",
+      "matchup": "PHX vs. LAC",
+      "result": "L",
+      "min": 10,
+      "pts": 2,
+      "adjPts": 2.1,
+      "pointsPlus": 16
+    },
+    {
+      "date": "2026-02-03",
+      "matchup": "PHX @ POR",
+      "result": "W",
+      "min": 15,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "PHX vs. GSW",
+      "result": "L",
+      "min": 20,
+      "pts": 4,
+      "adjPts": 4.1,
+      "pointsPlus": 33
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "PHX vs. PHI",
+      "result": "L",
+      "min": 8,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 16
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "id": 1629611,
+  "name": "Terance Mann",
+  "team": "BKN",
+  "rank": 236,
+  "gp": 45,
+  "ppg": 7.6,
+  "adjPpg": 7.6,
+  "pointsPlus": 61,
+  "mpg": 25.3,
+  "position": "G-F",
+  "jersey": "14",
+  "usgPct": 13.4,
+  "tsPct": 56.2,
+  "gameLog": [
+    {
+      "date": "2025-10-22",
+      "matchup": "BKN @ CHA",
+      "result": "L",
+      "min": 19,
+      "pts": 13,
+      "adjPts": 13.2,
+      "pointsPlus": 106
+    },
+    {
+      "date": "2025-10-24",
+      "matchup": "BKN vs. CLE",
+      "result": "L",
+      "min": 24,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 32
+    },
+    {
+      "date": "2025-10-26",
+      "matchup": "BKN @ SAS",
+      "result": "L",
+      "min": 31,
+      "pts": 7,
+      "adjPts": 7.2,
+      "pointsPlus": 58
+    },
+    {
+      "date": "2025-10-27",
+      "matchup": "BKN @ HOU",
+      "result": "L",
+      "min": 23,
+      "pts": 21,
+      "adjPts": 22.3,
+      "pointsPlus": 179
+    },
+    {
+      "date": "2025-10-29",
+      "matchup": "BKN vs. ATL",
+      "result": "L",
+      "min": 30,
+      "pts": 11,
+      "adjPts": 10.7,
+      "pointsPlus": 86
+    },
+    {
+      "date": "2025-11-02",
+      "matchup": "BKN vs. PHI",
+      "result": "L",
+      "min": 34,
+      "pts": 17,
+      "adjPts": 17.2,
+      "pointsPlus": 138
+    },
+    {
+      "date": "2025-11-03",
+      "matchup": "BKN vs. MIN",
+      "result": "L",
+      "min": 28,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 56
+    },
+    {
+      "date": "2025-11-05",
+      "matchup": "BKN @ IND",
+      "result": "W",
+      "min": 35,
+      "pts": 15,
+      "adjPts": 14.6,
+      "pointsPlus": 117
+    },
+    {
+      "date": "2025-11-07",
+      "matchup": "BKN vs. DET",
+      "result": "L",
+      "min": 22,
+      "pts": 3,
+      "adjPts": 3.2,
+      "pointsPlus": 25
+    },
+    {
+      "date": "2025-11-09",
+      "matchup": "BKN @ NYK",
+      "result": "L",
+      "min": 18,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-11",
+      "matchup": "BKN vs. TOR",
+      "result": "L",
+      "min": 32,
+      "pts": 9,
+      "adjPts": 9.3,
+      "pointsPlus": 74
+    },
+    {
+      "date": "2025-11-14",
+      "matchup": "BKN @ ORL",
+      "result": "L",
+      "min": 28,
+      "pts": 12,
+      "adjPts": 12.0,
+      "pointsPlus": 96
+    },
+    {
+      "date": "2025-11-16",
+      "matchup": "BKN @ WAS",
+      "result": "W",
+      "min": 29,
+      "pts": 10,
+      "adjPts": 9.4,
+      "pointsPlus": 75
+    },
+    {
+      "date": "2025-11-18",
+      "matchup": "BKN vs. BOS",
+      "result": "L",
+      "min": 27,
+      "pts": 3,
+      "adjPts": 3.2,
+      "pointsPlus": 26
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "BKN @ BOS",
+      "result": "W",
+      "min": 32,
+      "pts": 6,
+      "adjPts": 6.4,
+      "pointsPlus": 51
+    },
+    {
+      "date": "2025-11-23",
+      "matchup": "BKN @ TOR",
+      "result": "L",
+      "min": 21,
+      "pts": 3,
+      "adjPts": 3.1,
+      "pointsPlus": 25
+    },
+    {
+      "date": "2025-11-24",
+      "matchup": "BKN vs. NYK",
+      "result": "L",
+      "min": 19,
+      "pts": 6,
+      "adjPts": 6.2,
+      "pointsPlus": 50
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "BKN vs. PHI",
+      "result": "L",
+      "min": 36,
+      "pts": 14,
+      "adjPts": 14.1,
+      "pointsPlus": 113
+    },
+    {
+      "date": "2025-11-29",
+      "matchup": "BKN @ MIL",
+      "result": "L",
+      "min": 21,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 32
+    },
+    {
+      "date": "2025-12-04",
+      "matchup": "BKN vs. UTA",
+      "result": "L",
+      "min": 18,
+      "pts": 3,
+      "adjPts": 2.8,
+      "pointsPlus": 22
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "BKN vs. NOP",
+      "result": "W",
+      "min": 26,
+      "pts": 10,
+      "adjPts": 9.6,
+      "pointsPlus": 77
+    },
+    {
+      "date": "2025-12-12",
+      "matchup": "BKN @ DAL",
+      "result": "L",
+      "min": 27,
+      "pts": 12,
+      "adjPts": 11.9,
+      "pointsPlus": 95
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "BKN vs. MIL",
+      "result": "W",
+      "min": 21,
+      "pts": 12,
+      "adjPts": 12.0,
+      "pointsPlus": 96
+    },
+    {
+      "date": "2025-12-18",
+      "matchup": "BKN vs. MIA",
+      "result": "L",
+      "min": 31,
+      "pts": 4,
+      "adjPts": 3.9,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "BKN vs. TOR",
+      "result": "W",
+      "min": 26,
+      "pts": 5,
+      "adjPts": 5.2,
+      "pointsPlus": 41
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "BKN @ PHI",
+      "result": "W",
+      "min": 30,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 32
+    },
+    {
+      "date": "2025-12-27",
+      "matchup": "BKN @ MIN",
+      "result": "W",
+      "min": 24,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 16
+    },
+    {
+      "date": "2025-12-29",
+      "matchup": "BKN vs. GSW",
+      "result": "L",
+      "min": 28,
+      "pts": 4,
+      "adjPts": 4.1,
+      "pointsPlus": 33
+    },
+    {
+      "date": "2026-01-02",
+      "matchup": "BKN @ WAS",
+      "result": "L",
+      "min": 24,
+      "pts": 14,
+      "adjPts": 13.1,
+      "pointsPlus": 105
+    },
+    {
+      "date": "2026-01-04",
+      "matchup": "BKN vs. DEN",
+      "result": "W",
+      "min": 26,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 48
+    },
+    {
+      "date": "2026-01-09",
+      "matchup": "BKN vs. LAC",
+      "result": "L",
+      "min": 24,
+      "pts": 8,
+      "adjPts": 8.2,
+      "pointsPlus": 66
+    },
+    {
+      "date": "2026-01-11",
+      "matchup": "BKN @ MEM",
+      "result": "L",
+      "min": 26,
+      "pts": 7,
+      "adjPts": 6.9,
+      "pointsPlus": 55
+    },
+    {
+      "date": "2026-01-12",
+      "matchup": "BKN @ DAL",
+      "result": "L",
+      "min": 29,
+      "pts": 5,
+      "adjPts": 4.9,
+      "pointsPlus": 40
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "BKN @ NOP",
+      "result": "L",
+      "min": 17,
+      "pts": 3,
+      "adjPts": 2.9,
+      "pointsPlus": 23
+    },
+    {
+      "date": "2026-01-16",
+      "matchup": "BKN vs. CHI",
+      "result": "W",
+      "min": 17,
+      "pts": 5,
+      "adjPts": 4.8,
+      "pointsPlus": 38
+    },
+    {
+      "date": "2026-01-18",
+      "matchup": "BKN @ CHI",
+      "result": "L",
+      "min": 28,
+      "pts": 9,
+      "adjPts": 8.6,
+      "pointsPlus": 69
+    },
+    {
+      "date": "2026-01-19",
+      "matchup": "BKN vs. PHX",
+      "result": "L",
+      "min": 26,
+      "pts": 10,
+      "adjPts": 10.3,
+      "pointsPlus": 83
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "BKN @ NYK",
+      "result": "L",
+      "min": 11,
+      "pts": 2,
+      "adjPts": 2.1,
+      "pointsPlus": 17
+    },
+    {
+      "date": "2026-01-25",
+      "matchup": "BKN @ LAC",
+      "result": "L",
+      "min": 20,
+      "pts": 8,
+      "adjPts": 8.2,
+      "pointsPlus": 66
+    },
+    {
+      "date": "2026-01-27",
+      "matchup": "BKN @ PHX",
+      "result": "L",
+      "min": 30,
+      "pts": 7,
+      "adjPts": 7.2,
+      "pointsPlus": 58
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "BKN @ DEN",
+      "result": "L",
+      "min": 29,
+      "pts": 12,
+      "adjPts": 12.0,
+      "pointsPlus": 96
+    },
+    {
+      "date": "2026-01-30",
+      "matchup": "BKN @ UTA",
+      "result": "W",
+      "min": 28,
+      "pts": 7,
+      "adjPts": 6.4,
+      "pointsPlus": 52
+    },
+    {
+      "date": "2026-02-01",
+      "matchup": "BKN @ DET",
+      "result": "L",
+      "min": 20,
+      "pts": 4,
+      "adjPts": 4.2,
+      "pointsPlus": 34
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "BKN vs. WAS",
+      "result": "W",
+      "min": 19,
+      "pts": 6,
+      "adjPts": 5.6,
+      "pointsPlus": 45
+    },
+    {
+      "date": "2026-02-09",
+      "matchup": "BKN vs. CHI",
+      "result": "W",
+      "min": 26,
+      "pts": 9,
+      "adjPts": 8.6,
+      "pointsPlus": 69
+    }
+  ]
+}

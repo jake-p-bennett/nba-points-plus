@@ -1,0 +1,512 @@
+{
+  "id": 203944,
+  "name": "Julius Randle",
+  "team": "MIN",
+  "rank": 30,
+  "gp": 55,
+  "ppg": 22.0,
+  "adjPpg": 21.8,
+  "pointsPlus": 175,
+  "mpg": 33.6,
+  "position": "F-C",
+  "jersey": "30",
+  "usgPct": 25.6,
+  "tsPct": 59.5,
+  "gameLog": [
+    {
+      "date": "2025-10-22",
+      "matchup": "MIN @ POR",
+      "result": "W",
+      "min": 37,
+      "pts": 19,
+      "adjPts": 18.6,
+      "pointsPlus": 149
+    },
+    {
+      "date": "2025-10-24",
+      "matchup": "MIN @ LAL",
+      "result": "L",
+      "min": 30,
+      "pts": 26,
+      "adjPts": 25.7,
+      "pointsPlus": 206
+    },
+    {
+      "date": "2025-10-26",
+      "matchup": "MIN vs. IND",
+      "result": "W",
+      "min": 39,
+      "pts": 31,
+      "adjPts": 30.2,
+      "pointsPlus": 242
+    },
+    {
+      "date": "2025-10-27",
+      "matchup": "MIN vs. DEN",
+      "result": "L",
+      "min": 35,
+      "pts": 24,
+      "adjPts": 24.0,
+      "pointsPlus": 192
+    },
+    {
+      "date": "2025-10-29",
+      "matchup": "MIN vs. LAL",
+      "result": "L",
+      "min": 36,
+      "pts": 33,
+      "adjPts": 32.6,
+      "pointsPlus": 261
+    },
+    {
+      "date": "2025-11-01",
+      "matchup": "MIN @ CHA",
+      "result": "W",
+      "min": 32,
+      "pts": 30,
+      "adjPts": 30.4,
+      "pointsPlus": 244
+    },
+    {
+      "date": "2025-11-03",
+      "matchup": "MIN @ BKN",
+      "result": "W",
+      "min": 34,
+      "pts": 19,
+      "adjPts": 19.1,
+      "pointsPlus": 154
+    },
+    {
+      "date": "2025-11-05",
+      "matchup": "MIN @ NYK",
+      "result": "L",
+      "min": 38,
+      "pts": 32,
+      "adjPts": 32.9,
+      "pointsPlus": 264
+    },
+    {
+      "date": "2025-11-07",
+      "matchup": "MIN vs. UTA",
+      "result": "W",
+      "min": 26,
+      "pts": 19,
+      "adjPts": 17.5,
+      "pointsPlus": 140
+    },
+    {
+      "date": "2025-11-09",
+      "matchup": "MIN @ SAC",
+      "result": "W",
+      "min": 26,
+      "pts": 19,
+      "adjPts": 18.2,
+      "pointsPlus": 146
+    },
+    {
+      "date": "2025-11-10",
+      "matchup": "MIN @ UTA",
+      "result": "W",
+      "min": 34,
+      "pts": 27,
+      "adjPts": 24.8,
+      "pointsPlus": 199
+    },
+    {
+      "date": "2025-11-14",
+      "matchup": "MIN vs. SAC",
+      "result": "W",
+      "min": 32,
+      "pts": 26,
+      "adjPts": 24.9,
+      "pointsPlus": 200
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "MIN vs. DEN",
+      "result": "L",
+      "min": 38,
+      "pts": 26,
+      "adjPts": 26.0,
+      "pointsPlus": 208
+    },
+    {
+      "date": "2025-11-17",
+      "matchup": "MIN vs. DAL",
+      "result": "W",
+      "min": 27,
+      "pts": 12,
+      "adjPts": 11.9,
+      "pointsPlus": 95
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "MIN vs. WAS",
+      "result": "W",
+      "min": 33,
+      "pts": 32,
+      "adjPts": 30.0,
+      "pointsPlus": 241
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "MIN @ PHX",
+      "result": "L",
+      "min": 34,
+      "pts": 20,
+      "adjPts": 20.7,
+      "pointsPlus": 166
+    },
+    {
+      "date": "2025-11-24",
+      "matchup": "MIN @ SAC",
+      "result": "L",
+      "min": 39,
+      "pts": 17,
+      "adjPts": 16.3,
+      "pointsPlus": 131
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "MIN @ OKC",
+      "result": "L",
+      "min": 33,
+      "pts": 10,
+      "adjPts": 10.7,
+      "pointsPlus": 86
+    },
+    {
+      "date": "2025-11-29",
+      "matchup": "MIN vs. BOS",
+      "result": "W",
+      "min": 32,
+      "pts": 16,
+      "adjPts": 17.0,
+      "pointsPlus": 137
+    },
+    {
+      "date": "2025-11-30",
+      "matchup": "MIN vs. SAS",
+      "result": "W",
+      "min": 36,
+      "pts": 22,
+      "adjPts": 22.6,
+      "pointsPlus": 181
+    },
+    {
+      "date": "2025-12-02",
+      "matchup": "MIN @ NOP",
+      "result": "W",
+      "min": 33,
+      "pts": 16,
+      "adjPts": 15.4,
+      "pointsPlus": 124
+    },
+    {
+      "date": "2025-12-04",
+      "matchup": "MIN @ NOP",
+      "result": "W",
+      "min": 37,
+      "pts": 28,
+      "adjPts": 27.0,
+      "pointsPlus": 217
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "MIN vs. LAC",
+      "result": "W",
+      "min": 33,
+      "pts": 24,
+      "adjPts": 24.7,
+      "pointsPlus": 198
+    },
+    {
+      "date": "2025-12-08",
+      "matchup": "MIN vs. PHX",
+      "result": "L",
+      "min": 37,
+      "pts": 21,
+      "adjPts": 21.7,
+      "pointsPlus": 174
+    },
+    {
+      "date": "2025-12-12",
+      "matchup": "MIN @ GSW",
+      "result": "W",
+      "min": 34,
+      "pts": 27,
+      "adjPts": 27.4,
+      "pointsPlus": 220
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "MIN vs. SAC",
+      "result": "W",
+      "min": 36,
+      "pts": 24,
+      "adjPts": 23.0,
+      "pointsPlus": 185
+    },
+    {
+      "date": "2025-12-17",
+      "matchup": "MIN vs. MEM",
+      "result": "L",
+      "min": 35,
+      "pts": 21,
+      "adjPts": 20.6,
+      "pointsPlus": 165
+    },
+    {
+      "date": "2025-12-19",
+      "matchup": "MIN vs. OKC",
+      "result": "W",
+      "min": 32,
+      "pts": 19,
+      "adjPts": 20.4,
+      "pointsPlus": 164
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "MIN vs. MIL",
+      "result": "W",
+      "min": 32,
+      "pts": 12,
+      "adjPts": 12.0,
+      "pointsPlus": 96
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "MIN vs. NYK",
+      "result": "W",
+      "min": 33,
+      "pts": 25,
+      "adjPts": 25.7,
+      "pointsPlus": 206
+    },
+    {
+      "date": "2025-12-25",
+      "matchup": "MIN @ DEN",
+      "result": "L",
+      "min": 39,
+      "pts": 32,
+      "adjPts": 32.0,
+      "pointsPlus": 257
+    },
+    {
+      "date": "2025-12-27",
+      "matchup": "MIN vs. BKN",
+      "result": "L",
+      "min": 34,
+      "pts": 13,
+      "adjPts": 13.1,
+      "pointsPlus": 105
+    },
+    {
+      "date": "2025-12-29",
+      "matchup": "MIN @ CHI",
+      "result": "W",
+      "min": 28,
+      "pts": 17,
+      "adjPts": 16.2,
+      "pointsPlus": 130
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "MIN @ ATL",
+      "result": "L",
+      "min": 31,
+      "pts": 19,
+      "adjPts": 18.4,
+      "pointsPlus": 148
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "MIN @ MIA",
+      "result": "W",
+      "min": 39,
+      "pts": 23,
+      "adjPts": 22.5,
+      "pointsPlus": 181
+    },
+    {
+      "date": "2026-01-04",
+      "matchup": "MIN @ WAS",
+      "result": "W",
+      "min": 25,
+      "pts": 22,
+      "adjPts": 20.6,
+      "pointsPlus": 166
+    },
+    {
+      "date": "2026-01-06",
+      "matchup": "MIN vs. MIA",
+      "result": "W",
+      "min": 27,
+      "pts": 15,
+      "adjPts": 14.7,
+      "pointsPlus": 118
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "MIN vs. CLE",
+      "result": "W",
+      "min": 35,
+      "pts": 28,
+      "adjPts": 27.9,
+      "pointsPlus": 224
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "MIN @ CLE",
+      "result": "L",
+      "min": 31,
+      "pts": 20,
+      "adjPts": 19.9,
+      "pointsPlus": 160
+    },
+    {
+      "date": "2026-01-11",
+      "matchup": "MIN vs. SAS",
+      "result": "W",
+      "min": 35,
+      "pts": 15,
+      "adjPts": 15.4,
+      "pointsPlus": 124
+    },
+    {
+      "date": "2026-01-13",
+      "matchup": "MIN @ MIL",
+      "result": "W",
+      "min": 30,
+      "pts": 29,
+      "adjPts": 29.0,
+      "pointsPlus": 232
+    },
+    {
+      "date": "2026-01-16",
+      "matchup": "MIN @ HOU",
+      "result": "L",
+      "min": 40,
+      "pts": 39,
+      "adjPts": 41.4,
+      "pointsPlus": 332
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "MIN @ SAS",
+      "result": "L",
+      "min": 41,
+      "pts": 17,
+      "adjPts": 17.4,
+      "pointsPlus": 140
+    },
+    {
+      "date": "2026-01-20",
+      "matchup": "MIN @ UTA",
+      "result": "L",
+      "min": 34,
+      "pts": 19,
+      "adjPts": 17.5,
+      "pointsPlus": 140
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "MIN vs. CHI",
+      "result": "L",
+      "min": 31,
+      "pts": 30,
+      "adjPts": 28.7,
+      "pointsPlus": 230
+    },
+    {
+      "date": "2026-01-25",
+      "matchup": "MIN vs. GSW",
+      "result": "L",
+      "min": 35,
+      "pts": 11,
+      "adjPts": 11.2,
+      "pointsPlus": 90
+    },
+    {
+      "date": "2026-01-26",
+      "matchup": "MIN vs. GSW",
+      "result": "W",
+      "min": 23,
+      "pts": 18,
+      "adjPts": 18.3,
+      "pointsPlus": 147
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "MIN @ DAL",
+      "result": "W",
+      "min": 34,
+      "pts": 31,
+      "adjPts": 30.7,
+      "pointsPlus": 246
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "MIN vs. OKC",
+      "result": "W",
+      "min": 25,
+      "pts": 13,
+      "adjPts": 14.0,
+      "pointsPlus": 112
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "MIN @ MEM",
+      "result": "W",
+      "min": 35,
+      "pts": 27,
+      "adjPts": 26.5,
+      "pointsPlus": 213
+    },
+    {
+      "date": "2026-02-02",
+      "matchup": "MIN @ MEM",
+      "result": "L",
+      "min": 40,
+      "pts": 19,
+      "adjPts": 18.7,
+      "pointsPlus": 150
+    },
+    {
+      "date": "2026-02-04",
+      "matchup": "MIN @ TOR",
+      "result": "W",
+      "min": 36,
+      "pts": 17,
+      "adjPts": 17.5,
+      "pointsPlus": 141
+    },
+    {
+      "date": "2026-02-06",
+      "matchup": "MIN vs. NOP",
+      "result": "L",
+      "min": 37,
+      "pts": 24,
+      "adjPts": 23.1,
+      "pointsPlus": 186
+    },
+    {
+      "date": "2026-02-08",
+      "matchup": "MIN vs. LAC",
+      "result": "L",
+      "min": 33,
+      "pts": 17,
+      "adjPts": 17.5,
+      "pointsPlus": 140
+    },
+    {
+      "date": "2026-02-09",
+      "matchup": "MIN vs. ATL",
+      "result": "W",
+      "min": 39,
+      "pts": 18,
+      "adjPts": 17.5,
+      "pointsPlus": 140
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "id": 1631097,
+  "name": "Bennedict Mathurin",
+  "team": "LAC",
+  "rank": 64,
+  "gp": 29,
+  "ppg": 17.4,
+  "adjPpg": 17.5,
+  "pointsPlus": 141,
+  "mpg": 31.6,
+  "position": "G-F",
+  "jersey": "9",
+  "usgPct": 22.9,
+  "tsPct": 58.1,
+  "gameLog": [
+    {
+      "date": "2025-10-23",
+      "matchup": "IND vs. OKC",
+      "result": "L",
+      "min": 45,
+      "pts": 36,
+      "adjPts": 38.7,
+      "pointsPlus": 310
+    },
+    {
+      "date": "2025-10-25",
+      "matchup": "IND @ MEM",
+      "result": "L",
+      "min": 28,
+      "pts": 26,
+      "adjPts": 25.5,
+      "pointsPlus": 205
+    },
+    {
+      "date": "2025-11-17",
+      "matchup": "IND @ DET",
+      "result": "L",
+      "min": 25,
+      "pts": 25,
+      "adjPts": 26.4,
+      "pointsPlus": 212
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "IND vs. CHA",
+      "result": "W",
+      "min": 34,
+      "pts": 24,
+      "adjPts": 24.4,
+      "pointsPlus": 196
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "IND @ CLE",
+      "result": "L",
+      "min": 37,
+      "pts": 21,
+      "adjPts": 20.9,
+      "pointsPlus": 168
+    },
+    {
+      "date": "2025-11-24",
+      "matchup": "IND vs. DET",
+      "result": "L",
+      "min": 28,
+      "pts": 14,
+      "adjPts": 14.8,
+      "pointsPlus": 118
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "IND @ TOR",
+      "result": "L",
+      "min": 34,
+      "pts": 15,
+      "adjPts": 15.5,
+      "pointsPlus": 124
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "IND vs. WAS",
+      "result": "W",
+      "min": 34,
+      "pts": 20,
+      "adjPts": 18.7,
+      "pointsPlus": 150
+    },
+    {
+      "date": "2025-11-29",
+      "matchup": "IND vs. CHI",
+      "result": "W",
+      "min": 38,
+      "pts": 19,
+      "adjPts": 18.1,
+      "pointsPlus": 146
+    },
+    {
+      "date": "2025-12-01",
+      "matchup": "IND vs. CLE",
+      "result": "L",
+      "min": 22,
+      "pts": 11,
+      "adjPts": 10.9,
+      "pointsPlus": 88
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "IND vs. DEN",
+      "result": "L",
+      "min": 28,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 120
+    },
+    {
+      "date": "2025-12-05",
+      "matchup": "IND @ CHI",
+      "result": "W",
+      "min": 38,
+      "pts": 28,
+      "adjPts": 26.7,
+      "pointsPlus": 215
+    },
+    {
+      "date": "2025-12-08",
+      "matchup": "IND vs. SAC",
+      "result": "W",
+      "min": 35,
+      "pts": 25,
+      "adjPts": 24.0,
+      "pointsPlus": 192
+    },
+    {
+      "date": "2025-12-12",
+      "matchup": "IND @ PHI",
+      "result": "L",
+      "min": 30,
+      "pts": 7,
+      "adjPts": 7.1,
+      "pointsPlus": 57
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "IND vs. WAS",
+      "result": "L",
+      "min": 32,
+      "pts": 15,
+      "adjPts": 14.1,
+      "pointsPlus": 113
+    },
+    {
+      "date": "2025-12-18",
+      "matchup": "IND vs. NYK",
+      "result": "L",
+      "min": 38,
+      "pts": 16,
+      "adjPts": 16.5,
+      "pointsPlus": 132
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "IND @ NOP",
+      "result": "L",
+      "min": 27,
+      "pts": 4,
+      "adjPts": 3.9,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2025-12-22",
+      "matchup": "IND @ BOS",
+      "result": "L",
+      "min": 37,
+      "pts": 16,
+      "adjPts": 17.0,
+      "pointsPlus": 137
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "IND vs. MIL",
+      "result": "L",
+      "min": 34,
+      "pts": 13,
+      "adjPts": 13.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-12-26",
+      "matchup": "IND vs. BOS",
+      "result": "L",
+      "min": 30,
+      "pts": 13,
+      "adjPts": 13.8,
+      "pointsPlus": 111
+    },
+    {
+      "date": "2025-12-27",
+      "matchup": "IND @ MIA",
+      "result": "L",
+      "min": 35,
+      "pts": 25,
+      "adjPts": 24.5,
+      "pointsPlus": 197
+    },
+    {
+      "date": "2025-12-29",
+      "matchup": "IND @ HOU",
+      "result": "L",
+      "min": 26,
+      "pts": 14,
+      "adjPts": 14.9,
+      "pointsPlus": 119
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "IND vs. ORL",
+      "result": "L",
+      "min": 37,
+      "pts": 23,
+      "adjPts": 23.0,
+      "pointsPlus": 185
+    },
+    {
+      "date": "2026-01-02",
+      "matchup": "IND vs. SAS",
+      "result": "L",
+      "min": 20,
+      "pts": 2,
+      "adjPts": 2.1,
+      "pointsPlus": 16
+    },
+    {
+      "date": "2026-01-26",
+      "matchup": "IND @ ATL",
+      "result": "L",
+      "min": 25,
+      "pts": 16,
+      "adjPts": 15.5,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "IND vs. CHI",
+      "result": "W",
+      "min": 28,
+      "pts": 15,
+      "adjPts": 14.3,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "IND vs. ATL",
+      "result": "W",
+      "min": 32,
+      "pts": 14,
+      "adjPts": 13.6,
+      "pointsPlus": 109
+    },
+    {
+      "date": "2026-02-02",
+      "matchup": "IND vs. HOU",
+      "result": "L",
+      "min": 34,
+      "pts": 25,
+      "adjPts": 26.5,
+      "pointsPlus": 213
+    },
+    {
+      "date": "2026-02-10",
+      "matchup": "LAC @ HOU",
+      "result": "L",
+      "min": 26,
+      "pts": 9,
+      "adjPts": 9.5,
+      "pointsPlus": 77
+    }
+  ]
+}

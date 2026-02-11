@@ -1,0 +1,287 @@
+{
+  "id": 203507,
+  "name": "Giannis Antetokounmpo",
+  "team": "MIL",
+  "rank": 9,
+  "gp": 30,
+  "ppg": 28.0,
+  "adjPpg": 27.8,
+  "pointsPlus": 223,
+  "mpg": 29.2,
+  "position": "F",
+  "jersey": "34",
+  "usgPct": 34.9,
+  "tsPct": 67.9,
+  "gameLog": [
+    {
+      "date": "2025-10-22",
+      "matchup": "MIL vs. WAS",
+      "result": "W",
+      "min": 27,
+      "pts": 37,
+      "adjPts": 34.7,
+      "pointsPlus": 278
+    },
+    {
+      "date": "2025-10-24",
+      "matchup": "MIL @ TOR",
+      "result": "W",
+      "min": 38,
+      "pts": 31,
+      "adjPts": 32.0,
+      "pointsPlus": 257
+    },
+    {
+      "date": "2025-10-26",
+      "matchup": "MIL @ CLE",
+      "result": "L",
+      "min": 33,
+      "pts": 40,
+      "adjPts": 39.8,
+      "pointsPlus": 320
+    },
+    {
+      "date": "2025-10-28",
+      "matchup": "MIL vs. NYK",
+      "result": "W",
+      "min": 33,
+      "pts": 37,
+      "adjPts": 38.0,
+      "pointsPlus": 305
+    },
+    {
+      "date": "2025-11-01",
+      "matchup": "MIL vs. SAC",
+      "result": "L",
+      "min": 32,
+      "pts": 26,
+      "adjPts": 24.9,
+      "pointsPlus": 200
+    },
+    {
+      "date": "2025-11-03",
+      "matchup": "MIL @ IND",
+      "result": "W",
+      "min": 32,
+      "pts": 33,
+      "adjPts": 32.1,
+      "pointsPlus": 258
+    },
+    {
+      "date": "2025-11-04",
+      "matchup": "MIL @ TOR",
+      "result": "L",
+      "min": 24,
+      "pts": 22,
+      "adjPts": 22.7,
+      "pointsPlus": 182
+    },
+    {
+      "date": "2025-11-07",
+      "matchup": "MIL vs. CHI",
+      "result": "W",
+      "min": 37,
+      "pts": 41,
+      "adjPts": 39.2,
+      "pointsPlus": 314
+    },
+    {
+      "date": "2025-11-09",
+      "matchup": "MIL vs. HOU",
+      "result": "L",
+      "min": 36,
+      "pts": 37,
+      "adjPts": 39.3,
+      "pointsPlus": 315
+    },
+    {
+      "date": "2025-11-10",
+      "matchup": "MIL @ DAL",
+      "result": "W",
+      "min": 37,
+      "pts": 30,
+      "adjPts": 29.7,
+      "pointsPlus": 238
+    },
+    {
+      "date": "2025-11-14",
+      "matchup": "MIL vs. CHA",
+      "result": "W",
+      "min": 40,
+      "pts": 25,
+      "adjPts": 25.4,
+      "pointsPlus": 204
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "MIL vs. LAL",
+      "result": "L",
+      "min": 32,
+      "pts": 32,
+      "adjPts": 31.6,
+      "pointsPlus": 253
+    },
+    {
+      "date": "2025-11-17",
+      "matchup": "MIL @ CLE",
+      "result": "L",
+      "min": 13,
+      "pts": 14,
+      "adjPts": 13.9,
+      "pointsPlus": 112
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "MIL @ NYK",
+      "result": "L",
+      "min": 28,
+      "pts": 30,
+      "adjPts": 30.8,
+      "pointsPlus": 248
+    },
+    {
+      "date": "2025-11-29",
+      "matchup": "MIL vs. BKN",
+      "result": "W",
+      "min": 19,
+      "pts": 29,
+      "adjPts": 29.2,
+      "pointsPlus": 234
+    },
+    {
+      "date": "2025-12-01",
+      "matchup": "MIL @ WAS",
+      "result": "L",
+      "min": 32,
+      "pts": 26,
+      "adjPts": 24.4,
+      "pointsPlus": 196
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "MIL vs. DET",
+      "result": "W",
+      "min": 3,
+      "pts": 2,
+      "adjPts": 2.1,
+      "pointsPlus": 17
+    },
+    {
+      "date": "2025-12-27",
+      "matchup": "MIL @ CHI",
+      "result": "W",
+      "min": 25,
+      "pts": 29,
+      "adjPts": 27.7,
+      "pointsPlus": 222
+    },
+    {
+      "date": "2025-12-29",
+      "matchup": "MIL @ CHA",
+      "result": "W",
+      "min": 25,
+      "pts": 24,
+      "adjPts": 24.4,
+      "pointsPlus": 196
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "MIL vs. WAS",
+      "result": "L",
+      "min": 28,
+      "pts": 33,
+      "adjPts": 30.9,
+      "pointsPlus": 248
+    },
+    {
+      "date": "2026-01-02",
+      "matchup": "MIL vs. CHA",
+      "result": "W",
+      "min": 30,
+      "pts": 30,
+      "adjPts": 30.4,
+      "pointsPlus": 244
+    },
+    {
+      "date": "2026-01-04",
+      "matchup": "MIL @ SAC",
+      "result": "W",
+      "min": 32,
+      "pts": 37,
+      "adjPts": 35.5,
+      "pointsPlus": 285
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "MIL @ GSW",
+      "result": "L",
+      "min": 31,
+      "pts": 34,
+      "adjPts": 34.6,
+      "pointsPlus": 277
+    },
+    {
+      "date": "2026-01-09",
+      "matchup": "MIL @ LAL",
+      "result": "W",
+      "min": 31,
+      "pts": 21,
+      "adjPts": 20.7,
+      "pointsPlus": 166
+    },
+    {
+      "date": "2026-01-11",
+      "matchup": "MIL @ DEN",
+      "result": "L",
+      "min": 33,
+      "pts": 31,
+      "adjPts": 31.0,
+      "pointsPlus": 249
+    },
+    {
+      "date": "2026-01-13",
+      "matchup": "MIL vs. MIN",
+      "result": "L",
+      "min": 31,
+      "pts": 25,
+      "adjPts": 25.1,
+      "pointsPlus": 202
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "MIL @ SAS",
+      "result": "L",
+      "min": 22,
+      "pts": 21,
+      "adjPts": 21.6,
+      "pointsPlus": 173
+    },
+    {
+      "date": "2026-01-19",
+      "matchup": "MIL @ ATL",
+      "result": "W",
+      "min": 30,
+      "pts": 21,
+      "adjPts": 20.4,
+      "pointsPlus": 164
+    },
+    {
+      "date": "2026-01-21",
+      "matchup": "MIL vs. OKC",
+      "result": "L",
+      "min": 31,
+      "pts": 19,
+      "adjPts": 20.4,
+      "pointsPlus": 164
+    },
+    {
+      "date": "2026-01-23",
+      "matchup": "MIL vs. DEN",
+      "result": "L",
+      "min": 32,
+      "pts": 22,
+      "adjPts": 22.0,
+      "pointsPlus": 176
+    }
+  ]
+}

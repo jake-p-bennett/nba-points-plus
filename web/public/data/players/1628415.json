@@ -1,0 +1,449 @@
+{
+  "id": 1628415,
+  "name": "Dillon Brooks",
+  "team": "PHX",
+  "rank": 34,
+  "gp": 48,
+  "ppg": 21.2,
+  "adjPpg": 21.3,
+  "pointsPlus": 171,
+  "mpg": 31.2,
+  "position": "G-F",
+  "jersey": "3",
+  "usgPct": 28.0,
+  "tsPct": 54.9,
+  "gameLog": [
+    {
+      "date": "2025-10-22",
+      "matchup": "PHX vs. SAC",
+      "result": "W",
+      "min": 34,
+      "pts": 22,
+      "adjPts": 21.1,
+      "pointsPlus": 169
+    },
+    {
+      "date": "2025-10-24",
+      "matchup": "PHX @ LAC",
+      "result": "L",
+      "min": 27,
+      "pts": 21,
+      "adjPts": 21.6,
+      "pointsPlus": 173
+    },
+    {
+      "date": "2025-10-25",
+      "matchup": "PHX @ DEN",
+      "result": "L",
+      "min": 31,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 120
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "PHX @ LAC",
+      "result": "W",
+      "min": 28,
+      "pts": 16,
+      "adjPts": 16.4,
+      "pointsPlus": 132
+    },
+    {
+      "date": "2025-11-10",
+      "matchup": "PHX vs. NOP",
+      "result": "W",
+      "min": 26,
+      "pts": 18,
+      "adjPts": 17.3,
+      "pointsPlus": 139
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "PHX @ DAL",
+      "result": "W",
+      "min": 31,
+      "pts": 18,
+      "adjPts": 17.8,
+      "pointsPlus": 143
+    },
+    {
+      "date": "2025-11-13",
+      "matchup": "PHX vs. IND",
+      "result": "W",
+      "min": 28,
+      "pts": 32,
+      "adjPts": 31.1,
+      "pointsPlus": 250
+    },
+    {
+      "date": "2025-11-16",
+      "matchup": "PHX vs. ATL",
+      "result": "L",
+      "min": 36,
+      "pts": 34,
+      "adjPts": 33.0,
+      "pointsPlus": 265
+    },
+    {
+      "date": "2025-11-18",
+      "matchup": "PHX @ POR",
+      "result": "W",
+      "min": 26,
+      "pts": 12,
+      "adjPts": 11.7,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "PHX vs. MIN",
+      "result": "W",
+      "min": 37,
+      "pts": 22,
+      "adjPts": 22.1,
+      "pointsPlus": 177
+    },
+    {
+      "date": "2025-11-23",
+      "matchup": "PHX vs. SAS",
+      "result": "W",
+      "min": 35,
+      "pts": 25,
+      "adjPts": 25.7,
+      "pointsPlus": 206
+    },
+    {
+      "date": "2025-11-24",
+      "matchup": "PHX vs. HOU",
+      "result": "L",
+      "min": 32,
+      "pts": 29,
+      "adjPts": 30.8,
+      "pointsPlus": 247
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "PHX @ SAC",
+      "result": "W",
+      "min": 33,
+      "pts": 13,
+      "adjPts": 12.5,
+      "pointsPlus": 100
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "PHX @ OKC",
+      "result": "L",
+      "min": 39,
+      "pts": 19,
+      "adjPts": 20.4,
+      "pointsPlus": 164
+    },
+    {
+      "date": "2025-11-29",
+      "matchup": "PHX vs. DEN",
+      "result": "L",
+      "min": 28,
+      "pts": 27,
+      "adjPts": 27.0,
+      "pointsPlus": 217
+    },
+    {
+      "date": "2025-12-01",
+      "matchup": "PHX @ LAL",
+      "result": "W",
+      "min": 33,
+      "pts": 33,
+      "adjPts": 32.6,
+      "pointsPlus": 261
+    },
+    {
+      "date": "2025-12-05",
+      "matchup": "PHX @ HOU",
+      "result": "L",
+      "min": 31,
+      "pts": 23,
+      "adjPts": 24.4,
+      "pointsPlus": 196
+    },
+    {
+      "date": "2025-12-08",
+      "matchup": "PHX @ MIN",
+      "result": "W",
+      "min": 31,
+      "pts": 18,
+      "adjPts": 18.1,
+      "pointsPlus": 145
+    },
+    {
+      "date": "2025-12-10",
+      "matchup": "PHX @ OKC",
+      "result": "L",
+      "min": 26,
+      "pts": 16,
+      "adjPts": 17.2,
+      "pointsPlus": 138
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "PHX vs. LAL",
+      "result": "L",
+      "min": 25,
+      "pts": 18,
+      "adjPts": 17.8,
+      "pointsPlus": 143
+    },
+    {
+      "date": "2025-12-18",
+      "matchup": "PHX vs. GSW",
+      "result": "W",
+      "min": 33,
+      "pts": 24,
+      "adjPts": 24.4,
+      "pointsPlus": 196
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "PHX @ GSW",
+      "result": "L",
+      "min": 32,
+      "pts": 22,
+      "adjPts": 22.4,
+      "pointsPlus": 179
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "PHX vs. LAL",
+      "result": "W",
+      "min": 24,
+      "pts": 25,
+      "adjPts": 24.7,
+      "pointsPlus": 198
+    },
+    {
+      "date": "2025-12-26",
+      "matchup": "PHX @ NOP",
+      "result": "W",
+      "min": 33,
+      "pts": 14,
+      "adjPts": 13.5,
+      "pointsPlus": 108
+    },
+    {
+      "date": "2025-12-27",
+      "matchup": "PHX @ NOP",
+      "result": "W",
+      "min": 33,
+      "pts": 18,
+      "adjPts": 17.3,
+      "pointsPlus": 139
+    },
+    {
+      "date": "2025-12-29",
+      "matchup": "PHX @ WAS",
+      "result": "W",
+      "min": 33,
+      "pts": 26,
+      "adjPts": 24.4,
+      "pointsPlus": 196
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "PHX @ CLE",
+      "result": "L",
+      "min": 34,
+      "pts": 20,
+      "adjPts": 19.9,
+      "pointsPlus": 160
+    },
+    {
+      "date": "2026-01-02",
+      "matchup": "PHX vs. SAC",
+      "result": "W",
+      "min": 25,
+      "pts": 18,
+      "adjPts": 17.3,
+      "pointsPlus": 139
+    },
+    {
+      "date": "2026-01-04",
+      "matchup": "PHX vs. OKC",
+      "result": "W",
+      "min": 34,
+      "pts": 22,
+      "adjPts": 23.6,
+      "pointsPlus": 190
+    },
+    {
+      "date": "2026-01-05",
+      "matchup": "PHX @ HOU",
+      "result": "L",
+      "min": 34,
+      "pts": 15,
+      "adjPts": 15.9,
+      "pointsPlus": 128
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "PHX @ MEM",
+      "result": "W",
+      "min": 25,
+      "pts": 21,
+      "adjPts": 20.6,
+      "pointsPlus": 165
+    },
+    {
+      "date": "2026-01-09",
+      "matchup": "PHX vs. NYK",
+      "result": "W",
+      "min": 33,
+      "pts": 27,
+      "adjPts": 27.8,
+      "pointsPlus": 223
+    },
+    {
+      "date": "2026-01-11",
+      "matchup": "PHX vs. WAS",
+      "result": "W",
+      "min": 24,
+      "pts": 16,
+      "adjPts": 15.0,
+      "pointsPlus": 120
+    },
+    {
+      "date": "2026-01-13",
+      "matchup": "PHX @ MIA",
+      "result": "L",
+      "min": 36,
+      "pts": 25,
+      "adjPts": 24.5,
+      "pointsPlus": 197
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "PHX @ DET",
+      "result": "L",
+      "min": 28,
+      "pts": 16,
+      "adjPts": 16.9,
+      "pointsPlus": 135
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "PHX @ NYK",
+      "result": "W",
+      "min": 29,
+      "pts": 5,
+      "adjPts": 5.1,
+      "pointsPlus": 41
+    },
+    {
+      "date": "2026-01-19",
+      "matchup": "PHX @ BKN",
+      "result": "W",
+      "min": 34,
+      "pts": 27,
+      "adjPts": 27.2,
+      "pointsPlus": 218
+    },
+    {
+      "date": "2026-01-20",
+      "matchup": "PHX @ PHI",
+      "result": "W",
+      "min": 30,
+      "pts": 6,
+      "adjPts": 6.1,
+      "pointsPlus": 49
+    },
+    {
+      "date": "2026-01-23",
+      "matchup": "PHX @ ATL",
+      "result": "L",
+      "min": 34,
+      "pts": 11,
+      "adjPts": 10.7,
+      "pointsPlus": 86
+    },
+    {
+      "date": "2026-01-25",
+      "matchup": "PHX vs. MIA",
+      "result": "L",
+      "min": 36,
+      "pts": 26,
+      "adjPts": 25.5,
+      "pointsPlus": 205
+    },
+    {
+      "date": "2026-01-27",
+      "matchup": "PHX vs. BKN",
+      "result": "W",
+      "min": 34,
+      "pts": 26,
+      "adjPts": 26.2,
+      "pointsPlus": 210
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "PHX vs. DET",
+      "result": "W",
+      "min": 33,
+      "pts": 40,
+      "adjPts": 42.2,
+      "pointsPlus": 339
+    },
+    {
+      "date": "2026-01-30",
+      "matchup": "PHX vs. CLE",
+      "result": "W",
+      "min": 24,
+      "pts": 27,
+      "adjPts": 26.9,
+      "pointsPlus": 216
+    },
+    {
+      "date": "2026-02-01",
+      "matchup": "PHX vs. LAC",
+      "result": "L",
+      "min": 35,
+      "pts": 22,
+      "adjPts": 22.6,
+      "pointsPlus": 181
+    },
+    {
+      "date": "2026-02-03",
+      "matchup": "PHX @ POR",
+      "result": "W",
+      "min": 31,
+      "pts": 11,
+      "adjPts": 10.7,
+      "pointsPlus": 86
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "PHX vs. GSW",
+      "result": "L",
+      "min": 35,
+      "pts": 24,
+      "adjPts": 24.4,
+      "pointsPlus": 196
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "PHX vs. PHI",
+      "result": "L",
+      "min": 36,
+      "pts": 28,
+      "adjPts": 28.3,
+      "pointsPlus": 227
+    },
+    {
+      "date": "2026-02-10",
+      "matchup": "PHX vs. DAL",
+      "result": "W",
+      "min": 31,
+      "pts": 23,
+      "adjPts": 22.7,
+      "pointsPlus": 183
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "id": 2544,
+  "name": "LeBron James",
+  "team": "LAL",
+  "rank": 31,
+  "gp": 35,
+  "ppg": 21.8,
+  "adjPpg": 21.8,
+  "pointsPlus": 175,
+  "mpg": 33.3,
+  "position": "F",
+  "jersey": "23",
+  "usgPct": 27.3,
+  "tsPct": 58.4,
+  "gameLog": [
+    {
+      "date": "2025-11-18",
+      "matchup": "LAL vs. UTA",
+      "result": "W",
+      "min": 30,
+      "pts": 11,
+      "adjPts": 10.1,
+      "pointsPlus": 81
+    },
+    {
+      "date": "2025-11-23",
+      "matchup": "LAL @ UTA",
+      "result": "W",
+      "min": 34,
+      "pts": 17,
+      "adjPts": 15.6,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2025-11-25",
+      "matchup": "LAL vs. LAC",
+      "result": "W",
+      "min": 32,
+      "pts": 25,
+      "adjPts": 25.7,
+      "pointsPlus": 206
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "LAL vs. DAL",
+      "result": "W",
+      "min": 34,
+      "pts": 13,
+      "adjPts": 12.9,
+      "pointsPlus": 103
+    },
+    {
+      "date": "2025-12-01",
+      "matchup": "LAL vs. PHX",
+      "result": "L",
+      "min": 31,
+      "pts": 10,
+      "adjPts": 10.3,
+      "pointsPlus": 83
+    },
+    {
+      "date": "2025-12-04",
+      "matchup": "LAL @ TOR",
+      "result": "W",
+      "min": 36,
+      "pts": 8,
+      "adjPts": 8.2,
+      "pointsPlus": 66
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "LAL @ PHI",
+      "result": "W",
+      "min": 34,
+      "pts": 29,
+      "adjPts": 29.3,
+      "pointsPlus": 235
+    },
+    {
+      "date": "2025-12-10",
+      "matchup": "LAL vs. SAS",
+      "result": "L",
+      "min": 36,
+      "pts": 19,
+      "adjPts": 19.5,
+      "pointsPlus": 157
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "LAL @ PHX",
+      "result": "W",
+      "min": 36,
+      "pts": 26,
+      "adjPts": 26.9,
+      "pointsPlus": 216
+    },
+    {
+      "date": "2025-12-18",
+      "matchup": "LAL @ UTA",
+      "result": "W",
+      "min": 33,
+      "pts": 28,
+      "adjPts": 25.7,
+      "pointsPlus": 207
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "LAL @ LAC",
+      "result": "L",
+      "min": 38,
+      "pts": 36,
+      "adjPts": 37.0,
+      "pointsPlus": 297
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "LAL @ PHX",
+      "result": "L",
+      "min": 26,
+      "pts": 23,
+      "adjPts": 23.8,
+      "pointsPlus": 191
+    },
+    {
+      "date": "2025-12-25",
+      "matchup": "LAL vs. HOU",
+      "result": "L",
+      "min": 32,
+      "pts": 18,
+      "adjPts": 19.1,
+      "pointsPlus": 153
+    },
+    {
+      "date": "2025-12-28",
+      "matchup": "LAL vs. SAC",
+      "result": "W",
+      "min": 29,
+      "pts": 24,
+      "adjPts": 23.0,
+      "pointsPlus": 185
+    },
+    {
+      "date": "2025-12-30",
+      "matchup": "LAL vs. DET",
+      "result": "L",
+      "min": 32,
+      "pts": 17,
+      "adjPts": 17.9,
+      "pointsPlus": 144
+    },
+    {
+      "date": "2026-01-02",
+      "matchup": "LAL vs. MEM",
+      "result": "W",
+      "min": 36,
+      "pts": 31,
+      "adjPts": 30.4,
+      "pointsPlus": 244
+    },
+    {
+      "date": "2026-01-04",
+      "matchup": "LAL vs. MEM",
+      "result": "W",
+      "min": 37,
+      "pts": 26,
+      "adjPts": 25.5,
+      "pointsPlus": 205
+    },
+    {
+      "date": "2026-01-06",
+      "matchup": "LAL @ NOP",
+      "result": "W",
+      "min": 33,
+      "pts": 30,
+      "adjPts": 28.9,
+      "pointsPlus": 232
+    },
+    {
+      "date": "2026-01-09",
+      "matchup": "LAL vs. MIL",
+      "result": "L",
+      "min": 33,
+      "pts": 26,
+      "adjPts": 26.0,
+      "pointsPlus": 208
+    },
+    {
+      "date": "2026-01-12",
+      "matchup": "LAL @ SAC",
+      "result": "L",
+      "min": 33,
+      "pts": 22,
+      "adjPts": 21.1,
+      "pointsPlus": 169
+    },
+    {
+      "date": "2026-01-13",
+      "matchup": "LAL vs. ATL",
+      "result": "W",
+      "min": 33,
+      "pts": 31,
+      "adjPts": 30.1,
+      "pointsPlus": 242
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "LAL vs. CHA",
+      "result": "L",
+      "min": 33,
+      "pts": 29,
+      "adjPts": 29.4,
+      "pointsPlus": 236
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "LAL @ POR",
+      "result": "L",
+      "min": 32,
+      "pts": 20,
+      "adjPts": 19.5,
+      "pointsPlus": 157
+    },
+    {
+      "date": "2026-01-18",
+      "matchup": "LAL vs. TOR",
+      "result": "W",
+      "min": 32,
+      "pts": 24,
+      "adjPts": 24.7,
+      "pointsPlus": 199
+    },
+    {
+      "date": "2026-01-20",
+      "matchup": "LAL @ DEN",
+      "result": "W",
+      "min": 34,
+      "pts": 19,
+      "adjPts": 19.0,
+      "pointsPlus": 152
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "LAL @ LAC",
+      "result": "L",
+      "min": 36,
+      "pts": 23,
+      "adjPts": 23.6,
+      "pointsPlus": 190
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "LAL @ DAL",
+      "result": "W",
+      "min": 37,
+      "pts": 17,
+      "adjPts": 16.8,
+      "pointsPlus": 135
+    },
+    {
+      "date": "2026-01-26",
+      "matchup": "LAL @ CHI",
+      "result": "W",
+      "min": 33,
+      "pts": 24,
+      "adjPts": 22.9,
+      "pointsPlus": 184
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "LAL @ CLE",
+      "result": "L",
+      "min": 27,
+      "pts": 11,
+      "adjPts": 10.9,
+      "pointsPlus": 88
+    },
+    {
+      "date": "2026-01-30",
+      "matchup": "LAL @ WAS",
+      "result": "W",
+      "min": 30,
+      "pts": 20,
+      "adjPts": 18.7,
+      "pointsPlus": 150
+    },
+    {
+      "date": "2026-02-01",
+      "matchup": "LAL @ NYK",
+      "result": "L",
+      "min": 35,
+      "pts": 22,
+      "adjPts": 22.6,
+      "pointsPlus": 182
+    },
+    {
+      "date": "2026-02-03",
+      "matchup": "LAL @ BKN",
+      "result": "W",
+      "min": 30,
+      "pts": 25,
+      "adjPts": 25.2,
+      "pointsPlus": 202
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "LAL vs. PHI",
+      "result": "W",
+      "min": 37,
+      "pts": 17,
+      "adjPts": 17.2,
+      "pointsPlus": 138
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "LAL vs. GSW",
+      "result": "W",
+      "min": 35,
+      "pts": 20,
+      "adjPts": 20.3,
+      "pointsPlus": 163
+    },
+    {
+      "date": "2026-02-09",
+      "matchup": "LAL vs. OKC",
+      "result": "L",
+      "min": 36,
+      "pts": 22,
+      "adjPts": 23.6,
+      "pointsPlus": 190
+    }
+  ]
+}

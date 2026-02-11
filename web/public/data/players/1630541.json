@@ -1,0 +1,485 @@
+{
+  "id": 1630541,
+  "name": "Moses Moody",
+  "team": "GSW",
+  "rank": 157,
+  "gp": 52,
+  "ppg": 11.4,
+  "adjPpg": 11.4,
+  "pointsPlus": 91,
+  "mpg": 24.9,
+  "position": "G",
+  "jersey": "4",
+  "usgPct": 17.0,
+  "tsPct": 59.6,
+  "gameLog": [
+    {
+      "date": "2025-10-24",
+      "matchup": "GSW @ POR",
+      "result": "L",
+      "min": 21,
+      "pts": 7,
+      "adjPts": 6.8,
+      "pointsPlus": 55
+    },
+    {
+      "date": "2025-10-27",
+      "matchup": "GSW vs. MEM",
+      "result": "W",
+      "min": 22,
+      "pts": 20,
+      "adjPts": 19.6,
+      "pointsPlus": 158
+    },
+    {
+      "date": "2025-10-28",
+      "matchup": "GSW vs. LAC",
+      "result": "W",
+      "min": 22,
+      "pts": 9,
+      "adjPts": 9.2,
+      "pointsPlus": 74
+    },
+    {
+      "date": "2025-10-30",
+      "matchup": "GSW @ MIL",
+      "result": "L",
+      "min": 10,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-01",
+      "matchup": "GSW @ IND",
+      "result": "L",
+      "min": 16,
+      "pts": 3,
+      "adjPts": 2.9,
+      "pointsPlus": 23
+    },
+    {
+      "date": "2025-11-04",
+      "matchup": "GSW vs. PHX",
+      "result": "W",
+      "min": 34,
+      "pts": 24,
+      "adjPts": 24.8,
+      "pointsPlus": 199
+    },
+    {
+      "date": "2025-11-05",
+      "matchup": "GSW @ SAC",
+      "result": "L",
+      "min": 39,
+      "pts": 28,
+      "adjPts": 26.8,
+      "pointsPlus": 215
+    },
+    {
+      "date": "2025-11-07",
+      "matchup": "GSW @ DEN",
+      "result": "L",
+      "min": 19,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 16
+    },
+    {
+      "date": "2025-11-09",
+      "matchup": "GSW vs. IND",
+      "result": "W",
+      "min": 23,
+      "pts": 13,
+      "adjPts": 12.6,
+      "pointsPlus": 102
+    },
+    {
+      "date": "2025-11-11",
+      "matchup": "GSW @ OKC",
+      "result": "L",
+      "min": 20,
+      "pts": 10,
+      "adjPts": 10.7,
+      "pointsPlus": 86
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "GSW @ SAS",
+      "result": "W",
+      "min": 26,
+      "pts": 19,
+      "adjPts": 19.5,
+      "pointsPlus": 157
+    },
+    {
+      "date": "2025-11-14",
+      "matchup": "GSW @ SAS",
+      "result": "W",
+      "min": 30,
+      "pts": 4,
+      "adjPts": 4.1,
+      "pointsPlus": 33
+    },
+    {
+      "date": "2025-11-16",
+      "matchup": "GSW @ NOP",
+      "result": "W",
+      "min": 33,
+      "pts": 32,
+      "adjPts": 30.8,
+      "pointsPlus": 247
+    },
+    {
+      "date": "2025-11-18",
+      "matchup": "GSW @ ORL",
+      "result": "L",
+      "min": 30,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 48
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "GSW @ MIA",
+      "result": "L",
+      "min": 36,
+      "pts": 9,
+      "adjPts": 8.8,
+      "pointsPlus": 71
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "GSW vs. POR",
+      "result": "L",
+      "min": 28,
+      "pts": 10,
+      "adjPts": 9.8,
+      "pointsPlus": 78
+    },
+    {
+      "date": "2025-11-24",
+      "matchup": "GSW vs. UTA",
+      "result": "W",
+      "min": 29,
+      "pts": 15,
+      "adjPts": 13.8,
+      "pointsPlus": 111
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "GSW vs. HOU",
+      "result": "L",
+      "min": 30,
+      "pts": 9,
+      "adjPts": 9.5,
+      "pointsPlus": 77
+    },
+    {
+      "date": "2025-11-29",
+      "matchup": "GSW vs. NOP",
+      "result": "W",
+      "min": 27,
+      "pts": 11,
+      "adjPts": 10.6,
+      "pointsPlus": 85
+    },
+    {
+      "date": "2025-12-02",
+      "matchup": "GSW vs. OKC",
+      "result": "L",
+      "min": 15,
+      "pts": 3,
+      "adjPts": 3.2,
+      "pointsPlus": 26
+    },
+    {
+      "date": "2025-12-04",
+      "matchup": "GSW @ PHI",
+      "result": "L",
+      "min": 23,
+      "pts": 14,
+      "adjPts": 14.1,
+      "pointsPlus": 113
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "GSW @ CLE",
+      "result": "W",
+      "min": 20,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 72
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "GSW @ CHI",
+      "result": "W",
+      "min": 19,
+      "pts": 11,
+      "adjPts": 10.5,
+      "pointsPlus": 84
+    },
+    {
+      "date": "2025-12-12",
+      "matchup": "GSW vs. MIN",
+      "result": "L",
+      "min": 23,
+      "pts": 11,
+      "adjPts": 11.1,
+      "pointsPlus": 89
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "GSW @ POR",
+      "result": "L",
+      "min": 23,
+      "pts": 12,
+      "adjPts": 11.7,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-12-18",
+      "matchup": "GSW @ PHX",
+      "result": "L",
+      "min": 30,
+      "pts": 5,
+      "adjPts": 5.2,
+      "pointsPlus": 41
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "GSW vs. PHX",
+      "result": "W",
+      "min": 18,
+      "pts": 3,
+      "adjPts": 3.1,
+      "pointsPlus": 25
+    },
+    {
+      "date": "2025-12-22",
+      "matchup": "GSW vs. ORL",
+      "result": "W",
+      "min": 32,
+      "pts": 20,
+      "adjPts": 20.0,
+      "pointsPlus": 161
+    },
+    {
+      "date": "2025-12-25",
+      "matchup": "GSW vs. DAL",
+      "result": "W",
+      "min": 30,
+      "pts": 12,
+      "adjPts": 11.9,
+      "pointsPlus": 95
+    },
+    {
+      "date": "2025-12-28",
+      "matchup": "GSW @ TOR",
+      "result": "L",
+      "min": 29,
+      "pts": 3,
+      "adjPts": 3.1,
+      "pointsPlus": 25
+    },
+    {
+      "date": "2025-12-29",
+      "matchup": "GSW @ BKN",
+      "result": "W",
+      "min": 12,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 32
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "GSW @ CHA",
+      "result": "W",
+      "min": 19,
+      "pts": 7,
+      "adjPts": 7.1,
+      "pointsPlus": 57
+    },
+    {
+      "date": "2026-01-02",
+      "matchup": "GSW vs. OKC",
+      "result": "L",
+      "min": 27,
+      "pts": 13,
+      "adjPts": 14.0,
+      "pointsPlus": 112
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "GSW vs. UTA",
+      "result": "W",
+      "min": 25,
+      "pts": 8,
+      "adjPts": 7.4,
+      "pointsPlus": 59
+    },
+    {
+      "date": "2026-01-05",
+      "matchup": "GSW @ LAC",
+      "result": "L",
+      "min": 19,
+      "pts": 4,
+      "adjPts": 4.1,
+      "pointsPlus": 33
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "GSW vs. MIL",
+      "result": "W",
+      "min": 28,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 72
+    },
+    {
+      "date": "2026-01-09",
+      "matchup": "GSW vs. SAC",
+      "result": "W",
+      "min": 22,
+      "pts": 7,
+      "adjPts": 6.7,
+      "pointsPlus": 54
+    },
+    {
+      "date": "2026-01-11",
+      "matchup": "GSW vs. ATL",
+      "result": "L",
+      "min": 17,
+      "pts": 2,
+      "adjPts": 1.9,
+      "pointsPlus": 16
+    },
+    {
+      "date": "2026-01-13",
+      "matchup": "GSW vs. POR",
+      "result": "W",
+      "min": 23,
+      "pts": 14,
+      "adjPts": 13.7,
+      "pointsPlus": 110
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "GSW vs. NYK",
+      "result": "W",
+      "min": 28,
+      "pts": 21,
+      "adjPts": 21.6,
+      "pointsPlus": 173
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "GSW vs. CHA",
+      "result": "W",
+      "min": 27,
+      "pts": 12,
+      "adjPts": 12.2,
+      "pointsPlus": 98
+    },
+    {
+      "date": "2026-01-19",
+      "matchup": "GSW vs. MIA",
+      "result": "W",
+      "min": 29,
+      "pts": 13,
+      "adjPts": 12.7,
+      "pointsPlus": 102
+    },
+    {
+      "date": "2026-01-20",
+      "matchup": "GSW vs. TOR",
+      "result": "L",
+      "min": 18,
+      "pts": 10,
+      "adjPts": 10.3,
+      "pointsPlus": 83
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "GSW @ DAL",
+      "result": "L",
+      "min": 23,
+      "pts": 12,
+      "adjPts": 11.9,
+      "pointsPlus": 95
+    },
+    {
+      "date": "2026-01-25",
+      "matchup": "GSW @ MIN",
+      "result": "W",
+      "min": 28,
+      "pts": 19,
+      "adjPts": 19.1,
+      "pointsPlus": 153
+    },
+    {
+      "date": "2026-01-26",
+      "matchup": "GSW @ MIN",
+      "result": "L",
+      "min": 26,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 81
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "GSW @ UTA",
+      "result": "W",
+      "min": 26,
+      "pts": 26,
+      "adjPts": 23.9,
+      "pointsPlus": 192
+    },
+    {
+      "date": "2026-01-30",
+      "matchup": "GSW vs. DET",
+      "result": "L",
+      "min": 25,
+      "pts": 11,
+      "adjPts": 11.6,
+      "pointsPlus": 93
+    },
+    {
+      "date": "2026-02-03",
+      "matchup": "GSW vs. PHI",
+      "result": "L",
+      "min": 20,
+      "pts": 12,
+      "adjPts": 12.1,
+      "pointsPlus": 97
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "GSW @ PHX",
+      "result": "W",
+      "min": 31,
+      "pts": 6,
+      "adjPts": 6.2,
+      "pointsPlus": 50
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "GSW @ LAL",
+      "result": "L",
+      "min": 39,
+      "pts": 25,
+      "adjPts": 24.7,
+      "pointsPlus": 198
+    },
+    {
+      "date": "2026-02-09",
+      "matchup": "GSW vs. MEM",
+      "result": "W",
+      "min": 28,
+      "pts": 15,
+      "adjPts": 14.7,
+      "pointsPlus": 118
+    }
+  ]
+}

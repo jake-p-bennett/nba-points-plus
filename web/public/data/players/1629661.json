@@ -1,0 +1,287 @@
+{
+  "id": 1629661,
+  "name": "Cameron Johnson",
+  "team": "DEN",
+  "rank": 149,
+  "gp": 30,
+  "ppg": 11.7,
+  "adjPpg": 11.6,
+  "pointsPlus": 93,
+  "mpg": 30.5,
+  "position": "F",
+  "jersey": "23",
+  "usgPct": 14.4,
+  "tsPct": 61.7,
+  "gameLog": [
+    {
+      "date": "2025-10-23",
+      "matchup": "DEN @ GSW",
+      "result": "L",
+      "min": 32,
+      "pts": 5,
+      "adjPts": 5.1,
+      "pointsPlus": 41
+    },
+    {
+      "date": "2025-10-25",
+      "matchup": "DEN vs. PHX",
+      "result": "W",
+      "min": 25,
+      "pts": 15,
+      "adjPts": 15.5,
+      "pointsPlus": 124
+    },
+    {
+      "date": "2025-10-27",
+      "matchup": "DEN @ MIN",
+      "result": "W",
+      "min": 19,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 40
+    },
+    {
+      "date": "2025-10-29",
+      "matchup": "DEN vs. NOP",
+      "result": "W",
+      "min": 27,
+      "pts": 7,
+      "adjPts": 6.7,
+      "pointsPlus": 54
+    },
+    {
+      "date": "2025-10-31",
+      "matchup": "DEN @ POR",
+      "result": "L",
+      "min": 31,
+      "pts": 9,
+      "adjPts": 8.8,
+      "pointsPlus": 71
+    },
+    {
+      "date": "2025-11-03",
+      "matchup": "DEN vs. SAC",
+      "result": "W",
+      "min": 30,
+      "pts": 10,
+      "adjPts": 9.6,
+      "pointsPlus": 77
+    },
+    {
+      "date": "2025-11-05",
+      "matchup": "DEN vs. MIA",
+      "result": "W",
+      "min": 23,
+      "pts": 9,
+      "adjPts": 8.8,
+      "pointsPlus": 71
+    },
+    {
+      "date": "2025-11-07",
+      "matchup": "DEN vs. GSW",
+      "result": "W",
+      "min": 25,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "DEN vs. IND",
+      "result": "W",
+      "min": 27,
+      "pts": 12,
+      "adjPts": 11.7,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2025-11-11",
+      "matchup": "DEN @ SAC",
+      "result": "W",
+      "min": 22,
+      "pts": 5,
+      "adjPts": 4.8,
+      "pointsPlus": 38
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "DEN @ LAC",
+      "result": "W",
+      "min": 8,
+      "pts": 2,
+      "adjPts": 2.1,
+      "pointsPlus": 16
+    },
+    {
+      "date": "2025-11-17",
+      "matchup": "DEN vs. CHI",
+      "result": "L",
+      "min": 37,
+      "pts": 19,
+      "adjPts": 18.1,
+      "pointsPlus": 146
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "DEN @ NOP",
+      "result": "W",
+      "min": 32,
+      "pts": 14,
+      "adjPts": 13.5,
+      "pointsPlus": 108
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "DEN @ HOU",
+      "result": "W",
+      "min": 32,
+      "pts": 9,
+      "adjPts": 9.5,
+      "pointsPlus": 77
+    },
+    {
+      "date": "2025-11-22",
+      "matchup": "DEN vs. SAC",
+      "result": "L",
+      "min": 37,
+      "pts": 20,
+      "adjPts": 19.2,
+      "pointsPlus": 154
+    },
+    {
+      "date": "2025-11-24",
+      "matchup": "DEN @ MEM",
+      "result": "W",
+      "min": 37,
+      "pts": 18,
+      "adjPts": 17.7,
+      "pointsPlus": 142
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "DEN vs. SAS",
+      "result": "L",
+      "min": 38,
+      "pts": 28,
+      "adjPts": 28.7,
+      "pointsPlus": 231
+    },
+    {
+      "date": "2025-11-29",
+      "matchup": "DEN @ PHX",
+      "result": "W",
+      "min": 35,
+      "pts": 15,
+      "adjPts": 15.5,
+      "pointsPlus": 124
+    },
+    {
+      "date": "2025-12-01",
+      "matchup": "DEN vs. DAL",
+      "result": "L",
+      "min": 36,
+      "pts": 10,
+      "adjPts": 9.9,
+      "pointsPlus": 79
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "DEN @ IND",
+      "result": "W",
+      "min": 34,
+      "pts": 9,
+      "adjPts": 8.8,
+      "pointsPlus": 70
+    },
+    {
+      "date": "2025-12-05",
+      "matchup": "DEN @ ATL",
+      "result": "W",
+      "min": 35,
+      "pts": 16,
+      "adjPts": 15.5,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "DEN @ CHA",
+      "result": "W",
+      "min": 39,
+      "pts": 8,
+      "adjPts": 8.1,
+      "pointsPlus": 65
+    },
+    {
+      "date": "2025-12-11",
+      "matchup": "DEN @ SAC",
+      "result": "W",
+      "min": 33,
+      "pts": 16,
+      "adjPts": 15.3,
+      "pointsPlus": 123
+    },
+    {
+      "date": "2025-12-15",
+      "matchup": "DEN vs. HOU",
+      "result": "W",
+      "min": 43,
+      "pts": 13,
+      "adjPts": 13.8,
+      "pointsPlus": 111
+    },
+    {
+      "date": "2025-12-18",
+      "matchup": "DEN vs. ORL",
+      "result": "W",
+      "min": 36,
+      "pts": 19,
+      "adjPts": 19.0,
+      "pointsPlus": 153
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "DEN vs. HOU",
+      "result": "L",
+      "min": 32,
+      "pts": 6,
+      "adjPts": 6.4,
+      "pointsPlus": 51
+    },
+    {
+      "date": "2025-12-22",
+      "matchup": "DEN vs. UTA",
+      "result": "W",
+      "min": 29,
+      "pts": 20,
+      "adjPts": 18.4,
+      "pointsPlus": 148
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "DEN @ DAL",
+      "result": "L",
+      "min": 24,
+      "pts": 8,
+      "adjPts": 7.9,
+      "pointsPlus": 63
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "DEN @ CHI",
+      "result": "W",
+      "min": 27,
+      "pts": 14,
+      "adjPts": 13.4,
+      "pointsPlus": 107
+    },
+    {
+      "date": "2026-02-09",
+      "matchup": "DEN vs. CLE",
+      "result": "L",
+      "min": 29,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 80
+    }
+  ]
+}

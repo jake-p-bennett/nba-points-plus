@@ -1,0 +1,440 @@
+{
+  "id": 1628989,
+  "name": "Kevin Huerter",
+  "team": "DET",
+  "rank": 174,
+  "gp": 47,
+  "ppg": 10.4,
+  "adjPpg": 10.4,
+  "pointsPlus": 83,
+  "mpg": 22.7,
+  "position": "G-F",
+  "jersey": "27",
+  "usgPct": 18.7,
+  "tsPct": 55.5,
+  "gameLog": [
+    {
+      "date": "2025-10-22",
+      "matchup": "CHI vs. DET",
+      "result": "W",
+      "min": 27,
+      "pts": 15,
+      "adjPts": 15.8,
+      "pointsPlus": 127
+    },
+    {
+      "date": "2025-10-25",
+      "matchup": "CHI @ ORL",
+      "result": "W",
+      "min": 29,
+      "pts": 11,
+      "adjPts": 11.0,
+      "pointsPlus": 88
+    },
+    {
+      "date": "2025-10-27",
+      "matchup": "CHI vs. ATL",
+      "result": "W",
+      "min": 21,
+      "pts": 15,
+      "adjPts": 14.6,
+      "pointsPlus": 117
+    },
+    {
+      "date": "2025-10-29",
+      "matchup": "CHI vs. SAC",
+      "result": "W",
+      "min": 25,
+      "pts": 18,
+      "adjPts": 17.3,
+      "pointsPlus": 139
+    },
+    {
+      "date": "2025-10-31",
+      "matchup": "CHI vs. NYK",
+      "result": "W",
+      "min": 26,
+      "pts": 12,
+      "adjPts": 12.3,
+      "pointsPlus": 99
+    },
+    {
+      "date": "2025-11-02",
+      "matchup": "CHI @ NYK",
+      "result": "L",
+      "min": 21,
+      "pts": 7,
+      "adjPts": 7.2,
+      "pointsPlus": 58
+    },
+    {
+      "date": "2025-11-04",
+      "matchup": "CHI vs. PHI",
+      "result": "W",
+      "min": 25,
+      "pts": 12,
+      "adjPts": 12.1,
+      "pointsPlus": 97
+    },
+    {
+      "date": "2025-11-07",
+      "matchup": "CHI @ MIL",
+      "result": "L",
+      "min": 23,
+      "pts": 13,
+      "adjPts": 13.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "CHI @ CLE",
+      "result": "L",
+      "min": 29,
+      "pts": 15,
+      "adjPts": 14.9,
+      "pointsPlus": 120
+    },
+    {
+      "date": "2025-11-10",
+      "matchup": "CHI vs. SAS",
+      "result": "L",
+      "min": 33,
+      "pts": 23,
+      "adjPts": 23.6,
+      "pointsPlus": 189
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "CHI @ DET",
+      "result": "L",
+      "min": 27,
+      "pts": 20,
+      "adjPts": 21.1,
+      "pointsPlus": 169
+    },
+    {
+      "date": "2025-11-16",
+      "matchup": "CHI @ UTA",
+      "result": "L",
+      "min": 33,
+      "pts": 6,
+      "adjPts": 5.5,
+      "pointsPlus": 44
+    },
+    {
+      "date": "2025-11-17",
+      "matchup": "CHI @ DEN",
+      "result": "W",
+      "min": 24,
+      "pts": 20,
+      "adjPts": 20.0,
+      "pointsPlus": 160
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "CHI @ POR",
+      "result": "W",
+      "min": 23,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 16
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "CHI vs. MIA",
+      "result": "L",
+      "min": 10,
+      "pts": 3,
+      "adjPts": 2.9,
+      "pointsPlus": 24
+    },
+    {
+      "date": "2025-11-22",
+      "matchup": "CHI vs. WAS",
+      "result": "W",
+      "min": 19,
+      "pts": 9,
+      "adjPts": 8.4,
+      "pointsPlus": 68
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "CHI @ CHA",
+      "result": "L",
+      "min": 25,
+      "pts": 11,
+      "adjPts": 11.2,
+      "pointsPlus": 90
+    },
+    {
+      "date": "2025-11-29",
+      "matchup": "CHI @ IND",
+      "result": "L",
+      "min": 32,
+      "pts": 15,
+      "adjPts": 14.6,
+      "pointsPlus": 117
+    },
+    {
+      "date": "2025-12-01",
+      "matchup": "CHI @ ORL",
+      "result": "L",
+      "min": 6,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "CHI vs. NOP",
+      "result": "L",
+      "min": 24,
+      "pts": 16,
+      "adjPts": 15.4,
+      "pointsPlus": 124
+    },
+    {
+      "date": "2025-12-17",
+      "matchup": "CHI vs. CLE",
+      "result": "W",
+      "min": 26,
+      "pts": 11,
+      "adjPts": 10.9,
+      "pointsPlus": 88
+    },
+    {
+      "date": "2025-12-19",
+      "matchup": "CHI @ CLE",
+      "result": "W",
+      "min": 20,
+      "pts": 14,
+      "adjPts": 13.9,
+      "pointsPlus": 112
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "CHI @ ATL",
+      "result": "W",
+      "min": 21,
+      "pts": 16,
+      "adjPts": 15.5,
+      "pointsPlus": 125
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "CHI @ ATL",
+      "result": "W",
+      "min": 27,
+      "pts": 9,
+      "adjPts": 8.7,
+      "pointsPlus": 70
+    },
+    {
+      "date": "2025-12-26",
+      "matchup": "CHI vs. PHI",
+      "result": "W",
+      "min": 22,
+      "pts": 9,
+      "adjPts": 9.1,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2025-12-27",
+      "matchup": "CHI vs. MIL",
+      "result": "L",
+      "min": 24,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 56
+    },
+    {
+      "date": "2025-12-29",
+      "matchup": "CHI vs. MIN",
+      "result": "L",
+      "min": 22,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 65
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "CHI vs. NOP",
+      "result": "W",
+      "min": 29,
+      "pts": 13,
+      "adjPts": 12.5,
+      "pointsPlus": 101
+    },
+    {
+      "date": "2026-01-02",
+      "matchup": "CHI vs. ORL",
+      "result": "W",
+      "min": 24,
+      "pts": 20,
+      "adjPts": 20.0,
+      "pointsPlus": 161
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "CHI vs. CHA",
+      "result": "L",
+      "min": 31,
+      "pts": 9,
+      "adjPts": 9.1,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2026-01-05",
+      "matchup": "CHI @ BOS",
+      "result": "L",
+      "min": 20,
+      "pts": 8,
+      "adjPts": 8.5,
+      "pointsPlus": 68
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "CHI @ DET",
+      "result": "L",
+      "min": 30,
+      "pts": 8,
+      "adjPts": 8.4,
+      "pointsPlus": 68
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "CHI vs. DAL",
+      "result": "W",
+      "min": 24,
+      "pts": 13,
+      "adjPts": 12.9,
+      "pointsPlus": 103
+    },
+    {
+      "date": "2026-01-13",
+      "matchup": "CHI @ HOU",
+      "result": "L",
+      "min": 29,
+      "pts": 11,
+      "adjPts": 11.7,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "CHI vs. UTA",
+      "result": "W",
+      "min": 19,
+      "pts": 10,
+      "adjPts": 9.2,
+      "pointsPlus": 74
+    },
+    {
+      "date": "2026-01-16",
+      "matchup": "CHI @ BKN",
+      "result": "L",
+      "min": 10,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 16
+    },
+    {
+      "date": "2026-01-18",
+      "matchup": "CHI vs. BKN",
+      "result": "W",
+      "min": 30,
+      "pts": 11,
+      "adjPts": 11.1,
+      "pointsPlus": 89
+    },
+    {
+      "date": "2026-01-20",
+      "matchup": "CHI vs. LAC",
+      "result": "W",
+      "min": 29,
+      "pts": 14,
+      "adjPts": 14.4,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "CHI @ MIN",
+      "result": "W",
+      "min": 8,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 24
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "CHI vs. BOS",
+      "result": "W",
+      "min": 24,
+      "pts": 12,
+      "adjPts": 12.8,
+      "pointsPlus": 103
+    },
+    {
+      "date": "2026-01-26",
+      "matchup": "CHI vs. LAL",
+      "result": "L",
+      "min": 16,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "CHI @ IND",
+      "result": "L",
+      "min": 17,
+      "pts": 4,
+      "adjPts": 3.9,
+      "pointsPlus": 31
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "CHI vs. MIA",
+      "result": "L",
+      "min": 33,
+      "pts": 15,
+      "adjPts": 14.7,
+      "pointsPlus": 118
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "CHI @ MIA",
+      "result": "W",
+      "min": 22,
+      "pts": 9,
+      "adjPts": 8.8,
+      "pointsPlus": 71
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "DET vs. WAS",
+      "result": "L",
+      "min": 6,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-06",
+      "matchup": "DET vs. NYK",
+      "result": "W",
+      "min": 8,
+      "pts": 8,
+      "adjPts": 8.2,
+      "pointsPlus": 66
+    },
+    {
+      "date": "2026-02-09",
+      "matchup": "DET @ CHA",
+      "result": "W",
+      "min": 13,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    }
+  ]
+}

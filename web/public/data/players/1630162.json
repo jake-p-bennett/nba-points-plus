@@ -1,0 +1,422 @@
+{
+  "id": 1630162,
+  "name": "Anthony Edwards",
+  "team": "MIN",
+  "rank": 4,
+  "gp": 45,
+  "ppg": 29.6,
+  "adjPpg": 29.4,
+  "pointsPlus": 236,
+  "mpg": 35.5,
+  "position": "G",
+  "jersey": "5",
+  "usgPct": 30.7,
+  "tsPct": 61.9,
+  "gameLog": [
+    {
+      "date": "2025-10-22",
+      "matchup": "MIN @ POR",
+      "result": "W",
+      "min": 39,
+      "pts": 41,
+      "adjPts": 40.1,
+      "pointsPlus": 322
+    },
+    {
+      "date": "2025-10-24",
+      "matchup": "MIN @ LAL",
+      "result": "L",
+      "min": 35,
+      "pts": 31,
+      "adjPts": 30.6,
+      "pointsPlus": 246
+    },
+    {
+      "date": "2025-10-26",
+      "matchup": "MIN vs. IND",
+      "result": "W",
+      "min": 3,
+      "pts": 5,
+      "adjPts": 4.9,
+      "pointsPlus": 39
+    },
+    {
+      "date": "2025-11-05",
+      "matchup": "MIN @ NYK",
+      "result": "L",
+      "min": 29,
+      "pts": 15,
+      "adjPts": 15.4,
+      "pointsPlus": 124
+    },
+    {
+      "date": "2025-11-07",
+      "matchup": "MIN vs. UTA",
+      "result": "W",
+      "min": 26,
+      "pts": 37,
+      "adjPts": 34.0,
+      "pointsPlus": 273
+    },
+    {
+      "date": "2025-11-09",
+      "matchup": "MIN @ SAC",
+      "result": "W",
+      "min": 30,
+      "pts": 26,
+      "adjPts": 24.9,
+      "pointsPlus": 200
+    },
+    {
+      "date": "2025-11-10",
+      "matchup": "MIN @ UTA",
+      "result": "W",
+      "min": 38,
+      "pts": 35,
+      "adjPts": 32.2,
+      "pointsPlus": 258
+    },
+    {
+      "date": "2025-11-14",
+      "matchup": "MIN vs. SAC",
+      "result": "W",
+      "min": 36,
+      "pts": 30,
+      "adjPts": 28.8,
+      "pointsPlus": 231
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "MIN vs. DEN",
+      "result": "L",
+      "min": 38,
+      "pts": 26,
+      "adjPts": 26.0,
+      "pointsPlus": 208
+    },
+    {
+      "date": "2025-11-17",
+      "matchup": "MIN vs. DAL",
+      "result": "W",
+      "min": 29,
+      "pts": 13,
+      "adjPts": 12.9,
+      "pointsPlus": 103
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "MIN vs. WAS",
+      "result": "W",
+      "min": 36,
+      "pts": 18,
+      "adjPts": 16.9,
+      "pointsPlus": 135
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "MIN @ PHX",
+      "result": "L",
+      "min": 40,
+      "pts": 41,
+      "adjPts": 42.3,
+      "pointsPlus": 340
+    },
+    {
+      "date": "2025-11-24",
+      "matchup": "MIN @ SAC",
+      "result": "L",
+      "min": 40,
+      "pts": 43,
+      "adjPts": 41.2,
+      "pointsPlus": 331
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "MIN @ OKC",
+      "result": "L",
+      "min": 40,
+      "pts": 31,
+      "adjPts": 33.3,
+      "pointsPlus": 267
+    },
+    {
+      "date": "2025-11-29",
+      "matchup": "MIN vs. BOS",
+      "result": "W",
+      "min": 37,
+      "pts": 39,
+      "adjPts": 41.5,
+      "pointsPlus": 333
+    },
+    {
+      "date": "2025-11-30",
+      "matchup": "MIN vs. SAS",
+      "result": "W",
+      "min": 36,
+      "pts": 32,
+      "adjPts": 32.8,
+      "pointsPlus": 264
+    },
+    {
+      "date": "2025-12-02",
+      "matchup": "MIN @ NOP",
+      "result": "W",
+      "min": 47,
+      "pts": 44,
+      "adjPts": 42.4,
+      "pointsPlus": 340
+    },
+    {
+      "date": "2025-12-04",
+      "matchup": "MIN @ NOP",
+      "result": "W",
+      "min": 31,
+      "pts": 11,
+      "adjPts": 10.6,
+      "pointsPlus": 85
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "MIN vs. LAC",
+      "result": "W",
+      "min": 37,
+      "pts": 15,
+      "adjPts": 15.4,
+      "pointsPlus": 124
+    },
+    {
+      "date": "2025-12-08",
+      "matchup": "MIN vs. PHX",
+      "result": "L",
+      "min": 38,
+      "pts": 40,
+      "adjPts": 41.3,
+      "pointsPlus": 332
+    },
+    {
+      "date": "2025-12-19",
+      "matchup": "MIN vs. OKC",
+      "result": "W",
+      "min": 41,
+      "pts": 26,
+      "adjPts": 27.9,
+      "pointsPlus": 224
+    },
+    {
+      "date": "2025-12-21",
+      "matchup": "MIN vs. MIL",
+      "result": "W",
+      "min": 37,
+      "pts": 24,
+      "adjPts": 24.0,
+      "pointsPlus": 192
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "MIN vs. NYK",
+      "result": "W",
+      "min": 37,
+      "pts": 38,
+      "adjPts": 39.1,
+      "pointsPlus": 314
+    },
+    {
+      "date": "2025-12-25",
+      "matchup": "MIN @ DEN",
+      "result": "L",
+      "min": 42,
+      "pts": 44,
+      "adjPts": 44.0,
+      "pointsPlus": 353
+    },
+    {
+      "date": "2025-12-27",
+      "matchup": "MIN vs. BKN",
+      "result": "L",
+      "min": 35,
+      "pts": 28,
+      "adjPts": 28.2,
+      "pointsPlus": 226
+    },
+    {
+      "date": "2025-12-29",
+      "matchup": "MIN @ CHI",
+      "result": "W",
+      "min": 32,
+      "pts": 23,
+      "adjPts": 22.0,
+      "pointsPlus": 176
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "MIN @ ATL",
+      "result": "L",
+      "min": 33,
+      "pts": 30,
+      "adjPts": 29.1,
+      "pointsPlus": 234
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "MIN @ MIA",
+      "result": "W",
+      "min": 38,
+      "pts": 33,
+      "adjPts": 32.3,
+      "pointsPlus": 260
+    },
+    {
+      "date": "2026-01-04",
+      "matchup": "MIN @ WAS",
+      "result": "W",
+      "min": 30,
+      "pts": 35,
+      "adjPts": 32.8,
+      "pointsPlus": 263
+    },
+    {
+      "date": "2026-01-06",
+      "matchup": "MIN vs. MIA",
+      "result": "W",
+      "min": 29,
+      "pts": 26,
+      "adjPts": 25.5,
+      "pointsPlus": 205
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "MIN vs. CLE",
+      "result": "W",
+      "min": 37,
+      "pts": 25,
+      "adjPts": 24.9,
+      "pointsPlus": 200
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "MIN @ CLE",
+      "result": "L",
+      "min": 35,
+      "pts": 25,
+      "adjPts": 24.9,
+      "pointsPlus": 200
+    },
+    {
+      "date": "2026-01-11",
+      "matchup": "MIN vs. SAS",
+      "result": "W",
+      "min": 38,
+      "pts": 23,
+      "adjPts": 23.6,
+      "pointsPlus": 189
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "MIN @ SAS",
+      "result": "L",
+      "min": 40,
+      "pts": 55,
+      "adjPts": 56.4,
+      "pointsPlus": 453
+    },
+    {
+      "date": "2026-01-20",
+      "matchup": "MIN @ UTA",
+      "result": "L",
+      "min": 39,
+      "pts": 38,
+      "adjPts": 34.9,
+      "pointsPlus": 280
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "MIN vs. CHI",
+      "result": "L",
+      "min": 35,
+      "pts": 20,
+      "adjPts": 19.1,
+      "pointsPlus": 153
+    },
+    {
+      "date": "2026-01-25",
+      "matchup": "MIN vs. GSW",
+      "result": "L",
+      "min": 34,
+      "pts": 32,
+      "adjPts": 32.5,
+      "pointsPlus": 261
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "MIN @ DAL",
+      "result": "W",
+      "min": 38,
+      "pts": 20,
+      "adjPts": 19.8,
+      "pointsPlus": 159
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "MIN vs. OKC",
+      "result": "W",
+      "min": 35,
+      "pts": 26,
+      "adjPts": 27.9,
+      "pointsPlus": 224
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "MIN @ MEM",
+      "result": "W",
+      "min": 39,
+      "pts": 33,
+      "adjPts": 32.4,
+      "pointsPlus": 260
+    },
+    {
+      "date": "2026-02-02",
+      "matchup": "MIN @ MEM",
+      "result": "L",
+      "min": 40,
+      "pts": 39,
+      "adjPts": 38.3,
+      "pointsPlus": 307
+    },
+    {
+      "date": "2026-02-04",
+      "matchup": "MIN @ TOR",
+      "result": "W",
+      "min": 38,
+      "pts": 30,
+      "adjPts": 30.9,
+      "pointsPlus": 248
+    },
+    {
+      "date": "2026-02-06",
+      "matchup": "MIN vs. NOP",
+      "result": "L",
+      "min": 37,
+      "pts": 35,
+      "adjPts": 33.7,
+      "pointsPlus": 271
+    },
+    {
+      "date": "2026-02-08",
+      "matchup": "MIN vs. LAC",
+      "result": "L",
+      "min": 35,
+      "pts": 23,
+      "adjPts": 23.6,
+      "pointsPlus": 190
+    },
+    {
+      "date": "2026-02-09",
+      "matchup": "MIN vs. ATL",
+      "result": "W",
+      "min": 38,
+      "pts": 30,
+      "adjPts": 29.1,
+      "pointsPlus": 234
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "id": 1629636,
+  "name": "Darius Garland",
+  "team": "CLE",
+  "rank": 60,
+  "gp": 26,
+  "ppg": 18.0,
+  "adjPpg": 17.9,
+  "pointsPlus": 143,
+  "mpg": 30.4,
+  "position": "G",
+  "jersey": "10",
+  "usgPct": 25.0,
+  "tsPct": 56.7,
+  "gameLog": [
+    {
+      "date": "2025-11-05",
+      "matchup": "CLE vs. PHI",
+      "result": "W",
+      "min": 26,
+      "pts": 8,
+      "adjPts": 8.1,
+      "pointsPlus": 65
+    },
+    {
+      "date": "2025-11-07",
+      "matchup": "CLE @ WAS",
+      "result": "W",
+      "min": 28,
+      "pts": 20,
+      "adjPts": 18.7,
+      "pointsPlus": 150
+    },
+    {
+      "date": "2025-11-10",
+      "matchup": "CLE @ MIA",
+      "result": "L",
+      "min": 19,
+      "pts": 11,
+      "adjPts": 10.8,
+      "pointsPlus": 87
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "CLE vs. IND",
+      "result": "W",
+      "min": 27,
+      "pts": 20,
+      "adjPts": 19.5,
+      "pointsPlus": 156
+    },
+    {
+      "date": "2025-11-23",
+      "matchup": "CLE vs. LAC",
+      "result": "W",
+      "min": 29,
+      "pts": 8,
+      "adjPts": 8.2,
+      "pointsPlus": 66
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "CLE @ ATL",
+      "result": "L",
+      "min": 33,
+      "pts": 15,
+      "adjPts": 14.6,
+      "pointsPlus": 117
+    },
+    {
+      "date": "2025-11-30",
+      "matchup": "CLE vs. BOS",
+      "result": "L",
+      "min": 31,
+      "pts": 21,
+      "adjPts": 22.4,
+      "pointsPlus": 180
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "CLE vs. POR",
+      "result": "L",
+      "min": 29,
+      "pts": 6,
+      "adjPts": 5.9,
+      "pointsPlus": 47
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "CLE vs. GSW",
+      "result": "L",
+      "min": 32,
+      "pts": 17,
+      "adjPts": 17.3,
+      "pointsPlus": 139
+    },
+    {
+      "date": "2025-12-12",
+      "matchup": "CLE @ WAS",
+      "result": "W",
+      "min": 35,
+      "pts": 18,
+      "adjPts": 16.9,
+      "pointsPlus": 135
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "CLE vs. CHA",
+      "result": "L",
+      "min": 39,
+      "pts": 26,
+      "adjPts": 26.4,
+      "pointsPlus": 212
+    },
+    {
+      "date": "2025-12-17",
+      "matchup": "CLE @ CHI",
+      "result": "L",
+      "min": 30,
+      "pts": 15,
+      "adjPts": 14.3,
+      "pointsPlus": 115
+    },
+    {
+      "date": "2025-12-19",
+      "matchup": "CLE vs. CHI",
+      "result": "L",
+      "min": 33,
+      "pts": 35,
+      "adjPts": 33.4,
+      "pointsPlus": 268
+    },
+    {
+      "date": "2025-12-22",
+      "matchup": "CLE vs. CHA",
+      "result": "W",
+      "min": 30,
+      "pts": 27,
+      "adjPts": 27.4,
+      "pointsPlus": 220
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "CLE vs. NOP",
+      "result": "W",
+      "min": 29,
+      "pts": 10,
+      "adjPts": 9.6,
+      "pointsPlus": 77
+    },
+    {
+      "date": "2025-12-25",
+      "matchup": "CLE @ NYK",
+      "result": "L",
+      "min": 36,
+      "pts": 20,
+      "adjPts": 20.6,
+      "pointsPlus": 165
+    },
+    {
+      "date": "2025-12-27",
+      "matchup": "CLE @ HOU",
+      "result": "L",
+      "min": 24,
+      "pts": 12,
+      "adjPts": 12.7,
+      "pointsPlus": 102
+    },
+    {
+      "date": "2025-12-29",
+      "matchup": "CLE @ SAS",
+      "result": "W",
+      "min": 31,
+      "pts": 15,
+      "adjPts": 15.4,
+      "pointsPlus": 124
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "CLE vs. PHX",
+      "result": "W",
+      "min": 29,
+      "pts": 19,
+      "adjPts": 19.6,
+      "pointsPlus": 158
+    },
+    {
+      "date": "2026-01-02",
+      "matchup": "CLE vs. DEN",
+      "result": "W",
+      "min": 32,
+      "pts": 18,
+      "adjPts": 18.0,
+      "pointsPlus": 144
+    },
+    {
+      "date": "2026-01-04",
+      "matchup": "CLE vs. DET",
+      "result": "L",
+      "min": 32,
+      "pts": 16,
+      "adjPts": 16.9,
+      "pointsPlus": 135
+    },
+    {
+      "date": "2026-01-06",
+      "matchup": "CLE @ IND",
+      "result": "W",
+      "min": 33,
+      "pts": 29,
+      "adjPts": 28.2,
+      "pointsPlus": 226
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "CLE @ MIN",
+      "result": "L",
+      "min": 37,
+      "pts": 16,
+      "adjPts": 16.1,
+      "pointsPlus": 129
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "CLE vs. MIN",
+      "result": "W",
+      "min": 29,
+      "pts": 22,
+      "adjPts": 22.1,
+      "pointsPlus": 177
+    },
+    {
+      "date": "2026-01-12",
+      "matchup": "CLE vs. UTA",
+      "result": "L",
+      "min": 34,
+      "pts": 23,
+      "adjPts": 21.1,
+      "pointsPlus": 170
+    },
+    {
+      "date": "2026-01-14",
+      "matchup": "CLE @ PHI",
+      "result": "W",
+      "min": 23,
+      "pts": 20,
+      "adjPts": 20.2,
+      "pointsPlus": 162
+    }
+  ]
+}

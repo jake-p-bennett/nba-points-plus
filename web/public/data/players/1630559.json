@@ -1,0 +1,260 @@
+{
+  "id": 1630559,
+  "name": "Austin Reaves",
+  "team": "LAL",
+  "rank": 17,
+  "gp": 27,
+  "ppg": 25.7,
+  "adjPpg": 25.7,
+  "pointsPlus": 206,
+  "mpg": 33.7,
+  "position": "G",
+  "jersey": "15",
+  "usgPct": 28.1,
+  "tsPct": 66.5,
+  "gameLog": [
+    {
+      "date": "2025-10-21",
+      "matchup": "LAL vs. GSW",
+      "result": "L",
+      "min": 36,
+      "pts": 26,
+      "adjPts": 26.4,
+      "pointsPlus": 212
+    },
+    {
+      "date": "2025-10-24",
+      "matchup": "LAL vs. MIN",
+      "result": "W",
+      "min": 37,
+      "pts": 25,
+      "adjPts": 25.1,
+      "pointsPlus": 202
+    },
+    {
+      "date": "2025-10-26",
+      "matchup": "LAL @ SAC",
+      "result": "W",
+      "min": 39,
+      "pts": 51,
+      "adjPts": 48.9,
+      "pointsPlus": 392
+    },
+    {
+      "date": "2025-10-27",
+      "matchup": "LAL vs. POR",
+      "result": "L",
+      "min": 39,
+      "pts": 41,
+      "adjPts": 40.1,
+      "pointsPlus": 322
+    },
+    {
+      "date": "2025-10-29",
+      "matchup": "LAL @ MIN",
+      "result": "W",
+      "min": 40,
+      "pts": 28,
+      "adjPts": 28.1,
+      "pointsPlus": 226
+    },
+    {
+      "date": "2025-10-31",
+      "matchup": "LAL @ MEM",
+      "result": "W",
+      "min": 36,
+      "pts": 21,
+      "adjPts": 20.6,
+      "pointsPlus": 165
+    },
+    {
+      "date": "2025-11-02",
+      "matchup": "LAL vs. MIA",
+      "result": "W",
+      "min": 38,
+      "pts": 26,
+      "adjPts": 25.5,
+      "pointsPlus": 205
+    },
+    {
+      "date": "2025-11-10",
+      "matchup": "LAL @ CHA",
+      "result": "W",
+      "min": 29,
+      "pts": 24,
+      "adjPts": 24.4,
+      "pointsPlus": 196
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "LAL @ OKC",
+      "result": "L",
+      "min": 30,
+      "pts": 13,
+      "adjPts": 14.0,
+      "pointsPlus": 112
+    },
+    {
+      "date": "2025-11-14",
+      "matchup": "LAL @ NOP",
+      "result": "W",
+      "min": 39,
+      "pts": 31,
+      "adjPts": 29.9,
+      "pointsPlus": 240
+    },
+    {
+      "date": "2025-11-15",
+      "matchup": "LAL @ MIL",
+      "result": "W",
+      "min": 36,
+      "pts": 25,
+      "adjPts": 25.0,
+      "pointsPlus": 200
+    },
+    {
+      "date": "2025-11-18",
+      "matchup": "LAL vs. UTA",
+      "result": "W",
+      "min": 33,
+      "pts": 26,
+      "adjPts": 23.9,
+      "pointsPlus": 192
+    },
+    {
+      "date": "2025-11-23",
+      "matchup": "LAL @ UTA",
+      "result": "W",
+      "min": 40,
+      "pts": 22,
+      "adjPts": 20.2,
+      "pointsPlus": 162
+    },
+    {
+      "date": "2025-11-25",
+      "matchup": "LAL vs. LAC",
+      "result": "W",
+      "min": 35,
+      "pts": 31,
+      "adjPts": 31.8,
+      "pointsPlus": 256
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "LAL vs. DAL",
+      "result": "W",
+      "min": 41,
+      "pts": 38,
+      "adjPts": 37.6,
+      "pointsPlus": 302
+    },
+    {
+      "date": "2025-11-30",
+      "matchup": "LAL vs. NOP",
+      "result": "W",
+      "min": 40,
+      "pts": 33,
+      "adjPts": 31.8,
+      "pointsPlus": 255
+    },
+    {
+      "date": "2025-12-01",
+      "matchup": "LAL vs. PHX",
+      "result": "L",
+      "min": 33,
+      "pts": 16,
+      "adjPts": 16.5,
+      "pointsPlus": 133
+    },
+    {
+      "date": "2025-12-04",
+      "matchup": "LAL @ TOR",
+      "result": "W",
+      "min": 41,
+      "pts": 44,
+      "adjPts": 45.4,
+      "pointsPlus": 364
+    },
+    {
+      "date": "2025-12-05",
+      "matchup": "LAL @ BOS",
+      "result": "L",
+      "min": 33,
+      "pts": 36,
+      "adjPts": 38.3,
+      "pointsPlus": 308
+    },
+    {
+      "date": "2025-12-07",
+      "matchup": "LAL @ PHI",
+      "result": "W",
+      "min": 39,
+      "pts": 11,
+      "adjPts": 11.1,
+      "pointsPlus": 89
+    },
+    {
+      "date": "2025-12-10",
+      "matchup": "LAL vs. SAS",
+      "result": "L",
+      "min": 40,
+      "pts": 15,
+      "adjPts": 15.4,
+      "pointsPlus": 124
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "LAL @ PHX",
+      "result": "L",
+      "min": 22,
+      "pts": 17,
+      "adjPts": 17.6,
+      "pointsPlus": 141
+    },
+    {
+      "date": "2025-12-25",
+      "matchup": "LAL vs. HOU",
+      "result": "L",
+      "min": 15,
+      "pts": 12,
+      "adjPts": 12.7,
+      "pointsPlus": 102
+    },
+    {
+      "date": "2026-02-03",
+      "matchup": "LAL @ BKN",
+      "result": "W",
+      "min": 21,
+      "pts": 15,
+      "adjPts": 15.1,
+      "pointsPlus": 121
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "LAL vs. PHI",
+      "result": "W",
+      "min": 25,
+      "pts": 35,
+      "adjPts": 35.3,
+      "pointsPlus": 284
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "LAL vs. GSW",
+      "result": "W",
+      "min": 24,
+      "pts": 16,
+      "adjPts": 16.3,
+      "pointsPlus": 131
+    },
+    {
+      "date": "2026-02-09",
+      "matchup": "LAL vs. OKC",
+      "result": "L",
+      "min": 29,
+      "pts": 16,
+      "adjPts": 17.2,
+      "pointsPlus": 138
+    }
+  ]
+}

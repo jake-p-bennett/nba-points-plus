@@ -1,0 +1,458 @@
+{
+  "id": 1631108,
+  "name": "Max Christie",
+  "team": "DAL",
+  "rank": 119,
+  "gp": 49,
+  "ppg": 13.1,
+  "adjPpg": 13.2,
+  "pointsPlus": 106,
+  "mpg": 29.6,
+  "position": "G",
+  "jersey": "0",
+  "usgPct": 16.2,
+  "tsPct": 62.4,
+  "gameLog": [
+    {
+      "date": "2025-10-22",
+      "matchup": "DAL vs. SAS",
+      "result": "L",
+      "min": 26,
+      "pts": 9,
+      "adjPts": 9.2,
+      "pointsPlus": 74
+    },
+    {
+      "date": "2025-10-24",
+      "matchup": "DAL vs. WAS",
+      "result": "L",
+      "min": 29,
+      "pts": 9,
+      "adjPts": 8.4,
+      "pointsPlus": 68
+    },
+    {
+      "date": "2025-10-26",
+      "matchup": "DAL vs. TOR",
+      "result": "W",
+      "min": 27,
+      "pts": 17,
+      "adjPts": 17.5,
+      "pointsPlus": 141
+    },
+    {
+      "date": "2025-10-27",
+      "matchup": "DAL vs. OKC",
+      "result": "L",
+      "min": 31,
+      "pts": 14,
+      "adjPts": 15.0,
+      "pointsPlus": 121
+    },
+    {
+      "date": "2025-10-29",
+      "matchup": "DAL vs. IND",
+      "result": "W",
+      "min": 33,
+      "pts": 10,
+      "adjPts": 9.7,
+      "pointsPlus": 78
+    },
+    {
+      "date": "2025-11-01",
+      "matchup": "DAL @ DET",
+      "result": "L",
+      "min": 33,
+      "pts": 13,
+      "adjPts": 13.7,
+      "pointsPlus": 110
+    },
+    {
+      "date": "2025-11-03",
+      "matchup": "DAL @ HOU",
+      "result": "L",
+      "min": 33,
+      "pts": 17,
+      "adjPts": 18.0,
+      "pointsPlus": 145
+    },
+    {
+      "date": "2025-11-05",
+      "matchup": "DAL vs. NOP",
+      "result": "L",
+      "min": 27,
+      "pts": 12,
+      "adjPts": 11.6,
+      "pointsPlus": 93
+    },
+    {
+      "date": "2025-11-07",
+      "matchup": "DAL @ MEM",
+      "result": "L",
+      "min": 28,
+      "pts": 18,
+      "adjPts": 17.7,
+      "pointsPlus": 142
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "DAL @ WAS",
+      "result": "W",
+      "min": 31,
+      "pts": 12,
+      "adjPts": 11.2,
+      "pointsPlus": 90
+    },
+    {
+      "date": "2025-11-10",
+      "matchup": "DAL vs. MIL",
+      "result": "L",
+      "min": 30,
+      "pts": 13,
+      "adjPts": 13.0,
+      "pointsPlus": 104
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "DAL vs. PHX",
+      "result": "L",
+      "min": 34,
+      "pts": 12,
+      "adjPts": 12.4,
+      "pointsPlus": 99
+    },
+    {
+      "date": "2025-11-14",
+      "matchup": "DAL vs. LAC",
+      "result": "L",
+      "min": 37,
+      "pts": 10,
+      "adjPts": 10.3,
+      "pointsPlus": 82
+    },
+    {
+      "date": "2025-11-16",
+      "matchup": "DAL vs. POR",
+      "result": "W",
+      "min": 28,
+      "pts": 14,
+      "adjPts": 13.7,
+      "pointsPlus": 110
+    },
+    {
+      "date": "2025-11-17",
+      "matchup": "DAL @ MIN",
+      "result": "L",
+      "min": 19,
+      "pts": 1,
+      "adjPts": 1.0,
+      "pointsPlus": 8
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "DAL vs. NYK",
+      "result": "L",
+      "min": 37,
+      "pts": 15,
+      "adjPts": 15.4,
+      "pointsPlus": 124
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "DAL vs. NOP",
+      "result": "W",
+      "min": 32,
+      "pts": 23,
+      "adjPts": 22.2,
+      "pointsPlus": 178
+    },
+    {
+      "date": "2025-11-22",
+      "matchup": "DAL vs. MEM",
+      "result": "L",
+      "min": 22,
+      "pts": 9,
+      "adjPts": 8.8,
+      "pointsPlus": 71
+    },
+    {
+      "date": "2025-11-24",
+      "matchup": "DAL @ MIA",
+      "result": "L",
+      "min": 30,
+      "pts": 15,
+      "adjPts": 14.7,
+      "pointsPlus": 118
+    },
+    {
+      "date": "2025-11-28",
+      "matchup": "DAL @ LAL",
+      "result": "L",
+      "min": 27,
+      "pts": 13,
+      "adjPts": 12.8,
+      "pointsPlus": 103
+    },
+    {
+      "date": "2025-11-29",
+      "matchup": "DAL @ LAC",
+      "result": "W",
+      "min": 20,
+      "pts": 3,
+      "adjPts": 3.1,
+      "pointsPlus": 25
+    },
+    {
+      "date": "2025-12-01",
+      "matchup": "DAL @ DEN",
+      "result": "W",
+      "min": 29,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 72
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "DAL vs. MIA",
+      "result": "W",
+      "min": 32,
+      "pts": 10,
+      "adjPts": 9.8,
+      "pointsPlus": 79
+    },
+    {
+      "date": "2025-12-05",
+      "matchup": "DAL @ OKC",
+      "result": "L",
+      "min": 22,
+      "pts": 12,
+      "adjPts": 12.9,
+      "pointsPlus": 103
+    },
+    {
+      "date": "2025-12-06",
+      "matchup": "DAL vs. HOU",
+      "result": "W",
+      "min": 23,
+      "pts": 6,
+      "adjPts": 6.4,
+      "pointsPlus": 51
+    },
+    {
+      "date": "2025-12-12",
+      "matchup": "DAL vs. BKN",
+      "result": "W",
+      "min": 33,
+      "pts": 15,
+      "adjPts": 15.1,
+      "pointsPlus": 121
+    },
+    {
+      "date": "2025-12-15",
+      "matchup": "DAL @ UTA",
+      "result": "L",
+      "min": 28,
+      "pts": 8,
+      "adjPts": 7.4,
+      "pointsPlus": 59
+    },
+    {
+      "date": "2025-12-18",
+      "matchup": "DAL vs. DET",
+      "result": "W",
+      "min": 19,
+      "pts": 11,
+      "adjPts": 11.6,
+      "pointsPlus": 93
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "DAL @ PHI",
+      "result": "L",
+      "min": 14,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2025-12-25",
+      "matchup": "DAL @ GSW",
+      "result": "L",
+      "min": 34,
+      "pts": 13,
+      "adjPts": 13.2,
+      "pointsPlus": 106
+    },
+    {
+      "date": "2025-12-27",
+      "matchup": "DAL @ SAC",
+      "result": "L",
+      "min": 30,
+      "pts": 9,
+      "adjPts": 8.6,
+      "pointsPlus": 69
+    },
+    {
+      "date": "2025-12-29",
+      "matchup": "DAL @ POR",
+      "result": "L",
+      "min": 29,
+      "pts": 25,
+      "adjPts": 24.4,
+      "pointsPlus": 196
+    },
+    {
+      "date": "2026-01-01",
+      "matchup": "DAL vs. PHI",
+      "result": "L",
+      "min": 29,
+      "pts": 18,
+      "adjPts": 18.2,
+      "pointsPlus": 146
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "DAL vs. HOU",
+      "result": "W",
+      "min": 35,
+      "pts": 24,
+      "adjPts": 25.5,
+      "pointsPlus": 204
+    },
+    {
+      "date": "2026-01-06",
+      "matchup": "DAL @ SAC",
+      "result": "W",
+      "min": 36,
+      "pts": 11,
+      "adjPts": 10.5,
+      "pointsPlus": 85
+    },
+    {
+      "date": "2026-01-08",
+      "matchup": "DAL @ UTA",
+      "result": "L",
+      "min": 32,
+      "pts": 16,
+      "adjPts": 14.7,
+      "pointsPlus": 118
+    },
+    {
+      "date": "2026-01-10",
+      "matchup": "DAL @ CHI",
+      "result": "L",
+      "min": 27,
+      "pts": 10,
+      "adjPts": 9.6,
+      "pointsPlus": 77
+    },
+    {
+      "date": "2026-01-12",
+      "matchup": "DAL vs. BKN",
+      "result": "W",
+      "min": 34,
+      "pts": 10,
+      "adjPts": 10.1,
+      "pointsPlus": 81
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "DAL vs. UTA",
+      "result": "W",
+      "min": 26,
+      "pts": 22,
+      "adjPts": 20.2,
+      "pointsPlus": 162
+    },
+    {
+      "date": "2026-01-19",
+      "matchup": "DAL @ NYK",
+      "result": "W",
+      "min": 35,
+      "pts": 26,
+      "adjPts": 26.7,
+      "pointsPlus": 215
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "DAL vs. GSW",
+      "result": "W",
+      "min": 36,
+      "pts": 21,
+      "adjPts": 21.3,
+      "pointsPlus": 171
+    },
+    {
+      "date": "2026-01-24",
+      "matchup": "DAL vs. LAL",
+      "result": "L",
+      "min": 35,
+      "pts": 24,
+      "adjPts": 23.7,
+      "pointsPlus": 190
+    },
+    {
+      "date": "2026-01-28",
+      "matchup": "DAL vs. MIN",
+      "result": "L",
+      "min": 32,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 73
+    },
+    {
+      "date": "2026-01-29",
+      "matchup": "DAL vs. CHA",
+      "result": "L",
+      "min": 29,
+      "pts": 13,
+      "adjPts": 13.2,
+      "pointsPlus": 106
+    },
+    {
+      "date": "2026-01-31",
+      "matchup": "DAL @ HOU",
+      "result": "L",
+      "min": 32,
+      "pts": 11,
+      "adjPts": 11.7,
+      "pointsPlus": 94
+    },
+    {
+      "date": "2026-02-03",
+      "matchup": "DAL vs. BOS",
+      "result": "L",
+      "min": 30,
+      "pts": 10,
+      "adjPts": 10.7,
+      "pointsPlus": 85
+    },
+    {
+      "date": "2026-02-05",
+      "matchup": "DAL vs. SAS",
+      "result": "L",
+      "min": 38,
+      "pts": 20,
+      "adjPts": 20.5,
+      "pointsPlus": 165
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "DAL @ SAS",
+      "result": "L",
+      "min": 27,
+      "pts": 17,
+      "adjPts": 17.4,
+      "pointsPlus": 140
+    },
+    {
+      "date": "2026-02-10",
+      "matchup": "DAL @ PHX",
+      "result": "L",
+      "min": 31,
+      "pts": 5,
+      "adjPts": 5.2,
+      "pointsPlus": 41
+    }
+  ]
+}

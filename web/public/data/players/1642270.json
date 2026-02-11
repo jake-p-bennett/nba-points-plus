@@ -1,0 +1,467 @@
+{
+  "id": 1642270,
+  "name": "Donovan Clingan",
+  "team": "POR",
+  "rank": 154,
+  "gp": 50,
+  "ppg": 11.5,
+  "adjPpg": 11.5,
+  "pointsPlus": 92,
+  "mpg": 27.5,
+  "position": "C",
+  "jersey": "23",
+  "usgPct": 15.0,
+  "tsPct": 60.1,
+  "gameLog": [
+    {
+      "date": "2025-10-22",
+      "matchup": "POR vs. MIN",
+      "result": "L",
+      "min": 30,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 65
+    },
+    {
+      "date": "2025-10-24",
+      "matchup": "POR vs. GSW",
+      "result": "W",
+      "min": 22,
+      "pts": 14,
+      "adjPts": 14.2,
+      "pointsPlus": 114
+    },
+    {
+      "date": "2025-10-26",
+      "matchup": "POR @ LAC",
+      "result": "L",
+      "min": 24,
+      "pts": 9,
+      "adjPts": 9.2,
+      "pointsPlus": 74
+    },
+    {
+      "date": "2025-10-27",
+      "matchup": "POR @ LAL",
+      "result": "W",
+      "min": 26,
+      "pts": 16,
+      "adjPts": 15.8,
+      "pointsPlus": 127
+    },
+    {
+      "date": "2025-10-29",
+      "matchup": "POR @ UTA",
+      "result": "W",
+      "min": 28,
+      "pts": 5,
+      "adjPts": 4.6,
+      "pointsPlus": 37
+    },
+    {
+      "date": "2025-10-31",
+      "matchup": "POR vs. DEN",
+      "result": "W",
+      "min": 24,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 40
+    },
+    {
+      "date": "2025-11-03",
+      "matchup": "POR vs. LAL",
+      "result": "L",
+      "min": 18,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 16
+    },
+    {
+      "date": "2025-11-05",
+      "matchup": "POR vs. OKC",
+      "result": "W",
+      "min": 25,
+      "pts": 7,
+      "adjPts": 7.5,
+      "pointsPlus": 60
+    },
+    {
+      "date": "2025-11-08",
+      "matchup": "POR @ MIA",
+      "result": "L",
+      "min": 21,
+      "pts": 13,
+      "adjPts": 12.7,
+      "pointsPlus": 102
+    },
+    {
+      "date": "2025-11-10",
+      "matchup": "POR @ ORL",
+      "result": "L",
+      "min": 29,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 16
+    },
+    {
+      "date": "2025-11-12",
+      "matchup": "POR @ NOP",
+      "result": "W",
+      "min": 27,
+      "pts": 9,
+      "adjPts": 8.7,
+      "pointsPlus": 70
+    },
+    {
+      "date": "2025-11-14",
+      "matchup": "POR @ HOU",
+      "result": "L",
+      "min": 24,
+      "pts": 9,
+      "adjPts": 9.5,
+      "pointsPlus": 77
+    },
+    {
+      "date": "2025-11-16",
+      "matchup": "POR @ DAL",
+      "result": "L",
+      "min": 28,
+      "pts": 16,
+      "adjPts": 15.8,
+      "pointsPlus": 127
+    },
+    {
+      "date": "2025-11-18",
+      "matchup": "POR vs. PHX",
+      "result": "L",
+      "min": 23,
+      "pts": 9,
+      "adjPts": 9.3,
+      "pointsPlus": 75
+    },
+    {
+      "date": "2025-11-19",
+      "matchup": "POR vs. CHI",
+      "result": "L",
+      "min": 34,
+      "pts": 17,
+      "adjPts": 16.2,
+      "pointsPlus": 130
+    },
+    {
+      "date": "2025-11-21",
+      "matchup": "POR @ GSW",
+      "result": "W",
+      "min": 27,
+      "pts": 22,
+      "adjPts": 22.4,
+      "pointsPlus": 179
+    },
+    {
+      "date": "2025-11-23",
+      "matchup": "POR @ OKC",
+      "result": "L",
+      "min": 20,
+      "pts": 8,
+      "adjPts": 8.6,
+      "pointsPlus": 69
+    },
+    {
+      "date": "2025-11-24",
+      "matchup": "POR @ MIL",
+      "result": "W",
+      "min": 27,
+      "pts": 14,
+      "adjPts": 14.0,
+      "pointsPlus": 112
+    },
+    {
+      "date": "2025-11-26",
+      "matchup": "POR vs. SAS",
+      "result": "L",
+      "min": 26,
+      "pts": 9,
+      "adjPts": 9.2,
+      "pointsPlus": 74
+    },
+    {
+      "date": "2025-12-02",
+      "matchup": "POR @ TOR",
+      "result": "L",
+      "min": 21,
+      "pts": 11,
+      "adjPts": 11.3,
+      "pointsPlus": 91
+    },
+    {
+      "date": "2025-12-03",
+      "matchup": "POR @ CLE",
+      "result": "W",
+      "min": 25,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 40
+    },
+    {
+      "date": "2025-12-14",
+      "matchup": "POR vs. GSW",
+      "result": "W",
+      "min": 22,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 24
+    },
+    {
+      "date": "2025-12-18",
+      "matchup": "POR vs. SAC",
+      "result": "W",
+      "min": 35,
+      "pts": 19,
+      "adjPts": 18.2,
+      "pointsPlus": 146
+    },
+    {
+      "date": "2025-12-20",
+      "matchup": "POR @ SAC",
+      "result": "W",
+      "min": 30,
+      "pts": 14,
+      "adjPts": 13.4,
+      "pointsPlus": 108
+    },
+    {
+      "date": "2025-12-22",
+      "matchup": "POR vs. DET",
+      "result": "L",
+      "min": 34,
+      "pts": 17,
+      "adjPts": 17.9,
+      "pointsPlus": 144
+    },
+    {
+      "date": "2025-12-23",
+      "matchup": "POR vs. ORL",
+      "result": "L",
+      "min": 34,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 64
+    },
+    {
+      "date": "2025-12-26",
+      "matchup": "POR vs. LAC",
+      "result": "L",
+      "min": 25,
+      "pts": 10,
+      "adjPts": 10.3,
+      "pointsPlus": 82
+    },
+    {
+      "date": "2025-12-28",
+      "matchup": "POR vs. BOS",
+      "result": "W",
+      "min": 34,
+      "pts": 18,
+      "adjPts": 19.2,
+      "pointsPlus": 154
+    },
+    {
+      "date": "2025-12-29",
+      "matchup": "POR vs. DAL",
+      "result": "W",
+      "min": 29,
+      "pts": 18,
+      "adjPts": 17.8,
+      "pointsPlus": 143
+    },
+    {
+      "date": "2025-12-31",
+      "matchup": "POR @ OKC",
+      "result": "L",
+      "min": 17,
+      "pts": 6,
+      "adjPts": 6.4,
+      "pointsPlus": 52
+    },
+    {
+      "date": "2026-01-02",
+      "matchup": "POR @ NOP",
+      "result": "W",
+      "min": 30,
+      "pts": 11,
+      "adjPts": 10.6,
+      "pointsPlus": 85
+    },
+    {
+      "date": "2026-01-03",
+      "matchup": "POR @ SAS",
+      "result": "W",
+      "min": 34,
+      "pts": 24,
+      "adjPts": 24.6,
+      "pointsPlus": 198
+    },
+    {
+      "date": "2026-01-05",
+      "matchup": "POR vs. UTA",
+      "result": "W",
+      "min": 33,
+      "pts": 12,
+      "adjPts": 11.0,
+      "pointsPlus": 89
+    },
+    {
+      "date": "2026-01-07",
+      "matchup": "POR vs. HOU",
+      "result": "W",
+      "min": 31,
+      "pts": 12,
+      "adjPts": 12.7,
+      "pointsPlus": 102
+    },
+    {
+      "date": "2026-01-09",
+      "matchup": "POR vs. HOU",
+      "result": "W",
+      "min": 33,
+      "pts": 8,
+      "adjPts": 8.5,
+      "pointsPlus": 68
+    },
+    {
+      "date": "2026-01-11",
+      "matchup": "POR vs. NYK",
+      "result": "L",
+      "min": 30,
+      "pts": 8,
+      "adjPts": 8.2,
+      "pointsPlus": 66
+    },
+    {
+      "date": "2026-01-13",
+      "matchup": "POR @ GSW",
+      "result": "L",
+      "min": 22,
+      "pts": 7,
+      "adjPts": 7.1,
+      "pointsPlus": 57
+    },
+    {
+      "date": "2026-01-15",
+      "matchup": "POR vs. ATL",
+      "result": "W",
+      "min": 28,
+      "pts": 9,
+      "adjPts": 8.7,
+      "pointsPlus": 70
+    },
+    {
+      "date": "2026-01-17",
+      "matchup": "POR vs. LAL",
+      "result": "W",
+      "min": 27,
+      "pts": 18,
+      "adjPts": 17.8,
+      "pointsPlus": 143
+    },
+    {
+      "date": "2026-01-18",
+      "matchup": "POR @ SAC",
+      "result": "W",
+      "min": 37,
+      "pts": 21,
+      "adjPts": 20.1,
+      "pointsPlus": 162
+    },
+    {
+      "date": "2026-01-22",
+      "matchup": "POR vs. MIA",
+      "result": "W",
+      "min": 27,
+      "pts": 7,
+      "adjPts": 6.9,
+      "pointsPlus": 55
+    },
+    {
+      "date": "2026-01-23",
+      "matchup": "POR vs. TOR",
+      "result": "L",
+      "min": 29,
+      "pts": 13,
+      "adjPts": 13.4,
+      "pointsPlus": 108
+    },
+    {
+      "date": "2026-01-26",
+      "matchup": "POR @ BOS",
+      "result": "L",
+      "min": 28,
+      "pts": 9,
+      "adjPts": 9.6,
+      "pointsPlus": 77
+    },
+    {
+      "date": "2026-01-27",
+      "matchup": "POR @ WAS",
+      "result": "L",
+      "min": 30,
+      "pts": 14,
+      "adjPts": 13.1,
+      "pointsPlus": 105
+    },
+    {
+      "date": "2026-01-30",
+      "matchup": "POR @ NYK",
+      "result": "L",
+      "min": 22,
+      "pts": 7,
+      "adjPts": 7.2,
+      "pointsPlus": 58
+    },
+    {
+      "date": "2026-02-01",
+      "matchup": "POR vs. CLE",
+      "result": "L",
+      "min": 27,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 64
+    },
+    {
+      "date": "2026-02-03",
+      "matchup": "POR vs. PHX",
+      "result": "L",
+      "min": 27,
+      "pts": 14,
+      "adjPts": 14.5,
+      "pointsPlus": 116
+    },
+    {
+      "date": "2026-02-06",
+      "matchup": "POR vs. MEM",
+      "result": "W",
+      "min": 25,
+      "pts": 13,
+      "adjPts": 12.8,
+      "pointsPlus": 102
+    },
+    {
+      "date": "2026-02-07",
+      "matchup": "POR vs. MEM",
+      "result": "W",
+      "min": 36,
+      "pts": 20,
+      "adjPts": 19.6,
+      "pointsPlus": 158
+    },
+    {
+      "date": "2026-02-09",
+      "matchup": "POR vs. PHI",
+      "result": "W",
+      "min": 28,
+      "pts": 15,
+      "adjPts": 15.1,
+      "pointsPlus": 122
+    }
+  ]
+}
