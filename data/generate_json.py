@@ -88,8 +88,10 @@ def generate_distribution(qualifying):
     """Generate histogram data for Points+ distribution."""
     values = qualifying["POINTS_PLUS"].values
 
-    # Create bins from 40 to 220 in steps of 10
-    bin_edges = list(range(40, 230, 10))
+    # Create bins that cover the full range of values
+    min_val = int(np.floor(values.min() / 10) * 10)
+    max_val = int(np.ceil(values.max() / 10) * 10)
+    bin_edges = list(range(min_val, max_val + 1, 10))
     counts, edges = np.histogram(values, bins=bin_edges)
 
     bins = []

@@ -23,9 +23,9 @@ export default function DistributionChart({
     : [];
 
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  function handleBarClick(barData: any) {
-    if (!barData?.activePayload?.[0]?.payload) return;
-    const bin = barData.activePayload[0].payload as DistributionBin;
+  function handleBarClick(entry: any) {
+    if (!entry) return;
+    const bin = entry as DistributionBin;
     setSelectedBin((prev) => (prev?.label === bin.label ? null : bin));
   }
 
@@ -40,7 +40,6 @@ export default function DistributionChart({
           <BarChart
             data={data}
             margin={{ top: 5, right: 5, bottom: 5, left: 5 }}
-            onClick={handleBarClick}
           >
             <XAxis
               dataKey="label"
@@ -74,9 +73,8 @@ export default function DistributionChart({
               x="100-110"
               stroke="#f59e0b"
               strokeDasharray="3 3"
-              label={{ value: "Avg", fill: "#f59e0b", fontSize: 10, position: "top" }}
             />
-            <Bar dataKey="count" radius={[3, 3, 0, 0]}>
+            <Bar dataKey="count" radius={[3, 3, 0, 0]} onClick={handleBarClick} style={{ cursor: "pointer" }}>
               {data.map((entry, index) => (
                 <Cell
                   key={index}

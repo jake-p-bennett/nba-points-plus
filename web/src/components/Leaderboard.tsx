@@ -59,7 +59,7 @@ export default function Leaderboard({ players }: { players: LeaderboardPlayer[] 
   }
 
   return (
-    <div>
+    <div className="max-w-3xl mx-auto">
       {/* Desktop table */}
       <div className="hidden md:block overflow-x-auto rounded-lg border border-slate-800">
         <table className="w-full">
