@@ -2,16 +2,16 @@
   "id": 1630249,
   "name": "V\u00edt Krej\u010d\u00ed",
   "team": "POR",
-  "rank": 201,
-  "gp": 50,
-  "ppg": 8.9,
-  "adjPpg": 8.9,
-  "pointsPlus": 71,
+  "rank": 198,
+  "gp": 51,
+  "ppg": 9.1,
+  "adjPpg": 9.1,
+  "pointsPlus": 73,
   "mpg": 22.2,
   "position": "G",
   "jersey": "27",
-  "usgPct": 14.0,
-  "tsPct": 62.8,
+  "usgPct": 14.2,
+  "tsPct": 63.4,
   "gameLog": [
     {
       "date": "2025-10-24",
@@ -91,7 +91,7 @@
       "result": "W",
       "min": 32,
       "pts": 20,
-      "adjPts": 18.4,
+      "adjPts": 18.5,
       "pointsPlus": 148
     },
     {
@@ -164,7 +164,7 @@
       "min": 26,
       "pts": 5,
       "adjPts": 5.0,
-      "pointsPlus": 41
+      "pointsPlus": 40
     },
     {
       "date": "2025-12-01",
@@ -208,7 +208,7 @@
       "result": "L",
       "min": 29,
       "pts": 8,
-      "adjPts": 8.4,
+      "adjPts": 8.5,
       "pointsPlus": 68
     },
     {
@@ -217,8 +217,8 @@
       "result": "W",
       "min": 26,
       "pts": 19,
-      "adjPts": 19.2,
-      "pointsPlus": 154
+      "adjPts": 19.1,
+      "pointsPlus": 153
     },
     {
       "date": "2025-12-18",
@@ -254,7 +254,7 @@
       "min": 29,
       "pts": 19,
       "adjPts": 18.1,
-      "pointsPlus": 146
+      "pointsPlus": 145
     },
     {
       "date": "2025-12-26",
@@ -298,7 +298,7 @@
       "result": "W",
       "min": 29,
       "pts": 8,
-      "adjPts": 8.2,
+      "adjPts": 8.3,
       "pointsPlus": 66
     },
     {
@@ -362,7 +362,7 @@
       "min": 21,
       "pts": 8,
       "adjPts": 7.8,
-      "pointsPlus": 63
+      "pointsPlus": 62
     },
     {
       "date": "2026-01-17",
@@ -424,7 +424,7 @@
       "result": "L",
       "min": 27,
       "pts": 9,
-      "adjPts": 9.5,
+      "adjPts": 9.6,
       "pointsPlus": 77
     },
     {
@@ -433,7 +433,7 @@
       "result": "L",
       "min": 14,
       "pts": 5,
-      "adjPts": 5.2,
+      "adjPts": 5.1,
       "pointsPlus": 41
     },
     {
@@ -443,7 +443,7 @@
       "min": 23,
       "pts": 11,
       "adjPts": 10.8,
-      "pointsPlus": 87
+      "pointsPlus": 86
     },
     {
       "date": "2026-02-07",
@@ -461,7 +461,16 @@
       "min": 23,
       "pts": 5,
       "adjPts": 5.0,
-      "pointsPlus": 41
+      "pointsPlus": 40
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "POR @ MIN",
+      "result": "L",
+      "min": 20,
+      "pts": 17,
+      "adjPts": 17.1,
+      "pointsPlus": 137
     }
   ]
 }

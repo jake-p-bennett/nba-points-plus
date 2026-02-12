@@ -3,7 +3,7 @@
   "name": "Onyeka Okongwu",
   "team": "ATL",
   "rank": 79,
-  "gp": 49,
+  "gp": 50,
   "ppg": 16.2,
   "adjPpg": 16.3,
   "pointsPlus": 131,
@@ -11,7 +11,7 @@
   "position": "F-C",
   "jersey": "17",
   "usgPct": 19.7,
-  "tsPct": 59.2,
+  "tsPct": 59.6,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -83,7 +83,7 @@
       "min": 27,
       "pts": 14,
       "adjPts": 14.0,
-      "pointsPlus": 113
+      "pointsPlus": 112
     },
     {
       "date": "2025-11-07",
@@ -110,7 +110,7 @@
       "min": 26,
       "pts": 10,
       "adjPts": 10.3,
-      "pointsPlus": 82
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-12",
@@ -119,7 +119,7 @@
       "min": 21,
       "pts": 21,
       "adjPts": 20.1,
-      "pointsPlus": 162
+      "pointsPlus": 161
     },
     {
       "date": "2025-11-13",
@@ -127,8 +127,8 @@
       "result": "W",
       "min": 35,
       "pts": 32,
-      "adjPts": 29.4,
-      "pointsPlus": 236
+      "adjPts": 29.5,
+      "pointsPlus": 237
     },
     {
       "date": "2025-11-16",
@@ -136,8 +136,8 @@
       "result": "W",
       "min": 37,
       "pts": 27,
-      "adjPts": 27.9,
-      "pointsPlus": 224
+      "adjPts": 27.8,
+      "pointsPlus": 223
     },
     {
       "date": "2025-11-18",
@@ -145,7 +145,7 @@
       "result": "L",
       "min": 34,
       "pts": 21,
-      "adjPts": 22.1,
+      "adjPts": 22.2,
       "pointsPlus": 178
     },
     {
@@ -226,8 +226,8 @@
       "result": "W",
       "min": 36,
       "pts": 21,
-      "adjPts": 19.7,
-      "pointsPlus": 158
+      "adjPts": 19.6,
+      "pointsPlus": 157
     },
     {
       "date": "2025-12-12",
@@ -236,7 +236,7 @@
       "min": 28,
       "pts": 14,
       "adjPts": 14.8,
-      "pointsPlus": 118
+      "pointsPlus": 119
     },
     {
       "date": "2025-12-14",
@@ -244,8 +244,8 @@
       "result": "W",
       "min": 36,
       "pts": 20,
-      "adjPts": 20.2,
-      "pointsPlus": 162
+      "adjPts": 20.1,
+      "pointsPlus": 161
     },
     {
       "date": "2025-12-18",
@@ -271,7 +271,7 @@
       "result": "L",
       "min": 40,
       "pts": 23,
-      "adjPts": 22.0,
+      "adjPts": 21.9,
       "pointsPlus": 176
     },
     {
@@ -280,7 +280,7 @@
       "result": "L",
       "min": 36,
       "pts": 10,
-      "adjPts": 9.6,
+      "adjPts": 9.5,
       "pointsPlus": 77
     },
     {
@@ -298,8 +298,8 @@
       "result": "L",
       "min": 36,
       "pts": 31,
-      "adjPts": 31.9,
-      "pointsPlus": 256
+      "adjPts": 32.0,
+      "pointsPlus": 257
     },
     {
       "date": "2025-12-29",
@@ -325,7 +325,7 @@
       "result": "W",
       "min": 30,
       "pts": 23,
-      "adjPts": 23.6,
+      "adjPts": 23.7,
       "pointsPlus": 190
     },
     {
@@ -362,7 +362,7 @@
       "min": 33,
       "pts": 18,
       "adjPts": 18.3,
-      "pointsPlus": 147
+      "pointsPlus": 146
     },
     {
       "date": "2026-01-13",
@@ -379,8 +379,8 @@
       "result": "L",
       "min": 37,
       "pts": 26,
-      "adjPts": 25.4,
-      "pointsPlus": 204
+      "adjPts": 25.3,
+      "pointsPlus": 203
     },
     {
       "date": "2026-01-17",
@@ -389,7 +389,7 @@
       "min": 33,
       "pts": 21,
       "adjPts": 22.4,
-      "pointsPlus": 180
+      "pointsPlus": 179
     },
     {
       "date": "2026-01-19",
@@ -406,7 +406,7 @@
       "result": "W",
       "min": 28,
       "pts": 18,
-      "adjPts": 17.7,
+      "adjPts": 17.6,
       "pointsPlus": 142
     },
     {
@@ -415,8 +415,8 @@
       "result": "W",
       "min": 36,
       "pts": 25,
-      "adjPts": 25.8,
-      "pointsPlus": 207
+      "adjPts": 25.7,
+      "pointsPlus": 206
     },
     {
       "date": "2026-01-26",
@@ -453,6 +453,15 @@
       "pts": 14,
       "adjPts": 14.1,
       "pointsPlus": 113
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "ATL @ CHA",
+      "result": "L",
+      "min": 29,
+      "pts": 18,
+      "adjPts": 18.3,
+      "pointsPlus": 147
     }
   ]
 }

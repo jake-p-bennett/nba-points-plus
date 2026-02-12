@@ -3,15 +3,15 @@
   "name": "Jabari Smith Jr.",
   "team": "HOU",
   "rank": 86,
-  "gp": 51,
+  "gp": 52,
   "ppg": 15.2,
   "adjPpg": 15.2,
   "pointsPlus": 122,
-  "mpg": 35.0,
+  "mpg": 35.1,
   "position": "F",
   "jersey": "10",
   "usgPct": 17.5,
-  "tsPct": 55.5,
+  "tsPct": 55.7,
   "gameLog": [
     {
       "date": "2025-10-21",
@@ -91,8 +91,8 @@
       "result": "W",
       "min": 30,
       "pts": 15,
-      "adjPts": 14.1,
-      "pointsPlus": 113
+      "adjPts": 14.0,
+      "pointsPlus": 112
     },
     {
       "date": "2025-11-14",
@@ -100,8 +100,8 @@
       "result": "W",
       "min": 27,
       "pts": 22,
-      "adjPts": 21.5,
-      "pointsPlus": 173
+      "adjPts": 21.4,
+      "pointsPlus": 172
     },
     {
       "date": "2025-11-16",
@@ -136,8 +136,8 @@
       "result": "W",
       "min": 32,
       "pts": 17,
-      "adjPts": 17.6,
-      "pointsPlus": 141
+      "adjPts": 17.5,
+      "pointsPlus": 140
     },
     {
       "date": "2025-11-26",
@@ -163,7 +163,7 @@
       "result": "L",
       "min": 37,
       "pts": 12,
-      "adjPts": 11.0,
+      "adjPts": 11.1,
       "pointsPlus": 89
     },
     {
@@ -182,7 +182,7 @@
       "min": 28,
       "pts": 16,
       "adjPts": 16.5,
-      "pointsPlus": 133
+      "pointsPlus": 132
     },
     {
       "date": "2025-12-06",
@@ -191,7 +191,7 @@
       "min": 41,
       "pts": 22,
       "adjPts": 21.8,
-      "pointsPlus": 175
+      "pointsPlus": 174
     },
     {
       "date": "2025-12-11",
@@ -200,7 +200,7 @@
       "min": 37,
       "pts": 18,
       "adjPts": 18.5,
-      "pointsPlus": 148
+      "pointsPlus": 149
     },
     {
       "date": "2025-12-15",
@@ -236,7 +236,7 @@
       "min": 36,
       "pts": 18,
       "adjPts": 17.3,
-      "pointsPlus": 139
+      "pointsPlus": 138
     },
     {
       "date": "2025-12-23",
@@ -244,7 +244,7 @@
       "result": "L",
       "min": 32,
       "pts": 16,
-      "adjPts": 16.4,
+      "adjPts": 16.5,
       "pointsPlus": 132
     },
     {
@@ -298,8 +298,8 @@
       "result": "W",
       "min": 38,
       "pts": 17,
-      "adjPts": 17.6,
-      "pointsPlus": 141
+      "adjPts": 17.5,
+      "pointsPlus": 140
     },
     {
       "date": "2026-01-07",
@@ -307,7 +307,7 @@
       "result": "L",
       "min": 37,
       "pts": 6,
-      "adjPts": 5.9,
+      "adjPts": 5.8,
       "pointsPlus": 47
     },
     {
@@ -344,7 +344,7 @@
       "min": 34,
       "pts": 17,
       "adjPts": 18.3,
-      "pointsPlus": 147
+      "pointsPlus": 146
     },
     {
       "date": "2026-01-16",
@@ -370,7 +370,7 @@
       "result": "W",
       "min": 35,
       "pts": 17,
-      "adjPts": 17.4,
+      "adjPts": 17.5,
       "pointsPlus": 140
     },
     {
@@ -397,7 +397,7 @@
       "result": "W",
       "min": 34,
       "pts": 8,
-      "adjPts": 7.9,
+      "adjPts": 7.8,
       "pointsPlus": 63
     },
     {
@@ -442,7 +442,7 @@
       "result": "L",
       "min": 33,
       "pts": 13,
-      "adjPts": 13.8,
+      "adjPts": 13.9,
       "pointsPlus": 111
     },
     {
@@ -461,7 +461,7 @@
       "min": 43,
       "pts": 22,
       "adjPts": 23.6,
-      "pointsPlus": 190
+      "pointsPlus": 189
     },
     {
       "date": "2026-02-10",
@@ -471,6 +471,15 @@
       "pts": 13,
       "adjPts": 13.4,
       "pointsPlus": 107
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "HOU vs. LAC",
+      "result": "L",
+      "min": 36,
+      "pts": 16,
+      "adjPts": 16.5,
+      "pointsPlus": 132
     }
   ]
 }

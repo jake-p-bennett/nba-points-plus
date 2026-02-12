@@ -3,15 +3,15 @@
   "name": "Kawhi Leonard",
   "team": "LAC",
   "rank": 8,
-  "gp": 40,
+  "gp": 41,
   "ppg": 27.9,
   "adjPpg": 27.9,
   "pointsPlus": 224,
   "mpg": 32.8,
   "position": "F",
   "jersey": "2",
-  "usgPct": 32.7,
-  "tsPct": 62.0,
+  "usgPct": 32.9,
+  "tsPct": 61.9,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -28,8 +28,8 @@
       "result": "W",
       "min": 33,
       "pts": 27,
-      "adjPts": 27.9,
-      "pointsPlus": 224
+      "adjPts": 27.8,
+      "pointsPlus": 223
     },
     {
       "date": "2025-10-26",
@@ -37,8 +37,8 @@
       "result": "W",
       "min": 35,
       "pts": 30,
-      "adjPts": 29.3,
-      "pointsPlus": 235
+      "adjPts": 29.2,
+      "pointsPlus": 234
     },
     {
       "date": "2025-10-28",
@@ -47,7 +47,7 @@
       "min": 31,
       "pts": 18,
       "adjPts": 18.3,
-      "pointsPlus": 147
+      "pointsPlus": 146
     },
     {
       "date": "2025-10-31",
@@ -55,7 +55,7 @@
       "result": "W",
       "min": 36,
       "pts": 34,
-      "adjPts": 32.8,
+      "adjPts": 32.7,
       "pointsPlus": 263
     },
     {
@@ -91,7 +91,7 @@
       "result": "L",
       "min": 29,
       "pts": 39,
-      "adjPts": 38.3,
+      "adjPts": 38.2,
       "pointsPlus": 307
     },
     {
@@ -127,7 +127,7 @@
       "result": "L",
       "min": 35,
       "pts": 24,
-      "adjPts": 23.6,
+      "adjPts": 23.5,
       "pointsPlus": 189
     },
     {
@@ -164,7 +164,7 @@
       "min": 32,
       "pts": 22,
       "adjPts": 23.6,
-      "pointsPlus": 190
+      "pointsPlus": 189
     },
     {
       "date": "2025-12-20",
@@ -190,8 +190,8 @@
       "result": "W",
       "min": 41,
       "pts": 28,
-      "adjPts": 27.4,
-      "pointsPlus": 220
+      "adjPts": 27.3,
+      "pointsPlus": 219
     },
     {
       "date": "2025-12-28",
@@ -199,8 +199,8 @@
       "result": "W",
       "min": 39,
       "pts": 55,
-      "adjPts": 58.0,
-      "pointsPlus": 465
+      "adjPts": 58.1,
+      "pointsPlus": 466
     },
     {
       "date": "2025-12-30",
@@ -217,8 +217,8 @@
       "result": "W",
       "min": 39,
       "pts": 45,
-      "adjPts": 41.4,
-      "pointsPlus": 332
+      "adjPts": 41.5,
+      "pointsPlus": 333
     },
     {
       "date": "2026-01-03",
@@ -235,8 +235,8 @@
       "result": "W",
       "min": 38,
       "pts": 24,
-      "adjPts": 24.4,
-      "pointsPlus": 196
+      "adjPts": 24.3,
+      "pointsPlus": 195
     },
     {
       "date": "2026-01-07",
@@ -244,8 +244,8 @@
       "result": "L",
       "min": 36,
       "pts": 25,
-      "adjPts": 25.7,
-      "pointsPlus": 206
+      "adjPts": 25.8,
+      "pointsPlus": 207
     },
     {
       "date": "2026-01-09",
@@ -262,7 +262,7 @@
       "result": "W",
       "min": 31,
       "pts": 26,
-      "adjPts": 27.4,
+      "adjPts": 27.5,
       "pointsPlus": 220
     },
     {
@@ -281,7 +281,7 @@
       "min": 30,
       "pts": 33,
       "adjPts": 30.9,
-      "pointsPlus": 248
+      "pointsPlus": 247
     },
     {
       "date": "2026-01-22",
@@ -307,7 +307,7 @@
       "result": "W",
       "min": 28,
       "pts": 21,
-      "adjPts": 19.3,
+      "adjPts": 19.4,
       "pointsPlus": 155
     },
     {
@@ -325,8 +325,8 @@
       "result": "W",
       "min": 30,
       "pts": 25,
-      "adjPts": 25.8,
-      "pointsPlus": 207
+      "adjPts": 25.7,
+      "pointsPlus": 206
     },
     {
       "date": "2026-02-02",
@@ -334,8 +334,8 @@
       "result": "L",
       "min": 31,
       "pts": 29,
-      "adjPts": 29.3,
-      "pointsPlus": 235
+      "adjPts": 29.2,
+      "pointsPlus": 234
     },
     {
       "date": "2026-02-04",
@@ -353,7 +353,7 @@
       "min": 36,
       "pts": 31,
       "adjPts": 29.7,
-      "pointsPlus": 239
+      "pointsPlus": 238
     },
     {
       "date": "2026-02-08",
@@ -362,7 +362,7 @@
       "min": 34,
       "pts": 41,
       "adjPts": 41.2,
-      "pointsPlus": 331
+      "pointsPlus": 330
     },
     {
       "date": "2026-02-10",
@@ -372,6 +372,15 @@
       "pts": 24,
       "adjPts": 25.5,
       "pointsPlus": 204
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "LAC @ HOU",
+      "result": "W",
+      "min": 33,
+      "pts": 27,
+      "adjPts": 28.7,
+      "pointsPlus": 230
     }
   ]
 }

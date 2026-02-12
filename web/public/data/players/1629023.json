@@ -6,7 +6,7 @@
   "gp": 38,
   "ppg": 14.0,
   "adjPpg": 14.0,
-  "pointsPlus": 113,
+  "pointsPlus": 112,
   "mpg": 30.5,
   "position": "F",
   "jersey": "25",
@@ -19,7 +19,7 @@
       "result": "L",
       "min": 29,
       "pts": 17,
-      "adjPts": 17.4,
+      "adjPts": 17.5,
       "pointsPlus": 140
     },
     {
@@ -28,7 +28,7 @@
       "result": "L",
       "min": 39,
       "pts": 18,
-      "adjPts": 16.9,
+      "adjPts": 16.8,
       "pointsPlus": 135
     },
     {
@@ -82,7 +82,7 @@
       "result": "L",
       "min": 38,
       "pts": 15,
-      "adjPts": 14.5,
+      "adjPts": 14.4,
       "pointsPlus": 116
     },
     {
@@ -128,7 +128,7 @@
       "min": 38,
       "pts": 21,
       "adjPts": 20.5,
-      "pointsPlus": 165
+      "pointsPlus": 164
     },
     {
       "date": "2025-11-17",
@@ -155,7 +155,7 @@
       "min": 37,
       "pts": 24,
       "adjPts": 23.1,
-      "pointsPlus": 186
+      "pointsPlus": 185
     },
     {
       "date": "2025-11-22",
@@ -208,8 +208,8 @@
       "result": "L",
       "min": 39,
       "pts": 25,
-      "adjPts": 23.0,
-      "pointsPlus": 184
+      "adjPts": 23.1,
+      "pointsPlus": 185
     },
     {
       "date": "2025-12-18",
@@ -227,7 +227,7 @@
       "min": 30,
       "pts": 15,
       "adjPts": 15.1,
-      "pointsPlus": 122
+      "pointsPlus": 121
     },
     {
       "date": "2025-12-22",
@@ -263,7 +263,7 @@
       "min": 29,
       "pts": 8,
       "adjPts": 7.8,
-      "pointsPlus": 63
+      "pointsPlus": 62
     },
     {
       "date": "2026-01-01",
@@ -298,8 +298,8 @@
       "result": "W",
       "min": 22,
       "pts": 10,
-      "adjPts": 10.2,
-      "pointsPlus": 82
+      "adjPts": 10.1,
+      "pointsPlus": 81
     },
     {
       "date": "2026-01-24",
@@ -334,7 +334,7 @@
       "result": "L",
       "min": 25,
       "pts": 9,
-      "adjPts": 9.5,
+      "adjPts": 9.6,
       "pointsPlus": 77
     },
     {
@@ -353,7 +353,7 @@
       "min": 26,
       "pts": 13,
       "adjPts": 13.4,
-      "pointsPlus": 108
+      "pointsPlus": 107
     }
   ]
 }

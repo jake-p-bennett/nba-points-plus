@@ -3,14 +3,14 @@
   "name": "Adem Bona",
   "team": "PHI",
   "rank": 310,
-  "gp": 44,
-  "ppg": 4.1,
+  "gp": 45,
+  "ppg": 4.2,
   "adjPpg": 4.2,
-  "pointsPlus": 33,
-  "mpg": 16.2,
+  "pointsPlus": 34,
+  "mpg": 16.4,
   "position": "F",
   "jersey": "30",
-  "usgPct": 10.2,
+  "usgPct": 10.3,
   "tsPct": 62.6,
   "gameLog": [
     {
@@ -218,7 +218,7 @@
       "min": 26,
       "pts": 4,
       "adjPts": 3.9,
-      "pointsPlus": 32
+      "pointsPlus": 31
     },
     {
       "date": "2026-01-01",
@@ -307,7 +307,7 @@
       "result": "L",
       "min": 26,
       "pts": 11,
-      "adjPts": 11.4,
+      "adjPts": 11.3,
       "pointsPlus": 91
     },
     {
@@ -371,7 +371,7 @@
       "min": 16,
       "pts": 6,
       "adjPts": 6.2,
-      "pointsPlus": 49
+      "pointsPlus": 50
     },
     {
       "date": "2026-02-03",
@@ -380,7 +380,7 @@
       "min": 16,
       "pts": 11,
       "adjPts": 11.2,
-      "pointsPlus": 90
+      "pointsPlus": 89
     },
     {
       "date": "2026-02-05",
@@ -408,6 +408,15 @@
       "pts": 7,
       "adjPts": 6.8,
       "pointsPlus": 55
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "PHI vs. NYK",
+      "result": "L",
+      "min": 23,
+      "pts": 6,
+      "adjPts": 6.2,
+      "pointsPlus": 50
     }
   ]
 }

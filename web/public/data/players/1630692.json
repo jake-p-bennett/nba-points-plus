@@ -2,16 +2,16 @@
   "id": 1630692,
   "name": "Jordan Goodwin",
   "team": "PHX",
-  "rank": 203,
-  "gp": 51,
-  "ppg": 8.7,
+  "rank": 204,
+  "gp": 52,
+  "ppg": 8.8,
   "adjPpg": 8.8,
-  "pointsPlus": 70,
-  "mpg": 22.2,
+  "pointsPlus": 71,
+  "mpg": 22.3,
   "position": "G",
   "jersey": "23",
   "usgPct": 17.5,
-  "tsPct": 50.9,
+  "tsPct": 51.1,
   "gameLog": [
     {
       "date": "2025-10-24",
@@ -37,7 +37,7 @@
       "result": "W",
       "min": 17,
       "pts": 7,
-      "adjPts": 6.4,
+      "adjPts": 6.5,
       "pointsPlus": 52
     },
     {
@@ -118,7 +118,7 @@
       "result": "W",
       "min": 22,
       "pts": 10,
-      "adjPts": 9.8,
+      "adjPts": 9.7,
       "pointsPlus": 78
     },
     {
@@ -190,7 +190,7 @@
       "result": "L",
       "min": 22,
       "pts": 9,
-      "adjPts": 9.5,
+      "adjPts": 9.6,
       "pointsPlus": 77
     },
     {
@@ -317,7 +317,7 @@
       "min": 23,
       "pts": 11,
       "adjPts": 10.8,
-      "pointsPlus": 87
+      "pointsPlus": 86
     },
     {
       "date": "2026-01-09",
@@ -335,7 +335,7 @@
       "min": 22,
       "pts": 3,
       "adjPts": 2.8,
-      "pointsPlus": 23
+      "pointsPlus": 22
     },
     {
       "date": "2026-01-13",
@@ -362,7 +362,7 @@
       "min": 20,
       "pts": 13,
       "adjPts": 13.4,
-      "pointsPlus": 107
+      "pointsPlus": 108
     },
     {
       "date": "2026-01-19",
@@ -379,8 +379,8 @@
       "result": "W",
       "min": 20,
       "pts": 16,
-      "adjPts": 16.2,
-      "pointsPlus": 130
+      "adjPts": 16.1,
+      "pointsPlus": 129
     },
     {
       "date": "2026-01-23",
@@ -460,7 +460,7 @@
       "result": "L",
       "min": 27,
       "pts": 7,
-      "adjPts": 7.1,
+      "adjPts": 7.0,
       "pointsPlus": 57
     },
     {
@@ -471,6 +471,15 @@
       "pts": 8,
       "adjPts": 7.9,
       "pointsPlus": 63
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "PHX vs. OKC",
+      "result": "L",
+      "min": 28,
+      "pts": 12,
+      "adjPts": 12.9,
+      "pointsPlus": 103
     }
   ]
 }

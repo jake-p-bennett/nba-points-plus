@@ -3,15 +3,15 @@
   "name": "Saddiq Bey",
   "team": "NOP",
   "rank": 76,
-  "gp": 48,
+  "gp": 49,
   "ppg": 16.6,
-  "adjPpg": 16.7,
-  "pointsPlus": 134,
-  "mpg": 30.4,
+  "adjPpg": 16.6,
+  "pointsPlus": 133,
+  "mpg": 30.5,
   "position": "G-F",
   "jersey": "41",
   "usgPct": 20.4,
-  "tsPct": 57.5,
+  "tsPct": 57.2,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -19,7 +19,7 @@
       "result": "L",
       "min": 30,
       "pts": 13,
-      "adjPts": 12.8,
+      "adjPts": 12.7,
       "pointsPlus": 102
     },
     {
@@ -83,7 +83,7 @@
       "min": 30,
       "pts": 22,
       "adjPts": 21.8,
-      "pointsPlus": 175
+      "pointsPlus": 174
     },
     {
       "date": "2025-11-08",
@@ -100,7 +100,7 @@
       "result": "L",
       "min": 29,
       "pts": 15,
-      "adjPts": 15.5,
+      "adjPts": 15.4,
       "pointsPlus": 124
     },
     {
@@ -110,7 +110,7 @@
       "min": 35,
       "pts": 25,
       "adjPts": 24.4,
-      "pointsPlus": 196
+      "pointsPlus": 195
     },
     {
       "date": "2025-11-14",
@@ -128,7 +128,7 @@
       "min": 29,
       "pts": 11,
       "adjPts": 11.2,
-      "pointsPlus": 90
+      "pointsPlus": 89
     },
     {
       "date": "2025-11-19",
@@ -172,7 +172,7 @@
       "result": "L",
       "min": 39,
       "pts": 18,
-      "adjPts": 17.7,
+      "adjPts": 17.6,
       "pointsPlus": 142
     },
     {
@@ -226,7 +226,7 @@
       "result": "L",
       "min": 36,
       "pts": 17,
-      "adjPts": 17.4,
+      "adjPts": 17.5,
       "pointsPlus": 140
     },
     {
@@ -235,8 +235,8 @@
       "result": "W",
       "min": 29,
       "pts": 15,
-      "adjPts": 14.7,
-      "pointsPlus": 118
+      "adjPts": 14.6,
+      "pointsPlus": 117
     },
     {
       "date": "2025-12-14",
@@ -244,7 +244,7 @@
       "result": "W",
       "min": 25,
       "pts": 10,
-      "adjPts": 9.6,
+      "adjPts": 9.5,
       "pointsPlus": 77
     },
     {
@@ -280,7 +280,7 @@
       "result": "L",
       "min": 26,
       "pts": 11,
-      "adjPts": 10.9,
+      "adjPts": 11.0,
       "pointsPlus": 88
     },
     {
@@ -290,7 +290,7 @@
       "min": 31,
       "pts": 9,
       "adjPts": 9.3,
-      "pointsPlus": 75
+      "pointsPlus": 74
     },
     {
       "date": "2025-12-27",
@@ -298,8 +298,8 @@
       "result": "L",
       "min": 33,
       "pts": 17,
-      "adjPts": 17.6,
-      "pointsPlus": 141
+      "adjPts": 17.5,
+      "pointsPlus": 140
     },
     {
       "date": "2025-12-29",
@@ -307,7 +307,7 @@
       "result": "L",
       "min": 37,
       "pts": 26,
-      "adjPts": 26.7,
+      "adjPts": 26.8,
       "pointsPlus": 215
     },
     {
@@ -317,7 +317,7 @@
       "min": 34,
       "pts": 16,
       "adjPts": 15.3,
-      "pointsPlus": 123
+      "pointsPlus": 122
     },
     {
       "date": "2026-01-13",
@@ -371,7 +371,7 @@
       "min": 32,
       "pts": 36,
       "adjPts": 35.3,
-      "pointsPlus": 284
+      "pointsPlus": 283
     },
     {
       "date": "2026-01-25",
@@ -406,8 +406,8 @@
       "result": "L",
       "min": 32,
       "pts": 34,
-      "adjPts": 34.3,
-      "pointsPlus": 276
+      "adjPts": 34.2,
+      "pointsPlus": 274
     },
     {
       "date": "2026-02-02",
@@ -433,7 +433,7 @@
       "result": "W",
       "min": 34,
       "pts": 30,
-      "adjPts": 30.1,
+      "adjPts": 30.2,
       "pointsPlus": 242
     },
     {
@@ -444,6 +444,15 @@
       "pts": 12,
       "adjPts": 11.5,
       "pointsPlus": 92
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "NOP vs. MIA",
+      "result": "L",
+      "min": 36,
+      "pts": 14,
+      "adjPts": 13.7,
+      "pointsPlus": 110
     }
   ]
 }

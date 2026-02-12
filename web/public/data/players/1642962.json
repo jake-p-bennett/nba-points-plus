@@ -3,15 +3,15 @@
   "name": "Drake Powell",
   "team": "BKN",
   "rank": 273,
-  "gp": 41,
+  "gp": 42,
   "ppg": 6.2,
-  "adjPpg": 6.3,
+  "adjPpg": 6.2,
   "pointsPlus": 50,
   "mpg": 19.1,
   "position": "G-F",
   "jersey": "4",
-  "usgPct": 14.7,
-  "tsPct": 56.1,
+  "usgPct": 14.8,
+  "tsPct": 56.0,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -46,7 +46,7 @@
       "result": "L",
       "min": 23,
       "pts": 15,
-      "adjPts": 15.4,
+      "adjPts": 15.5,
       "pointsPlus": 124
     },
     {
@@ -109,7 +109,7 @@
       "result": "L",
       "min": 24,
       "pts": 15,
-      "adjPts": 15.4,
+      "adjPts": 15.5,
       "pointsPlus": 124
     },
     {
@@ -136,7 +136,7 @@
       "result": "W",
       "min": 24,
       "pts": 10,
-      "adjPts": 10.1,
+      "adjPts": 10.2,
       "pointsPlus": 81
     },
     {
@@ -280,7 +280,7 @@
       "result": "L",
       "min": 25,
       "pts": 11,
-      "adjPts": 11.4,
+      "adjPts": 11.3,
       "pointsPlus": 91
     },
     {
@@ -371,7 +371,7 @@
       "min": 22,
       "pts": 5,
       "adjPts": 4.7,
-      "pointsPlus": 38
+      "pointsPlus": 37
     },
     {
       "date": "2026-02-09",
@@ -381,6 +381,15 @@
       "pts": 14,
       "adjPts": 13.4,
       "pointsPlus": 107
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "BKN vs. IND",
+      "result": "L",
+      "min": 20,
+      "pts": 6,
+      "adjPts": 5.8,
+      "pointsPlus": 47
     }
   ]
 }

@@ -2,7 +2,7 @@
   "id": 1631212,
   "name": "Peyton Watson",
   "team": "DEN",
-  "rank": 93,
+  "rank": 95,
   "gp": 49,
   "ppg": 14.9,
   "adjPpg": 14.9,
@@ -55,7 +55,7 @@
       "result": "L",
       "min": 23,
       "pts": 10,
-      "adjPts": 9.8,
+      "adjPts": 9.7,
       "pointsPlus": 78
     },
     {
@@ -82,8 +82,8 @@
       "result": "W",
       "min": 24,
       "pts": 10,
-      "adjPts": 10.2,
-      "pointsPlus": 82
+      "adjPts": 10.1,
+      "pointsPlus": 81
     },
     {
       "date": "2025-11-08",
@@ -110,7 +110,7 @@
       "min": 22,
       "pts": 2,
       "adjPts": 2.1,
-      "pointsPlus": 16
+      "pointsPlus": 17
     },
     {
       "date": "2025-11-15",
@@ -145,7 +145,7 @@
       "result": "W",
       "min": 34,
       "pts": 9,
-      "adjPts": 9.5,
+      "adjPts": 9.6,
       "pointsPlus": 77
     },
     {
@@ -164,7 +164,7 @@
       "min": 33,
       "pts": 27,
       "adjPts": 26.5,
-      "pointsPlus": 213
+      "pointsPlus": 212
     },
     {
       "date": "2025-11-28",
@@ -181,7 +181,7 @@
       "result": "W",
       "min": 28,
       "pts": 11,
-      "adjPts": 11.4,
+      "adjPts": 11.3,
       "pointsPlus": 91
     },
     {
@@ -217,7 +217,7 @@
       "result": "W",
       "min": 30,
       "pts": 10,
-      "adjPts": 10.1,
+      "adjPts": 10.2,
       "pointsPlus": 81
     },
     {
@@ -227,7 +227,7 @@
       "min": 23,
       "pts": 21,
       "adjPts": 20.1,
-      "pointsPlus": 162
+      "pointsPlus": 161
     },
     {
       "date": "2025-12-15",
@@ -244,7 +244,7 @@
       "result": "W",
       "min": 28,
       "pts": 20,
-      "adjPts": 18.4,
+      "adjPts": 18.5,
       "pointsPlus": 148
     },
     {
@@ -272,7 +272,7 @@
       "min": 35,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 121
+      "pointsPlus": 120
     },
     {
       "date": "2025-12-29",
@@ -290,7 +290,7 @@
       "min": 36,
       "pts": 24,
       "adjPts": 24.7,
-      "pointsPlus": 199
+      "pointsPlus": 198
     },
     {
       "date": "2026-01-02",
@@ -317,7 +317,7 @@
       "min": 44,
       "pts": 24,
       "adjPts": 24.2,
-      "pointsPlus": 195
+      "pointsPlus": 194
     },
     {
       "date": "2026-01-07",
@@ -353,7 +353,7 @@
       "min": 39,
       "pts": 31,
       "adjPts": 29.9,
-      "pointsPlus": 240
+      "pointsPlus": 239
     },
     {
       "date": "2026-01-14",
@@ -370,8 +370,8 @@
       "result": "W",
       "min": 35,
       "pts": 21,
-      "adjPts": 19.7,
-      "pointsPlus": 158
+      "adjPts": 19.6,
+      "pointsPlus": 157
     },
     {
       "date": "2026-01-18",
@@ -389,7 +389,7 @@
       "min": 38,
       "pts": 18,
       "adjPts": 17.8,
-      "pointsPlus": 143
+      "pointsPlus": 142
     },
     {
       "date": "2026-01-22",
@@ -397,8 +397,8 @@
       "result": "W",
       "min": 40,
       "pts": 35,
-      "adjPts": 32.8,
-      "pointsPlus": 263
+      "adjPts": 32.7,
+      "pointsPlus": 262
     },
     {
       "date": "2026-01-27",
@@ -416,7 +416,7 @@
       "min": 34,
       "pts": 19,
       "adjPts": 19.1,
-      "pointsPlus": 154
+      "pointsPlus": 153
     },
     {
       "date": "2026-01-30",
@@ -442,7 +442,7 @@
       "result": "L",
       "min": 38,
       "pts": 17,
-      "adjPts": 17.9,
+      "adjPts": 18.0,
       "pointsPlus": 144
     },
     {

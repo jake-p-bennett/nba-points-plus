@@ -2,16 +2,16 @@
   "id": 203484,
   "name": "Kentavious Caldwell-Pope",
   "team": "MEM",
-  "rank": 213,
-  "gp": 50,
-  "ppg": 8.5,
+  "rank": 215,
+  "gp": 51,
+  "ppg": 8.4,
   "adjPpg": 8.4,
-  "pointsPlus": 68,
-  "mpg": 21.2,
+  "pointsPlus": 67,
+  "mpg": 21.3,
   "position": "G",
   "jersey": "3",
-  "usgPct": 17.4,
-  "tsPct": 53.8,
+  "usgPct": 17.3,
+  "tsPct": 53.3,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -19,7 +19,7 @@
       "result": "W",
       "min": 31,
       "pts": 15,
-      "adjPts": 14.5,
+      "adjPts": 14.4,
       "pointsPlus": 116
     },
     {
@@ -55,7 +55,7 @@
       "result": "W",
       "min": 19,
       "pts": 11,
-      "adjPts": 11.4,
+      "adjPts": 11.3,
       "pointsPlus": 91
     },
     {
@@ -235,7 +235,7 @@
       "result": "L",
       "min": 22,
       "pts": 7,
-      "adjPts": 6.4,
+      "adjPts": 6.5,
       "pointsPlus": 52
     },
     {
@@ -263,7 +263,7 @@
       "min": 28,
       "pts": 11,
       "adjPts": 10.3,
-      "pointsPlus": 83
+      "pointsPlus": 82
     },
     {
       "date": "2025-12-22",
@@ -280,7 +280,7 @@
       "result": "W",
       "min": 20,
       "pts": 11,
-      "adjPts": 10.1,
+      "adjPts": 10.2,
       "pointsPlus": 81
     },
     {
@@ -334,7 +334,7 @@
       "result": "L",
       "min": 17,
       "pts": 14,
-      "adjPts": 14.5,
+      "adjPts": 14.4,
       "pointsPlus": 116
     },
     {
@@ -462,6 +462,15 @@
       "pts": 15,
       "adjPts": 15.2,
       "pointsPlus": 122
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "MEM @ DEN",
+      "result": "L",
+      "min": 26,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 40
     }
   ]
 }

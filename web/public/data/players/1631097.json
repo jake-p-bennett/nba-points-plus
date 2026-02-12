@@ -2,8 +2,8 @@
   "id": 1631097,
   "name": "Bennedict Mathurin",
   "team": "LAC",
-  "rank": 63,
-  "gp": 29,
+  "rank": 64,
+  "gp": 30,
   "ppg": 17.4,
   "adjPpg": 17.5,
   "pointsPlus": 141,
@@ -11,7 +11,7 @@
   "position": "G-F",
   "jersey": "9",
   "usgPct": 22.9,
-  "tsPct": 58.1,
+  "tsPct": 58.0,
   "gameLog": [
     {
       "date": "2025-10-23",
@@ -29,7 +29,7 @@
       "min": 28,
       "pts": 26,
       "adjPts": 25.5,
-      "pointsPlus": 205
+      "pointsPlus": 204
     },
     {
       "date": "2025-11-17",
@@ -47,7 +47,7 @@
       "min": 34,
       "pts": 24,
       "adjPts": 24.4,
-      "pointsPlus": 196
+      "pointsPlus": 195
     },
     {
       "date": "2025-11-21",
@@ -65,7 +65,7 @@
       "min": 28,
       "pts": 14,
       "adjPts": 14.8,
-      "pointsPlus": 118
+      "pointsPlus": 119
     },
     {
       "date": "2025-11-26",
@@ -92,7 +92,7 @@
       "min": 38,
       "pts": 19,
       "adjPts": 18.1,
-      "pointsPlus": 146
+      "pointsPlus": 145
     },
     {
       "date": "2025-12-01",
@@ -100,7 +100,7 @@
       "result": "L",
       "min": 22,
       "pts": 11,
-      "adjPts": 10.9,
+      "adjPts": 11.0,
       "pointsPlus": 88
     },
     {
@@ -119,7 +119,7 @@
       "min": 38,
       "pts": 28,
       "adjPts": 26.7,
-      "pointsPlus": 215
+      "pointsPlus": 214
     },
     {
       "date": "2025-12-08",
@@ -136,7 +136,7 @@
       "result": "L",
       "min": 30,
       "pts": 7,
-      "adjPts": 7.1,
+      "adjPts": 7.0,
       "pointsPlus": 57
     },
     {
@@ -145,8 +145,8 @@
       "result": "L",
       "min": 32,
       "pts": 15,
-      "adjPts": 14.1,
-      "pointsPlus": 113
+      "adjPts": 14.0,
+      "pointsPlus": 112
     },
     {
       "date": "2025-12-18",
@@ -172,7 +172,7 @@
       "result": "L",
       "min": 37,
       "pts": 16,
-      "adjPts": 17.0,
+      "adjPts": 17.1,
       "pointsPlus": 137
     },
     {
@@ -190,7 +190,7 @@
       "result": "L",
       "min": 30,
       "pts": 13,
-      "adjPts": 13.8,
+      "adjPts": 13.9,
       "pointsPlus": 111
     },
     {
@@ -271,8 +271,17 @@
       "result": "L",
       "min": 26,
       "pts": 9,
-      "adjPts": 9.5,
+      "adjPts": 9.6,
       "pointsPlus": 77
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "LAC @ HOU",
+      "result": "W",
+      "min": 31,
+      "pts": 16,
+      "adjPts": 17.0,
+      "pointsPlus": 136
     }
   ]
 }

@@ -2,16 +2,16 @@
   "id": 1631165,
   "name": "Keon Ellis",
   "team": "CLE",
-  "rank": 286,
-  "gp": 46,
+  "rank": 287,
+  "gp": 47,
   "ppg": 5.5,
   "adjPpg": 5.6,
   "pointsPlus": 45,
-  "mpg": 17.6,
+  "mpg": 17.8,
   "position": "G",
   "jersey": "14",
-  "usgPct": 13.2,
-  "tsPct": 53.4,
+  "usgPct": 13.1,
+  "tsPct": 53.5,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -20,7 +20,7 @@
       "min": 13,
       "pts": 9,
       "adjPts": 9.3,
-      "pointsPlus": 75
+      "pointsPlus": 74
     },
     {
       "date": "2025-10-24",
@@ -38,7 +38,7 @@
       "min": 18,
       "pts": 6,
       "adjPts": 5.9,
-      "pointsPlus": 48
+      "pointsPlus": 47
     },
     {
       "date": "2025-10-28",
@@ -235,7 +235,7 @@
       "result": "L",
       "min": 32,
       "pts": 10,
-      "adjPts": 9.8,
+      "adjPts": 9.7,
       "pointsPlus": 78
     },
     {
@@ -290,7 +290,7 @@
       "min": 19,
       "pts": 2,
       "adjPts": 2.1,
-      "pointsPlus": 16
+      "pointsPlus": 17
     },
     {
       "date": "2026-01-01",
@@ -298,7 +298,7 @@
       "result": "L",
       "min": 27,
       "pts": 16,
-      "adjPts": 17.0,
+      "adjPts": 17.1,
       "pointsPlus": 137
     },
     {
@@ -307,7 +307,7 @@
       "result": "L",
       "min": 35,
       "pts": 14,
-      "adjPts": 14.5,
+      "adjPts": 14.4,
       "pointsPlus": 116
     },
     {
@@ -371,7 +371,7 @@
       "min": 21,
       "pts": 14,
       "adjPts": 14.8,
-      "pointsPlus": 118
+      "pointsPlus": 119
     },
     {
       "date": "2026-01-27",
@@ -407,7 +407,7 @@
       "min": 19,
       "pts": 6,
       "adjPts": 6.2,
-      "pointsPlus": 49
+      "pointsPlus": 50
     },
     {
       "date": "2026-02-07",
@@ -426,6 +426,15 @@
       "pts": 2,
       "adjPts": 2.0,
       "pointsPlus": 16
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "CLE vs. WAS",
+      "result": "W",
+      "min": 27,
+      "pts": 6,
+      "adjPts": 5.6,
+      "pointsPlus": 45
     }
   ]
 }

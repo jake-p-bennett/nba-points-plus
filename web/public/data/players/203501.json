@@ -2,16 +2,16 @@
   "id": 203501,
   "name": "Tim Hardaway Jr.",
   "team": "DEN",
-  "rank": 107,
-  "gp": 53,
-  "ppg": 14.0,
-  "adjPpg": 14.0,
-  "pointsPlus": 112,
-  "mpg": 27.5,
+  "rank": 102,
+  "gp": 54,
+  "ppg": 14.1,
+  "adjPpg": 14.1,
+  "pointsPlus": 113,
+  "mpg": 27.6,
   "position": "G-F",
   "jersey": "10",
-  "usgPct": 17.8,
-  "tsPct": 62.6,
+  "usgPct": 17.7,
+  "tsPct": 63.3,
   "gameLog": [
     {
       "date": "2025-10-23",
@@ -19,8 +19,8 @@
       "result": "L",
       "min": 22,
       "pts": 10,
-      "adjPts": 10.2,
-      "pointsPlus": 82
+      "adjPts": 10.1,
+      "pointsPlus": 81
     },
     {
       "date": "2025-10-25",
@@ -73,7 +73,7 @@
       "result": "W",
       "min": 24,
       "pts": 18,
-      "adjPts": 17.6,
+      "adjPts": 17.7,
       "pointsPlus": 142
     },
     {
@@ -91,7 +91,7 @@
       "result": "W",
       "min": 24,
       "pts": 17,
-      "adjPts": 16.5,
+      "adjPts": 16.6,
       "pointsPlus": 133
     },
     {
@@ -155,7 +155,7 @@
       "min": 26,
       "pts": 8,
       "adjPts": 7.7,
-      "pointsPlus": 62
+      "pointsPlus": 61
     },
     {
       "date": "2025-11-24",
@@ -163,7 +163,7 @@
       "result": "W",
       "min": 27,
       "pts": 13,
-      "adjPts": 12.8,
+      "adjPts": 12.7,
       "pointsPlus": 102
     },
     {
@@ -181,8 +181,8 @@
       "result": "W",
       "min": 27,
       "pts": 23,
-      "adjPts": 23.8,
-      "pointsPlus": 191
+      "adjPts": 23.7,
+      "pointsPlus": 190
     },
     {
       "date": "2025-12-01",
@@ -262,7 +262,7 @@
       "result": "W",
       "min": 25,
       "pts": 21,
-      "adjPts": 19.3,
+      "adjPts": 19.4,
       "pointsPlus": 155
     },
     {
@@ -272,7 +272,7 @@
       "min": 29,
       "pts": 23,
       "adjPts": 22.7,
-      "pointsPlus": 183
+      "pointsPlus": 182
     },
     {
       "date": "2025-12-25",
@@ -380,7 +380,7 @@
       "min": 36,
       "pts": 30,
       "adjPts": 28.1,
-      "pointsPlus": 226
+      "pointsPlus": 225
     },
     {
       "date": "2026-01-18",
@@ -425,7 +425,7 @@
       "min": 32,
       "pts": 14,
       "adjPts": 14.8,
-      "pointsPlus": 118
+      "pointsPlus": 119
     },
     {
       "date": "2026-01-29",
@@ -443,7 +443,7 @@
       "min": 25,
       "pts": 22,
       "adjPts": 22.6,
-      "pointsPlus": 181
+      "pointsPlus": 182
     },
     {
       "date": "2026-02-01",
@@ -469,7 +469,7 @@
       "result": "L",
       "min": 42,
       "pts": 19,
-      "adjPts": 19.5,
+      "adjPts": 19.6,
       "pointsPlus": 157
     },
     {
@@ -478,7 +478,7 @@
       "result": "W",
       "min": 29,
       "pts": 23,
-      "adjPts": 22.0,
+      "adjPts": 21.9,
       "pointsPlus": 176
     },
     {
@@ -489,6 +489,15 @@
       "pts": 12,
       "adjPts": 11.9,
       "pointsPlus": 96
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "DEN vs. MEM",
+      "result": "W",
+      "min": 28,
+      "pts": 21,
+      "adjPts": 20.6,
+      "pointsPlus": 165
     }
   ]
 }

@@ -2,16 +2,16 @@
   "id": 1630544,
   "name": "Tre Mann",
   "team": "CHA",
-  "rank": 242,
-  "gp": 33,
-  "ppg": 7.2,
+  "rank": 244,
+  "gp": 34,
+  "ppg": 7.1,
   "adjPpg": 7.1,
   "pointsPlus": 57,
   "mpg": 16.0,
   "position": "G",
   "jersey": "23",
-  "usgPct": 23.2,
-  "tsPct": 46.8,
+  "usgPct": 22.9,
+  "tsPct": 47.0,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -46,7 +46,7 @@
       "result": "L",
       "min": 27,
       "pts": 8,
-      "adjPts": 7.8,
+      "adjPts": 7.9,
       "pointsPlus": 63
     },
     {
@@ -101,7 +101,7 @@
       "min": 18,
       "pts": 6,
       "adjPts": 5.9,
-      "pointsPlus": 48
+      "pointsPlus": 47
     },
     {
       "date": "2025-11-12",
@@ -154,7 +154,7 @@
       "result": "L",
       "min": 21,
       "pts": 15,
-      "adjPts": 15.4,
+      "adjPts": 15.5,
       "pointsPlus": 124
     },
     {
@@ -200,7 +200,7 @@
       "min": 12,
       "pts": 3,
       "adjPts": 2.8,
-      "pointsPlus": 23
+      "pointsPlus": 22
     },
     {
       "date": "2025-12-26",
@@ -235,7 +235,7 @@
       "result": "W",
       "min": 12,
       "pts": 20,
-      "adjPts": 18.4,
+      "adjPts": 18.5,
       "pointsPlus": 148
     },
     {
@@ -244,7 +244,7 @@
       "result": "L",
       "min": 13,
       "pts": 9,
-      "adjPts": 9.2,
+      "adjPts": 9.3,
       "pointsPlus": 74
     },
     {
@@ -309,6 +309,15 @@
       "pts": 5,
       "adjPts": 5.3,
       "pointsPlus": 42
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "CHA vs. ATL",
+      "result": "W",
+      "min": 16,
+      "pts": 5,
+      "adjPts": 4.9,
+      "pointsPlus": 39
     }
   ]
 }

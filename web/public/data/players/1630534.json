@@ -1,17 +1,17 @@
 {
   "id": 1630534,
   "name": "Ochai Agbaji",
-  "team": "TOR",
+  "team": "BKN",
   "rank": 309,
-  "gp": 42,
-  "ppg": 4.3,
-  "adjPpg": 4.3,
-  "pointsPlus": 35,
-  "mpg": 15.5,
+  "gp": 43,
+  "ppg": 4.2,
+  "adjPpg": 4.2,
+  "pointsPlus": 34,
+  "mpg": 15.6,
   "position": "G",
   "jersey": "30",
-  "usgPct": 13.0,
-  "tsPct": 49.5,
+  "usgPct": 12.9,
+  "tsPct": 48.7,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -74,7 +74,7 @@
       "min": 16,
       "pts": 4,
       "adjPts": 3.9,
-      "pointsPlus": 32
+      "pointsPlus": 31
     },
     {
       "date": "2025-11-04",
@@ -154,7 +154,7 @@
       "result": "W",
       "min": 12,
       "pts": 2,
-      "adjPts": 2.0,
+      "adjPts": 1.9,
       "pointsPlus": 16
     },
     {
@@ -235,8 +235,8 @@
       "result": "W",
       "min": 20,
       "pts": 10,
-      "adjPts": 10.2,
-      "pointsPlus": 82
+      "adjPts": 10.1,
+      "pointsPlus": 81
     },
     {
       "date": "2025-12-29",
@@ -289,8 +289,8 @@
       "result": "W",
       "min": 15,
       "pts": 6,
-      "adjPts": 6.1,
-      "pointsPlus": 49
+      "adjPts": 6.0,
+      "pointsPlus": 48
     },
     {
       "date": "2026-01-12",
@@ -352,7 +352,7 @@
       "result": "W",
       "min": 22,
       "pts": 10,
-      "adjPts": 9.8,
+      "adjPts": 9.7,
       "pointsPlus": 78
     },
     {
@@ -387,6 +387,15 @@
       "matchup": "TOR vs. UTA",
       "result": "W",
       "min": 2,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "BKN vs. IND",
+      "result": "L",
+      "min": 16,
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0

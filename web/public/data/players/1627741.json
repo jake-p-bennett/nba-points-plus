@@ -37,7 +37,7 @@
       "result": "L",
       "min": 12,
       "pts": 2,
-      "adjPts": 2.0,
+      "adjPts": 1.9,
       "pointsPlus": 16
     },
     {
@@ -56,7 +56,7 @@
       "min": 10,
       "pts": 2,
       "adjPts": 2.1,
-      "pointsPlus": 16
+      "pointsPlus": 17
     },
     {
       "date": "2025-10-30",
@@ -82,7 +82,7 @@
       "result": "W",
       "min": 20,
       "pts": 12,
-      "adjPts": 12.4,
+      "adjPts": 12.3,
       "pointsPlus": 99
     },
     {
@@ -163,7 +163,7 @@
       "result": "L",
       "min": 31,
       "pts": 18,
-      "adjPts": 17.6,
+      "adjPts": 17.7,
       "pointsPlus": 142
     },
     {
@@ -181,7 +181,7 @@
       "result": "W",
       "min": 23,
       "pts": 20,
-      "adjPts": 18.4,
+      "adjPts": 18.5,
       "pointsPlus": 148
     },
     {
@@ -253,7 +253,7 @@
       "result": "L",
       "min": 16,
       "pts": 10,
-      "adjPts": 9.8,
+      "adjPts": 9.7,
       "pointsPlus": 78
     },
     {
@@ -326,7 +326,7 @@
       "min": 6,
       "pts": 3,
       "adjPts": 2.9,
-      "pointsPlus": 24
+      "pointsPlus": 23
     },
     {
       "date": "2026-01-17",
@@ -397,7 +397,7 @@
       "result": "L",
       "min": 17,
       "pts": 10,
-      "adjPts": 10.5,
+      "adjPts": 10.6,
       "pointsPlus": 85
     },
     {

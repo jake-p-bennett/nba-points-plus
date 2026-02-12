@@ -2,16 +2,16 @@
   "id": 1641713,
   "name": "GG Jackson",
   "team": "MEM",
-  "rank": 208,
-  "gp": 32,
-  "ppg": 8.6,
-  "adjPpg": 8.6,
-  "pointsPlus": 69,
-  "mpg": 18.4,
+  "rank": 202,
+  "gp": 33,
+  "ppg": 9.0,
+  "adjPpg": 8.9,
+  "pointsPlus": 72,
+  "mpg": 18.7,
   "position": "F",
   "jersey": "45",
-  "usgPct": 18.7,
-  "tsPct": 57.7,
+  "usgPct": 18.9,
+  "tsPct": 58.4,
   "gameLog": [
     {
       "date": "2025-10-24",
@@ -100,7 +100,7 @@
       "result": "W",
       "min": 30,
       "pts": 18,
-      "adjPts": 16.5,
+      "adjPts": 16.6,
       "pointsPlus": 133
     },
     {
@@ -119,7 +119,7 @@
       "min": 21,
       "pts": 5,
       "adjPts": 4.7,
-      "pointsPlus": 38
+      "pointsPlus": 37
     },
     {
       "date": "2025-12-30",
@@ -127,8 +127,8 @@
       "result": "L",
       "min": 23,
       "pts": 6,
-      "adjPts": 6.1,
-      "pointsPlus": 49
+      "adjPts": 6.0,
+      "pointsPlus": 48
     },
     {
       "date": "2026-01-02",
@@ -163,7 +163,7 @@
       "result": "L",
       "min": 25,
       "pts": 11,
-      "adjPts": 11.4,
+      "adjPts": 11.3,
       "pointsPlus": 91
     },
     {
@@ -191,7 +191,7 @@
       "min": 22,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 121
+      "pointsPlus": 120
     },
     {
       "date": "2026-01-18",
@@ -217,7 +217,7 @@
       "result": "L",
       "min": 23,
       "pts": 15,
-      "adjPts": 14.5,
+      "adjPts": 14.4,
       "pointsPlus": 116
     },
     {
@@ -280,8 +280,8 @@
       "result": "L",
       "min": 27,
       "pts": 15,
-      "adjPts": 14.7,
-      "pointsPlus": 118
+      "adjPts": 14.6,
+      "pointsPlus": 117
     },
     {
       "date": "2026-02-07",
@@ -300,6 +300,15 @@
       "pts": 6,
       "adjPts": 6.1,
       "pointsPlus": 49
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "MEM @ DEN",
+      "result": "L",
+      "min": 28,
+      "pts": 21,
+      "adjPts": 21.0,
+      "pointsPlus": 168
     }
   ]
 }

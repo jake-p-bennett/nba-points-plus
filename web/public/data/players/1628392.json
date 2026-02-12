@@ -2,16 +2,16 @@
   "id": 1628392,
   "name": "Isaiah Hartenstein",
   "team": "OKC",
-  "rank": 168,
-  "gp": 29,
-  "ppg": 10.7,
+  "rank": 170,
+  "gp": 30,
+  "ppg": 10.6,
   "adjPpg": 10.5,
-  "pointsPlus": 85,
-  "mpg": 26.1,
+  "pointsPlus": 84,
+  "mpg": 25.9,
   "position": "C-F",
   "jersey": "55",
-  "usgPct": 16.5,
-  "tsPct": 64.3,
+  "usgPct": 16.4,
+  "tsPct": 64.9,
   "gameLog": [
     {
       "date": "2025-10-21",
@@ -65,7 +65,7 @@
       "min": 26,
       "pts": 17,
       "adjPts": 15.9,
-      "pointsPlus": 128
+      "pointsPlus": 127
     },
     {
       "date": "2025-11-02",
@@ -83,7 +83,7 @@
       "min": 24,
       "pts": 10,
       "adjPts": 10.3,
-      "pointsPlus": 82
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-05",
@@ -91,7 +91,7 @@
       "result": "L",
       "min": 31,
       "pts": 10,
-      "adjPts": 9.8,
+      "adjPts": 9.7,
       "pointsPlus": 78
     },
     {
@@ -109,7 +109,7 @@
       "result": "W",
       "min": 30,
       "pts": 18,
-      "adjPts": 17.7,
+      "adjPts": 17.6,
       "pointsPlus": 142
     },
     {
@@ -163,7 +163,7 @@
       "result": "W",
       "min": 24,
       "pts": 12,
-      "adjPts": 11.0,
+      "adjPts": 11.1,
       "pointsPlus": 89
     },
     {
@@ -227,7 +227,7 @@
       "min": 20,
       "pts": 5,
       "adjPts": 5.0,
-      "pointsPlus": 41
+      "pointsPlus": 40
     },
     {
       "date": "2026-01-29",
@@ -273,6 +273,15 @@
       "pts": 10,
       "adjPts": 9.9,
       "pointsPlus": 79
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "OKC @ PHX",
+      "result": "W",
+      "min": 18,
+      "pts": 8,
+      "adjPts": 8.2,
+      "pointsPlus": 66
     }
   ]
 }

@@ -3,15 +3,15 @@
   "name": "Hugo Gonz\u00e1lez",
   "team": "BOS",
   "rank": 311,
-  "gp": 48,
-  "ppg": 3.9,
-  "adjPpg": 3.8,
-  "pointsPlus": 31,
-  "mpg": 15.4,
+  "gp": 49,
+  "ppg": 3.8,
+  "adjPpg": 3.7,
+  "pointsPlus": 30,
+  "mpg": 15.2,
   "position": "G",
   "jersey": "28",
   "usgPct": 11.2,
-  "tsPct": 54.0,
+  "tsPct": 53.7,
   "gameLog": [
     {
       "date": "2025-10-24",
@@ -47,7 +47,7 @@
       "min": 15,
       "pts": 5,
       "adjPts": 5.0,
-      "pointsPlus": 41
+      "pointsPlus": 40
     },
     {
       "date": "2025-11-01",
@@ -74,7 +74,7 @@
       "min": 17,
       "pts": 5,
       "adjPts": 4.7,
-      "pointsPlus": 38
+      "pointsPlus": 37
     },
     {
       "date": "2025-11-07",
@@ -101,7 +101,7 @@
       "min": 6,
       "pts": 5,
       "adjPts": 5.0,
-      "pointsPlus": 41
+      "pointsPlus": 40
     },
     {
       "date": "2025-11-12",
@@ -379,7 +379,7 @@
       "result": "W",
       "min": 14,
       "pts": 2,
-      "adjPts": 2.0,
+      "adjPts": 1.9,
       "pointsPlus": 16
     },
     {
@@ -444,6 +444,15 @@
       "pts": 2,
       "adjPts": 2.1,
       "pointsPlus": 17
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "BOS vs. CHI",
+      "result": "W",
+      "min": 9,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
     }
   ]
 }

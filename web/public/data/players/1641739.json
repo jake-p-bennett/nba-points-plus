@@ -2,16 +2,16 @@
   "id": 1641739,
   "name": "Toumani Camara",
   "team": "POR",
-  "rank": 118,
-  "gp": 54,
-  "ppg": 13.2,
+  "rank": 121,
+  "gp": 55,
+  "ppg": 13.1,
   "adjPpg": 13.2,
   "pointsPlus": 106,
   "mpg": 33.5,
   "position": "F",
   "jersey": "33",
-  "usgPct": 15.9,
-  "tsPct": 57.5,
+  "usgPct": 15.8,
+  "tsPct": 57.7,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -19,7 +19,7 @@
       "result": "L",
       "min": 35,
       "pts": 10,
-      "adjPts": 10.0,
+      "adjPts": 10.1,
       "pointsPlus": 81
     },
     {
@@ -29,7 +29,7 @@
       "min": 33,
       "pts": 19,
       "adjPts": 19.3,
-      "pointsPlus": 155
+      "pointsPlus": 154
     },
     {
       "date": "2025-10-26",
@@ -55,8 +55,8 @@
       "result": "W",
       "min": 31,
       "pts": 17,
-      "adjPts": 15.6,
-      "pointsPlus": 125
+      "adjPts": 15.7,
+      "pointsPlus": 126
     },
     {
       "date": "2025-10-31",
@@ -91,7 +91,7 @@
       "result": "L",
       "min": 39,
       "pts": 13,
-      "adjPts": 12.7,
+      "adjPts": 12.8,
       "pointsPlus": 102
     },
     {
@@ -110,7 +110,7 @@
       "min": 38,
       "pts": 13,
       "adjPts": 12.5,
-      "pointsPlus": 101
+      "pointsPlus": 100
     },
     {
       "date": "2025-11-14",
@@ -226,7 +226,7 @@
       "result": "L",
       "min": 33,
       "pts": 13,
-      "adjPts": 12.8,
+      "adjPts": 12.7,
       "pointsPlus": 102
     },
     {
@@ -235,7 +235,7 @@
       "result": "L",
       "min": 28,
       "pts": 15,
-      "adjPts": 14.5,
+      "adjPts": 14.4,
       "pointsPlus": 116
     },
     {
@@ -271,7 +271,7 @@
       "result": "L",
       "min": 29,
       "pts": 8,
-      "adjPts": 8.4,
+      "adjPts": 8.5,
       "pointsPlus": 68
     },
     {
@@ -289,7 +289,7 @@
       "result": "L",
       "min": 39,
       "pts": 20,
-      "adjPts": 20.5,
+      "adjPts": 20.6,
       "pointsPlus": 165
     },
     {
@@ -370,7 +370,7 @@
       "result": "L",
       "min": 39,
       "pts": 11,
-      "adjPts": 11.3,
+      "adjPts": 11.4,
       "pointsPlus": 91
     },
     {
@@ -470,7 +470,7 @@
       "min": 38,
       "pts": 13,
       "adjPts": 13.4,
-      "pointsPlus": 108
+      "pointsPlus": 107
     },
     {
       "date": "2026-02-06",
@@ -487,7 +487,7 @@
       "result": "W",
       "min": 34,
       "pts": 8,
-      "adjPts": 7.9,
+      "adjPts": 7.8,
       "pointsPlus": 63
     },
     {
@@ -496,8 +496,17 @@
       "result": "W",
       "min": 27,
       "pts": 30,
-      "adjPts": 30.3,
-      "pointsPlus": 243
+      "adjPts": 30.2,
+      "pointsPlus": 242
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "POR @ MIN",
+      "result": "L",
+      "min": 32,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 73
     }
   ]
 }

@@ -2,16 +2,16 @@
   "id": 202699,
   "name": "Tobias Harris",
   "team": "DET",
-  "rank": 113,
-  "gp": 36,
-  "ppg": 13.5,
+  "rank": 115,
+  "gp": 37,
+  "ppg": 13.4,
   "adjPpg": 13.5,
   "pointsPlus": 108,
-  "mpg": 27.9,
+  "mpg": 28.0,
   "position": "F",
   "jersey": "12",
-  "usgPct": 18.4,
-  "tsPct": 57.0,
+  "usgPct": 18.3,
+  "tsPct": 56.9,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -19,7 +19,7 @@
       "result": "L",
       "min": 34,
       "pts": 10,
-      "adjPts": 9.6,
+      "adjPts": 9.5,
       "pointsPlus": 77
     },
     {
@@ -28,7 +28,7 @@
       "result": "W",
       "min": 40,
       "pts": 9,
-      "adjPts": 9.5,
+      "adjPts": 9.6,
       "pointsPlus": 77
     },
     {
@@ -136,7 +136,7 @@
       "result": "W",
       "min": 31,
       "pts": 10,
-      "adjPts": 9.8,
+      "adjPts": 9.7,
       "pointsPlus": 78
     },
     {
@@ -154,7 +154,7 @@
       "result": "W",
       "min": 32,
       "pts": 13,
-      "adjPts": 13.8,
+      "adjPts": 13.9,
       "pointsPlus": 111
     },
     {
@@ -191,7 +191,7 @@
       "min": 29,
       "pts": 24,
       "adjPts": 23.0,
-      "pointsPlus": 185
+      "pointsPlus": 184
     },
     {
       "date": "2025-12-26",
@@ -199,7 +199,7 @@
       "result": "L",
       "min": 27,
       "pts": 16,
-      "adjPts": 14.7,
+      "adjPts": 14.8,
       "pointsPlus": 118
     },
     {
@@ -209,7 +209,7 @@
       "min": 22,
       "pts": 6,
       "adjPts": 6.2,
-      "pointsPlus": 49
+      "pointsPlus": 50
     },
     {
       "date": "2025-12-30",
@@ -227,7 +227,7 @@
       "min": 29,
       "pts": 16,
       "adjPts": 16.5,
-      "pointsPlus": 133
+      "pointsPlus": 132
     },
     {
       "date": "2026-01-17",
@@ -290,7 +290,7 @@
       "min": 30,
       "pts": 13,
       "adjPts": 13.4,
-      "pointsPlus": 108
+      "pointsPlus": 107
     },
     {
       "date": "2026-01-30",
@@ -325,7 +325,7 @@
       "result": "W",
       "min": 26,
       "pts": 15,
-      "adjPts": 15.4,
+      "adjPts": 15.5,
       "pointsPlus": 124
     },
     {
@@ -336,6 +336,15 @@
       "pts": 11,
       "adjPts": 11.2,
       "pointsPlus": 90
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "DET @ TOR",
+      "result": "W",
+      "min": 31,
+      "pts": 12,
+      "adjPts": 12.4,
+      "pointsPlus": 99
     }
   ]
 }

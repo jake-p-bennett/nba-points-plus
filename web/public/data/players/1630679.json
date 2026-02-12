@@ -2,16 +2,16 @@
   "id": 1630679,
   "name": "Ethan Thompson",
   "team": "IND",
-  "rank": 304,
-  "gp": 21,
-  "ppg": 4.5,
-  "adjPpg": 4.5,
-  "pointsPlus": 36,
-  "mpg": 15.5,
+  "rank": 296,
+  "gp": 22,
+  "ppg": 5.0,
+  "adjPpg": 5.0,
+  "pointsPlus": 40,
+  "mpg": 16.0,
   "position": "G",
   "jersey": "55",
-  "usgPct": 13.9,
-  "tsPct": 49.5,
+  "usgPct": 14.4,
+  "tsPct": 50.4,
   "gameLog": [
     {
       "date": "2025-12-01",
@@ -91,7 +91,7 @@
       "result": "L",
       "min": 34,
       "pts": 13,
-      "adjPts": 13.8,
+      "adjPts": 13.9,
       "pointsPlus": 111
     },
     {
@@ -181,7 +181,7 @@
       "result": "L",
       "min": 29,
       "pts": 10,
-      "adjPts": 10.5,
+      "adjPts": 10.6,
       "pointsPlus": 85
     },
     {
@@ -199,8 +199,17 @@
       "result": "L",
       "min": 19,
       "pts": 11,
-      "adjPts": 10.1,
+      "adjPts": 10.2,
       "pointsPlus": 81
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "IND @ BKN",
+      "result": "W",
+      "min": 27,
+      "pts": 15,
+      "adjPts": 15.1,
+      "pointsPlus": 121
     }
   ]
 }

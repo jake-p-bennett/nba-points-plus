@@ -2,16 +2,16 @@
   "id": 1642857,
   "name": "Kasparas Jaku\u010dionis",
   "team": "MIA",
-  "rank": 292,
-  "gp": 28,
-  "ppg": 5.4,
-  "adjPpg": 5.3,
-  "pointsPlus": 43,
-  "mpg": 16.8,
+  "rank": 289,
+  "gp": 29,
+  "ppg": 5.6,
+  "adjPpg": 5.5,
+  "pointsPlus": 44,
+  "mpg": 17.1,
   "position": "G",
   "jersey": "25",
   "usgPct": 12.9,
-  "tsPct": 58.0,
+  "tsPct": 58.3,
   "gameLog": [
     {
       "date": "2025-12-01",
@@ -182,7 +182,7 @@
       "min": 11,
       "pts": 3,
       "adjPts": 2.9,
-      "pointsPlus": 24
+      "pointsPlus": 23
     },
     {
       "date": "2026-01-24",
@@ -190,7 +190,7 @@
       "result": "W",
       "min": 17,
       "pts": 12,
-      "adjPts": 11.0,
+      "adjPts": 11.1,
       "pointsPlus": 89
     },
     {
@@ -254,7 +254,7 @@
       "min": 26,
       "pts": 22,
       "adjPts": 20.6,
-      "pointsPlus": 166
+      "pointsPlus": 165
     },
     {
       "date": "2026-02-09",
@@ -262,8 +262,17 @@
       "result": "L",
       "min": 32,
       "pts": 20,
-      "adjPts": 18.4,
+      "adjPts": 18.5,
       "pointsPlus": 148
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "MIA @ NOP",
+      "result": "W",
+      "min": 25,
+      "pts": 11,
+      "adjPts": 10.6,
+      "pointsPlus": 85
     }
   ]
 }

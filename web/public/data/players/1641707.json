@@ -2,16 +2,16 @@
   "id": 1641707,
   "name": "Taylor Hendricks",
   "team": "MEM",
-  "rank": 293,
-  "gp": 36,
-  "ppg": 5.2,
-  "adjPpg": 5.3,
-  "pointsPlus": 43,
-  "mpg": 15.6,
+  "rank": 291,
+  "gp": 37,
+  "ppg": 5.4,
+  "adjPpg": 5.4,
+  "pointsPlus": 44,
+  "mpg": 15.8,
   "position": "F",
   "jersey": "0",
-  "usgPct": 13.8,
-  "tsPct": 55.1,
+  "usgPct": 14.1,
+  "tsPct": 55.4,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -325,7 +325,7 @@
       "result": "L",
       "min": 22,
       "pts": 6,
-      "adjPts": 5.9,
+      "adjPts": 5.8,
       "pointsPlus": 47
     },
     {
@@ -336,6 +336,15 @@
       "pts": 15,
       "adjPts": 15.2,
       "pointsPlus": 122
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "MEM @ DEN",
+      "result": "L",
+      "min": 20,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 80
     }
   ]
 }

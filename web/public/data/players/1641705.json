@@ -3,15 +3,15 @@
   "name": "Victor Wembanyama",
   "team": "SAS",
   "rank": 22,
-  "gp": 39,
+  "gp": 40,
   "ppg": 24.4,
-  "adjPpg": 24.3,
-  "pointsPlus": 195,
-  "mpg": 28.9,
+  "adjPpg": 24.4,
+  "pointsPlus": 196,
+  "mpg": 29.0,
   "position": "F-C",
   "jersey": "1",
-  "usgPct": 31.8,
-  "tsPct": 62.5,
+  "usgPct": 31.7,
+  "tsPct": 62.4,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -38,7 +38,7 @@
       "min": 36,
       "pts": 31,
       "adjPts": 31.2,
-      "pointsPlus": 251
+      "pointsPlus": 250
     },
     {
       "date": "2025-10-27",
@@ -47,7 +47,7 @@
       "min": 31,
       "pts": 24,
       "adjPts": 24.7,
-      "pointsPlus": 199
+      "pointsPlus": 198
     },
     {
       "date": "2025-10-30",
@@ -65,7 +65,7 @@
       "min": 34,
       "pts": 9,
       "adjPts": 9.3,
-      "pointsPlus": 75
+      "pointsPlus": 74
     },
     {
       "date": "2025-11-05",
@@ -82,7 +82,7 @@
       "result": "W",
       "min": 37,
       "pts": 22,
-      "adjPts": 23.3,
+      "adjPts": 23.4,
       "pointsPlus": 187
     },
     {
@@ -109,8 +109,8 @@
       "result": "L",
       "min": 36,
       "pts": 31,
-      "adjPts": 31.5,
-      "pointsPlus": 253
+      "adjPts": 31.4,
+      "pointsPlus": 252
     },
     {
       "date": "2025-11-14",
@@ -119,7 +119,7 @@
       "min": 38,
       "pts": 26,
       "adjPts": 26.4,
-      "pointsPlus": 212
+      "pointsPlus": 211
     },
     {
       "date": "2025-12-13",
@@ -128,7 +128,7 @@
       "min": 21,
       "pts": 22,
       "adjPts": 23.6,
-      "pointsPlus": 190
+      "pointsPlus": 189
     },
     {
       "date": "2025-12-18",
@@ -136,8 +136,8 @@
       "result": "W",
       "min": 17,
       "pts": 15,
-      "adjPts": 14.1,
-      "pointsPlus": 113
+      "adjPts": 14.0,
+      "pointsPlus": 112
     },
     {
       "date": "2025-12-19",
@@ -145,7 +145,7 @@
       "result": "W",
       "min": 21,
       "pts": 26,
-      "adjPts": 25.2,
+      "adjPts": 25.3,
       "pointsPlus": 203
     },
     {
@@ -181,8 +181,8 @@
       "result": "L",
       "min": 28,
       "pts": 32,
-      "adjPts": 29.4,
-      "pointsPlus": 236
+      "adjPts": 29.5,
+      "pointsPlus": 237
     },
     {
       "date": "2025-12-29",
@@ -199,8 +199,8 @@
       "result": "W",
       "min": 24,
       "pts": 31,
-      "adjPts": 31.9,
-      "pointsPlus": 256
+      "adjPts": 32.0,
+      "pointsPlus": 257
     },
     {
       "date": "2026-01-06",
@@ -208,7 +208,7 @@
       "result": "L",
       "min": 21,
       "pts": 30,
-      "adjPts": 29.5,
+      "adjPts": 29.4,
       "pointsPlus": 236
     },
     {
@@ -227,7 +227,7 @@
       "min": 26,
       "pts": 21,
       "adjPts": 22.4,
-      "pointsPlus": 180
+      "pointsPlus": 179
     },
     {
       "date": "2026-01-11",
@@ -235,7 +235,7 @@
       "result": "L",
       "min": 27,
       "pts": 29,
-      "adjPts": 29.1,
+      "adjPts": 29.2,
       "pointsPlus": 234
     },
     {
@@ -245,7 +245,7 @@
       "min": 28,
       "pts": 17,
       "adjPts": 18.3,
-      "pointsPlus": 147
+      "pointsPlus": 146
     },
     {
       "date": "2026-01-15",
@@ -263,7 +263,7 @@
       "min": 31,
       "pts": 39,
       "adjPts": 39.2,
-      "pointsPlus": 315
+      "pointsPlus": 314
     },
     {
       "date": "2026-01-19",
@@ -271,7 +271,7 @@
       "result": "W",
       "min": 26,
       "pts": 33,
-      "adjPts": 30.3,
+      "adjPts": 30.5,
       "pointsPlus": 244
     },
     {
@@ -289,8 +289,8 @@
       "result": "W",
       "min": 33,
       "pts": 26,
-      "adjPts": 23.9,
-      "pointsPlus": 192
+      "adjPts": 24.0,
+      "pointsPlus": 193
     },
     {
       "date": "2026-01-25",
@@ -335,7 +335,7 @@
       "min": 28,
       "pts": 22,
       "adjPts": 23.6,
-      "pointsPlus": 190
+      "pointsPlus": 189
     },
     {
       "date": "2026-02-05",
@@ -362,7 +362,16 @@
       "min": 26,
       "pts": 40,
       "adjPts": 39.5,
-      "pointsPlus": 317
+      "pointsPlus": 316
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "SAS @ GSW",
+      "result": "W",
+      "min": 33,
+      "pts": 26,
+      "adjPts": 26.4,
+      "pointsPlus": 211
     }
   ]
 }

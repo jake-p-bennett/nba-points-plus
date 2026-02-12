@@ -2,16 +2,16 @@
   "id": 1627884,
   "name": "Derrick Jones Jr.",
   "team": "LAC",
-  "rank": 183,
-  "gp": 21,
-  "ppg": 9.9,
-  "adjPpg": 9.9,
-  "pointsPlus": 79,
-  "mpg": 24.4,
+  "rank": 181,
+  "gp": 22,
+  "ppg": 10.0,
+  "adjPpg": 10.0,
+  "pointsPlus": 80,
+  "mpg": 24.7,
   "position": "F",
   "jersey": "5",
-  "usgPct": 14.2,
-  "tsPct": 66.0,
+  "usgPct": 14.3,
+  "tsPct": 66.1,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -19,7 +19,7 @@
       "result": "L",
       "min": 18,
       "pts": 12,
-      "adjPts": 11.0,
+      "adjPts": 11.1,
       "pointsPlus": 89
     },
     {
@@ -28,8 +28,8 @@
       "result": "W",
       "min": 23,
       "pts": 17,
-      "adjPts": 17.6,
-      "pointsPlus": 141
+      "adjPts": 17.5,
+      "pointsPlus": 140
     },
     {
       "date": "2025-10-26",
@@ -146,7 +146,7 @@
       "min": 20,
       "pts": 8,
       "adjPts": 7.7,
-      "pointsPlus": 62
+      "pointsPlus": 61
     },
     {
       "date": "2026-01-01",
@@ -201,6 +201,15 @@
       "pts": 6,
       "adjPts": 6.4,
       "pointsPlus": 51
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "LAC @ HOU",
+      "result": "W",
+      "min": 30,
+      "pts": 12,
+      "adjPts": 12.7,
+      "pointsPlus": 102
     }
   ]
 }

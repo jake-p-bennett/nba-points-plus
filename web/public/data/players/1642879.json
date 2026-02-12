@@ -2,16 +2,16 @@
   "id": 1642879,
   "name": "Ben Saraf",
   "team": "BKN",
-  "rank": 299,
-  "gp": 21,
-  "ppg": 4.8,
-  "adjPpg": 4.7,
-  "pointsPlus": 38,
+  "rank": 297,
+  "gp": 22,
+  "ppg": 5.1,
+  "adjPpg": 5.0,
+  "pointsPlus": 40,
   "mpg": 17.4,
   "position": "G",
   "jersey": "77",
-  "usgPct": 17.8,
-  "tsPct": 42.1,
+  "usgPct": 18.0,
+  "tsPct": 43.9,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -109,7 +109,7 @@
       "result": "L",
       "min": 24,
       "pts": 12,
-      "adjPts": 11.0,
+      "adjPts": 11.1,
       "pointsPlus": 89
     },
     {
@@ -128,7 +128,7 @@
       "min": 17,
       "pts": 6,
       "adjPts": 6.2,
-      "pointsPlus": 49
+      "pointsPlus": 50
     },
     {
       "date": "2026-01-27",
@@ -201,6 +201,15 @@
       "pts": 3,
       "adjPts": 2.9,
       "pointsPlus": 23
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "BKN vs. IND",
+      "result": "L",
+      "min": 17,
+      "pts": 12,
+      "adjPts": 11.7,
+      "pointsPlus": 94
     }
   ]
 }

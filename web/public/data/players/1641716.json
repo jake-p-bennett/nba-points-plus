@@ -2,16 +2,16 @@
   "id": 1641716,
   "name": "Jarace Walker",
   "team": "IND",
-  "rank": 171,
-  "gp": 53,
-  "ppg": 10.3,
-  "adjPpg": 10.4,
-  "pointsPlus": 83,
-  "mpg": 23.9,
+  "rank": 165,
+  "gp": 54,
+  "ppg": 10.5,
+  "adjPpg": 10.6,
+  "pointsPlus": 85,
+  "mpg": 24.0,
   "position": "F",
   "jersey": "5",
-  "usgPct": 19.3,
-  "tsPct": 52.9,
+  "usgPct": 19.5,
+  "tsPct": 53.1,
   "gameLog": [
     {
       "date": "2025-10-23",
@@ -109,7 +109,7 @@
       "result": "L",
       "min": 22,
       "pts": 11,
-      "adjPts": 10.1,
+      "adjPts": 10.2,
       "pointsPlus": 81
     },
     {
@@ -136,7 +136,7 @@
       "result": "L",
       "min": 28,
       "pts": 8,
-      "adjPts": 8.4,
+      "adjPts": 8.5,
       "pointsPlus": 68
     },
     {
@@ -163,7 +163,7 @@
       "result": "L",
       "min": 27,
       "pts": 21,
-      "adjPts": 22.1,
+      "adjPts": 22.2,
       "pointsPlus": 178
     },
     {
@@ -361,7 +361,7 @@
       "result": "W",
       "min": 30,
       "pts": 13,
-      "adjPts": 12.7,
+      "adjPts": 12.8,
       "pointsPlus": 102
     },
     {
@@ -433,7 +433,7 @@
       "result": "L",
       "min": 30,
       "pts": 12,
-      "adjPts": 11.6,
+      "adjPts": 11.7,
       "pointsPlus": 93
     },
     {
@@ -443,7 +443,7 @@
       "min": 22,
       "pts": 16,
       "adjPts": 15.3,
-      "pointsPlus": 123
+      "pointsPlus": 122
     },
     {
       "date": "2026-01-31",
@@ -469,8 +469,8 @@
       "result": "L",
       "min": 32,
       "pts": 24,
-      "adjPts": 22.1,
-      "pointsPlus": 177
+      "adjPts": 22.2,
+      "pointsPlus": 178
     },
     {
       "date": "2026-02-06",
@@ -489,6 +489,15 @@
       "pts": 13,
       "adjPts": 13.4,
       "pointsPlus": 108
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "IND @ BKN",
+      "result": "W",
+      "min": 32,
+      "pts": 23,
+      "adjPts": 23.2,
+      "pointsPlus": 186
     }
   ]
 }

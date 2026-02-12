@@ -2,7 +2,7 @@
   "id": 1630228,
   "name": "Jonathan Kuminga",
   "team": "GSW",
-  "rank": 142,
+  "rank": 141,
   "gp": 20,
   "ppg": 12.1,
   "adjPpg": 12.1,
@@ -55,7 +55,7 @@
       "result": "W",
       "min": 26,
       "pts": 9,
-      "adjPts": 9.2,
+      "adjPts": 9.3,
       "pointsPlus": 74
     },
     {
@@ -73,7 +73,7 @@
       "result": "L",
       "min": 32,
       "pts": 17,
-      "adjPts": 16.5,
+      "adjPts": 16.6,
       "pointsPlus": 133
     },
     {
@@ -83,7 +83,7 @@
       "min": 25,
       "pts": 9,
       "adjPts": 9.3,
-      "pointsPlus": 75
+      "pointsPlus": 74
     },
     {
       "date": "2025-11-05",
@@ -92,7 +92,7 @@
       "min": 36,
       "pts": 24,
       "adjPts": 23.0,
-      "pointsPlus": 185
+      "pointsPlus": 184
     },
     {
       "date": "2025-11-07",
@@ -182,7 +182,7 @@
       "min": 21,
       "pts": 20,
       "adjPts": 20.6,
-      "pointsPlus": 166
+      "pointsPlus": 165
     },
     {
       "date": "2026-01-22",

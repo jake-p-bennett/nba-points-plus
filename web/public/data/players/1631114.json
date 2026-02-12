@@ -2,16 +2,16 @@
   "id": 1631114,
   "name": "Jalen Williams",
   "team": "OKC",
-  "rank": 70,
-  "gp": 25,
-  "ppg": 17.1,
-  "adjPpg": 17.0,
-  "pointsPlus": 137,
-  "mpg": 29.4,
+  "rank": 66,
+  "gp": 26,
+  "ppg": 17.5,
+  "adjPpg": 17.5,
+  "pointsPlus": 140,
+  "mpg": 29.1,
   "position": "G-F",
   "jersey": "8",
-  "usgPct": 25.2,
-  "tsPct": 54.0,
+  "usgPct": 25.4,
+  "tsPct": 55.5,
   "gameLog": [
     {
       "date": "2025-11-28",
@@ -19,7 +19,7 @@
       "result": "W",
       "min": 29,
       "pts": 11,
-      "adjPts": 11.4,
+      "adjPts": 11.3,
       "pointsPlus": 91
     },
     {
@@ -37,7 +37,7 @@
       "result": "W",
       "min": 33,
       "pts": 22,
-      "adjPts": 22.4,
+      "adjPts": 22.3,
       "pointsPlus": 179
     },
     {
@@ -55,8 +55,8 @@
       "result": "W",
       "min": 25,
       "pts": 25,
-      "adjPts": 23.0,
-      "pointsPlus": 184
+      "adjPts": 23.1,
+      "pointsPlus": 185
     },
     {
       "date": "2025-12-10",
@@ -64,7 +64,7 @@
       "result": "W",
       "min": 23,
       "pts": 15,
-      "adjPts": 15.5,
+      "adjPts": 15.4,
       "pointsPlus": 124
     },
     {
@@ -73,7 +73,7 @@
       "result": "L",
       "min": 33,
       "pts": 17,
-      "adjPts": 17.4,
+      "adjPts": 17.5,
       "pointsPlus": 140
     },
     {
@@ -82,7 +82,7 @@
       "result": "W",
       "min": 29,
       "pts": 20,
-      "adjPts": 20.5,
+      "adjPts": 20.6,
       "pointsPlus": 165
     },
     {
@@ -100,7 +100,7 @@
       "result": "W",
       "min": 34,
       "pts": 24,
-      "adjPts": 23.6,
+      "adjPts": 23.5,
       "pointsPlus": 189
     },
     {
@@ -109,7 +109,7 @@
       "result": "L",
       "min": 32,
       "pts": 17,
-      "adjPts": 17.4,
+      "adjPts": 17.5,
       "pointsPlus": 140
     },
     {
@@ -163,8 +163,8 @@
       "result": "L",
       "min": 34,
       "pts": 23,
-      "adjPts": 23.8,
-      "pointsPlus": 191
+      "adjPts": 23.7,
+      "pointsPlus": 190
     },
     {
       "date": "2026-01-05",
@@ -181,8 +181,8 @@
       "result": "W",
       "min": 41,
       "pts": 17,
-      "adjPts": 15.6,
-      "pointsPlus": 125
+      "adjPts": 15.7,
+      "pointsPlus": 126
     },
     {
       "date": "2026-01-09",
@@ -191,7 +191,7 @@
       "min": 36,
       "pts": 26,
       "adjPts": 25.5,
-      "pointsPlus": 205
+      "pointsPlus": 204
     },
     {
       "date": "2026-01-11",
@@ -199,7 +199,7 @@
       "result": "W",
       "min": 29,
       "pts": 18,
-      "adjPts": 17.6,
+      "adjPts": 17.7,
       "pointsPlus": 142
     },
     {
@@ -226,7 +226,7 @@
       "result": "L",
       "min": 14,
       "pts": 8,
-      "adjPts": 7.8,
+      "adjPts": 7.9,
       "pointsPlus": 63
     },
     {
@@ -237,6 +237,15 @@
       "pts": 23,
       "adjPts": 22.7,
       "pointsPlus": 182
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "OKC @ PHX",
+      "result": "W",
+      "min": 20,
+      "pts": 28,
+      "adjPts": 28.8,
+      "pointsPlus": 231
     }
   ]
 }

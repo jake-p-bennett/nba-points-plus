@@ -2,16 +2,16 @@
   "id": 1630577,
   "name": "Julian Champagnie",
   "team": "SAS",
-  "rank": 158,
-  "gp": 53,
-  "ppg": 11.3,
-  "adjPpg": 11.3,
-  "pointsPlus": 91,
-  "mpg": 28.0,
+  "rank": 159,
+  "gp": 54,
+  "ppg": 11.1,
+  "adjPpg": 11.1,
+  "pointsPlus": 89,
+  "mpg": 27.9,
   "position": "F",
   "jersey": "30",
-  "usgPct": 14.9,
-  "tsPct": 60.4,
+  "usgPct": 14.8,
+  "tsPct": 60.0,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -65,7 +65,7 @@
       "min": 29,
       "pts": 9,
       "adjPts": 9.3,
-      "pointsPlus": 75
+      "pointsPlus": 74
     },
     {
       "date": "2025-11-05",
@@ -82,7 +82,7 @@
       "result": "W",
       "min": 31,
       "pts": 22,
-      "adjPts": 23.3,
+      "adjPts": 23.4,
       "pointsPlus": 187
     },
     {
@@ -200,7 +200,7 @@
       "min": 28,
       "pts": 14,
       "adjPts": 14.0,
-      "pointsPlus": 113
+      "pointsPlus": 112
     },
     {
       "date": "2025-12-05",
@@ -208,7 +208,7 @@
       "result": "L",
       "min": 35,
       "pts": 11,
-      "adjPts": 10.9,
+      "adjPts": 11.0,
       "pointsPlus": 88
     },
     {
@@ -263,7 +263,7 @@
       "min": 18,
       "pts": 3,
       "adjPts": 2.8,
-      "pointsPlus": 23
+      "pointsPlus": 22
     },
     {
       "date": "2025-12-23",
@@ -307,8 +307,8 @@
       "result": "W",
       "min": 36,
       "pts": 36,
-      "adjPts": 37.0,
-      "pointsPlus": 297
+      "adjPts": 37.1,
+      "pointsPlus": 298
     },
     {
       "date": "2026-01-02",
@@ -326,7 +326,7 @@
       "min": 33,
       "pts": 20,
       "adjPts": 19.5,
-      "pointsPlus": 157
+      "pointsPlus": 156
     },
     {
       "date": "2026-01-06",
@@ -406,7 +406,7 @@
       "result": "L",
       "min": 34,
       "pts": 27,
-      "adjPts": 28.6,
+      "adjPts": 28.7,
       "pointsPlus": 230
     },
     {
@@ -415,8 +415,8 @@
       "result": "W",
       "min": 34,
       "pts": 17,
-      "adjPts": 15.6,
-      "pointsPlus": 125
+      "adjPts": 15.7,
+      "pointsPlus": 126
     },
     {
       "date": "2026-01-25",
@@ -425,7 +425,7 @@
       "min": 29,
       "pts": 13,
       "adjPts": 12.5,
-      "pointsPlus": 101
+      "pointsPlus": 100
     },
     {
       "date": "2026-01-28",
@@ -489,6 +489,15 @@
       "pts": 8,
       "adjPts": 7.9,
       "pointsPlus": 63
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "SAS @ GSW",
+      "result": "W",
+      "min": 20,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
     }
   ]
 }

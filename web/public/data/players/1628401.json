@@ -2,16 +2,16 @@
   "id": 1628401,
   "name": "Derrick White",
   "team": "BOS",
-  "rank": 68,
-  "gp": 51,
-  "ppg": 17.4,
-  "adjPpg": 17.4,
-  "pointsPlus": 139,
-  "mpg": 34.3,
+  "rank": 70,
+  "gp": 52,
+  "ppg": 17.2,
+  "adjPpg": 17.2,
+  "pointsPlus": 138,
+  "mpg": 34.2,
   "position": "G",
   "jersey": "9",
-  "usgPct": 22.8,
-  "tsPct": 52.3,
+  "usgPct": 22.7,
+  "tsPct": 52.2,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -20,7 +20,7 @@
       "min": 35,
       "pts": 25,
       "adjPts": 25.2,
-      "pointsPlus": 203
+      "pointsPlus": 202
     },
     {
       "date": "2025-10-24",
@@ -28,7 +28,7 @@
       "result": "L",
       "min": 33,
       "pts": 15,
-      "adjPts": 15.4,
+      "adjPts": 15.5,
       "pointsPlus": 124
     },
     {
@@ -37,7 +37,7 @@
       "result": "L",
       "min": 37,
       "pts": 15,
-      "adjPts": 15.8,
+      "adjPts": 15.9,
       "pointsPlus": 127
     },
     {
@@ -65,7 +65,7 @@
       "min": 35,
       "pts": 15,
       "adjPts": 15.1,
-      "pointsPlus": 122
+      "pointsPlus": 121
     },
     {
       "date": "2025-11-01",
@@ -101,7 +101,7 @@
       "min": 37,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 129
+      "pointsPlus": 128
     },
     {
       "date": "2025-11-09",
@@ -118,8 +118,8 @@
       "result": "L",
       "min": 35,
       "pts": 18,
-      "adjPts": 18.2,
-      "pointsPlus": 146
+      "adjPts": 18.1,
+      "pointsPlus": 145
     },
     {
       "date": "2025-11-12",
@@ -128,7 +128,7 @@
       "min": 26,
       "pts": 20,
       "adjPts": 19.6,
-      "pointsPlus": 158
+      "pointsPlus": 157
     },
     {
       "date": "2025-11-16",
@@ -137,7 +137,7 @@
       "min": 39,
       "pts": 22,
       "adjPts": 22.6,
-      "pointsPlus": 181
+      "pointsPlus": 182
     },
     {
       "date": "2025-11-18",
@@ -164,7 +164,7 @@
       "min": 36,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 129
+      "pointsPlus": 128
     },
     {
       "date": "2025-11-26",
@@ -173,7 +173,7 @@
       "min": 31,
       "pts": 27,
       "adjPts": 28.5,
-      "pointsPlus": 228
+      "pointsPlus": 229
     },
     {
       "date": "2025-11-29",
@@ -190,7 +190,7 @@
       "result": "W",
       "min": 35,
       "pts": 22,
-      "adjPts": 22.6,
+      "adjPts": 22.7,
       "pointsPlus": 182
     },
     {
@@ -200,7 +200,7 @@
       "min": 29,
       "pts": 30,
       "adjPts": 28.1,
-      "pointsPlus": 226
+      "pointsPlus": 225
     },
     {
       "date": "2025-12-05",
@@ -235,8 +235,8 @@
       "result": "L",
       "min": 38,
       "pts": 31,
-      "adjPts": 32.7,
-      "pointsPlus": 262
+      "adjPts": 32.8,
+      "pointsPlus": 263
     },
     {
       "date": "2025-12-19",
@@ -244,7 +244,7 @@
       "result": "W",
       "min": 36,
       "pts": 33,
-      "adjPts": 32.3,
+      "adjPts": 32.4,
       "pointsPlus": 260
     },
     {
@@ -289,8 +289,8 @@
       "result": "W",
       "min": 36,
       "pts": 27,
-      "adjPts": 24.8,
-      "pointsPlus": 199
+      "adjPts": 24.9,
+      "pointsPlus": 200
     },
     {
       "date": "2026-01-01",
@@ -316,7 +316,7 @@
       "result": "W",
       "min": 37,
       "pts": 10,
-      "adjPts": 9.6,
+      "adjPts": 9.5,
       "pointsPlus": 77
     },
     {
@@ -361,7 +361,7 @@
       "result": "W",
       "min": 36,
       "pts": 8,
-      "adjPts": 7.8,
+      "adjPts": 7.9,
       "pointsPlus": 63
     },
     {
@@ -388,7 +388,7 @@
       "result": "W",
       "min": 30,
       "pts": 13,
-      "adjPts": 12.6,
+      "adjPts": 12.7,
       "pointsPlus": 102
     },
     {
@@ -406,7 +406,7 @@
       "result": "W",
       "min": 34,
       "pts": 18,
-      "adjPts": 17.6,
+      "adjPts": 17.5,
       "pointsPlus": 141
     },
     {
@@ -469,8 +469,17 @@
       "result": "L",
       "min": 34,
       "pts": 19,
-      "adjPts": 19.5,
+      "adjPts": 19.6,
       "pointsPlus": 157
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "BOS vs. CHI",
+      "result": "W",
+      "min": 30,
+      "pts": 9,
+      "adjPts": 8.6,
+      "pointsPlus": 69
     }
   ]
 }

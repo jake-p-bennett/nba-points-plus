@@ -2,16 +2,16 @@
   "id": 1630173,
   "name": "Precious Achiuwa",
   "team": "SAC",
-  "rank": 241,
-  "gp": 47,
-  "ppg": 7.2,
-  "adjPpg": 7.3,
+  "rank": 243,
+  "gp": 48,
+  "ppg": 7.1,
+  "adjPpg": 7.2,
   "pointsPlus": 58,
-  "mpg": 20.4,
+  "mpg": 20.3,
   "position": "F",
   "jersey": "9",
   "usgPct": 15.1,
-  "tsPct": 53.4,
+  "tsPct": 53.5,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -109,7 +109,7 @@
       "result": "W",
       "min": 34,
       "pts": 10,
-      "adjPts": 10.0,
+      "adjPts": 10.1,
       "pointsPlus": 81
     },
     {
@@ -118,7 +118,7 @@
       "result": "L",
       "min": 25,
       "pts": 14,
-      "adjPts": 14.5,
+      "adjPts": 14.4,
       "pointsPlus": 116
     },
     {
@@ -137,7 +137,7 @@
       "min": 24,
       "pts": 11,
       "adjPts": 10.8,
-      "pointsPlus": 87
+      "pointsPlus": 86
     },
     {
       "date": "2025-12-03",
@@ -190,7 +190,7 @@
       "result": "L",
       "min": 14,
       "pts": 2,
-      "adjPts": 2.0,
+      "adjPts": 1.9,
       "pointsPlus": 16
     },
     {
@@ -199,7 +199,7 @@
       "result": "L",
       "min": 10,
       "pts": 2,
-      "adjPts": 2.0,
+      "adjPts": 1.9,
       "pointsPlus": 16
     },
     {
@@ -217,7 +217,7 @@
       "result": "L",
       "min": 27,
       "pts": 15,
-      "adjPts": 15.8,
+      "adjPts": 15.9,
       "pointsPlus": 127
     },
     {
@@ -407,7 +407,7 @@
       "min": 9,
       "pts": 5,
       "adjPts": 4.7,
-      "pointsPlus": 38
+      "pointsPlus": 37
     },
     {
       "date": "2026-02-06",
@@ -416,7 +416,7 @@
       "min": 8,
       "pts": 6,
       "adjPts": 6.2,
-      "pointsPlus": 49
+      "pointsPlus": 50
     },
     {
       "date": "2026-02-07",
@@ -435,6 +435,15 @@
       "pts": 8,
       "adjPts": 7.7,
       "pointsPlus": 62
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "SAC @ UTA",
+      "result": "L",
+      "min": 16,
+      "pts": 6,
+      "adjPts": 5.5,
+      "pointsPlus": 44
     }
   ]
 }

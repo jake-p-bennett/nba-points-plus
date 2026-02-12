@@ -2,16 +2,16 @@
   "id": 1631119,
   "name": "Jaylin Williams",
   "team": "OKC",
-  "rank": 275,
-  "gp": 39,
-  "ppg": 6.2,
-  "adjPpg": 6.1,
-  "pointsPlus": 49,
-  "mpg": 19.2,
+  "rank": 271,
+  "gp": 40,
+  "ppg": 6.3,
+  "adjPpg": 6.3,
+  "pointsPlus": 50,
+  "mpg": 19.4,
   "position": "F",
   "jersey": "6",
   "usgPct": 15.3,
-  "tsPct": 52.7,
+  "tsPct": 53.0,
   "gameLog": [
     {
       "date": "2025-10-21",
@@ -64,8 +64,8 @@
       "result": "W",
       "min": 22,
       "pts": 7,
-      "adjPts": 6.6,
-      "pointsPlus": 53
+      "adjPts": 6.5,
+      "pointsPlus": 52
     },
     {
       "date": "2025-11-02",
@@ -92,7 +92,7 @@
       "min": 21,
       "pts": 3,
       "adjPts": 2.9,
-      "pointsPlus": 24
+      "pointsPlus": 23
     },
     {
       "date": "2025-11-07",
@@ -128,7 +128,7 @@
       "min": 20,
       "pts": 6,
       "adjPts": 5.9,
-      "pointsPlus": 48
+      "pointsPlus": 47
     },
     {
       "date": "2025-11-17",
@@ -181,7 +181,7 @@
       "result": "W",
       "min": 21,
       "pts": 14,
-      "adjPts": 14.5,
+      "adjPts": 14.4,
       "pointsPlus": 116
     },
     {
@@ -363,6 +363,15 @@
       "pts": 11,
       "adjPts": 10.9,
       "pointsPlus": 87
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "OKC @ PHX",
+      "result": "W",
+      "min": 28,
+      "pts": 11,
+      "adjPts": 11.3,
+      "pointsPlus": 91
     }
   ]
 }

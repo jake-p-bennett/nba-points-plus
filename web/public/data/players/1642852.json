@@ -3,15 +3,15 @@
   "name": "Derik Queen",
   "team": "NOP",
   "rank": 137,
-  "gp": 54,
+  "gp": 55,
   "ppg": 12.2,
-  "adjPpg": 12.3,
+  "adjPpg": 12.2,
   "pointsPlus": 98,
-  "mpg": 26.0,
+  "mpg": 26.1,
   "position": "C",
   "jersey": "22",
-  "usgPct": 21.7,
-  "tsPct": 55.4,
+  "usgPct": 21.5,
+  "tsPct": 55.5,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -56,7 +56,7 @@
       "min": 13,
       "pts": 6,
       "adjPts": 6.2,
-      "pointsPlus": 49
+      "pointsPlus": 50
     },
     {
       "date": "2025-11-02",
@@ -100,7 +100,7 @@
       "result": "L",
       "min": 25,
       "pts": 12,
-      "adjPts": 12.4,
+      "adjPts": 12.3,
       "pointsPlus": 99
     },
     {
@@ -109,8 +109,8 @@
       "result": "L",
       "min": 38,
       "pts": 26,
-      "adjPts": 25.4,
-      "pointsPlus": 204
+      "adjPts": 25.3,
+      "pointsPlus": 203
     },
     {
       "date": "2025-11-14",
@@ -145,8 +145,8 @@
       "result": "L",
       "min": 30,
       "pts": 30,
-      "adjPts": 30.0,
-      "pointsPlus": 241
+      "adjPts": 29.9,
+      "pointsPlus": 240
     },
     {
       "date": "2025-11-21",
@@ -271,7 +271,7 @@
       "result": "W",
       "min": 27,
       "pts": 17,
-      "adjPts": 16.5,
+      "adjPts": 16.6,
       "pointsPlus": 133
     },
     {
@@ -307,8 +307,8 @@
       "result": "L",
       "min": 27,
       "pts": 21,
-      "adjPts": 21.7,
-      "pointsPlus": 174
+      "adjPts": 21.6,
+      "pointsPlus": 173
     },
     {
       "date": "2025-12-29",
@@ -334,7 +334,7 @@
       "result": "L",
       "min": 30,
       "pts": 13,
-      "adjPts": 12.7,
+      "adjPts": 12.8,
       "pointsPlus": 102
     },
     {
@@ -424,7 +424,7 @@
       "result": "W",
       "min": 27,
       "pts": 8,
-      "adjPts": 7.9,
+      "adjPts": 7.8,
       "pointsPlus": 63
     },
     {
@@ -497,7 +497,16 @@
       "min": 24,
       "pts": 8,
       "adjPts": 7.7,
-      "pointsPlus": 62
+      "pointsPlus": 61
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "NOP vs. MIA",
+      "result": "L",
+      "min": 31,
+      "pts": 12,
+      "adjPts": 11.8,
+      "pointsPlus": 94
     }
   ]
 }

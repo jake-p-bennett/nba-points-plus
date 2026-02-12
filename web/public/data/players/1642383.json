@@ -2,7 +2,7 @@
   "id": 1642383,
   "name": "Walter Clayton Jr.",
   "team": "MEM",
-  "rank": 247,
+  "rank": 245,
   "gp": 47,
   "ppg": 6.9,
   "adjPpg": 7.0,
@@ -20,7 +20,7 @@
       "min": 18,
       "pts": 10,
       "adjPts": 10.3,
-      "pointsPlus": 82
+      "pointsPlus": 83
     },
     {
       "date": "2025-10-24",
@@ -172,7 +172,7 @@
       "result": "L",
       "min": 19,
       "pts": 11,
-      "adjPts": 11.3,
+      "adjPts": 11.4,
       "pointsPlus": 91
     },
     {
@@ -253,7 +253,7 @@
       "result": "W",
       "min": 22,
       "pts": 17,
-      "adjPts": 17.4,
+      "adjPts": 17.5,
       "pointsPlus": 140
     },
     {
@@ -271,7 +271,7 @@
       "result": "L",
       "min": 30,
       "pts": 9,
-      "adjPts": 9.2,
+      "adjPts": 9.3,
       "pointsPlus": 74
     },
     {
@@ -434,7 +434,7 @@
       "min": 28,
       "pts": 8,
       "adjPts": 7.8,
-      "pointsPlus": 63
+      "pointsPlus": 62
     }
   ]
 }

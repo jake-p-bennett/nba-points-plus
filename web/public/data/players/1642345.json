@@ -3,15 +3,15 @@
   "name": "Oso Ighodaro",
   "team": "PHX",
   "rank": 288,
-  "gp": 54,
+  "gp": 55,
   "ppg": 5.5,
   "adjPpg": 5.5,
   "pointsPlus": 44,
-  "mpg": 20.1,
+  "mpg": 20.0,
   "position": "F",
   "jersey": "11",
   "usgPct": 11.8,
-  "tsPct": 61.6,
+  "tsPct": 62.2,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -28,7 +28,7 @@
       "result": "L",
       "min": 20,
       "pts": 9,
-      "adjPts": 9.2,
+      "adjPts": 9.3,
       "pointsPlus": 74
     },
     {
@@ -127,7 +127,7 @@
       "result": "W",
       "min": 26,
       "pts": 17,
-      "adjPts": 16.5,
+      "adjPts": 16.6,
       "pointsPlus": 133
     },
     {
@@ -145,8 +145,8 @@
       "result": "W",
       "min": 16,
       "pts": 14,
-      "adjPts": 13.7,
-      "pointsPlus": 110
+      "adjPts": 13.6,
+      "pointsPlus": 109
     },
     {
       "date": "2025-11-21",
@@ -182,7 +182,7 @@
       "min": 15,
       "pts": 8,
       "adjPts": 7.7,
-      "pointsPlus": 62
+      "pointsPlus": 61
     },
     {
       "date": "2025-11-28",
@@ -226,7 +226,7 @@
       "result": "W",
       "min": 19,
       "pts": 10,
-      "adjPts": 10.0,
+      "adjPts": 10.1,
       "pointsPlus": 81
     },
     {
@@ -262,8 +262,8 @@
       "result": "L",
       "min": 30,
       "pts": 10,
-      "adjPts": 10.2,
-      "pointsPlus": 82
+      "adjPts": 10.1,
+      "pointsPlus": 81
     },
     {
       "date": "2025-12-23",
@@ -334,7 +334,7 @@
       "result": "L",
       "min": 27,
       "pts": 9,
-      "adjPts": 9.5,
+      "adjPts": 9.6,
       "pointsPlus": 77
     },
     {
@@ -379,7 +379,7 @@
       "result": "L",
       "min": 26,
       "pts": 10,
-      "adjPts": 10.5,
+      "adjPts": 10.6,
       "pointsPlus": 85
     },
     {
@@ -470,7 +470,7 @@
       "min": 21,
       "pts": 8,
       "adjPts": 7.8,
-      "pointsPlus": 63
+      "pointsPlus": 62
     },
     {
       "date": "2026-02-05",
@@ -498,6 +498,15 @@
       "pts": 10,
       "adjPts": 9.9,
       "pointsPlus": 79
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "PHX vs. OKC",
+      "result": "L",
+      "min": 17,
+      "pts": 8,
+      "adjPts": 8.6,
+      "pointsPlus": 69
     }
   ]
 }

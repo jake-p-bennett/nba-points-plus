@@ -3,15 +3,15 @@
   "name": "Anfernee Simons",
   "team": "CHI",
   "rank": 100,
-  "gp": 52,
-  "ppg": 14.5,
-  "adjPpg": 14.4,
-  "pointsPlus": 115,
+  "gp": 53,
+  "ppg": 14.4,
+  "adjPpg": 14.2,
+  "pointsPlus": 114,
   "mpg": 25.0,
   "position": "G",
   "jersey": "22",
-  "usgPct": 22.7,
-  "tsPct": 58.2,
+  "usgPct": 22.6,
+  "tsPct": 57.9,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -64,8 +64,8 @@
       "result": "W",
       "min": 29,
       "pts": 19,
-      "adjPts": 19.2,
-      "pointsPlus": 154
+      "adjPts": 19.1,
+      "pointsPlus": 153
     },
     {
       "date": "2025-11-01",
@@ -91,7 +91,7 @@
       "result": "W",
       "min": 30,
       "pts": 18,
-      "adjPts": 16.9,
+      "adjPts": 16.8,
       "pointsPlus": 135
     },
     {
@@ -118,8 +118,8 @@
       "result": "L",
       "min": 26,
       "pts": 17,
-      "adjPts": 17.2,
-      "pointsPlus": 138
+      "adjPts": 17.1,
+      "pointsPlus": 137
     },
     {
       "date": "2025-11-12",
@@ -199,7 +199,7 @@
       "result": "W",
       "min": 24,
       "pts": 12,
-      "adjPts": 12.3,
+      "adjPts": 12.4,
       "pointsPlus": 99
     },
     {
@@ -298,7 +298,7 @@
       "result": "W",
       "min": 28,
       "pts": 20,
-      "adjPts": 18.4,
+      "adjPts": 18.5,
       "pointsPlus": 148
     },
     {
@@ -370,7 +370,7 @@
       "result": "W",
       "min": 34,
       "pts": 39,
-      "adjPts": 38.2,
+      "adjPts": 38.3,
       "pointsPlus": 307
     },
     {
@@ -415,7 +415,7 @@
       "result": "L",
       "min": 28,
       "pts": 21,
-      "adjPts": 20.1,
+      "adjPts": 20.0,
       "pointsPlus": 161
     },
     {
@@ -433,7 +433,7 @@
       "result": "L",
       "min": 19,
       "pts": 12,
-      "adjPts": 11.6,
+      "adjPts": 11.7,
       "pointsPlus": 93
     },
     {
@@ -480,6 +480,15 @@
       "pts": 23,
       "adjPts": 23.2,
       "pointsPlus": 186
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "CHI @ BOS",
+      "result": "L",
+      "min": 28,
+      "pts": 7,
+      "adjPts": 7.5,
+      "pointsPlus": 60
     }
   ]
 }

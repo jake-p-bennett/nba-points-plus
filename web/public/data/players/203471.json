@@ -2,12 +2,12 @@
   "id": 203471,
   "name": "Dennis Schr\u00f6der",
   "team": "CLE",
-  "rank": 134,
-  "gp": 43,
-  "ppg": 12.4,
-  "adjPpg": 12.5,
-  "pointsPlus": 101,
-  "mpg": 25.9,
+  "rank": 135,
+  "gp": 44,
+  "ppg": 12.3,
+  "adjPpg": 12.4,
+  "pointsPlus": 99,
+  "mpg": 25.8,
   "position": "G",
   "jersey": "8",
   "usgPct": 22.3,
@@ -19,7 +19,7 @@
       "result": "L",
       "min": 30,
       "pts": 14,
-      "adjPts": 14.5,
+      "adjPts": 14.4,
       "pointsPlus": 116
     },
     {
@@ -28,8 +28,8 @@
       "result": "W",
       "min": 33,
       "pts": 17,
-      "adjPts": 15.6,
-      "pointsPlus": 125
+      "adjPts": 15.7,
+      "pointsPlus": 126
     },
     {
       "date": "2025-10-26",
@@ -38,7 +38,7 @@
       "min": 35,
       "pts": 18,
       "adjPts": 17.8,
-      "pointsPlus": 143
+      "pointsPlus": 142
     },
     {
       "date": "2025-10-28",
@@ -83,7 +83,7 @@
       "min": 32,
       "pts": 18,
       "adjPts": 18.3,
-      "pointsPlus": 147
+      "pointsPlus": 146
     },
     {
       "date": "2025-11-07",
@@ -145,7 +145,7 @@
       "result": "L",
       "min": 32,
       "pts": 21,
-      "adjPts": 22.5,
+      "adjPts": 22.6,
       "pointsPlus": 181
     },
     {
@@ -190,7 +190,7 @@
       "result": "L",
       "min": 22,
       "pts": 6,
-      "adjPts": 5.9,
+      "adjPts": 5.8,
       "pointsPlus": 47
     },
     {
@@ -200,7 +200,7 @@
       "min": 31,
       "pts": 21,
       "adjPts": 20.5,
-      "pointsPlus": 165
+      "pointsPlus": 164
     },
     {
       "date": "2025-12-21",
@@ -217,7 +217,7 @@
       "result": "L",
       "min": 21,
       "pts": 10,
-      "adjPts": 10.5,
+      "adjPts": 10.6,
       "pointsPlus": 85
     },
     {
@@ -262,7 +262,7 @@
       "result": "L",
       "min": 24,
       "pts": 12,
-      "adjPts": 12.4,
+      "adjPts": 12.3,
       "pointsPlus": 99
     },
     {
@@ -298,8 +298,8 @@
       "result": "W",
       "min": 20,
       "pts": 15,
-      "adjPts": 14.1,
-      "pointsPlus": 113
+      "adjPts": 14.0,
+      "pointsPlus": 112
     },
     {
       "date": "2026-01-18",
@@ -307,7 +307,7 @@
       "result": "L",
       "min": 18,
       "pts": 2,
-      "adjPts": 2.0,
+      "adjPts": 1.9,
       "pointsPlus": 16
     },
     {
@@ -343,7 +343,7 @@
       "result": "L",
       "min": 25,
       "pts": 15,
-      "adjPts": 15.8,
+      "adjPts": 15.9,
       "pointsPlus": 127
     },
     {
@@ -361,8 +361,8 @@
       "result": "L",
       "min": 31,
       "pts": 27,
-      "adjPts": 27.3,
-      "pointsPlus": 219
+      "adjPts": 27.2,
+      "pointsPlus": 218
     },
     {
       "date": "2026-01-30",
@@ -399,6 +399,15 @@
       "pts": 5,
       "adjPts": 5.0,
       "pointsPlus": 40
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "CLE vs. WAS",
+      "result": "W",
+      "min": 18,
+      "pts": 7,
+      "adjPts": 6.5,
+      "pointsPlus": 52
     }
   ]
 }

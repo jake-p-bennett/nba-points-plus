@@ -2,16 +2,16 @@
   "id": 201567,
   "name": "Kevin Love",
   "team": "UTA",
-  "rank": 244,
-  "gp": 28,
+  "rank": 246,
+  "gp": 29,
   "ppg": 7.0,
-  "adjPpg": 7.1,
-  "pointsPlus": 57,
+  "adjPpg": 7.0,
+  "pointsPlus": 56,
   "mpg": 17.2,
   "position": "F-C",
   "jersey": "42",
   "usgPct": 16.4,
-  "tsPct": 56.5,
+  "tsPct": 56.3,
   "gameLog": [
     {
       "date": "2025-11-02",
@@ -55,7 +55,7 @@
       "result": "L",
       "min": 17,
       "pts": 10,
-      "adjPts": 10.0,
+      "adjPts": 10.1,
       "pointsPlus": 81
     },
     {
@@ -73,7 +73,7 @@
       "result": "W",
       "min": 18,
       "pts": 10,
-      "adjPts": 9.6,
+      "adjPts": 9.5,
       "pointsPlus": 77
     },
     {
@@ -146,7 +146,7 @@
       "min": 20,
       "pts": 20,
       "adjPts": 19.6,
-      "pointsPlus": 158
+      "pointsPlus": 157
     },
     {
       "date": "2025-12-18",
@@ -164,7 +164,7 @@
       "min": 32,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 129
+      "pointsPlus": 128
     },
     {
       "date": "2025-12-23",
@@ -182,7 +182,7 @@
       "min": 16,
       "pts": 14,
       "adjPts": 14.8,
-      "pointsPlus": 118
+      "pointsPlus": 119
     },
     {
       "date": "2026-01-03",
@@ -217,7 +217,7 @@
       "result": "W",
       "min": 18,
       "pts": 11,
-      "adjPts": 10.9,
+      "adjPts": 11.0,
       "pointsPlus": 88
     },
     {
@@ -263,7 +263,16 @@
       "min": 12,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "UTA vs. SAC",
+      "result": "W",
+      "min": 16,
+      "pts": 5,
+      "adjPts": 4.8,
+      "pointsPlus": 38
     }
   ]
 }

@@ -2,7 +2,7 @@
   "id": 1631169,
   "name": "Josh Minott",
   "team": "BOS",
-  "rank": 282,
+  "rank": 283,
   "gp": 33,
   "ppg": 5.8,
   "adjPpg": 5.8,
@@ -28,7 +28,7 @@
       "result": "L",
       "min": 14,
       "pts": 10,
-      "adjPts": 10.5,
+      "adjPts": 10.6,
       "pointsPlus": 85
     },
     {
@@ -37,7 +37,7 @@
       "result": "W",
       "min": 28,
       "pts": 15,
-      "adjPts": 14.5,
+      "adjPts": 14.4,
       "pointsPlus": 116
     },
     {
@@ -46,7 +46,7 @@
       "result": "W",
       "min": 33,
       "pts": 11,
-      "adjPts": 10.9,
+      "adjPts": 11.0,
       "pointsPlus": 88
     },
     {
@@ -82,8 +82,8 @@
       "result": "W",
       "min": 34,
       "pts": 21,
-      "adjPts": 19.7,
-      "pointsPlus": 158
+      "adjPts": 19.6,
+      "pointsPlus": 157
     },
     {
       "date": "2025-11-07",
@@ -155,7 +155,7 @@
       "min": 20,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 129
+      "pointsPlus": 128
     },
     {
       "date": "2025-11-26",
@@ -190,7 +190,7 @@
       "result": "W",
       "min": 27,
       "pts": 11,
-      "adjPts": 11.3,
+      "adjPts": 11.4,
       "pointsPlus": 91
     },
     {
@@ -200,7 +200,7 @@
       "min": 22,
       "pts": 11,
       "adjPts": 10.3,
-      "pointsPlus": 83
+      "pointsPlus": 82
     },
     {
       "date": "2025-12-05",
@@ -209,7 +209,7 @@
       "min": 23,
       "pts": 6,
       "adjPts": 5.9,
-      "pointsPlus": 48
+      "pointsPlus": 47
     },
     {
       "date": "2025-12-07",

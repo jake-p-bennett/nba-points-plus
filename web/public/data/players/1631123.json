@@ -2,16 +2,16 @@
   "id": 1631123,
   "name": "Jamaree Bouyea",
   "team": "PHX",
-  "rank": 254,
-  "gp": 27,
-  "ppg": 6.7,
-  "adjPpg": 6.8,
-  "pointsPlus": 54,
-  "mpg": 15.2,
+  "rank": 251,
+  "gp": 28,
+  "ppg": 6.9,
+  "adjPpg": 6.9,
+  "pointsPlus": 56,
+  "mpg": 15.6,
   "position": "G",
   "jersey": "17",
-  "usgPct": 17.5,
-  "tsPct": 58.8,
+  "usgPct": 17.7,
+  "tsPct": 57.6,
   "gameLog": [
     {
       "date": "2025-11-18",
@@ -20,7 +20,7 @@
       "min": 3,
       "pts": 3,
       "adjPts": 2.9,
-      "pointsPlus": 24
+      "pointsPlus": 23
     },
     {
       "date": "2025-11-24",
@@ -227,7 +227,7 @@
       "min": 10,
       "pts": 2,
       "adjPts": 2.1,
-      "pointsPlus": 16
+      "pointsPlus": 17
     },
     {
       "date": "2026-02-03",
@@ -255,6 +255,15 @@
       "pts": 2,
       "adjPts": 2.0,
       "pointsPlus": 16
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "PHX vs. OKC",
+      "result": "L",
+      "min": 27,
+      "pts": 11,
+      "adjPts": 11.8,
+      "pointsPlus": 95
     }
   ]
 }

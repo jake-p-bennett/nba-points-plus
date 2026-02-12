@@ -2,16 +2,16 @@
   "id": 1629130,
   "name": "Duncan Robinson",
   "team": "DET",
-  "rank": 140,
-  "gp": 50,
-  "ppg": 12.2,
+  "rank": 139,
+  "gp": 51,
+  "ppg": 12.3,
   "adjPpg": 12.2,
   "pointsPlus": 98,
   "mpg": 28.2,
   "position": "F",
   "jersey": "55",
-  "usgPct": 15.1,
-  "tsPct": 61.2,
+  "usgPct": 15.2,
+  "tsPct": 61.3,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -56,7 +56,7 @@
       "min": 29,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 121
+      "pointsPlus": 120
     },
     {
       "date": "2025-11-01",
@@ -74,7 +74,7 @@
       "min": 40,
       "pts": 11,
       "adjPts": 10.8,
-      "pointsPlus": 87
+      "pointsPlus": 86
     },
     {
       "date": "2025-11-05",
@@ -83,7 +83,7 @@
       "min": 28,
       "pts": 9,
       "adjPts": 8.3,
-      "pointsPlus": 66
+      "pointsPlus": 67
     },
     {
       "date": "2025-11-07",
@@ -100,8 +100,8 @@
       "result": "W",
       "min": 30,
       "pts": 17,
-      "adjPts": 17.2,
-      "pointsPlus": 138
+      "adjPts": 17.1,
+      "pointsPlus": 137
     },
     {
       "date": "2025-11-10",
@@ -110,7 +110,7 @@
       "min": 38,
       "pts": 13,
       "adjPts": 12.2,
-      "pointsPlus": 98
+      "pointsPlus": 97
     },
     {
       "date": "2025-11-12",
@@ -118,7 +118,7 @@
       "result": "W",
       "min": 28,
       "pts": 23,
-      "adjPts": 22.0,
+      "adjPts": 21.9,
       "pointsPlus": 176
     },
     {
@@ -128,7 +128,7 @@
       "min": 31,
       "pts": 15,
       "adjPts": 15.1,
-      "pointsPlus": 122
+      "pointsPlus": 121
     },
     {
       "date": "2025-11-17",
@@ -136,7 +136,7 @@
       "result": "W",
       "min": 34,
       "pts": 13,
-      "adjPts": 12.6,
+      "adjPts": 12.7,
       "pointsPlus": 102
     },
     {
@@ -190,7 +190,7 @@
       "result": "W",
       "min": 32,
       "pts": 18,
-      "adjPts": 17.6,
+      "adjPts": 17.7,
       "pointsPlus": 142
     },
     {
@@ -199,8 +199,8 @@
       "result": "W",
       "min": 34,
       "pts": 14,
-      "adjPts": 13.7,
-      "pointsPlus": 110
+      "adjPts": 13.6,
+      "pointsPlus": 109
     },
     {
       "date": "2025-12-06",
@@ -253,8 +253,8 @@
       "result": "W",
       "min": 32,
       "pts": 15,
-      "adjPts": 14.7,
-      "pointsPlus": 118
+      "adjPts": 14.6,
+      "pointsPlus": 117
     },
     {
       "date": "2025-12-23",
@@ -272,7 +272,7 @@
       "min": 26,
       "pts": 14,
       "adjPts": 12.9,
-      "pointsPlus": 103
+      "pointsPlus": 104
     },
     {
       "date": "2025-12-28",
@@ -290,7 +290,7 @@
       "min": 28,
       "pts": 6,
       "adjPts": 5.9,
-      "pointsPlus": 48
+      "pointsPlus": 47
     },
     {
       "date": "2026-01-01",
@@ -334,7 +334,7 @@
       "result": "L",
       "min": 28,
       "pts": 20,
-      "adjPts": 20.5,
+      "adjPts": 20.6,
       "pointsPlus": 165
     },
     {
@@ -344,7 +344,7 @@
       "min": 27,
       "pts": 19,
       "adjPts": 19.6,
-      "pointsPlus": 158
+      "pointsPlus": 157
     },
     {
       "date": "2026-01-17",
@@ -370,7 +370,7 @@
       "result": "W",
       "min": 29,
       "pts": 15,
-      "adjPts": 14.5,
+      "adjPts": 14.4,
       "pointsPlus": 116
     },
     {
@@ -379,7 +379,7 @@
       "result": "L",
       "min": 26,
       "pts": 9,
-      "adjPts": 9.5,
+      "adjPts": 9.6,
       "pointsPlus": 77
     },
     {
@@ -407,7 +407,7 @@
       "min": 30,
       "pts": 9,
       "adjPts": 9.3,
-      "pointsPlus": 75
+      "pointsPlus": 74
     },
     {
       "date": "2026-01-30",
@@ -442,8 +442,8 @@
       "result": "L",
       "min": 30,
       "pts": 21,
-      "adjPts": 19.7,
-      "pointsPlus": 158
+      "adjPts": 19.6,
+      "pointsPlus": 157
     },
     {
       "date": "2026-02-06",
@@ -462,6 +462,15 @@
       "pts": 18,
       "adjPts": 18.3,
       "pointsPlus": 147
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "DET @ TOR",
+      "result": "W",
+      "min": 25,
+      "pts": 13,
+      "adjPts": 13.4,
+      "pointsPlus": 108
     }
   ]
 }

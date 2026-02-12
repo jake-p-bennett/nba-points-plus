@@ -2,16 +2,16 @@
   "id": 1630595,
   "name": "Cade Cunningham",
   "team": "DET",
-  "rank": 19,
-  "gp": 46,
+  "rank": 18,
+  "gp": 47,
   "ppg": 25.3,
-  "adjPpg": 25.2,
-  "pointsPlus": 202,
-  "mpg": 35.0,
+  "adjPpg": 25.3,
+  "pointsPlus": 203,
+  "mpg": 34.9,
   "position": "G",
   "jersey": "2",
   "usgPct": 29.9,
-  "tsPct": 56.4,
+  "tsPct": 56.8,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -19,7 +19,7 @@
       "result": "L",
       "min": 34,
       "pts": 23,
-      "adjPts": 22.0,
+      "adjPts": 21.9,
       "pointsPlus": 176
     },
     {
@@ -55,7 +55,7 @@
       "result": "W",
       "min": 36,
       "pts": 30,
-      "adjPts": 30.1,
+      "adjPts": 30.0,
       "pointsPlus": 241
     },
     {
@@ -74,7 +74,7 @@
       "min": 39,
       "pts": 33,
       "adjPts": 32.4,
-      "pointsPlus": 260
+      "pointsPlus": 259
     },
     {
       "date": "2025-11-05",
@@ -82,8 +82,8 @@
       "result": "W",
       "min": 37,
       "pts": 31,
-      "adjPts": 28.5,
-      "pointsPlus": 229
+      "adjPts": 28.6,
+      "pointsPlus": 230
     },
     {
       "date": "2025-11-07",
@@ -92,7 +92,7 @@
       "min": 33,
       "pts": 34,
       "adjPts": 34.2,
-      "pointsPlus": 275
+      "pointsPlus": 274
     },
     {
       "date": "2025-11-09",
@@ -100,8 +100,8 @@
       "result": "W",
       "min": 41,
       "pts": 26,
-      "adjPts": 26.3,
-      "pointsPlus": 211
+      "adjPts": 26.2,
+      "pointsPlus": 210
     },
     {
       "date": "2025-11-10",
@@ -109,8 +109,8 @@
       "result": "W",
       "min": 45,
       "pts": 46,
-      "adjPts": 43.1,
-      "pointsPlus": 346
+      "adjPts": 43.0,
+      "pointsPlus": 345
     },
     {
       "date": "2025-11-18",
@@ -136,7 +136,7 @@
       "result": "W",
       "min": 36,
       "pts": 24,
-      "adjPts": 23.3,
+      "adjPts": 23.4,
       "pointsPlus": 187
     },
     {
@@ -145,7 +145,7 @@
       "result": "L",
       "min": 36,
       "pts": 42,
-      "adjPts": 44.7,
+      "adjPts": 44.8,
       "pointsPlus": 359
     },
     {
@@ -155,7 +155,7 @@
       "min": 40,
       "pts": 39,
       "adjPts": 39.1,
-      "pointsPlus": 314
+      "pointsPlus": 313
     },
     {
       "date": "2025-11-29",
@@ -163,7 +163,7 @@
       "result": "W",
       "min": 38,
       "pts": 29,
-      "adjPts": 28.4,
+      "adjPts": 28.5,
       "pointsPlus": 228
     },
     {
@@ -218,7 +218,7 @@
       "min": 36,
       "pts": 32,
       "adjPts": 34.1,
-      "pointsPlus": 274
+      "pointsPlus": 273
     },
     {
       "date": "2025-12-18",
@@ -244,8 +244,8 @@
       "result": "W",
       "min": 26,
       "pts": 14,
-      "adjPts": 13.7,
-      "pointsPlus": 110
+      "adjPts": 13.6,
+      "pointsPlus": 109
     },
     {
       "date": "2025-12-23",
@@ -253,7 +253,7 @@
       "result": "W",
       "min": 39,
       "pts": 23,
-      "adjPts": 22.1,
+      "adjPts": 22.0,
       "pointsPlus": 177
     },
     {
@@ -262,8 +262,8 @@
       "result": "L",
       "min": 37,
       "pts": 29,
-      "adjPts": 26.7,
-      "pointsPlus": 214
+      "adjPts": 26.8,
+      "pointsPlus": 215
     },
     {
       "date": "2025-12-28",
@@ -271,7 +271,7 @@
       "result": "L",
       "min": 32,
       "pts": 27,
-      "adjPts": 27.7,
+      "adjPts": 27.8,
       "pointsPlus": 223
     },
     {
@@ -307,8 +307,8 @@
       "result": "W",
       "min": 29,
       "pts": 29,
-      "adjPts": 29.8,
-      "pointsPlus": 239
+      "adjPts": 29.9,
+      "pointsPlus": 240
     },
     {
       "date": "2026-01-15",
@@ -334,7 +334,7 @@
       "result": "W",
       "min": 40,
       "pts": 16,
-      "adjPts": 17.0,
+      "adjPts": 17.1,
       "pointsPlus": 137
     },
     {
@@ -370,8 +370,8 @@
       "result": "L",
       "min": 34,
       "pts": 26,
-      "adjPts": 26.9,
-      "pointsPlus": 216
+      "adjPts": 26.8,
+      "pointsPlus": 215
     },
     {
       "date": "2026-01-30",
@@ -379,8 +379,8 @@
       "result": "W",
       "min": 35,
       "pts": 29,
-      "adjPts": 29.5,
-      "pointsPlus": 237
+      "adjPts": 29.4,
+      "pointsPlus": 236
     },
     {
       "date": "2026-02-01",
@@ -397,8 +397,8 @@
       "result": "W",
       "min": 38,
       "pts": 29,
-      "adjPts": 29.0,
-      "pointsPlus": 233
+      "adjPts": 28.9,
+      "pointsPlus": 232
     },
     {
       "date": "2026-02-05",
@@ -407,7 +407,7 @@
       "min": 38,
       "pts": 30,
       "adjPts": 28.1,
-      "pointsPlus": 226
+      "pointsPlus": 225
     },
     {
       "date": "2026-02-06",
@@ -415,7 +415,7 @@
       "result": "W",
       "min": 22,
       "pts": 11,
-      "adjPts": 11.3,
+      "adjPts": 11.4,
       "pointsPlus": 91
     },
     {
@@ -426,6 +426,15 @@
       "pts": 33,
       "adjPts": 33.5,
       "pointsPlus": 269
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "DET @ TOR",
+      "result": "W",
+      "min": 30,
+      "pts": 28,
+      "adjPts": 28.9,
+      "pointsPlus": 232
     }
   ]
 }

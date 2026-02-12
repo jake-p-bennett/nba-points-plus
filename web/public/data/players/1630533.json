@@ -2,16 +2,16 @@
   "id": 1630533,
   "name": "Ziaire Williams",
   "team": "BKN",
-  "rank": 191,
-  "gp": 37,
-  "ppg": 9.5,
-  "adjPpg": 9.5,
-  "pointsPlus": 76,
-  "mpg": 22.8,
+  "rank": 186,
+  "gp": 38,
+  "ppg": 9.7,
+  "adjPpg": 9.7,
+  "pointsPlus": 78,
+  "mpg": 22.9,
   "position": "F",
   "jersey": "1",
-  "usgPct": 17.2,
-  "tsPct": 56.7,
+  "usgPct": 17.3,
+  "tsPct": 57.4,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -83,7 +83,7 @@
       "min": 28,
       "pts": 13,
       "adjPts": 13.4,
-      "pointsPlus": 107
+      "pointsPlus": 108
     },
     {
       "date": "2025-11-11",
@@ -101,7 +101,7 @@
       "min": 36,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 121
+      "pointsPlus": 120
     },
     {
       "date": "2025-11-16",
@@ -110,7 +110,7 @@
       "min": 30,
       "pts": 13,
       "adjPts": 12.2,
-      "pointsPlus": 98
+      "pointsPlus": 97
     },
     {
       "date": "2025-11-18",
@@ -181,7 +181,7 @@
       "result": "L",
       "min": 28,
       "pts": 23,
-      "adjPts": 21.1,
+      "adjPts": 21.2,
       "pointsPlus": 170
     },
     {
@@ -280,7 +280,7 @@
       "result": "L",
       "min": 24,
       "pts": 15,
-      "adjPts": 15.5,
+      "adjPts": 15.4,
       "pointsPlus": 124
     },
     {
@@ -289,7 +289,7 @@
       "result": "L",
       "min": 19,
       "pts": 11,
-      "adjPts": 11.3,
+      "adjPts": 11.4,
       "pointsPlus": 91
     },
     {
@@ -316,7 +316,7 @@
       "result": "L",
       "min": 28,
       "pts": 11,
-      "adjPts": 11.4,
+      "adjPts": 11.3,
       "pointsPlus": 91
     },
     {
@@ -345,6 +345,15 @@
       "pts": 11,
       "adjPts": 10.5,
       "pointsPlus": 84
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "BKN vs. IND",
+      "result": "L",
+      "min": 28,
+      "pts": 19,
+      "adjPts": 18.5,
+      "pointsPlus": 148
     }
   ]
 }

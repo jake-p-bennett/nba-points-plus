@@ -2,16 +2,16 @@
   "id": 1628389,
   "name": "Bam Adebayo",
   "team": "MIA",
-  "rank": 57,
-  "gp": 47,
-  "ppg": 18.3,
-  "adjPpg": 18.3,
-  "pointsPlus": 147,
-  "mpg": 31.2,
+  "rank": 55,
+  "gp": 48,
+  "ppg": 18.4,
+  "adjPpg": 18.4,
+  "pointsPlus": 148,
+  "mpg": 31.4,
   "position": "C-F",
   "jersey": "13",
-  "usgPct": 23.6,
-  "tsPct": 54.9,
+  "usgPct": 23.8,
+  "tsPct": 54.8,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -20,7 +20,7 @@
       "min": 34,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 121
+      "pointsPlus": 120
     },
     {
       "date": "2025-10-24",
@@ -28,7 +28,7 @@
       "result": "W",
       "min": 28,
       "pts": 24,
-      "adjPts": 23.6,
+      "adjPts": 23.5,
       "pointsPlus": 189
     },
     {
@@ -37,7 +37,7 @@
       "result": "W",
       "min": 38,
       "pts": 19,
-      "adjPts": 19.5,
+      "adjPts": 19.6,
       "pointsPlus": 157
     },
     {
@@ -109,8 +109,8 @@
       "result": "W",
       "min": 33,
       "pts": 18,
-      "adjPts": 18.2,
-      "pointsPlus": 146
+      "adjPts": 18.1,
+      "pointsPlus": 145
     },
     {
       "date": "2025-11-24",
@@ -136,7 +136,7 @@
       "result": "L",
       "min": 33,
       "pts": 15,
-      "adjPts": 15.8,
+      "adjPts": 15.9,
       "pointsPlus": 127
     },
     {
@@ -145,7 +145,7 @@
       "result": "W",
       "min": 32,
       "pts": 27,
-      "adjPts": 27.7,
+      "adjPts": 27.8,
       "pointsPlus": 223
     },
     {
@@ -191,7 +191,7 @@
       "min": 33,
       "pts": 20,
       "adjPts": 20.6,
-      "pointsPlus": 166
+      "pointsPlus": 165
     },
     {
       "date": "2025-12-18",
@@ -208,7 +208,7 @@
       "result": "L",
       "min": 36,
       "pts": 16,
-      "adjPts": 17.0,
+      "adjPts": 17.1,
       "pointsPlus": 137
     },
     {
@@ -244,7 +244,7 @@
       "result": "W",
       "min": 33,
       "pts": 15,
-      "adjPts": 15.8,
+      "adjPts": 15.9,
       "pointsPlus": 127
     },
     {
@@ -280,7 +280,7 @@
       "result": "L",
       "min": 25,
       "pts": 13,
-      "adjPts": 12.6,
+      "adjPts": 12.7,
       "pointsPlus": 102
     },
     {
@@ -298,8 +298,8 @@
       "result": "W",
       "min": 32,
       "pts": 29,
-      "adjPts": 30.0,
-      "pointsPlus": 240
+      "adjPts": 29.8,
+      "pointsPlus": 239
     },
     {
       "date": "2026-01-15",
@@ -317,7 +317,7 @@
       "min": 32,
       "pts": 30,
       "adjPts": 32.2,
-      "pointsPlus": 259
+      "pointsPlus": 258
     },
     {
       "date": "2026-01-19",
@@ -343,8 +343,8 @@
       "result": "L",
       "min": 37,
       "pts": 32,
-      "adjPts": 31.3,
-      "pointsPlus": 251
+      "adjPts": 31.2,
+      "pointsPlus": 250
     },
     {
       "date": "2026-01-24",
@@ -352,8 +352,8 @@
       "result": "W",
       "min": 31,
       "pts": 26,
-      "adjPts": 23.9,
-      "pointsPlus": 192
+      "adjPts": 24.0,
+      "pointsPlus": 193
     },
     {
       "date": "2026-01-25",
@@ -361,7 +361,7 @@
       "result": "W",
       "min": 32,
       "pts": 22,
-      "adjPts": 22.7,
+      "adjPts": 22.6,
       "pointsPlus": 182
     },
     {
@@ -388,7 +388,7 @@
       "result": "L",
       "min": 36,
       "pts": 21,
-      "adjPts": 20.1,
+      "adjPts": 20.0,
       "pointsPlus": 161
     },
     {
@@ -415,7 +415,7 @@
       "result": "L",
       "min": 35,
       "pts": 16,
-      "adjPts": 17.0,
+      "adjPts": 17.1,
       "pointsPlus": 137
     },
     {
@@ -425,7 +425,7 @@
       "min": 28,
       "pts": 22,
       "adjPts": 20.6,
-      "pointsPlus": 166
+      "pointsPlus": 165
     },
     {
       "date": "2026-02-09",
@@ -433,8 +433,17 @@
       "result": "L",
       "min": 37,
       "pts": 23,
-      "adjPts": 21.1,
+      "adjPts": 21.2,
       "pointsPlus": 170
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "MIA @ NOP",
+      "result": "W",
+      "min": 37,
+      "pts": 27,
+      "adjPts": 26.0,
+      "pointsPlus": 209
     }
   ]
 }

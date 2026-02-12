@@ -2,11 +2,11 @@
   "id": 1629656,
   "name": "Quentin Grimes",
   "team": "PHI",
-  "rank": 129,
+  "rank": 127,
   "gp": 48,
   "ppg": 12.7,
   "adjPpg": 12.8,
-  "pointsPlus": 103,
+  "pointsPlus": 102,
   "mpg": 30.0,
   "position": "G",
   "jersey": "5",
@@ -29,7 +29,7 @@
       "min": 30,
       "pts": 24,
       "adjPts": 24.4,
-      "pointsPlus": 196
+      "pointsPlus": 195
     },
     {
       "date": "2025-10-27",
@@ -38,7 +38,7 @@
       "min": 26,
       "pts": 14,
       "adjPts": 14.0,
-      "pointsPlus": 113
+      "pointsPlus": 112
     },
     {
       "date": "2025-10-28",
@@ -46,8 +46,8 @@
       "result": "W",
       "min": 39,
       "pts": 23,
-      "adjPts": 21.6,
-      "pointsPlus": 173
+      "adjPts": 21.5,
+      "pointsPlus": 172
     },
     {
       "date": "2025-10-31",
@@ -55,7 +55,7 @@
       "result": "L",
       "min": 33,
       "pts": 16,
-      "adjPts": 17.0,
+      "adjPts": 17.1,
       "pointsPlus": 137
     },
     {
@@ -73,7 +73,7 @@
       "result": "L",
       "min": 30,
       "pts": 10,
-      "adjPts": 9.6,
+      "adjPts": 9.5,
       "pointsPlus": 77
     },
     {
@@ -127,7 +127,7 @@
       "result": "W",
       "min": 36,
       "pts": 19,
-      "adjPts": 19.5,
+      "adjPts": 19.6,
       "pointsPlus": 157
     },
     {
@@ -173,7 +173,7 @@
       "min": 43,
       "pts": 19,
       "adjPts": 19.1,
-      "pointsPlus": 154
+      "pointsPlus": 153
     },
     {
       "date": "2025-11-30",
@@ -235,7 +235,7 @@
       "result": "W",
       "min": 18,
       "pts": 5,
-      "adjPts": 5.1,
+      "adjPts": 5.2,
       "pointsPlus": 41
     },
     {
@@ -272,7 +272,7 @@
       "min": 38,
       "pts": 11,
       "adjPts": 10.8,
-      "pointsPlus": 87
+      "pointsPlus": 86
     },
     {
       "date": "2026-01-01",
@@ -370,7 +370,7 @@
       "result": "L",
       "min": 27,
       "pts": 12,
-      "adjPts": 12.4,
+      "adjPts": 12.3,
       "pointsPlus": 99
     },
     {
@@ -416,7 +416,7 @@
       "min": 28,
       "pts": 14,
       "adjPts": 14.4,
-      "pointsPlus": 115
+      "pointsPlus": 116
     },
     {
       "date": "2026-02-03",
@@ -424,8 +424,8 @@
       "result": "W",
       "min": 23,
       "pts": 10,
-      "adjPts": 10.2,
-      "pointsPlus": 82
+      "adjPts": 10.1,
+      "pointsPlus": 81
     },
     {
       "date": "2026-02-05",

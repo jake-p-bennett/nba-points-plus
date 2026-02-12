@@ -2,16 +2,16 @@
   "id": 1641729,
   "name": "Brice Sensabaugh",
   "team": "UTA",
-  "rank": 141,
-  "gp": 51,
-  "ppg": 12.1,
-  "adjPpg": 12.1,
-  "pointsPlus": 97,
-  "mpg": 21.6,
+  "rank": 138,
+  "gp": 52,
+  "ppg": 12.2,
+  "adjPpg": 12.2,
+  "pointsPlus": 98,
+  "mpg": 21.7,
   "position": "F",
   "jersey": "28",
-  "usgPct": 21.8,
-  "tsPct": 58.1,
+  "usgPct": 21.9,
+  "tsPct": 58.4,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -19,7 +19,7 @@
       "result": "W",
       "min": 23,
       "pts": 20,
-      "adjPts": 20.5,
+      "adjPts": 20.6,
       "pointsPlus": 165
     },
     {
@@ -91,7 +91,7 @@
       "result": "L",
       "min": 11,
       "pts": 10,
-      "adjPts": 10.0,
+      "adjPts": 10.1,
       "pointsPlus": 81
     },
     {
@@ -119,7 +119,7 @@
       "min": 28,
       "pts": 16,
       "adjPts": 15.3,
-      "pointsPlus": 123
+      "pointsPlus": 122
     },
     {
       "date": "2025-11-18",
@@ -154,8 +154,8 @@
       "result": "L",
       "min": 19,
       "pts": 16,
-      "adjPts": 16.3,
-      "pointsPlus": 131
+      "adjPts": 16.2,
+      "pointsPlus": 130
     },
     {
       "date": "2025-11-28",
@@ -199,7 +199,7 @@
       "result": "L",
       "min": 12,
       "pts": 8,
-      "adjPts": 8.2,
+      "adjPts": 8.3,
       "pointsPlus": 66
     },
     {
@@ -218,7 +218,7 @@
       "min": 17,
       "pts": 11,
       "adjPts": 10.8,
-      "pointsPlus": 87
+      "pointsPlus": 86
     },
     {
       "date": "2025-12-15",
@@ -263,7 +263,7 @@
       "min": 15,
       "pts": 4,
       "adjPts": 3.9,
-      "pointsPlus": 32
+      "pointsPlus": 31
     },
     {
       "date": "2025-12-26",
@@ -298,7 +298,7 @@
       "result": "L",
       "min": 32,
       "pts": 20,
-      "adjPts": 20.5,
+      "adjPts": 20.6,
       "pointsPlus": 165
     },
     {
@@ -317,7 +317,7 @@
       "min": 23,
       "pts": 8,
       "adjPts": 7.8,
-      "pointsPlus": 63
+      "pointsPlus": 62
     },
     {
       "date": "2026-01-07",
@@ -361,8 +361,8 @@
       "result": "L",
       "min": 34,
       "pts": 43,
-      "adjPts": 41.1,
-      "pointsPlus": 330
+      "adjPts": 41.0,
+      "pointsPlus": 329
     },
     {
       "date": "2026-01-15",
@@ -397,7 +397,7 @@
       "result": "L",
       "min": 23,
       "pts": 23,
-      "adjPts": 22.5,
+      "adjPts": 22.6,
       "pointsPlus": 181
     },
     {
@@ -415,7 +415,7 @@
       "result": "L",
       "min": 26,
       "pts": 22,
-      "adjPts": 22.4,
+      "adjPts": 22.3,
       "pointsPlus": 179
     },
     {
@@ -471,6 +471,15 @@
       "pts": 14,
       "adjPts": 13.7,
       "pointsPlus": 110
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "UTA vs. SAC",
+      "result": "W",
+      "min": 24,
+      "pts": 19,
+      "adjPts": 18.2,
+      "pointsPlus": 146
     }
   ]
 }

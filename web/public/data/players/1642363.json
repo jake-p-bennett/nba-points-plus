@@ -2,16 +2,16 @@
   "id": 1642363,
   "name": "Nique Clifford",
   "team": "SAC",
-  "rank": 257,
-  "gp": 51,
+  "rank": 260,
+  "gp": 52,
   "ppg": 6.6,
   "adjPpg": 6.6,
   "pointsPlus": 53,
-  "mpg": 21.0,
+  "mpg": 21.3,
   "position": "G",
   "jersey": "5",
-  "usgPct": 15.3,
-  "tsPct": 50.2,
+  "usgPct": 15.5,
+  "tsPct": 48.6,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -64,7 +64,7 @@
       "result": "L",
       "min": 23,
       "pts": 10,
-      "adjPts": 10.0,
+      "adjPts": 10.1,
       "pointsPlus": 81
     },
     {
@@ -118,7 +118,7 @@
       "result": "L",
       "min": 19,
       "pts": 8,
-      "adjPts": 7.9,
+      "adjPts": 7.8,
       "pointsPlus": 63
     },
     {
@@ -218,7 +218,7 @@
       "min": 20,
       "pts": 8,
       "adjPts": 7.8,
-      "pointsPlus": 63
+      "pointsPlus": 62
     },
     {
       "date": "2025-12-20",
@@ -245,7 +245,7 @@
       "min": 25,
       "pts": 14,
       "adjPts": 14.8,
-      "pointsPlus": 118
+      "pointsPlus": 119
     },
     {
       "date": "2025-12-27",
@@ -272,7 +272,7 @@
       "min": 29,
       "pts": 18,
       "adjPts": 18.5,
-      "pointsPlus": 148
+      "pointsPlus": 149
     },
     {
       "date": "2026-01-01",
@@ -353,7 +353,7 @@
       "min": 19,
       "pts": 9,
       "adjPts": 8.4,
-      "pointsPlus": 68
+      "pointsPlus": 67
     },
     {
       "date": "2026-01-18",
@@ -397,7 +397,7 @@
       "result": "L",
       "min": 33,
       "pts": 15,
-      "adjPts": 15.8,
+      "adjPts": 15.9,
       "pointsPlus": 127
     },
     {
@@ -451,7 +451,7 @@
       "result": "L",
       "min": 33,
       "pts": 16,
-      "adjPts": 16.4,
+      "adjPts": 16.5,
       "pointsPlus": 132
     },
     {
@@ -471,6 +471,15 @@
       "pts": 10,
       "adjPts": 9.6,
       "pointsPlus": 77
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "SAC @ UTA",
+      "result": "L",
+      "min": 38,
+      "pts": 6,
+      "adjPts": 5.5,
+      "pointsPlus": 44
     }
   ]
 }

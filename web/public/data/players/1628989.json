@@ -2,16 +2,16 @@
   "id": 1628989,
   "name": "Kevin Huerter",
   "team": "DET",
-  "rank": 170,
-  "gp": 47,
-  "ppg": 10.4,
+  "rank": 171,
+  "gp": 48,
+  "ppg": 10.3,
   "adjPpg": 10.4,
   "pointsPlus": 83,
-  "mpg": 22.7,
+  "mpg": 22.6,
   "position": "G-F",
   "jersey": "27",
   "usgPct": 18.7,
-  "tsPct": 55.5,
+  "tsPct": 55.4,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -19,7 +19,7 @@
       "result": "W",
       "min": 27,
       "pts": 15,
-      "adjPts": 15.8,
+      "adjPts": 15.9,
       "pointsPlus": 127
     },
     {
@@ -47,7 +47,7 @@
       "min": 25,
       "pts": 18,
       "adjPts": 17.3,
-      "pointsPlus": 139
+      "pointsPlus": 138
     },
     {
       "date": "2025-10-31",
@@ -55,7 +55,7 @@
       "result": "W",
       "min": 26,
       "pts": 12,
-      "adjPts": 12.3,
+      "adjPts": 12.4,
       "pointsPlus": 99
     },
     {
@@ -136,7 +136,7 @@
       "result": "W",
       "min": 23,
       "pts": 2,
-      "adjPts": 2.0,
+      "adjPts": 1.9,
       "pointsPlus": 16
     },
     {
@@ -155,7 +155,7 @@
       "min": 19,
       "pts": 9,
       "adjPts": 8.4,
-      "pointsPlus": 68
+      "pointsPlus": 67
     },
     {
       "date": "2025-11-28",
@@ -199,7 +199,7 @@
       "result": "W",
       "min": 26,
       "pts": 11,
-      "adjPts": 10.9,
+      "adjPts": 11.0,
       "pointsPlus": 88
     },
     {
@@ -254,7 +254,7 @@
       "min": 22,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 65
+      "pointsPlus": 64
     },
     {
       "date": "2025-12-31",
@@ -263,7 +263,7 @@
       "min": 29,
       "pts": 13,
       "adjPts": 12.5,
-      "pointsPlus": 101
+      "pointsPlus": 100
     },
     {
       "date": "2026-01-02",
@@ -298,7 +298,7 @@
       "result": "L",
       "min": 30,
       "pts": 8,
-      "adjPts": 8.4,
+      "adjPts": 8.5,
       "pointsPlus": 68
     },
     {
@@ -353,7 +353,7 @@
       "min": 29,
       "pts": 14,
       "adjPts": 14.4,
-      "pointsPlus": 115
+      "pointsPlus": 116
     },
     {
       "date": "2026-01-22",
@@ -424,7 +424,7 @@
       "result": "W",
       "min": 8,
       "pts": 8,
-      "adjPts": 8.2,
+      "adjPts": 8.3,
       "pointsPlus": 66
     },
     {
@@ -435,6 +435,15 @@
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "DET @ TOR",
+      "result": "W",
+      "min": 21,
+      "pts": 9,
+      "adjPts": 9.3,
+      "pointsPlus": 74
     }
   ]
 }

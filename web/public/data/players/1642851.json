@@ -3,7 +3,7 @@
   "name": "Kon Knueppel",
   "team": "CHA",
   "rank": 52,
-  "gp": 53,
+  "gp": 54,
   "ppg": 18.9,
   "adjPpg": 18.8,
   "pointsPlus": 151,
@@ -47,7 +47,7 @@
       "min": 27,
       "pts": 19,
       "adjPts": 18.6,
-      "pointsPlus": 149
+      "pointsPlus": 150
     },
     {
       "date": "2025-10-30",
@@ -73,8 +73,8 @@
       "result": "W",
       "min": 35,
       "pts": 24,
-      "adjPts": 22.1,
-      "pointsPlus": 177
+      "adjPts": 22.2,
+      "pointsPlus": 178
     },
     {
       "date": "2025-11-04",
@@ -83,7 +83,7 @@
       "min": 32,
       "pts": 20,
       "adjPts": 19.3,
-      "pointsPlus": 155
+      "pointsPlus": 154
     },
     {
       "date": "2025-11-07",
@@ -118,7 +118,7 @@
       "result": "L",
       "min": 41,
       "pts": 32,
-      "adjPts": 31.9,
+      "adjPts": 32.0,
       "pointsPlus": 256
     },
     {
@@ -137,7 +137,7 @@
       "min": 36,
       "pts": 24,
       "adjPts": 24.7,
-      "pointsPlus": 199
+      "pointsPlus": 198
     },
     {
       "date": "2025-11-19",
@@ -145,7 +145,7 @@
       "result": "L",
       "min": 42,
       "pts": 28,
-      "adjPts": 27.2,
+      "adjPts": 27.3,
       "pointsPlus": 219
     },
     {
@@ -154,8 +154,8 @@
       "result": "L",
       "min": 34,
       "pts": 26,
-      "adjPts": 26.7,
-      "pointsPlus": 214
+      "adjPts": 26.8,
+      "pointsPlus": 215
     },
     {
       "date": "2025-11-23",
@@ -191,7 +191,7 @@
       "min": 37,
       "pts": 20,
       "adjPts": 20.6,
-      "pointsPlus": 166
+      "pointsPlus": 165
     },
     {
       "date": "2025-12-01",
@@ -209,7 +209,7 @@
       "min": 34,
       "pts": 13,
       "adjPts": 13.4,
-      "pointsPlus": 107
+      "pointsPlus": 108
     },
     {
       "date": "2025-12-05",
@@ -262,7 +262,7 @@
       "result": "L",
       "min": 34,
       "pts": 19,
-      "adjPts": 20.0,
+      "adjPts": 20.1,
       "pointsPlus": 161
     },
     {
@@ -281,7 +281,7 @@
       "min": 28,
       "pts": 19,
       "adjPts": 17.8,
-      "pointsPlus": 143
+      "pointsPlus": 142
     },
     {
       "date": "2025-12-26",
@@ -290,7 +290,7 @@
       "min": 15,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 129
+      "pointsPlus": 128
     },
     {
       "date": "2025-12-31",
@@ -352,7 +352,7 @@
       "result": "W",
       "min": 18,
       "pts": 12,
-      "adjPts": 11.0,
+      "adjPts": 11.1,
       "pointsPlus": 89
     },
     {
@@ -362,7 +362,7 @@
       "min": 35,
       "pts": 18,
       "adjPts": 18.5,
-      "pointsPlus": 148
+      "pointsPlus": 149
     },
     {
       "date": "2026-01-15",
@@ -379,8 +379,8 @@
       "result": "L",
       "min": 29,
       "pts": 24,
-      "adjPts": 24.4,
-      "pointsPlus": 196
+      "adjPts": 24.3,
+      "pointsPlus": 195
     },
     {
       "date": "2026-01-18",
@@ -407,7 +407,7 @@
       "min": 28,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2026-01-24",
@@ -489,6 +489,15 @@
       "pts": 20,
       "adjPts": 21.1,
       "pointsPlus": 169
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "CHA vs. ATL",
+      "result": "W",
+      "min": 30,
+      "pts": 18,
+      "adjPts": 17.5,
+      "pointsPlus": 140
     }
   ]
 }

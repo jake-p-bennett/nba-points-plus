@@ -2,16 +2,16 @@
   "id": 1642270,
   "name": "Donovan Clingan",
   "team": "POR",
-  "rank": 151,
-  "gp": 50,
-  "ppg": 11.5,
-  "adjPpg": 11.5,
+  "rank": 153,
+  "gp": 51,
+  "ppg": 11.4,
+  "adjPpg": 11.4,
   "pointsPlus": 92,
   "mpg": 27.5,
   "position": "C",
   "jersey": "23",
   "usgPct": 15.0,
-  "tsPct": 60.1,
+  "tsPct": 60.0,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -20,7 +20,7 @@
       "min": 30,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 65
+      "pointsPlus": 64
     },
     {
       "date": "2025-10-24",
@@ -37,7 +37,7 @@
       "result": "L",
       "min": 24,
       "pts": 9,
-      "adjPts": 9.2,
+      "adjPts": 9.3,
       "pointsPlus": 74
     },
     {
@@ -91,7 +91,7 @@
       "result": "L",
       "min": 21,
       "pts": 13,
-      "adjPts": 12.7,
+      "adjPts": 12.8,
       "pointsPlus": 102
     },
     {
@@ -118,7 +118,7 @@
       "result": "L",
       "min": 24,
       "pts": 9,
-      "adjPts": 9.5,
+      "adjPts": 9.6,
       "pointsPlus": 77
     },
     {
@@ -137,7 +137,7 @@
       "min": 23,
       "pts": 9,
       "adjPts": 9.3,
-      "pointsPlus": 75
+      "pointsPlus": 74
     },
     {
       "date": "2025-11-19",
@@ -154,7 +154,7 @@
       "result": "W",
       "min": 27,
       "pts": 22,
-      "adjPts": 22.4,
+      "adjPts": 22.3,
       "pointsPlus": 179
     },
     {
@@ -235,7 +235,7 @@
       "result": "L",
       "min": 34,
       "pts": 17,
-      "adjPts": 17.9,
+      "adjPts": 18.0,
       "pointsPlus": 144
     },
     {
@@ -254,7 +254,7 @@
       "min": 25,
       "pts": 10,
       "adjPts": 10.3,
-      "pointsPlus": 82
+      "pointsPlus": 83
     },
     {
       "date": "2025-12-28",
@@ -307,7 +307,7 @@
       "result": "W",
       "min": 33,
       "pts": 12,
-      "adjPts": 11.0,
+      "adjPts": 11.1,
       "pointsPlus": 89
     },
     {
@@ -334,7 +334,7 @@
       "result": "L",
       "min": 30,
       "pts": 8,
-      "adjPts": 8.2,
+      "adjPts": 8.3,
       "pointsPlus": 66
     },
     {
@@ -362,7 +362,7 @@
       "min": 27,
       "pts": 18,
       "adjPts": 17.8,
-      "pointsPlus": 143
+      "pointsPlus": 142
     },
     {
       "date": "2026-01-18",
@@ -371,7 +371,7 @@
       "min": 37,
       "pts": 21,
       "adjPts": 20.1,
-      "pointsPlus": 162
+      "pointsPlus": 161
     },
     {
       "date": "2026-01-22",
@@ -433,7 +433,7 @@
       "result": "L",
       "min": 27,
       "pts": 14,
-      "adjPts": 14.5,
+      "adjPts": 14.4,
       "pointsPlus": 116
     },
     {
@@ -442,7 +442,7 @@
       "result": "W",
       "min": 25,
       "pts": 13,
-      "adjPts": 12.8,
+      "adjPts": 12.7,
       "pointsPlus": 102
     },
     {
@@ -452,7 +452,7 @@
       "min": 36,
       "pts": 20,
       "adjPts": 19.6,
-      "pointsPlus": 158
+      "pointsPlus": 157
     },
     {
       "date": "2026-02-09",
@@ -461,7 +461,16 @@
       "min": 28,
       "pts": 15,
       "adjPts": 15.1,
-      "pointsPlus": 122
+      "pointsPlus": 121
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "POR @ MIN",
+      "result": "L",
+      "min": 28,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 64
     }
   ]
 }

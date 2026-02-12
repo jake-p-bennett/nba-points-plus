@@ -2,16 +2,16 @@
   "id": 1642883,
   "name": "Sion James",
   "team": "CHA",
-  "rank": 285,
-  "gp": 54,
-  "ppg": 5.7,
+  "rank": 286,
+  "gp": 55,
+  "ppg": 5.6,
   "adjPpg": 5.6,
   "pointsPlus": 45,
-  "mpg": 24.0,
+  "mpg": 23.9,
   "position": "G",
   "jersey": "4",
-  "usgPct": 10.6,
-  "tsPct": 54.2,
+  "usgPct": 10.5,
+  "tsPct": 54.3,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -38,7 +38,7 @@
       "min": 20,
       "pts": 13,
       "adjPts": 12.2,
-      "pointsPlus": 98
+      "pointsPlus": 97
     },
     {
       "date": "2025-10-28",
@@ -46,7 +46,7 @@
       "result": "L",
       "min": 23,
       "pts": 8,
-      "adjPts": 7.8,
+      "adjPts": 7.9,
       "pointsPlus": 63
     },
     {
@@ -65,7 +65,7 @@
       "min": 27,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 65
+      "pointsPlus": 64
     },
     {
       "date": "2025-11-02",
@@ -208,7 +208,7 @@
       "result": "L",
       "min": 30,
       "pts": 11,
-      "adjPts": 11.3,
+      "adjPts": 11.4,
       "pointsPlus": 91
     },
     {
@@ -281,7 +281,7 @@
       "min": 24,
       "pts": 13,
       "adjPts": 12.2,
-      "pointsPlus": 98
+      "pointsPlus": 97
     },
     {
       "date": "2025-12-26",
@@ -498,6 +498,15 @@
       "pts": 6,
       "adjPts": 6.3,
       "pointsPlus": 51
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "CHA vs. ATL",
+      "result": "W",
+      "min": 17,
+      "pts": 3,
+      "adjPts": 2.9,
+      "pointsPlus": 23
     }
   ]
 }

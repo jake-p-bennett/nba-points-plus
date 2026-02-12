@@ -2,16 +2,16 @@
   "id": 1631230,
   "name": "Dominick Barlow",
   "team": "PHI",
-  "rank": 212,
-  "gp": 42,
-  "ppg": 8.4,
-  "adjPpg": 8.4,
-  "pointsPlus": 68,
-  "mpg": 23.7,
+  "rank": 211,
+  "gp": 43,
+  "ppg": 8.5,
+  "adjPpg": 8.6,
+  "pointsPlus": 69,
+  "mpg": 23.9,
   "position": "F",
   "jersey": "25",
-  "usgPct": 13.2,
-  "tsPct": 62.2,
+  "usgPct": 13.3,
+  "tsPct": 62.3,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -19,7 +19,7 @@
       "result": "W",
       "min": 34,
       "pts": 13,
-      "adjPts": 13.8,
+      "adjPts": 13.9,
       "pointsPlus": 111
     },
     {
@@ -37,7 +37,7 @@
       "result": "L",
       "min": 29,
       "pts": 10,
-      "adjPts": 10.5,
+      "adjPts": 10.6,
       "pointsPlus": 85
     },
     {
@@ -163,7 +163,7 @@
       "result": "W",
       "min": 18,
       "pts": 11,
-      "adjPts": 11.3,
+      "adjPts": 11.4,
       "pointsPlus": 91
     },
     {
@@ -200,7 +200,7 @@
       "min": 24,
       "pts": 12,
       "adjPts": 11.8,
-      "pointsPlus": 95
+      "pointsPlus": 94
     },
     {
       "date": "2026-01-01",
@@ -217,7 +217,7 @@
       "result": "W",
       "min": 14,
       "pts": 5,
-      "adjPts": 5.1,
+      "adjPts": 5.2,
       "pointsPlus": 41
     },
     {
@@ -236,7 +236,7 @@
       "min": 23,
       "pts": 11,
       "adjPts": 10.3,
-      "pointsPlus": 83
+      "pointsPlus": 82
     },
     {
       "date": "2026-01-09",
@@ -298,7 +298,7 @@
       "result": "L",
       "min": 28,
       "pts": 8,
-      "adjPts": 8.3,
+      "adjPts": 8.2,
       "pointsPlus": 66
     },
     {
@@ -361,8 +361,8 @@
       "result": "W",
       "min": 35,
       "pts": 26,
-      "adjPts": 26.7,
-      "pointsPlus": 214
+      "adjPts": 26.8,
+      "pointsPlus": 215
     },
     {
       "date": "2026-02-03",
@@ -370,8 +370,8 @@
       "result": "W",
       "min": 22,
       "pts": 10,
-      "adjPts": 10.2,
-      "pointsPlus": 82
+      "adjPts": 10.1,
+      "pointsPlus": 81
     },
     {
       "date": "2026-02-05",
@@ -390,6 +390,15 @@
       "pts": 6,
       "adjPts": 6.2,
       "pointsPlus": 50
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "PHI vs. NYK",
+      "result": "L",
+      "min": 31,
+      "pts": 13,
+      "adjPts": 13.4,
+      "pointsPlus": 108
     }
   ]
 }

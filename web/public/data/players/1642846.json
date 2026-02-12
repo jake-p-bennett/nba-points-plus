@@ -2,16 +2,16 @@
   "id": 1642846,
   "name": "Ace Bailey",
   "team": "UTA",
-  "rank": 148,
-  "gp": 47,
+  "rank": 146,
+  "gp": 48,
   "ppg": 11.6,
   "adjPpg": 11.7,
   "pointsPlus": 94,
-  "mpg": 26.0,
+  "mpg": 26.1,
   "position": "F",
   "jersey": "19",
-  "usgPct": 18.9,
-  "tsPct": 52.9,
+  "usgPct": 18.7,
+  "tsPct": 53.2,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -20,7 +20,7 @@
       "min": 20,
       "pts": 2,
       "adjPts": 2.1,
-      "pointsPlus": 16
+      "pointsPlus": 17
     },
     {
       "date": "2025-10-24",
@@ -47,7 +47,7 @@
       "min": 15,
       "pts": 8,
       "adjPts": 7.8,
-      "pointsPlus": 63
+      "pointsPlus": 62
     },
     {
       "date": "2025-10-31",
@@ -100,7 +100,7 @@
       "result": "L",
       "min": 28,
       "pts": 10,
-      "adjPts": 10.0,
+      "adjPts": 10.1,
       "pointsPlus": 81
     },
     {
@@ -209,7 +209,7 @@
       "min": 34,
       "pts": 13,
       "adjPts": 13.4,
-      "pointsPlus": 107
+      "pointsPlus": 108
     },
     {
       "date": "2025-12-07",
@@ -226,7 +226,7 @@
       "result": "W",
       "min": 31,
       "pts": 8,
-      "adjPts": 7.9,
+      "adjPts": 7.8,
       "pointsPlus": 63
     },
     {
@@ -254,7 +254,7 @@
       "min": 34,
       "pts": 14,
       "adjPts": 14.0,
-      "pointsPlus": 113
+      "pointsPlus": 112
     },
     {
       "date": "2025-12-22",
@@ -307,7 +307,7 @@
       "result": "L",
       "min": 31,
       "pts": 10,
-      "adjPts": 9.6,
+      "adjPts": 9.5,
       "pointsPlus": 77
     },
     {
@@ -370,7 +370,7 @@
       "result": "L",
       "min": 29,
       "pts": 20,
-      "adjPts": 20.5,
+      "adjPts": 20.6,
       "pointsPlus": 165
     },
     {
@@ -380,7 +380,7 @@
       "min": 34,
       "pts": 19,
       "adjPts": 19.3,
-      "pointsPlus": 155
+      "pointsPlus": 154
     },
     {
       "date": "2026-01-30",
@@ -435,6 +435,15 @@
       "pts": 16,
       "adjPts": 15.7,
       "pointsPlus": 126
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "UTA vs. SAC",
+      "result": "W",
+      "min": 31,
+      "pts": 13,
+      "adjPts": 12.5,
+      "pointsPlus": 100
     }
   ]
 }

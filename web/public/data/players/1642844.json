@@ -3,15 +3,15 @@
   "name": "Dylan Harper",
   "team": "SAS",
   "rank": 162,
-  "gp": 42,
-  "ppg": 10.8,
+  "gp": 43,
+  "ppg": 10.9,
   "adjPpg": 10.8,
-  "pointsPlus": 86,
-  "mpg": 21.5,
+  "pointsPlus": 87,
+  "mpg": 21.7,
   "position": "G",
   "jersey": "2",
-  "usgPct": 22.0,
-  "tsPct": 52.6,
+  "usgPct": 21.8,
+  "tsPct": 52.9,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -29,7 +29,7 @@
       "min": 26,
       "pts": 13,
       "adjPts": 12.5,
-      "pointsPlus": 101
+      "pointsPlus": 100
     },
     {
       "date": "2025-10-26",
@@ -38,7 +38,7 @@
       "min": 29,
       "pts": 20,
       "adjPts": 20.1,
-      "pointsPlus": 162
+      "pointsPlus": 161
     },
     {
       "date": "2025-10-27",
@@ -55,7 +55,7 @@
       "result": "W",
       "min": 25,
       "pts": 13,
-      "adjPts": 12.7,
+      "adjPts": 12.8,
       "pointsPlus": 102
     },
     {
@@ -64,7 +64,7 @@
       "result": "L",
       "min": 11,
       "pts": 12,
-      "adjPts": 12.4,
+      "adjPts": 12.3,
       "pointsPlus": 99
     },
     {
@@ -110,7 +110,7 @@
       "min": 22,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 129
+      "pointsPlus": 128
     },
     {
       "date": "2025-12-05",
@@ -154,8 +154,8 @@
       "result": "W",
       "min": 23,
       "pts": 24,
-      "adjPts": 22.5,
-      "pointsPlus": 181
+      "adjPts": 22.4,
+      "pointsPlus": 180
     },
     {
       "date": "2025-12-19",
@@ -173,7 +173,7 @@
       "min": 18,
       "pts": 1,
       "adjPts": 0.9,
-      "pointsPlus": 8
+      "pointsPlus": 7
     },
     {
       "date": "2025-12-23",
@@ -199,7 +199,7 @@
       "result": "L",
       "min": 27,
       "pts": 7,
-      "adjPts": 6.4,
+      "adjPts": 6.5,
       "pointsPlus": 52
     },
     {
@@ -208,7 +208,7 @@
       "result": "L",
       "min": 17,
       "pts": 11,
-      "adjPts": 10.9,
+      "adjPts": 11.0,
       "pointsPlus": 88
     },
     {
@@ -235,7 +235,7 @@
       "result": "L",
       "min": 23,
       "pts": 6,
-      "adjPts": 5.9,
+      "adjPts": 5.8,
       "pointsPlus": 47
     },
     {
@@ -245,7 +245,7 @@
       "min": 18,
       "pts": 4,
       "adjPts": 3.9,
-      "pointsPlus": 32
+      "pointsPlus": 31
     },
     {
       "date": "2026-01-07",
@@ -362,7 +362,7 @@
       "min": 28,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 121
+      "pointsPlus": 120
     },
     {
       "date": "2026-02-05",
@@ -390,6 +390,15 @@
       "pts": 15,
       "adjPts": 14.8,
       "pointsPlus": 119
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "SAS @ GSW",
+      "result": "W",
+      "min": 29,
+      "pts": 14,
+      "adjPts": 14.2,
+      "pointsPlus": 114
     }
   ]
 }

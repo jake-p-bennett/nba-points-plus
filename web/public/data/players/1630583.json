@@ -2,7 +2,7 @@
   "id": 1630583,
   "name": "Santi Aldama",
   "team": "MEM",
-  "rank": 109,
+  "rank": 107,
   "gp": 43,
   "ppg": 14.0,
   "adjPpg": 13.9,
@@ -28,7 +28,7 @@
       "result": "L",
       "min": 20,
       "pts": 13,
-      "adjPts": 12.7,
+      "adjPts": 12.8,
       "pointsPlus": 102
     },
     {
@@ -55,7 +55,7 @@
       "result": "W",
       "min": 31,
       "pts": 14,
-      "adjPts": 14.5,
+      "adjPts": 14.4,
       "pointsPlus": 116
     },
     {
@@ -118,7 +118,7 @@
       "result": "L",
       "min": 30,
       "pts": 19,
-      "adjPts": 19.5,
+      "adjPts": 19.6,
       "pointsPlus": 157
     },
     {
@@ -226,8 +226,8 @@
       "result": "W",
       "min": 28,
       "pts": 22,
-      "adjPts": 21.5,
-      "pointsPlus": 173
+      "adjPts": 21.4,
+      "pointsPlus": 172
     },
     {
       "date": "2025-12-12",
@@ -235,8 +235,8 @@
       "result": "L",
       "min": 36,
       "pts": 22,
-      "adjPts": 20.2,
-      "pointsPlus": 162
+      "adjPts": 20.3,
+      "pointsPlus": 163
     },
     {
       "date": "2025-12-15",
@@ -254,7 +254,7 @@
       "min": 34,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 65
+      "pointsPlus": 64
     },
     {
       "date": "2025-12-20",
@@ -262,8 +262,8 @@
       "result": "L",
       "min": 36,
       "pts": 37,
-      "adjPts": 34.7,
-      "pointsPlus": 278
+      "adjPts": 34.6,
+      "pointsPlus": 277
     },
     {
       "date": "2025-12-22",
@@ -280,8 +280,8 @@
       "result": "W",
       "min": 34,
       "pts": 37,
-      "adjPts": 34.0,
-      "pointsPlus": 273
+      "adjPts": 34.2,
+      "pointsPlus": 274
     },
     {
       "date": "2025-12-26",
@@ -308,7 +308,7 @@
       "min": 36,
       "pts": 15,
       "adjPts": 15.1,
-      "pointsPlus": 122
+      "pointsPlus": 121
     },
     {
       "date": "2026-01-02",

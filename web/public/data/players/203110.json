@@ -2,15 +2,15 @@
   "id": 203110,
   "name": "Draymond Green",
   "team": "GSW",
-  "rank": 210,
-  "gp": 45,
-  "ppg": 8.4,
-  "adjPpg": 8.5,
-  "pointsPlus": 68,
-  "mpg": 26.6,
+  "rank": 206,
+  "gp": 46,
+  "ppg": 8.6,
+  "adjPpg": 8.7,
+  "pointsPlus": 70,
+  "mpg": 26.7,
   "position": "F",
   "jersey": "23",
-  "usgPct": 16.6,
+  "usgPct": 16.8,
   "tsPct": 53.9,
   "gameLog": [
     {
@@ -199,8 +199,8 @@
       "result": "L",
       "min": 30,
       "pts": 14,
-      "adjPts": 13.7,
-      "pointsPlus": 110
+      "adjPts": 13.6,
+      "pointsPlus": 109
     },
     {
       "date": "2025-12-18",
@@ -262,7 +262,7 @@
       "result": "W",
       "min": 28,
       "pts": 10,
-      "adjPts": 10.1,
+      "adjPts": 10.2,
       "pointsPlus": 81
     },
     {
@@ -281,7 +281,7 @@
       "min": 32,
       "pts": 6,
       "adjPts": 6.2,
-      "pointsPlus": 49
+      "pointsPlus": 50
     },
     {
       "date": "2026-01-07",
@@ -316,7 +316,7 @@
       "result": "W",
       "min": 22,
       "pts": 10,
-      "adjPts": 9.8,
+      "adjPts": 9.7,
       "pointsPlus": 78
     },
     {
@@ -379,7 +379,7 @@
       "result": "L",
       "min": 33,
       "pts": 15,
-      "adjPts": 15.8,
+      "adjPts": 15.9,
       "pointsPlus": 127
     },
     {
@@ -388,8 +388,8 @@
       "result": "L",
       "min": 25,
       "pts": 6,
-      "adjPts": 6.1,
-      "pointsPlus": 49
+      "adjPts": 6.0,
+      "pointsPlus": 48
     },
     {
       "date": "2026-02-05",
@@ -397,7 +397,7 @@
       "result": "W",
       "min": 24,
       "pts": 5,
-      "adjPts": 5.2,
+      "adjPts": 5.1,
       "pointsPlus": 41
     },
     {
@@ -417,6 +417,15 @@
       "pts": 14,
       "adjPts": 13.7,
       "pointsPlus": 110
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "GSW vs. SAS",
+      "result": "L",
+      "min": 30,
+      "pts": 17,
+      "adjPts": 17.5,
+      "pointsPlus": 140
     }
   ]
 }

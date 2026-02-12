@@ -2,7 +2,7 @@
   "id": 1628960,
   "name": "Grayson Allen",
   "team": "PHX",
-  "rank": 71,
+  "rank": 72,
   "gp": 35,
   "ppg": 17.0,
   "adjPpg": 17.0,
@@ -20,7 +20,7 @@
       "min": 36,
       "pts": 18,
       "adjPts": 17.3,
-      "pointsPlus": 139
+      "pointsPlus": 138
     },
     {
       "date": "2025-10-24",
@@ -46,7 +46,7 @@
       "result": "L",
       "min": 42,
       "pts": 23,
-      "adjPts": 21.1,
+      "adjPts": 21.2,
       "pointsPlus": 170
     },
     {
@@ -65,7 +65,7 @@
       "min": 32,
       "pts": 14,
       "adjPts": 12.9,
-      "pointsPlus": 103
+      "pointsPlus": 104
     },
     {
       "date": "2025-11-02",
@@ -73,7 +73,7 @@
       "result": "W",
       "min": 34,
       "pts": 17,
-      "adjPts": 17.4,
+      "adjPts": 17.5,
       "pointsPlus": 140
     },
     {
@@ -82,8 +82,8 @@
       "result": "L",
       "min": 35,
       "pts": 16,
-      "adjPts": 16.3,
-      "pointsPlus": 131
+      "adjPts": 16.2,
+      "pointsPlus": 130
     },
     {
       "date": "2025-11-06",
@@ -92,7 +92,7 @@
       "min": 36,
       "pts": 18,
       "adjPts": 18.5,
-      "pointsPlus": 148
+      "pointsPlus": 149
     },
     {
       "date": "2025-11-08",
@@ -101,7 +101,7 @@
       "min": 31,
       "pts": 14,
       "adjPts": 14.4,
-      "pointsPlus": 115
+      "pointsPlus": 116
     },
     {
       "date": "2025-11-10",
@@ -109,8 +109,8 @@
       "result": "W",
       "min": 28,
       "pts": 42,
-      "adjPts": 40.5,
-      "pointsPlus": 325
+      "adjPts": 40.4,
+      "pointsPlus": 324
     },
     {
       "date": "2025-11-12",
@@ -119,7 +119,7 @@
       "min": 33,
       "pts": 23,
       "adjPts": 22.7,
-      "pointsPlus": 183
+      "pointsPlus": 182
     },
     {
       "date": "2025-11-13",
@@ -145,7 +145,7 @@
       "result": "L",
       "min": 26,
       "pts": 9,
-      "adjPts": 9.5,
+      "adjPts": 9.6,
       "pointsPlus": 77
     },
     {
@@ -190,8 +190,8 @@
       "result": "W",
       "min": 21,
       "pts": 19,
-      "adjPts": 18.7,
-      "pointsPlus": 150
+      "adjPts": 18.6,
+      "pointsPlus": 149
     },
     {
       "date": "2026-01-09",
@@ -226,8 +226,8 @@
       "result": "L",
       "min": 31,
       "pts": 33,
-      "adjPts": 34.8,
-      "pointsPlus": 279
+      "adjPts": 34.9,
+      "pointsPlus": 280
     },
     {
       "date": "2026-01-17",
@@ -253,8 +253,8 @@
       "result": "W",
       "min": 29,
       "pts": 16,
-      "adjPts": 16.2,
-      "pointsPlus": 130
+      "adjPts": 16.1,
+      "pointsPlus": 129
     },
     {
       "date": "2026-01-23",
@@ -271,7 +271,7 @@
       "result": "L",
       "min": 35,
       "pts": 18,
-      "adjPts": 17.6,
+      "adjPts": 17.7,
       "pointsPlus": 142
     },
     {
@@ -289,7 +289,7 @@
       "result": "W",
       "min": 34,
       "pts": 24,
-      "adjPts": 25.3,
+      "adjPts": 25.4,
       "pointsPlus": 203
     },
     {
@@ -307,7 +307,7 @@
       "result": "L",
       "min": 36,
       "pts": 23,
-      "adjPts": 23.6,
+      "adjPts": 23.7,
       "pointsPlus": 190
     },
     {
@@ -316,8 +316,8 @@
       "result": "W",
       "min": 36,
       "pts": 24,
-      "adjPts": 23.5,
-      "pointsPlus": 188
+      "adjPts": 23.4,
+      "pointsPlus": 187
     },
     {
       "date": "2026-02-05",

@@ -2,16 +2,16 @@
   "id": 1642262,
   "name": "Cody Williams",
   "team": "UTA",
-  "rank": 283,
-  "gp": 40,
+  "rank": 279,
+  "gp": 41,
   "ppg": 5.8,
-  "adjPpg": 5.8,
-  "pointsPlus": 46,
-  "mpg": 19.2,
+  "adjPpg": 5.9,
+  "pointsPlus": 47,
+  "mpg": 19.4,
   "position": "F",
   "jersey": "5",
-  "usgPct": 12.8,
-  "tsPct": 52.6,
+  "usgPct": 12.7,
+  "tsPct": 53.2,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -37,7 +37,7 @@
       "result": "L",
       "min": 15,
       "pts": 8,
-      "adjPts": 8.3,
+      "adjPts": 8.2,
       "pointsPlus": 66
     },
     {
@@ -164,7 +164,7 @@
       "min": 9,
       "pts": 4,
       "adjPts": 3.9,
-      "pointsPlus": 32
+      "pointsPlus": 31
     },
     {
       "date": "2025-12-27",
@@ -191,7 +191,7 @@
       "min": 26,
       "pts": 18,
       "adjPts": 18.5,
-      "pointsPlus": 148
+      "pointsPlus": 149
     },
     {
       "date": "2026-01-03",
@@ -209,7 +209,7 @@
       "min": 20,
       "pts": 8,
       "adjPts": 7.8,
-      "pointsPlus": 63
+      "pointsPlus": 62
     },
     {
       "date": "2026-01-07",
@@ -290,7 +290,7 @@
       "min": 29,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 65
+      "pointsPlus": 64
     },
     {
       "date": "2026-01-22",
@@ -372,6 +372,15 @@
       "pts": 2,
       "adjPts": 2.0,
       "pointsPlus": 16
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "UTA vs. SAC",
+      "result": "W",
+      "min": 25,
+      "pts": 9,
+      "adjPts": 8.6,
+      "pointsPlus": 69
     }
   ]
 }

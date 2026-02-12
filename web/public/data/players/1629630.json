@@ -2,7 +2,7 @@
   "id": 1629630,
   "name": "Ja Morant",
   "team": "MEM",
-  "rank": 44,
+  "rank": 45,
   "gp": 20,
   "ppg": 19.4,
   "adjPpg": 19.4,
@@ -20,7 +20,7 @@
       "min": 29,
       "pts": 35,
       "adjPts": 33.7,
-      "pointsPlus": 271
+      "pointsPlus": 270
     },
     {
       "date": "2025-10-24",
@@ -46,8 +46,8 @@
       "result": "L",
       "min": 31,
       "pts": 23,
-      "adjPts": 23.4,
-      "pointsPlus": 188
+      "adjPts": 23.3,
+      "pointsPlus": 187
     },
     {
       "date": "2025-10-29",
@@ -55,8 +55,8 @@
       "result": "W",
       "min": 32,
       "pts": 28,
-      "adjPts": 28.9,
-      "pointsPlus": 232
+      "adjPts": 28.8,
+      "pointsPlus": 231
     },
     {
       "date": "2025-10-31",
@@ -74,7 +74,7 @@
       "min": 35,
       "pts": 18,
       "adjPts": 19.0,
-      "pointsPlus": 152
+      "pointsPlus": 153
     },
     {
       "date": "2025-11-05",
@@ -127,7 +127,7 @@
       "result": "L",
       "min": 25,
       "pts": 21,
-      "adjPts": 19.3,
+      "adjPts": 19.4,
       "pointsPlus": 155
     },
     {
@@ -154,8 +154,8 @@
       "result": "L",
       "min": 27,
       "pts": 21,
-      "adjPts": 19.7,
-      "pointsPlus": 158
+      "adjPts": 19.6,
+      "pointsPlus": 157
     },
     {
       "date": "2025-12-30",
@@ -163,8 +163,8 @@
       "result": "L",
       "min": 34,
       "pts": 40,
-      "adjPts": 40.4,
-      "pointsPlus": 324
+      "adjPts": 40.3,
+      "pointsPlus": 323
     },
     {
       "date": "2026-01-02",

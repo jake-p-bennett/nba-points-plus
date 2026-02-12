@@ -2,16 +2,16 @@
   "id": 1630700,
   "name": "Dyson Daniels",
   "team": "ATL",
-  "rank": 152,
-  "gp": 52,
-  "ppg": 11.4,
-  "adjPpg": 11.5,
-  "pointsPlus": 92,
-  "mpg": 33.8,
+  "rank": 147,
+  "gp": 53,
+  "ppg": 11.6,
+  "adjPpg": 11.7,
+  "pointsPlus": 94,
+  "mpg": 33.7,
   "position": "G",
   "jersey": "5",
-  "usgPct": 15.9,
-  "tsPct": 51.5,
+  "usgPct": 16.0,
+  "tsPct": 52.0,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -110,7 +110,7 @@
       "min": 39,
       "pts": 6,
       "adjPts": 6.2,
-      "pointsPlus": 49
+      "pointsPlus": 50
     },
     {
       "date": "2025-11-12",
@@ -136,7 +136,7 @@
       "result": "W",
       "min": 37,
       "pts": 11,
-      "adjPts": 11.4,
+      "adjPts": 11.3,
       "pointsPlus": 91
     },
     {
@@ -182,7 +182,7 @@
       "min": 32,
       "pts": 11,
       "adjPts": 10.3,
-      "pointsPlus": 83
+      "pointsPlus": 82
     },
     {
       "date": "2025-11-28",
@@ -199,8 +199,8 @@
       "result": "W",
       "min": 44,
       "pts": 17,
-      "adjPts": 17.2,
-      "pointsPlus": 138
+      "adjPts": 17.1,
+      "pointsPlus": 137
     },
     {
       "date": "2025-12-01",
@@ -208,7 +208,7 @@
       "result": "L",
       "min": 37,
       "pts": 10,
-      "adjPts": 10.5,
+      "adjPts": 10.6,
       "pointsPlus": 85
     },
     {
@@ -245,7 +245,7 @@
       "min": 34,
       "pts": 18,
       "adjPts": 19.0,
-      "pointsPlus": 152
+      "pointsPlus": 153
     },
     {
       "date": "2025-12-14",
@@ -253,8 +253,8 @@
       "result": "W",
       "min": 39,
       "pts": 27,
-      "adjPts": 27.3,
-      "pointsPlus": 219
+      "adjPts": 27.2,
+      "pointsPlus": 218
     },
     {
       "date": "2025-12-18",
@@ -289,7 +289,7 @@
       "result": "L",
       "min": 36,
       "pts": 8,
-      "adjPts": 7.8,
+      "adjPts": 7.9,
       "pointsPlus": 63
     },
     {
@@ -299,7 +299,7 @@
       "min": 39,
       "pts": 13,
       "adjPts": 13.4,
-      "pointsPlus": 107
+      "pointsPlus": 108
     },
     {
       "date": "2025-12-29",
@@ -325,7 +325,7 @@
       "result": "W",
       "min": 38,
       "pts": 11,
-      "adjPts": 11.3,
+      "adjPts": 11.4,
       "pointsPlus": 91
     },
     {
@@ -335,7 +335,7 @@
       "min": 34,
       "pts": 20,
       "adjPts": 20.6,
-      "pointsPlus": 166
+      "pointsPlus": 165
     },
     {
       "date": "2026-01-05",
@@ -353,7 +353,7 @@
       "min": 35,
       "pts": 13,
       "adjPts": 12.5,
-      "pointsPlus": 101
+      "pointsPlus": 100
     },
     {
       "date": "2026-01-09",
@@ -371,7 +371,7 @@
       "min": 31,
       "pts": 11,
       "adjPts": 11.2,
-      "pointsPlus": 90
+      "pointsPlus": 89
     },
     {
       "date": "2026-01-13",
@@ -388,7 +388,7 @@
       "result": "L",
       "min": 33,
       "pts": 10,
-      "adjPts": 9.8,
+      "adjPts": 9.7,
       "pointsPlus": 78
     },
     {
@@ -415,7 +415,7 @@
       "result": "W",
       "min": 37,
       "pts": 8,
-      "adjPts": 8.3,
+      "adjPts": 8.2,
       "pointsPlus": 66
     },
     {
@@ -469,7 +469,7 @@
       "result": "W",
       "min": 35,
       "pts": 11,
-      "adjPts": 10.1,
+      "adjPts": 10.2,
       "pointsPlus": 81
     },
     {
@@ -480,6 +480,15 @@
       "pts": 11,
       "adjPts": 11.2,
       "pointsPlus": 90
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "ATL @ CHA",
+      "result": "L",
+      "min": 25,
+      "pts": 21,
+      "adjPts": 21.3,
+      "pointsPlus": 171
     }
   ]
 }

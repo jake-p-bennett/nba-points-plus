@@ -2,11 +2,11 @@
   "id": 1629637,
   "name": "Jaxson Hayes",
   "team": "LAL",
-  "rank": 256,
+  "rank": 258,
   "gp": 44,
   "ppg": 6.7,
   "adjPpg": 6.7,
-  "pointsPlus": 54,
+  "pointsPlus": 53,
   "mpg": 17.3,
   "position": "C-F",
   "jersey": "11",
@@ -208,7 +208,7 @@
       "result": "W",
       "min": 18,
       "pts": 12,
-      "adjPts": 12.4,
+      "adjPts": 12.3,
       "pointsPlus": 99
     },
     {
@@ -217,7 +217,7 @@
       "result": "W",
       "min": 22,
       "pts": 16,
-      "adjPts": 14.7,
+      "adjPts": 14.8,
       "pointsPlus": 118
     },
     {
@@ -254,7 +254,7 @@
       "min": 23,
       "pts": 12,
       "adjPts": 11.8,
-      "pointsPlus": 95
+      "pointsPlus": 94
     },
     {
       "date": "2026-01-04",
@@ -326,7 +326,7 @@
       "min": 17,
       "pts": 6,
       "adjPts": 6.2,
-      "pointsPlus": 49
+      "pointsPlus": 50
     },
     {
       "date": "2026-01-24",

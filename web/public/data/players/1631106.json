@@ -2,16 +2,16 @@
   "id": 1631106,
   "name": "Tari Eason",
   "team": "HOU",
-  "rank": 138,
-  "gp": 30,
+  "rank": 136,
+  "gp": 31,
   "ppg": 12.2,
-  "adjPpg": 12.2,
+  "adjPpg": 12.3,
   "pointsPlus": 98,
-  "mpg": 25.2,
+  "mpg": 25.5,
   "position": "F",
   "jersey": "17",
   "usgPct": 19.4,
-  "tsPct": 57.4,
+  "tsPct": 56.9,
   "gameLog": [
     {
       "date": "2025-10-21",
@@ -110,7 +110,7 @@
       "min": 11,
       "pts": 3,
       "adjPts": 2.9,
-      "pointsPlus": 24
+      "pointsPlus": 23
     },
     {
       "date": "2025-12-21",
@@ -154,7 +154,7 @@
       "result": "W",
       "min": 29,
       "pts": 13,
-      "adjPts": 12.6,
+      "adjPts": 12.7,
       "pointsPlus": 102
     },
     {
@@ -181,7 +181,7 @@
       "result": "W",
       "min": 30,
       "pts": 12,
-      "adjPts": 12.4,
+      "adjPts": 12.3,
       "pointsPlus": 99
     },
     {
@@ -190,8 +190,8 @@
       "result": "L",
       "min": 31,
       "pts": 15,
-      "adjPts": 14.7,
-      "pointsPlus": 118
+      "adjPts": 14.6,
+      "pointsPlus": 117
     },
     {
       "date": "2026-01-09",
@@ -199,7 +199,7 @@
       "result": "L",
       "min": 16,
       "pts": 6,
-      "adjPts": 5.9,
+      "adjPts": 5.8,
       "pointsPlus": 47
     },
     {
@@ -281,7 +281,16 @@
       "min": 30,
       "pts": 6,
       "adjPts": 6.2,
-      "pointsPlus": 49
+      "pointsPlus": 50
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "HOU vs. LAC",
+      "result": "L",
+      "min": 34,
+      "pts": 13,
+      "adjPts": 13.4,
+      "pointsPlus": 107
     }
   ]
 }

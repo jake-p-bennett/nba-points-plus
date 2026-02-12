@@ -2,16 +2,16 @@
   "id": 1630182,
   "name": "Josh Green",
   "team": "CHA",
-  "rank": 301,
-  "gp": 30,
-  "ppg": 4.7,
+  "rank": 303,
+  "gp": 31,
+  "ppg": 4.6,
   "adjPpg": 4.6,
   "pointsPlus": 37,
-  "mpg": 16.0,
+  "mpg": 16.1,
   "position": "G",
   "jersey": "10",
-  "usgPct": 10.8,
-  "tsPct": 64.2,
+  "usgPct": 10.5,
+  "tsPct": 64.4,
   "gameLog": [
     {
       "date": "2025-12-12",
@@ -65,7 +65,7 @@
       "min": 11,
       "pts": 3,
       "adjPts": 2.8,
-      "pointsPlus": 23
+      "pointsPlus": 22
     },
     {
       "date": "2025-12-26",
@@ -282,6 +282,15 @@
       "pts": 5,
       "adjPts": 5.3,
       "pointsPlus": 42
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "CHA vs. ATL",
+      "result": "W",
+      "min": 19,
+      "pts": 3,
+      "adjPts": 2.9,
+      "pointsPlus": 23
     }
   ]
 }

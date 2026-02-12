@@ -2,16 +2,16 @@
   "id": 203924,
   "name": "Jerami Grant",
   "team": "POR",
-  "rank": 48,
-  "gp": 38,
-  "ppg": 19.0,
-  "adjPpg": 19.1,
-  "pointsPlus": 153,
+  "rank": 51,
+  "gp": 39,
+  "ppg": 18.8,
+  "adjPpg": 18.9,
+  "pointsPlus": 151,
   "mpg": 29.1,
   "position": "F",
   "jersey": "9",
-  "usgPct": 23.8,
-  "tsPct": 60.0,
+  "usgPct": 23.6,
+  "tsPct": 59.7,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -19,7 +19,7 @@
       "result": "L",
       "min": 28,
       "pts": 29,
-      "adjPts": 29.1,
+      "adjPts": 29.2,
       "pointsPlus": 234
     },
     {
@@ -28,7 +28,7 @@
       "result": "W",
       "min": 28,
       "pts": 22,
-      "adjPts": 22.4,
+      "adjPts": 22.3,
       "pointsPlus": 179
     },
     {
@@ -55,7 +55,7 @@
       "result": "W",
       "min": 25,
       "pts": 18,
-      "adjPts": 16.5,
+      "adjPts": 16.6,
       "pointsPlus": 133
     },
     {
@@ -74,7 +74,7 @@
       "min": 31,
       "pts": 18,
       "adjPts": 17.8,
-      "pointsPlus": 143
+      "pointsPlus": 142
     },
     {
       "date": "2025-11-05",
@@ -91,7 +91,7 @@
       "result": "L",
       "min": 22,
       "pts": 18,
-      "adjPts": 17.6,
+      "adjPts": 17.7,
       "pointsPlus": 142
     },
     {
@@ -154,7 +154,7 @@
       "result": "L",
       "min": 24,
       "pts": 21,
-      "adjPts": 22.5,
+      "adjPts": 22.6,
       "pointsPlus": 181
     },
     {
@@ -163,8 +163,8 @@
       "result": "W",
       "min": 31,
       "pts": 35,
-      "adjPts": 34.9,
-      "pointsPlus": 280
+      "adjPts": 35.0,
+      "pointsPlus": 281
     },
     {
       "date": "2025-11-26",
@@ -209,7 +209,7 @@
       "min": 34,
       "pts": 29,
       "adjPts": 30.6,
-      "pointsPlus": 245
+      "pointsPlus": 246
     },
     {
       "date": "2025-12-07",
@@ -235,7 +235,7 @@
       "result": "W",
       "min": 34,
       "pts": 35,
-      "adjPts": 35.6,
+      "adjPts": 35.5,
       "pointsPlus": 285
     },
     {
@@ -307,7 +307,7 @@
       "result": "L",
       "min": 22,
       "pts": 15,
-      "adjPts": 15.4,
+      "adjPts": 15.5,
       "pointsPlus": 124
     },
     {
@@ -325,8 +325,8 @@
       "result": "L",
       "min": 33,
       "pts": 23,
-      "adjPts": 23.8,
-      "pointsPlus": 191
+      "adjPts": 23.7,
+      "pointsPlus": 190
     },
     {
       "date": "2026-02-06",
@@ -343,8 +343,8 @@
       "result": "W",
       "min": 33,
       "pts": 29,
-      "adjPts": 28.5,
-      "pointsPlus": 229
+      "adjPts": 28.4,
+      "pointsPlus": 228
     },
     {
       "date": "2026-02-09",
@@ -353,7 +353,16 @@
       "min": 25,
       "pts": 15,
       "adjPts": 15.1,
-      "pointsPlus": 122
+      "pointsPlus": 121
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "POR @ MIN",
+      "result": "L",
+      "min": 29,
+      "pts": 10,
+      "adjPts": 10.1,
+      "pointsPlus": 81
     }
   ]
 }

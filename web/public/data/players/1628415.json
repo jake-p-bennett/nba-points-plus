@@ -2,15 +2,15 @@
   "id": 1628415,
   "name": "Dillon Brooks",
   "team": "PHX",
-  "rank": 35,
-  "gp": 48,
+  "rank": 34,
+  "gp": 49,
   "ppg": 21.2,
   "adjPpg": 21.3,
   "pointsPlus": 171,
-  "mpg": 31.2,
+  "mpg": 31.1,
   "position": "G-F",
   "jersey": "3",
-  "usgPct": 28.0,
+  "usgPct": 28.2,
   "tsPct": 54.9,
   "gameLog": [
     {
@@ -46,7 +46,7 @@
       "result": "W",
       "min": 28,
       "pts": 16,
-      "adjPts": 16.4,
+      "adjPts": 16.5,
       "pointsPlus": 132
     },
     {
@@ -73,7 +73,7 @@
       "result": "W",
       "min": 28,
       "pts": 32,
-      "adjPts": 31.1,
+      "adjPts": 31.2,
       "pointsPlus": 250
     },
     {
@@ -146,7 +146,7 @@
       "min": 28,
       "pts": 27,
       "adjPts": 27.0,
-      "pointsPlus": 217
+      "pointsPlus": 216
     },
     {
       "date": "2025-12-01",
@@ -191,7 +191,7 @@
       "min": 25,
       "pts": 18,
       "adjPts": 17.8,
-      "pointsPlus": 143
+      "pointsPlus": 142
     },
     {
       "date": "2025-12-18",
@@ -199,8 +199,8 @@
       "result": "W",
       "min": 33,
       "pts": 24,
-      "adjPts": 24.4,
-      "pointsPlus": 196
+      "adjPts": 24.3,
+      "pointsPlus": 195
     },
     {
       "date": "2025-12-20",
@@ -208,7 +208,7 @@
       "result": "L",
       "min": 32,
       "pts": 22,
-      "adjPts": 22.4,
+      "adjPts": 22.3,
       "pointsPlus": 179
     },
     {
@@ -244,8 +244,8 @@
       "result": "W",
       "min": 33,
       "pts": 26,
-      "adjPts": 24.4,
-      "pointsPlus": 196
+      "adjPts": 24.3,
+      "pointsPlus": 195
     },
     {
       "date": "2025-12-31",
@@ -263,7 +263,7 @@
       "min": 25,
       "pts": 18,
       "adjPts": 17.3,
-      "pointsPlus": 139
+      "pointsPlus": 138
     },
     {
       "date": "2026-01-04",
@@ -272,7 +272,7 @@
       "min": 34,
       "pts": 22,
       "adjPts": 23.6,
-      "pointsPlus": 190
+      "pointsPlus": 189
     },
     {
       "date": "2026-01-05",
@@ -298,7 +298,7 @@
       "result": "W",
       "min": 33,
       "pts": 27,
-      "adjPts": 27.8,
+      "adjPts": 27.9,
       "pointsPlus": 223
     },
     {
@@ -326,7 +326,7 @@
       "min": 28,
       "pts": 16,
       "adjPts": 16.9,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2026-01-17",
@@ -334,7 +334,7 @@
       "result": "W",
       "min": 29,
       "pts": 5,
-      "adjPts": 5.1,
+      "adjPts": 5.2,
       "pointsPlus": 41
     },
     {
@@ -352,8 +352,8 @@
       "result": "W",
       "min": 30,
       "pts": 6,
-      "adjPts": 6.1,
-      "pointsPlus": 49
+      "adjPts": 6.0,
+      "pointsPlus": 48
     },
     {
       "date": "2026-01-23",
@@ -388,7 +388,7 @@
       "result": "W",
       "min": 33,
       "pts": 40,
-      "adjPts": 42.2,
+      "adjPts": 42.3,
       "pointsPlus": 339
     },
     {
@@ -407,7 +407,7 @@
       "min": 35,
       "pts": 22,
       "adjPts": 22.6,
-      "pointsPlus": 181
+      "pointsPlus": 182
     },
     {
       "date": "2026-02-03",
@@ -424,8 +424,8 @@
       "result": "L",
       "min": 35,
       "pts": 24,
-      "adjPts": 24.4,
-      "pointsPlus": 196
+      "adjPts": 24.3,
+      "pointsPlus": 195
     },
     {
       "date": "2026-02-07",
@@ -433,8 +433,8 @@
       "result": "L",
       "min": 36,
       "pts": 28,
-      "adjPts": 28.3,
-      "pointsPlus": 227
+      "adjPts": 28.2,
+      "pointsPlus": 226
     },
     {
       "date": "2026-02-10",
@@ -443,7 +443,16 @@
       "min": 31,
       "pts": 23,
       "adjPts": 22.7,
-      "pointsPlus": 183
+      "pointsPlus": 182
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "PHX vs. OKC",
+      "result": "L",
+      "min": 24,
+      "pts": 23,
+      "adjPts": 24.7,
+      "pointsPlus": 198
     }
   ]
 }

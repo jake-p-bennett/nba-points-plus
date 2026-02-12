@@ -2,16 +2,16 @@
   "id": 1631323,
   "name": "Simone Fontecchio",
   "team": "MIA",
-  "rank": 207,
-  "gp": 52,
-  "ppg": 8.6,
-  "adjPpg": 8.6,
-  "pointsPlus": 69,
-  "mpg": 17.5,
+  "rank": 205,
+  "gp": 53,
+  "ppg": 8.7,
+  "adjPpg": 8.7,
+  "pointsPlus": 70,
+  "mpg": 17.6,
   "position": "F",
   "jersey": "0",
   "usgPct": 18.8,
-  "tsPct": 55.4,
+  "tsPct": 55.3,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -20,7 +20,7 @@
       "min": 19,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-10-24",
@@ -46,7 +46,7 @@
       "result": "W",
       "min": 19,
       "pts": 10,
-      "adjPts": 10.1,
+      "adjPts": 10.2,
       "pointsPlus": 81
     },
     {
@@ -145,8 +145,8 @@
       "result": "W",
       "min": 19,
       "pts": 10,
-      "adjPts": 10.2,
-      "pointsPlus": 82
+      "adjPts": 10.1,
+      "pointsPlus": 81
     },
     {
       "date": "2025-11-21",
@@ -163,8 +163,8 @@
       "result": "W",
       "min": 19,
       "pts": 6,
-      "adjPts": 6.1,
-      "pointsPlus": 49
+      "adjPts": 6.0,
+      "pointsPlus": 48
     },
     {
       "date": "2025-11-24",
@@ -398,7 +398,7 @@
       "min": 24,
       "pts": 14,
       "adjPts": 12.9,
-      "pointsPlus": 103
+      "pointsPlus": 104
     },
     {
       "date": "2026-01-25",
@@ -479,7 +479,16 @@
       "min": 19,
       "pts": 9,
       "adjPts": 8.3,
-      "pointsPlus": 66
+      "pointsPlus": 67
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "MIA @ NOP",
+      "result": "W",
+      "min": 27,
+      "pts": 15,
+      "adjPts": 14.4,
+      "pointsPlus": 116
     }
   ]
 }

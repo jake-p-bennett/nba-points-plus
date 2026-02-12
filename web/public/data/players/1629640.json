@@ -2,16 +2,16 @@
   "id": 1629640,
   "name": "Keldon Johnson",
   "team": "SAS",
-  "rank": 116,
-  "gp": 53,
-  "ppg": 13.4,
-  "adjPpg": 13.3,
-  "pointsPlus": 107,
-  "mpg": 23.7,
+  "rank": 114,
+  "gp": 54,
+  "ppg": 13.5,
+  "adjPpg": 13.5,
+  "pointsPlus": 108,
+  "mpg": 23.8,
   "position": "F-G",
   "jersey": "3",
   "usgPct": 19.5,
-  "tsPct": 64.1,
+  "tsPct": 64.4,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -38,7 +38,7 @@
       "min": 29,
       "pts": 19,
       "adjPts": 19.1,
-      "pointsPlus": 154
+      "pointsPlus": 153
     },
     {
       "date": "2025-10-27",
@@ -65,7 +65,7 @@
       "min": 24,
       "pts": 19,
       "adjPts": 19.6,
-      "pointsPlus": 158
+      "pointsPlus": 157
     },
     {
       "date": "2025-11-05",
@@ -100,7 +100,7 @@
       "result": "W",
       "min": 19,
       "pts": 10,
-      "adjPts": 9.6,
+      "adjPts": 9.5,
       "pointsPlus": 77
     },
     {
@@ -136,7 +136,7 @@
       "result": "W",
       "min": 30,
       "pts": 18,
-      "adjPts": 17.7,
+      "adjPts": 17.6,
       "pointsPlus": 142
     },
     {
@@ -154,7 +154,7 @@
       "result": "L",
       "min": 25,
       "pts": 14,
-      "adjPts": 14.5,
+      "adjPts": 14.4,
       "pointsPlus": 116
     },
     {
@@ -191,7 +191,7 @@
       "min": 28,
       "pts": 11,
       "adjPts": 10.8,
-      "pointsPlus": 87
+      "pointsPlus": 86
     },
     {
       "date": "2025-12-03",
@@ -200,7 +200,7 @@
       "min": 25,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-12-05",
@@ -245,7 +245,7 @@
       "min": 21,
       "pts": 9,
       "adjPts": 8.4,
-      "pointsPlus": 68
+      "pointsPlus": 67
     },
     {
       "date": "2025-12-19",
@@ -289,8 +289,8 @@
       "result": "L",
       "min": 25,
       "pts": 27,
-      "adjPts": 24.8,
-      "pointsPlus": 199
+      "adjPts": 24.9,
+      "pointsPlus": 200
     },
     {
       "date": "2025-12-29",
@@ -307,7 +307,7 @@
       "result": "W",
       "min": 31,
       "pts": 19,
-      "adjPts": 19.5,
+      "adjPts": 19.6,
       "pointsPlus": 157
     },
     {
@@ -334,7 +334,7 @@
       "result": "L",
       "min": 28,
       "pts": 13,
-      "adjPts": 12.8,
+      "adjPts": 12.7,
       "pointsPlus": 102
     },
     {
@@ -415,7 +415,7 @@
       "result": "W",
       "min": 31,
       "pts": 21,
-      "adjPts": 19.3,
+      "adjPts": 19.4,
       "pointsPlus": 155
     },
     {
@@ -424,7 +424,7 @@
       "result": "L",
       "min": 28,
       "pts": 15,
-      "adjPts": 14.5,
+      "adjPts": 14.4,
       "pointsPlus": 116
     },
     {
@@ -452,7 +452,7 @@
       "min": 25,
       "pts": 14,
       "adjPts": 14.0,
-      "pointsPlus": 113
+      "pointsPlus": 112
     },
     {
       "date": "2026-02-04",
@@ -488,7 +488,16 @@
       "min": 21,
       "pts": 6,
       "adjPts": 5.9,
-      "pointsPlus": 48
+      "pointsPlus": 47
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "SAS @ GSW",
+      "result": "W",
+      "min": 29,
+      "pts": 21,
+      "adjPts": 21.3,
+      "pointsPlus": 171
     }
   ]
 }

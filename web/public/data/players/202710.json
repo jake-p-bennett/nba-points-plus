@@ -20,7 +20,7 @@
       "min": 35,
       "pts": 31,
       "adjPts": 30.6,
-      "pointsPlus": 246
+      "pointsPlus": 245
     },
     {
       "date": "2025-10-23",
@@ -37,8 +37,8 @@
       "result": "L",
       "min": 27,
       "pts": 14,
-      "adjPts": 13.7,
-      "pointsPlus": 110
+      "adjPts": 13.6,
+      "pointsPlus": 109
     },
     {
       "date": "2025-10-27",
@@ -47,7 +47,7 @@
       "min": 31,
       "pts": 20,
       "adjPts": 19.6,
-      "pointsPlus": 158
+      "pointsPlus": 157
     },
     {
       "date": "2025-10-28",
@@ -145,7 +145,7 @@
       "result": "L",
       "min": 38,
       "pts": 33,
-      "adjPts": 33.1,
+      "adjPts": 33.0,
       "pointsPlus": 265
     },
     {
@@ -155,7 +155,7 @@
       "min": 34,
       "pts": 20,
       "adjPts": 19.5,
-      "pointsPlus": 157
+      "pointsPlus": 156
     },
     {
       "date": "2025-11-24",
@@ -163,7 +163,7 @@
       "result": "W",
       "min": 29,
       "pts": 18,
-      "adjPts": 16.5,
+      "adjPts": 16.6,
       "pointsPlus": 133
     },
     {
@@ -182,7 +182,7 @@
       "min": 37,
       "pts": 24,
       "adjPts": 23.1,
-      "pointsPlus": 186
+      "pointsPlus": 185
     },
     {
       "date": "2025-12-02",
@@ -200,7 +200,7 @@
       "min": 29,
       "pts": 19,
       "adjPts": 18.1,
-      "pointsPlus": 146
+      "pointsPlus": 145
     },
     {
       "date": "2025-12-12",
@@ -226,8 +226,8 @@
       "result": "L",
       "min": 34,
       "pts": 31,
-      "adjPts": 32.0,
-      "pointsPlus": 257
+      "adjPts": 31.9,
+      "pointsPlus": 256
     },
     {
       "date": "2025-12-20",
@@ -235,8 +235,8 @@
       "result": "W",
       "min": 35,
       "pts": 25,
-      "adjPts": 25.8,
-      "pointsPlus": 207
+      "adjPts": 25.7,
+      "pointsPlus": 206
     },
     {
       "date": "2025-12-22",
@@ -343,8 +343,8 @@
       "result": "W",
       "min": 32,
       "pts": 32,
-      "adjPts": 32.9,
-      "pointsPlus": 264
+      "adjPts": 33.0,
+      "pointsPlus": 265
     },
     {
       "date": "2026-01-19",

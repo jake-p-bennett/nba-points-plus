@@ -2,16 +2,16 @@
   "id": 201143,
   "name": "Al Horford",
   "team": "GSW",
-  "rank": 232,
-  "gp": 33,
+  "rank": 235,
+  "gp": 34,
   "ppg": 7.6,
   "adjPpg": 7.6,
   "pointsPlus": 61,
-  "mpg": 20.5,
+  "mpg": 20.6,
   "position": "C-F",
   "jersey": "20",
-  "usgPct": 15.8,
-  "tsPct": 55.9,
+  "usgPct": 15.7,
+  "tsPct": 55.5,
   "gameLog": [
     {
       "date": "2025-10-21",
@@ -38,7 +38,7 @@
       "min": 20,
       "pts": 2,
       "adjPts": 2.1,
-      "pointsPlus": 16
+      "pointsPlus": 17
     },
     {
       "date": "2025-10-30",
@@ -208,7 +208,7 @@
       "result": "W",
       "min": 20,
       "pts": 6,
-      "adjPts": 5.9,
+      "adjPts": 5.8,
       "pointsPlus": 47
     },
     {
@@ -217,7 +217,7 @@
       "result": "W",
       "min": 21,
       "pts": 5,
-      "adjPts": 5.1,
+      "adjPts": 5.2,
       "pointsPlus": 41
     },
     {
@@ -253,7 +253,7 @@
       "result": "W",
       "min": 23,
       "pts": 10,
-      "adjPts": 10.0,
+      "adjPts": 10.1,
       "pointsPlus": 81
     },
     {
@@ -263,7 +263,7 @@
       "min": 24,
       "pts": 9,
       "adjPts": 8.3,
-      "pointsPlus": 66
+      "pointsPlus": 67
     },
     {
       "date": "2026-01-30",
@@ -290,7 +290,7 @@
       "min": 28,
       "pts": 13,
       "adjPts": 13.4,
-      "pointsPlus": 108
+      "pointsPlus": 107
     },
     {
       "date": "2026-02-07",
@@ -309,6 +309,15 @@
       "pts": 16,
       "adjPts": 15.7,
       "pointsPlus": 126
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "GSW vs. SAS",
+      "result": "L",
+      "min": 26,
+      "pts": 6,
+      "adjPts": 6.2,
+      "pointsPlus": 49
     }
   ]
 }

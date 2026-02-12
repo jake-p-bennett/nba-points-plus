@@ -3,15 +3,15 @@
   "name": "Neemias Queta",
   "team": "BOS",
   "rank": 188,
-  "gp": 50,
-  "ppg": 9.8,
+  "gp": 51,
+  "ppg": 9.7,
   "adjPpg": 9.7,
   "pointsPlus": 78,
-  "mpg": 25.3,
+  "mpg": 25.1,
   "position": "C",
   "jersey": "88",
   "usgPct": 14.6,
-  "tsPct": 65.2,
+  "tsPct": 65.5,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -19,8 +19,8 @@
       "result": "L",
       "min": 25,
       "pts": 17,
-      "adjPts": 17.2,
-      "pointsPlus": 138
+      "adjPts": 17.1,
+      "pointsPlus": 137
     },
     {
       "date": "2025-10-24",
@@ -28,7 +28,7 @@
       "result": "L",
       "min": 22,
       "pts": 8,
-      "adjPts": 8.2,
+      "adjPts": 8.3,
       "pointsPlus": 66
     },
     {
@@ -73,7 +73,7 @@
       "result": "L",
       "min": 15,
       "pts": 9,
-      "adjPts": 9.5,
+      "adjPts": 9.6,
       "pointsPlus": 77
     },
     {
@@ -83,7 +83,7 @@
       "min": 26,
       "pts": 9,
       "adjPts": 8.3,
-      "pointsPlus": 66
+      "pointsPlus": 67
     },
     {
       "date": "2025-11-05",
@@ -91,8 +91,8 @@
       "result": "W",
       "min": 24,
       "pts": 15,
-      "adjPts": 14.1,
-      "pointsPlus": 113
+      "adjPts": 14.0,
+      "pointsPlus": 112
     },
     {
       "date": "2025-11-07",
@@ -127,7 +127,7 @@
       "result": "W",
       "min": 20,
       "pts": 13,
-      "adjPts": 12.8,
+      "adjPts": 12.7,
       "pointsPlus": 102
     },
     {
@@ -137,7 +137,7 @@
       "min": 33,
       "pts": 14,
       "adjPts": 14.4,
-      "pointsPlus": 115
+      "pointsPlus": 116
     },
     {
       "date": "2025-11-18",
@@ -181,7 +181,7 @@
       "result": "W",
       "min": 21,
       "pts": 8,
-      "adjPts": 8.2,
+      "adjPts": 8.3,
       "pointsPlus": 66
     },
     {
@@ -191,7 +191,7 @@
       "min": 21,
       "pts": 17,
       "adjPts": 15.9,
-      "pointsPlus": 128
+      "pointsPlus": 127
     },
     {
       "date": "2025-12-05",
@@ -280,7 +280,7 @@
       "result": "W",
       "min": 29,
       "pts": 12,
-      "adjPts": 11.0,
+      "adjPts": 11.1,
       "pointsPlus": 89
     },
     {
@@ -308,7 +308,7 @@
       "min": 25,
       "pts": 13,
       "adjPts": 12.4,
-      "pointsPlus": 100
+      "pointsPlus": 99
     },
     {
       "date": "2026-01-07",
@@ -370,7 +370,7 @@
       "result": "L",
       "min": 28,
       "pts": 10,
-      "adjPts": 10.5,
+      "adjPts": 10.6,
       "pointsPlus": 85
     },
     {
@@ -379,7 +379,7 @@
       "result": "W",
       "min": 29,
       "pts": 17,
-      "adjPts": 16.5,
+      "adjPts": 16.6,
       "pointsPlus": 133
     },
     {
@@ -462,6 +462,15 @@
       "pts": 4,
       "adjPts": 4.1,
       "pointsPlus": 33
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "BOS vs. CHI",
+      "result": "W",
+      "min": 15,
+      "pts": 8,
+      "adjPts": 7.6,
+      "pointsPlus": 61
     }
   ]
 }

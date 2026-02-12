@@ -2,16 +2,16 @@
   "id": 1642848,
   "name": "Tre Johnson",
   "team": "WAS",
-  "rank": 122,
-  "gp": 39,
+  "rank": 123,
+  "gp": 40,
   "ppg": 12.9,
-  "adjPpg": 13.1,
-  "pointsPlus": 105,
-  "mpg": 25.1,
+  "adjPpg": 13.0,
+  "pointsPlus": 104,
+  "mpg": 24.9,
   "position": "G",
   "jersey": "12",
-  "usgPct": 20.6,
-  "tsPct": 57.6,
+  "usgPct": 20.7,
+  "tsPct": 57.0,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -109,7 +109,7 @@
       "result": "L",
       "min": 23,
       "pts": 10,
-      "adjPts": 10.5,
+      "adjPts": 10.6,
       "pointsPlus": 85
     },
     {
@@ -136,7 +136,7 @@
       "result": "L",
       "min": 17,
       "pts": 10,
-      "adjPts": 10.0,
+      "adjPts": 10.1,
       "pointsPlus": 81
     },
     {
@@ -182,7 +182,7 @@
       "min": 21,
       "pts": 12,
       "adjPts": 11.8,
-      "pointsPlus": 95
+      "pointsPlus": 94
     },
     {
       "date": "2025-12-21",
@@ -191,7 +191,7 @@
       "min": 25,
       "pts": 19,
       "adjPts": 19.5,
-      "pointsPlus": 157
+      "pointsPlus": 156
     },
     {
       "date": "2025-12-23",
@@ -226,8 +226,8 @@
       "result": "L",
       "min": 25,
       "pts": 24,
-      "adjPts": 24.8,
-      "pointsPlus": 199
+      "adjPts": 24.7,
+      "pointsPlus": 198
     },
     {
       "date": "2025-12-31",
@@ -271,8 +271,8 @@
       "result": "L",
       "min": 28,
       "pts": 20,
-      "adjPts": 20.2,
-      "pointsPlus": 162
+      "adjPts": 20.1,
+      "pointsPlus": 161
     },
     {
       "date": "2026-01-09",
@@ -290,7 +290,7 @@
       "min": 30,
       "pts": 19,
       "adjPts": 19.6,
-      "pointsPlus": 158
+      "pointsPlus": 157
     },
     {
       "date": "2026-01-14",
@@ -299,7 +299,7 @@
       "min": 27,
       "pts": 10,
       "adjPts": 10.3,
-      "pointsPlus": 82
+      "pointsPlus": 83
     },
     {
       "date": "2026-01-16",
@@ -308,7 +308,7 @@
       "min": 30,
       "pts": 18,
       "adjPts": 17.3,
-      "pointsPlus": 139
+      "pointsPlus": 138
     },
     {
       "date": "2026-01-17",
@@ -352,7 +352,7 @@
       "result": "W",
       "min": 32,
       "pts": 18,
-      "adjPts": 17.6,
+      "adjPts": 17.5,
       "pointsPlus": 141
     },
     {
@@ -363,6 +363,15 @@
       "pts": 8,
       "adjPts": 8.0,
       "pointsPlus": 64
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "WAS @ CLE",
+      "result": "L",
+      "min": 18,
+      "pts": 10,
+      "adjPts": 10.0,
+      "pointsPlus": 80
     }
   ]
 }

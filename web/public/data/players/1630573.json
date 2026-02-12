@@ -2,16 +2,16 @@
   "id": 1630573,
   "name": "Sam Hauser",
   "team": "BOS",
-  "rank": 200,
-  "gp": 50,
-  "ppg": 9.0,
+  "rank": 199,
+  "gp": 51,
+  "ppg": 9.1,
   "adjPpg": 9.0,
   "pointsPlus": 72,
-  "mpg": 24.1,
+  "mpg": 24.0,
   "position": "F",
   "jersey": "30",
   "usgPct": 14.5,
-  "tsPct": 58.2,
+  "tsPct": 58.4,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -28,7 +28,7 @@
       "result": "L",
       "min": 28,
       "pts": 18,
-      "adjPts": 18.5,
+      "adjPts": 18.6,
       "pointsPlus": 149
     },
     {
@@ -37,7 +37,7 @@
       "result": "L",
       "min": 24,
       "pts": 8,
-      "adjPts": 8.4,
+      "adjPts": 8.5,
       "pointsPlus": 68
     },
     {
@@ -92,7 +92,7 @@
       "min": 22,
       "pts": 3,
       "adjPts": 2.8,
-      "pointsPlus": 23
+      "pointsPlus": 22
     },
     {
       "date": "2025-11-07",
@@ -164,7 +164,7 @@
       "min": 27,
       "pts": 14,
       "adjPts": 14.0,
-      "pointsPlus": 113
+      "pointsPlus": 112
     },
     {
       "date": "2025-11-26",
@@ -290,7 +290,7 @@
       "min": 19,
       "pts": 3,
       "adjPts": 2.9,
-      "pointsPlus": 24
+      "pointsPlus": 23
     },
     {
       "date": "2025-12-30",
@@ -380,7 +380,7 @@
       "min": 27,
       "pts": 16,
       "adjPts": 16.9,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2026-01-21",
@@ -388,7 +388,7 @@
       "result": "W",
       "min": 28,
       "pts": 17,
-      "adjPts": 16.5,
+      "adjPts": 16.6,
       "pointsPlus": 133
     },
     {
@@ -398,7 +398,7 @@
       "min": 39,
       "pts": 19,
       "adjPts": 19.1,
-      "pointsPlus": 154
+      "pointsPlus": 153
     },
     {
       "date": "2026-01-24",
@@ -424,7 +424,7 @@
       "result": "L",
       "min": 25,
       "pts": 12,
-      "adjPts": 11.6,
+      "adjPts": 11.7,
       "pointsPlus": 93
     },
     {
@@ -462,6 +462,15 @@
       "pts": 2,
       "adjPts": 2.0,
       "pointsPlus": 16
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "BOS vs. CHI",
+      "result": "W",
+      "min": 22,
+      "pts": 12,
+      "adjPts": 11.5,
+      "pointsPlus": 92
     }
   ]
 }

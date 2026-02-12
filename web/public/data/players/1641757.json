@@ -3,15 +3,15 @@
   "name": "Jordan Miller",
   "team": "LAC",
   "rank": 195,
-  "gp": 32,
-  "ppg": 9.3,
-  "adjPpg": 9.3,
-  "pointsPlus": 74,
-  "mpg": 19.8,
+  "gp": 33,
+  "ppg": 9.1,
+  "adjPpg": 9.1,
+  "pointsPlus": 73,
+  "mpg": 19.7,
   "position": "G",
   "jersey": "22",
-  "usgPct": 19.0,
-  "tsPct": 63.1,
+  "usgPct": 18.9,
+  "tsPct": 62.7,
   "gameLog": [
     {
       "date": "2025-11-12",
@@ -92,7 +92,7 @@
       "min": 14,
       "pts": 3,
       "adjPts": 2.9,
-      "pointsPlus": 24
+      "pointsPlus": 23
     },
     {
       "date": "2025-12-28",
@@ -182,7 +182,7 @@
       "min": 34,
       "pts": 11,
       "adjPts": 10.3,
-      "pointsPlus": 83
+      "pointsPlus": 82
     },
     {
       "date": "2026-01-16",
@@ -235,7 +235,7 @@
       "result": "W",
       "min": 25,
       "pts": 11,
-      "adjPts": 10.1,
+      "adjPts": 10.2,
       "pointsPlus": 81
     },
     {
@@ -253,8 +253,8 @@
       "result": "W",
       "min": 24,
       "pts": 20,
-      "adjPts": 20.7,
-      "pointsPlus": 166
+      "adjPts": 20.6,
+      "pointsPlus": 165
     },
     {
       "date": "2026-02-02",
@@ -262,7 +262,7 @@
       "result": "L",
       "min": 28,
       "pts": 21,
-      "adjPts": 21.2,
+      "adjPts": 21.1,
       "pointsPlus": 170
     },
     {
@@ -290,7 +290,7 @@
       "min": 23,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 65
+      "pointsPlus": 64
     },
     {
       "date": "2026-02-10",
@@ -298,8 +298,17 @@
       "result": "L",
       "min": 17,
       "pts": 9,
-      "adjPts": 9.5,
+      "adjPts": 9.6,
       "pointsPlus": 77
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "LAC @ HOU",
+      "result": "W",
+      "min": 17,
+      "pts": 4,
+      "adjPts": 4.2,
+      "pointsPlus": 34
     }
   ]
 }

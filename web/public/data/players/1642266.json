@@ -2,15 +2,15 @@
   "id": 1642266,
   "name": "Ja'Kobe Walter",
   "team": "TOR",
-  "rank": 271,
-  "gp": 44,
-  "ppg": 6.3,
-  "adjPpg": 6.3,
-  "pointsPlus": 51,
+  "rank": 274,
+  "gp": 45,
+  "ppg": 6.2,
+  "adjPpg": 6.2,
+  "pointsPlus": 50,
   "mpg": 18.3,
   "position": "G",
   "jersey": "14",
-  "usgPct": 13.6,
+  "usgPct": 13.5,
   "tsPct": 57.0,
   "gameLog": [
     {
@@ -128,7 +128,7 @@
       "min": 22,
       "pts": 3,
       "adjPts": 2.8,
-      "pointsPlus": 23
+      "pointsPlus": 22
     },
     {
       "date": "2025-11-23",
@@ -154,7 +154,7 @@
       "result": "W",
       "min": 32,
       "pts": 13,
-      "adjPts": 12.6,
+      "adjPts": 12.7,
       "pointsPlus": 102
     },
     {
@@ -182,7 +182,7 @@
       "min": 18,
       "pts": 3,
       "adjPts": 2.9,
-      "pointsPlus": 24
+      "pointsPlus": 23
     },
     {
       "date": "2025-12-04",
@@ -218,7 +218,7 @@
       "min": 18,
       "pts": 13,
       "adjPts": 13.4,
-      "pointsPlus": 107
+      "pointsPlus": 108
     },
     {
       "date": "2025-12-15",
@@ -271,8 +271,8 @@
       "result": "L",
       "min": 18,
       "pts": 15,
-      "adjPts": 14.1,
-      "pointsPlus": 113
+      "adjPts": 14.0,
+      "pointsPlus": 112
     },
     {
       "date": "2025-12-28",
@@ -281,7 +281,7 @@
       "min": 33,
       "pts": 18,
       "adjPts": 18.3,
-      "pointsPlus": 147
+      "pointsPlus": 146
     },
     {
       "date": "2025-12-29",
@@ -371,7 +371,7 @@
       "min": 16,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2026-02-01",
@@ -379,7 +379,7 @@
       "result": "W",
       "min": 18,
       "pts": 7,
-      "adjPts": 6.4,
+      "adjPts": 6.5,
       "pointsPlus": 52
     },
     {
@@ -408,6 +408,15 @@
       "pts": 6,
       "adjPts": 5.8,
       "pointsPlus": 47
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "TOR vs. DET",
+      "result": "L",
+      "min": 19,
+      "pts": 3,
+      "adjPts": 3.2,
+      "pointsPlus": 25
     }
   ]
 }

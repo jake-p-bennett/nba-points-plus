@@ -2,16 +2,16 @@
   "id": 1629638,
   "name": "Nickeil Alexander-Walker",
   "team": "ATL",
-  "rank": 39,
-  "gp": 53,
-  "ppg": 20.3,
-  "adjPpg": 20.4,
-  "pointsPlus": 164,
-  "mpg": 33.2,
+  "rank": 40,
+  "gp": 54,
+  "ppg": 20.1,
+  "adjPpg": 20.2,
+  "pointsPlus": 162,
+  "mpg": 33.3,
   "position": "G",
   "jersey": "7",
-  "usgPct": 23.8,
-  "tsPct": 58.0,
+  "usgPct": 23.7,
+  "tsPct": 57.6,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -38,7 +38,7 @@
       "min": 30,
       "pts": 17,
       "adjPts": 18.3,
-      "pointsPlus": 147
+      "pointsPlus": 146
     },
     {
       "date": "2025-10-27",
@@ -92,7 +92,7 @@
       "min": 30,
       "pts": 20,
       "adjPts": 20.6,
-      "pointsPlus": 166
+      "pointsPlus": 165
     },
     {
       "date": "2025-11-12",
@@ -109,7 +109,7 @@
       "result": "W",
       "min": 30,
       "pts": 16,
-      "adjPts": 14.7,
+      "adjPts": 14.8,
       "pointsPlus": 118
     },
     {
@@ -118,8 +118,8 @@
       "result": "W",
       "min": 35,
       "pts": 26,
-      "adjPts": 26.9,
-      "pointsPlus": 216
+      "adjPts": 26.8,
+      "pointsPlus": 215
     },
     {
       "date": "2025-11-18",
@@ -127,7 +127,7 @@
       "result": "L",
       "min": 37,
       "pts": 24,
-      "adjPts": 25.3,
+      "adjPts": 25.4,
       "pointsPlus": 203
     },
     {
@@ -154,7 +154,7 @@
       "result": "W",
       "min": 39,
       "pts": 23,
-      "adjPts": 23.3,
+      "adjPts": 23.4,
       "pointsPlus": 187
     },
     {
@@ -181,8 +181,8 @@
       "result": "W",
       "min": 44,
       "pts": 34,
-      "adjPts": 34.3,
-      "pointsPlus": 276
+      "adjPts": 34.2,
+      "pointsPlus": 274
     },
     {
       "date": "2025-12-01",
@@ -190,7 +190,7 @@
       "result": "L",
       "min": 35,
       "pts": 26,
-      "adjPts": 27.4,
+      "adjPts": 27.5,
       "pointsPlus": 220
     },
     {
@@ -208,8 +208,8 @@
       "result": "L",
       "min": 34,
       "pts": 30,
-      "adjPts": 30.0,
-      "pointsPlus": 241
+      "adjPts": 29.9,
+      "pointsPlus": 240
     },
     {
       "date": "2025-12-06",
@@ -218,7 +218,7 @@
       "min": 32,
       "pts": 17,
       "adjPts": 15.9,
-      "pointsPlus": 128
+      "pointsPlus": 127
     },
     {
       "date": "2025-12-12",
@@ -271,7 +271,7 @@
       "result": "L",
       "min": 34,
       "pts": 21,
-      "adjPts": 20.1,
+      "adjPts": 20.0,
       "pointsPlus": 161
     },
     {
@@ -289,8 +289,8 @@
       "result": "L",
       "min": 30,
       "pts": 25,
-      "adjPts": 25.7,
-      "pointsPlus": 206
+      "adjPts": 25.8,
+      "pointsPlus": 207
     },
     {
       "date": "2025-12-29",
@@ -299,7 +299,7 @@
       "min": 40,
       "pts": 30,
       "adjPts": 32.2,
-      "pointsPlus": 259
+      "pointsPlus": 258
     },
     {
       "date": "2025-12-31",
@@ -316,7 +316,7 @@
       "result": "W",
       "min": 34,
       "pts": 23,
-      "adjPts": 23.6,
+      "adjPts": 23.7,
       "pointsPlus": 190
     },
     {
@@ -326,7 +326,7 @@
       "min": 36,
       "pts": 31,
       "adjPts": 32.0,
-      "pointsPlus": 257
+      "pointsPlus": 256
     },
     {
       "date": "2026-01-05",
@@ -361,8 +361,8 @@
       "result": "W",
       "min": 34,
       "pts": 24,
-      "adjPts": 24.4,
-      "pointsPlus": 196
+      "adjPts": 24.3,
+      "pointsPlus": 195
     },
     {
       "date": "2026-01-13",
@@ -397,7 +397,7 @@
       "result": "L",
       "min": 39,
       "pts": 32,
-      "adjPts": 31.9,
+      "adjPts": 32.0,
       "pointsPlus": 256
     },
     {
@@ -407,7 +407,7 @@
       "min": 33,
       "pts": 11,
       "adjPts": 10.8,
-      "pointsPlus": 87
+      "pointsPlus": 86
     },
     {
       "date": "2026-01-23",
@@ -416,7 +416,7 @@
       "min": 33,
       "pts": 13,
       "adjPts": 13.4,
-      "pointsPlus": 108
+      "pointsPlus": 107
     },
     {
       "date": "2026-01-26",
@@ -434,7 +434,7 @@
       "min": 31,
       "pts": 21,
       "adjPts": 22.4,
-      "pointsPlus": 180
+      "pointsPlus": 179
     },
     {
       "date": "2026-01-29",
@@ -461,7 +461,7 @@
       "min": 31,
       "pts": 19,
       "adjPts": 18.6,
-      "pointsPlus": 149
+      "pointsPlus": 150
     },
     {
       "date": "2026-02-05",
@@ -469,7 +469,7 @@
       "result": "W",
       "min": 34,
       "pts": 23,
-      "adjPts": 21.1,
+      "adjPts": 21.2,
       "pointsPlus": 170
     },
     {
@@ -489,6 +489,15 @@
       "pts": 23,
       "adjPts": 23.1,
       "pointsPlus": 185
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "ATL @ CHA",
+      "result": "L",
+      "min": 40,
+      "pts": 10,
+      "adjPts": 10.2,
+      "pointsPlus": 81
     }
   ]
 }

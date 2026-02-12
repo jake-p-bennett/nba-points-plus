@@ -2,16 +2,16 @@
   "id": 1630598,
   "name": "Aaron Wiggins",
   "team": "OKC",
-  "rank": 165,
-  "gp": 39,
+  "rank": 164,
+  "gp": 40,
   "ppg": 10.7,
   "adjPpg": 10.6,
   "pointsPlus": 85,
-  "mpg": 23.8,
+  "mpg": 23.9,
   "position": "G",
   "jersey": "21",
-  "usgPct": 19.0,
-  "tsPct": 56.9,
+  "usgPct": 19.1,
+  "tsPct": 56.5,
   "gameLog": [
     {
       "date": "2025-10-21",
@@ -56,7 +56,7 @@
       "min": 34,
       "pts": 18,
       "adjPts": 17.3,
-      "pointsPlus": 139
+      "pointsPlus": 138
     },
     {
       "date": "2025-10-30",
@@ -73,7 +73,7 @@
       "result": "W",
       "min": 26,
       "pts": 15,
-      "adjPts": 14.5,
+      "adjPts": 14.4,
       "pointsPlus": 116
     },
     {
@@ -91,8 +91,8 @@
       "result": "L",
       "min": 27,
       "pts": 27,
-      "adjPts": 26.4,
-      "pointsPlus": 212
+      "adjPts": 26.3,
+      "pointsPlus": 211
     },
     {
       "date": "2025-11-30",
@@ -110,7 +110,7 @@
       "min": 22,
       "pts": 11,
       "adjPts": 11.2,
-      "pointsPlus": 90
+      "pointsPlus": 89
     },
     {
       "date": "2025-12-05",
@@ -128,7 +128,7 @@
       "min": 20,
       "pts": 19,
       "adjPts": 17.5,
-      "pointsPlus": 140
+      "pointsPlus": 141
     },
     {
       "date": "2025-12-10",
@@ -182,7 +182,7 @@
       "min": 23,
       "pts": 15,
       "adjPts": 15.1,
-      "pointsPlus": 122
+      "pointsPlus": 121
     },
     {
       "date": "2025-12-29",
@@ -199,7 +199,7 @@
       "result": "W",
       "min": 22,
       "pts": 2,
-      "adjPts": 2.0,
+      "adjPts": 1.9,
       "pointsPlus": 16
     },
     {
@@ -217,7 +217,7 @@
       "result": "L",
       "min": 19,
       "pts": 5,
-      "adjPts": 5.2,
+      "adjPts": 5.1,
       "pointsPlus": 41
     },
     {
@@ -235,7 +235,7 @@
       "result": "W",
       "min": 25,
       "pts": 7,
-      "adjPts": 6.4,
+      "adjPts": 6.5,
       "pointsPlus": 52
     },
     {
@@ -280,7 +280,7 @@
       "result": "L",
       "min": 28,
       "pts": 18,
-      "adjPts": 17.6,
+      "adjPts": 17.7,
       "pointsPlus": 142
     },
     {
@@ -308,7 +308,7 @@
       "min": 34,
       "pts": 13,
       "adjPts": 12.5,
-      "pointsPlus": 101
+      "pointsPlus": 100
     },
     {
       "date": "2026-01-29",
@@ -316,7 +316,7 @@
       "result": "L",
       "min": 25,
       "pts": 10,
-      "adjPts": 10.0,
+      "adjPts": 10.1,
       "pointsPlus": 81
     },
     {
@@ -363,6 +363,15 @@
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "OKC @ PHX",
+      "result": "W",
+      "min": 25,
+      "pts": 12,
+      "adjPts": 12.3,
+      "pointsPlus": 99
     }
   ]
 }

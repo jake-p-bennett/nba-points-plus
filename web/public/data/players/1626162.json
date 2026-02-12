@@ -2,16 +2,16 @@
   "id": 1626162,
   "name": "Kelly Oubre Jr.",
   "team": "PHI",
-  "rank": 97,
-  "gp": 31,
-  "ppg": 14.3,
-  "adjPpg": 14.5,
-  "pointsPlus": 116,
-  "mpg": 32.8,
+  "rank": 103,
+  "gp": 32,
+  "ppg": 13.9,
+  "adjPpg": 14.1,
+  "pointsPlus": 113,
+  "mpg": 32.7,
   "position": "F-G",
   "jersey": "9",
   "usgPct": 17.0,
-  "tsPct": 59.4,
+  "tsPct": 58.5,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -47,7 +47,7 @@
       "min": 44,
       "pts": 17,
       "adjPts": 15.9,
-      "pointsPlus": 128
+      "pointsPlus": 127
     },
     {
       "date": "2025-10-31",
@@ -190,8 +190,8 @@
       "result": "L",
       "min": 34,
       "pts": 21,
-      "adjPts": 21.7,
-      "pointsPlus": 174
+      "adjPts": 21.6,
+      "pointsPlus": 173
     },
     {
       "date": "2026-01-22",
@@ -280,7 +280,7 @@
       "result": "W",
       "min": 38,
       "pts": 18,
-      "adjPts": 18.6,
+      "adjPts": 18.5,
       "pointsPlus": 149
     },
     {
@@ -289,8 +289,17 @@
       "result": "L",
       "min": 36,
       "pts": 19,
-      "adjPts": 18.6,
-      "pointsPlus": 149
+      "adjPts": 18.5,
+      "pointsPlus": 148
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "PHI vs. NYK",
+      "result": "L",
+      "min": 30,
+      "pts": 2,
+      "adjPts": 2.1,
+      "pointsPlus": 17
     }
   ]
 }

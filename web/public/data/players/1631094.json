@@ -2,16 +2,16 @@
   "id": 1631094,
   "name": "Paolo Banchero",
   "team": "ORL",
-  "rank": 34,
-  "gp": 42,
-  "ppg": 21.4,
-  "adjPpg": 21.3,
-  "pointsPlus": 171,
-  "mpg": 34.3,
+  "rank": 35,
+  "gp": 43,
+  "ppg": 21.3,
+  "adjPpg": 21.2,
+  "pointsPlus": 170,
+  "mpg": 34.4,
   "position": "F",
   "jersey": "5",
   "usgPct": 26.7,
-  "tsPct": 56.2,
+  "tsPct": 55.9,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -19,7 +19,7 @@
       "result": "W",
       "min": 35,
       "pts": 24,
-      "adjPts": 23.5,
+      "adjPts": 23.6,
       "pointsPlus": 189
     },
     {
@@ -46,8 +46,8 @@
       "result": "L",
       "min": 38,
       "pts": 32,
-      "adjPts": 32.3,
-      "pointsPlus": 259
+      "adjPts": 32.2,
+      "pointsPlus": 258
     },
     {
       "date": "2025-10-29",
@@ -55,7 +55,7 @@
       "result": "L",
       "min": 35,
       "pts": 24,
-      "adjPts": 25.3,
+      "adjPts": 25.4,
       "pointsPlus": 203
     },
     {
@@ -74,7 +74,7 @@
       "min": 26,
       "pts": 28,
       "adjPts": 26.2,
-      "pointsPlus": 211
+      "pointsPlus": 210
     },
     {
       "date": "2025-11-04",
@@ -109,8 +109,8 @@
       "result": "W",
       "min": 35,
       "pts": 28,
-      "adjPts": 27.4,
-      "pointsPlus": 220
+      "adjPts": 27.3,
+      "pointsPlus": 219
     },
     {
       "date": "2025-11-12",
@@ -145,7 +145,7 @@
       "result": "W",
       "min": 32,
       "pts": 18,
-      "adjPts": 17.6,
+      "adjPts": 17.7,
       "pointsPlus": 142
     },
     {
@@ -154,8 +154,8 @@
       "result": "L",
       "min": 35,
       "pts": 25,
-      "adjPts": 25.7,
-      "pointsPlus": 206
+      "adjPts": 25.8,
+      "pointsPlus": 207
     },
     {
       "date": "2025-12-18",
@@ -172,7 +172,7 @@
       "result": "W",
       "min": 42,
       "pts": 23,
-      "adjPts": 21.1,
+      "adjPts": 21.2,
       "pointsPlus": 170
     },
     {
@@ -236,7 +236,7 @@
       "min": 35,
       "pts": 31,
       "adjPts": 29.6,
-      "pointsPlus": 238
+      "pointsPlus": 237
     },
     {
       "date": "2026-01-04",
@@ -244,7 +244,7 @@
       "result": "W",
       "min": 36,
       "pts": 28,
-      "adjPts": 27.2,
+      "adjPts": 27.3,
       "pointsPlus": 219
     },
     {
@@ -280,7 +280,7 @@
       "result": "W",
       "min": 39,
       "pts": 23,
-      "adjPts": 22.2,
+      "adjPts": 22.1,
       "pointsPlus": 178
     },
     {
@@ -290,7 +290,7 @@
       "min": 37,
       "pts": 26,
       "adjPts": 25.5,
-      "pointsPlus": 205
+      "pointsPlus": 204
     },
     {
       "date": "2026-01-18",
@@ -307,7 +307,7 @@
       "result": "L",
       "min": 30,
       "pts": 23,
-      "adjPts": 23.3,
+      "adjPts": 23.4,
       "pointsPlus": 187
     },
     {
@@ -326,7 +326,7 @@
       "min": 40,
       "pts": 37,
       "adjPts": 36.8,
-      "pointsPlus": 296
+      "pointsPlus": 295
     },
     {
       "date": "2026-01-28",
@@ -344,7 +344,7 @@
       "min": 41,
       "pts": 20,
       "adjPts": 20.6,
-      "pointsPlus": 166
+      "pointsPlus": 165
     },
     {
       "date": "2026-02-01",
@@ -353,7 +353,7 @@
       "min": 35,
       "pts": 19,
       "adjPts": 19.5,
-      "pointsPlus": 157
+      "pointsPlus": 156
     },
     {
       "date": "2026-02-03",
@@ -362,7 +362,7 @@
       "min": 33,
       "pts": 17,
       "adjPts": 18.3,
-      "pointsPlus": 147
+      "pointsPlus": 146
     },
     {
       "date": "2026-02-05",
@@ -379,7 +379,7 @@
       "result": "W",
       "min": 38,
       "pts": 23,
-      "adjPts": 21.1,
+      "adjPts": 21.2,
       "pointsPlus": 170
     },
     {
@@ -390,6 +390,15 @@
       "pts": 11,
       "adjPts": 11.0,
       "pointsPlus": 88
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "ORL vs. MIL",
+      "result": "L",
+      "min": 39,
+      "pts": 17,
+      "adjPts": 17.0,
+      "pointsPlus": 136
     }
   ]
 }

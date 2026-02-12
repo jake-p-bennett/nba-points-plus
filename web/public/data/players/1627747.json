@@ -3,14 +3,14 @@
   "name": "Caris LeVert",
   "team": "DET",
   "rank": 233,
-  "gp": 35,
-  "ppg": 7.7,
-  "adjPpg": 7.6,
-  "pointsPlus": 61,
-  "mpg": 19.7,
+  "gp": 36,
+  "ppg": 7.8,
+  "adjPpg": 7.7,
+  "pointsPlus": 62,
+  "mpg": 19.6,
   "position": "G",
   "jersey": "8",
-  "usgPct": 17.2,
+  "usgPct": 17.3,
   "tsPct": 53.9,
   "gameLog": [
     {
@@ -47,7 +47,7 @@
       "min": 20,
       "pts": 4,
       "adjPts": 3.9,
-      "pointsPlus": 32
+      "pointsPlus": 31
     },
     {
       "date": "2025-11-05",
@@ -190,7 +190,7 @@
       "result": "W",
       "min": 19,
       "pts": 13,
-      "adjPts": 13.8,
+      "adjPts": 13.9,
       "pointsPlus": 111
     },
     {
@@ -235,7 +235,7 @@
       "result": "L",
       "min": 20,
       "pts": 11,
-      "adjPts": 10.1,
+      "adjPts": 10.2,
       "pointsPlus": 81
     },
     {
@@ -307,8 +307,8 @@
       "result": "L",
       "min": 16,
       "pts": 7,
-      "adjPts": 6.6,
-      "pointsPlus": 53
+      "adjPts": 6.5,
+      "pointsPlus": 52
     },
     {
       "date": "2026-02-06",
@@ -316,7 +316,7 @@
       "result": "W",
       "min": 18,
       "pts": 8,
-      "adjPts": 8.2,
+      "adjPts": 8.3,
       "pointsPlus": 66
     },
     {
@@ -327,6 +327,15 @@
       "pts": 5,
       "adjPts": 5.1,
       "pointsPlus": 41
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "DET @ TOR",
+      "result": "W",
+      "min": 18,
+      "pts": 9,
+      "adjPts": 9.3,
+      "pointsPlus": 74
     }
   ]
 }

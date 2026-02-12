@@ -2,12 +2,12 @@
   "id": 1630530,
   "name": "Trey Murphy III",
   "team": "NOP",
-  "rank": 27,
-  "gp": 51,
-  "ppg": 22.2,
+  "rank": 28,
+  "gp": 52,
+  "ppg": 22.1,
   "adjPpg": 22.2,
-  "pointsPlus": 179,
-  "mpg": 35.8,
+  "pointsPlus": 178,
+  "mpg": 35.6,
   "position": "F",
   "jersey": "25",
   "usgPct": 22.4,
@@ -19,7 +19,7 @@
       "result": "L",
       "min": 32,
       "pts": 13,
-      "adjPts": 12.8,
+      "adjPts": 12.7,
       "pointsPlus": 102
     },
     {
@@ -100,8 +100,8 @@
       "result": "L",
       "min": 33,
       "pts": 21,
-      "adjPts": 21.7,
-      "pointsPlus": 174
+      "adjPts": 21.6,
+      "pointsPlus": 173
     },
     {
       "date": "2025-11-12",
@@ -109,8 +109,8 @@
       "result": "L",
       "min": 39,
       "pts": 22,
-      "adjPts": 21.5,
-      "pointsPlus": 173
+      "adjPts": 21.4,
+      "pointsPlus": 172
     },
     {
       "date": "2025-11-14",
@@ -163,7 +163,7 @@
       "result": "L",
       "min": 31,
       "pts": 19,
-      "adjPts": 18.4,
+      "adjPts": 18.5,
       "pointsPlus": 148
     },
     {
@@ -182,7 +182,7 @@
       "min": 38,
       "pts": 12,
       "adjPts": 11.8,
-      "pointsPlus": 95
+      "pointsPlus": 94
     },
     {
       "date": "2025-12-02",
@@ -217,8 +217,8 @@
       "result": "L",
       "min": 38,
       "pts": 32,
-      "adjPts": 32.8,
-      "pointsPlus": 264
+      "adjPts": 32.9,
+      "pointsPlus": 263
     },
     {
       "date": "2025-12-11",
@@ -226,8 +226,8 @@
       "result": "W",
       "min": 31,
       "pts": 24,
-      "adjPts": 23.5,
-      "pointsPlus": 188
+      "adjPts": 23.4,
+      "pointsPlus": 187
     },
     {
       "date": "2025-12-14",
@@ -244,7 +244,7 @@
       "result": "W",
       "min": 38,
       "pts": 27,
-      "adjPts": 28.6,
+      "adjPts": 28.7,
       "pointsPlus": 230
     },
     {
@@ -253,7 +253,7 @@
       "result": "W",
       "min": 33,
       "pts": 17,
-      "adjPts": 16.5,
+      "adjPts": 16.6,
       "pointsPlus": 133
     },
     {
@@ -281,7 +281,7 @@
       "min": 36,
       "pts": 19,
       "adjPts": 19.6,
-      "pointsPlus": 158
+      "pointsPlus": 157
     },
     {
       "date": "2025-12-27",
@@ -289,8 +289,8 @@
       "result": "L",
       "min": 37,
       "pts": 24,
-      "adjPts": 24.8,
-      "pointsPlus": 199
+      "adjPts": 24.7,
+      "pointsPlus": 198
     },
     {
       "date": "2025-12-29",
@@ -298,8 +298,8 @@
       "result": "L",
       "min": 38,
       "pts": 21,
-      "adjPts": 21.6,
-      "pointsPlus": 173
+      "adjPts": 21.7,
+      "pointsPlus": 174
     },
     {
       "date": "2025-12-31",
@@ -326,7 +326,7 @@
       "min": 39,
       "pts": 42,
       "adjPts": 41.4,
-      "pointsPlus": 333
+      "pointsPlus": 332
     },
     {
       "date": "2026-01-09",
@@ -334,8 +334,8 @@
       "result": "W",
       "min": 36,
       "pts": 35,
-      "adjPts": 32.8,
-      "pointsPlus": 263
+      "adjPts": 32.7,
+      "pointsPlus": 262
     },
     {
       "date": "2026-01-11",
@@ -352,8 +352,8 @@
       "result": "L",
       "min": 34,
       "pts": 31,
-      "adjPts": 31.0,
-      "pointsPlus": 249
+      "adjPts": 30.9,
+      "pointsPlus": 248
     },
     {
       "date": "2026-01-14",
@@ -362,7 +362,7 @@
       "min": 38,
       "pts": 34,
       "adjPts": 34.2,
-      "pointsPlus": 275
+      "pointsPlus": 274
     },
     {
       "date": "2026-01-16",
@@ -388,7 +388,7 @@
       "result": "L",
       "min": 35,
       "pts": 17,
-      "adjPts": 17.9,
+      "adjPts": 18.0,
       "pointsPlus": 144
     },
     {
@@ -406,7 +406,7 @@
       "result": "W",
       "min": 38,
       "pts": 17,
-      "adjPts": 17.4,
+      "adjPts": 17.5,
       "pointsPlus": 140
     },
     {
@@ -424,7 +424,7 @@
       "result": "W",
       "min": 33,
       "pts": 8,
-      "adjPts": 7.9,
+      "adjPts": 7.8,
       "pointsPlus": 63
     },
     {
@@ -433,8 +433,8 @@
       "result": "L",
       "min": 38,
       "pts": 19,
-      "adjPts": 19.2,
-      "pointsPlus": 154
+      "adjPts": 19.1,
+      "pointsPlus": 153
     },
     {
       "date": "2026-02-02",
@@ -451,7 +451,7 @@
       "result": "L",
       "min": 40,
       "pts": 44,
-      "adjPts": 43.9,
+      "adjPts": 44.0,
       "pointsPlus": 353
     },
     {
@@ -470,7 +470,16 @@
       "min": 29,
       "pts": 21,
       "adjPts": 20.1,
-      "pointsPlus": 162
+      "pointsPlus": 161
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "NOP vs. MIA",
+      "result": "L",
+      "min": 27,
+      "pts": 19,
+      "adjPts": 18.6,
+      "pointsPlus": 150
     }
   ]
 }

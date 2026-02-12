@@ -2,16 +2,16 @@
   "id": 1627751,
   "name": "Jakob Poeltl",
   "team": "TOR",
-  "rank": 189,
-  "gp": 21,
+  "rank": 187,
+  "gp": 22,
   "ppg": 9.7,
   "adjPpg": 9.7,
   "pointsPlus": 78,
-  "mpg": 25.4,
+  "mpg": 25.1,
   "position": "C",
   "jersey": "19",
-  "usgPct": 14.1,
-  "tsPct": 69.1,
+  "usgPct": 14.3,
+  "tsPct": 68.5,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -64,7 +64,7 @@
       "result": "W",
       "min": 25,
       "pts": 12,
-      "adjPts": 11.6,
+      "adjPts": 11.7,
       "pointsPlus": 93
     },
     {
@@ -109,8 +109,8 @@
       "result": "W",
       "min": 33,
       "pts": 19,
-      "adjPts": 19.2,
-      "pointsPlus": 154
+      "adjPts": 19.1,
+      "pointsPlus": 153
     },
     {
       "date": "2025-11-21",
@@ -119,7 +119,7 @@
       "min": 19,
       "pts": 3,
       "adjPts": 2.8,
-      "pointsPlus": 23
+      "pointsPlus": 22
     },
     {
       "date": "2025-11-24",
@@ -190,7 +190,7 @@
       "result": "W",
       "min": 29,
       "pts": 8,
-      "adjPts": 7.8,
+      "adjPts": 7.9,
       "pointsPlus": 63
     },
     {
@@ -201,6 +201,15 @@
       "pts": 2,
       "adjPts": 2.0,
       "pointsPlus": 16
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "TOR vs. DET",
+      "result": "L",
+      "min": 20,
+      "pts": 9,
+      "adjPts": 9.5,
+      "pointsPlus": 76
     }
   ]
 }

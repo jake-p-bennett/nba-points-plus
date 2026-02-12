@@ -2,16 +2,16 @@
   "id": 1641772,
   "name": "Nae'Qwan Tomlin",
   "team": "CLE",
-  "rank": 263,
-  "gp": 43,
-  "ppg": 6.5,
-  "adjPpg": 6.5,
+  "rank": 262,
+  "gp": 44,
+  "ppg": 6.6,
+  "adjPpg": 6.6,
   "pointsPlus": 53,
   "mpg": 17.1,
   "position": "F",
   "jersey": "35",
-  "usgPct": 15.0,
-  "tsPct": 55.7,
+  "usgPct": 15.2,
+  "tsPct": 55.5,
   "gameLog": [
     {
       "date": "2025-11-05",
@@ -361,7 +361,7 @@
       "result": "L",
       "min": 25,
       "pts": 14,
-      "adjPts": 14.5,
+      "adjPts": 14.4,
       "pointsPlus": 116
     },
     {
@@ -399,6 +399,15 @@
       "pts": 6,
       "adjPts": 6.0,
       "pointsPlus": 48
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "CLE vs. WAS",
+      "result": "W",
+      "min": 16,
+      "pts": 8,
+      "adjPts": 7.5,
+      "pointsPlus": 60
     }
   ]
 }

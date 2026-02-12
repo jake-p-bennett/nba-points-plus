@@ -2,16 +2,16 @@
   "id": 1630198,
   "name": "Isaiah Joe",
   "team": "OKC",
-  "rank": 180,
-  "gp": 45,
-  "ppg": 10.2,
-  "adjPpg": 10.1,
-  "pointsPlus": 81,
-  "mpg": 21.0,
+  "rank": 175,
+  "gp": 46,
+  "ppg": 10.4,
+  "adjPpg": 10.3,
+  "pointsPlus": 83,
+  "mpg": 20.9,
   "position": "G",
   "jersey": "11",
-  "usgPct": 17.2,
-  "tsPct": 63.4,
+  "usgPct": 17.4,
+  "tsPct": 64.2,
   "gameLog": [
     {
       "date": "2025-10-30",
@@ -29,7 +29,7 @@
       "min": 27,
       "pts": 13,
       "adjPts": 12.5,
-      "pointsPlus": 101
+      "pointsPlus": 100
     },
     {
       "date": "2025-11-04",
@@ -38,7 +38,7 @@
       "min": 21,
       "pts": 22,
       "adjPts": 22.6,
-      "pointsPlus": 181
+      "pointsPlus": 182
     },
     {
       "date": "2025-11-05",
@@ -46,8 +46,8 @@
       "result": "L",
       "min": 26,
       "pts": 14,
-      "adjPts": 13.7,
-      "pointsPlus": 110
+      "adjPts": 13.6,
+      "pointsPlus": 109
     },
     {
       "date": "2025-11-07",
@@ -64,7 +64,7 @@
       "result": "W",
       "min": 21,
       "pts": 8,
-      "adjPts": 7.9,
+      "adjPts": 7.8,
       "pointsPlus": 63
     },
     {
@@ -74,7 +74,7 @@
       "min": 29,
       "pts": 18,
       "adjPts": 18.3,
-      "pointsPlus": 147
+      "pointsPlus": 146
     },
     {
       "date": "2025-11-12",
@@ -118,7 +118,7 @@
       "result": "W",
       "min": 25,
       "pts": 16,
-      "adjPts": 14.7,
+      "adjPts": 14.8,
       "pointsPlus": 118
     },
     {
@@ -127,7 +127,7 @@
       "result": "W",
       "min": 24,
       "pts": 10,
-      "adjPts": 9.8,
+      "adjPts": 9.7,
       "pointsPlus": 78
     },
     {
@@ -154,8 +154,8 @@
       "result": "W",
       "min": 15,
       "pts": 15,
-      "adjPts": 14.7,
-      "pointsPlus": 118
+      "adjPts": 14.6,
+      "pointsPlus": 117
     },
     {
       "date": "2025-12-02",
@@ -173,7 +173,7 @@
       "min": 22,
       "pts": 14,
       "adjPts": 14.4,
-      "pointsPlus": 115
+      "pointsPlus": 116
     },
     {
       "date": "2025-12-19",
@@ -235,8 +235,8 @@
       "result": "W",
       "min": 19,
       "pts": 15,
-      "adjPts": 14.7,
-      "pointsPlus": 118
+      "adjPts": 14.6,
+      "pointsPlus": 117
     },
     {
       "date": "2026-01-02",
@@ -316,7 +316,7 @@
       "result": "L",
       "min": 19,
       "pts": 8,
-      "adjPts": 7.8,
+      "adjPts": 7.9,
       "pointsPlus": 63
     },
     {
@@ -417,6 +417,15 @@
       "pts": 19,
       "adjPts": 18.7,
       "pointsPlus": 150
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "OKC @ PHX",
+      "result": "W",
+      "min": 18,
+      "pts": 21,
+      "adjPts": 21.6,
+      "pointsPlus": 173
     }
   ]
 }

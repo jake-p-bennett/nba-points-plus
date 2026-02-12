@@ -2,7 +2,7 @@
   "id": 1629216,
   "name": "Gabe Vincent",
   "team": "ATL",
-  "rank": 300,
+  "rank": 302,
   "gp": 30,
   "ppg": 4.7,
   "adjPpg": 4.7,
@@ -136,7 +136,7 @@
       "result": "W",
       "min": 19,
       "pts": 5,
-      "adjPts": 5.2,
+      "adjPts": 5.1,
       "pointsPlus": 41
     },
     {
@@ -191,7 +191,7 @@
       "min": 23,
       "pts": 3,
       "adjPts": 2.9,
-      "pointsPlus": 24
+      "pointsPlus": 23
     },
     {
       "date": "2026-01-18",
@@ -244,7 +244,7 @@
       "result": "L",
       "min": 25,
       "pts": 11,
-      "adjPts": 10.9,
+      "adjPts": 11.0,
       "pointsPlus": 88
     },
     {
@@ -262,7 +262,7 @@
       "result": "L",
       "min": 18,
       "pts": 8,
-      "adjPts": 8.2,
+      "adjPts": 8.3,
       "pointsPlus": 66
     },
     {

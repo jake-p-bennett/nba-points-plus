@@ -3,15 +3,15 @@
   "name": "Bub Carrington",
   "team": "WAS",
   "rank": 177,
-  "gp": 52,
+  "gp": 53,
   "ppg": 10.2,
   "adjPpg": 10.2,
   "pointsPlus": 82,
-  "mpg": 28.1,
+  "mpg": 28.0,
   "position": "G",
   "jersey": "7",
   "usgPct": 16.9,
-  "tsPct": 54.4,
+  "tsPct": 54.2,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -281,7 +281,7 @@
       "min": 27,
       "pts": 12,
       "adjPts": 11.8,
-      "pointsPlus": 95
+      "pointsPlus": 94
     },
     {
       "date": "2025-12-29",
@@ -334,8 +334,8 @@
       "result": "L",
       "min": 40,
       "pts": 18,
-      "adjPts": 18.2,
-      "pointsPlus": 146
+      "adjPts": 18.1,
+      "pointsPlus": 145
     },
     {
       "date": "2026-01-09",
@@ -353,7 +353,7 @@
       "min": 32,
       "pts": 9,
       "adjPts": 9.3,
-      "pointsPlus": 75
+      "pointsPlus": 74
     },
     {
       "date": "2026-01-14",
@@ -478,8 +478,17 @@
       "result": "L",
       "min": 29,
       "pts": 13,
-      "adjPts": 12.7,
+      "adjPts": 12.8,
       "pointsPlus": 102
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "WAS @ CLE",
+      "result": "L",
+      "min": 22,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 64
     }
   ]
 }

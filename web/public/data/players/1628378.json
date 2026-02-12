@@ -3,15 +3,15 @@
   "name": "Donovan Mitchell",
   "team": "CLE",
   "rank": 6,
-  "gp": 50,
+  "gp": 51,
   "ppg": 29.0,
-  "adjPpg": 29.0,
-  "pointsPlus": 233,
-  "mpg": 33.8,
+  "adjPpg": 28.9,
+  "pointsPlus": 232,
+  "mpg": 33.7,
   "position": "G",
   "jersey": "45",
-  "usgPct": 31.5,
-  "tsPct": 61.7,
+  "usgPct": 31.6,
+  "tsPct": 61.9,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -19,8 +19,8 @@
       "result": "L",
       "min": 36,
       "pts": 31,
-      "adjPts": 31.9,
-      "pointsPlus": 256
+      "adjPts": 32.0,
+      "pointsPlus": 257
     },
     {
       "date": "2025-10-24",
@@ -46,8 +46,8 @@
       "result": "W",
       "min": 29,
       "pts": 35,
-      "adjPts": 36.9,
-      "pointsPlus": 296
+      "adjPts": 37.0,
+      "pointsPlus": 297
     },
     {
       "date": "2025-10-29",
@@ -73,8 +73,8 @@
       "result": "W",
       "min": 35,
       "pts": 46,
-      "adjPts": 46.5,
-      "pointsPlus": 373
+      "adjPts": 46.3,
+      "pointsPlus": 371
     },
     {
       "date": "2025-11-07",
@@ -82,8 +82,8 @@
       "result": "W",
       "min": 26,
       "pts": 24,
-      "adjPts": 22.5,
-      "pointsPlus": 181
+      "adjPts": 22.4,
+      "pointsPlus": 180
     },
     {
       "date": "2025-11-08",
@@ -100,7 +100,7 @@
       "result": "L",
       "min": 41,
       "pts": 28,
-      "adjPts": 27.4,
+      "adjPts": 27.5,
       "pointsPlus": 220
     },
     {
@@ -110,7 +110,7 @@
       "min": 36,
       "pts": 31,
       "adjPts": 32.0,
-      "pointsPlus": 257
+      "pointsPlus": 256
     },
     {
       "date": "2025-11-15",
@@ -118,7 +118,7 @@
       "result": "W",
       "min": 33,
       "pts": 30,
-      "adjPts": 29.5,
+      "adjPts": 29.4,
       "pointsPlus": 236
     },
     {
@@ -127,7 +127,7 @@
       "result": "W",
       "min": 36,
       "pts": 37,
-      "adjPts": 36.9,
+      "adjPts": 37.0,
       "pointsPlus": 297
     },
     {
@@ -145,7 +145,7 @@
       "result": "W",
       "min": 34,
       "pts": 32,
-      "adjPts": 31.1,
+      "adjPts": 31.2,
       "pointsPlus": 250
     },
     {
@@ -154,7 +154,7 @@
       "result": "W",
       "min": 33,
       "pts": 37,
-      "adjPts": 38.0,
+      "adjPts": 38.1,
       "pointsPlus": 305
     },
     {
@@ -190,7 +190,7 @@
       "result": "W",
       "min": 34,
       "pts": 43,
-      "adjPts": 41.8,
+      "adjPts": 41.9,
       "pointsPlus": 336
     },
     {
@@ -199,8 +199,8 @@
       "result": "L",
       "min": 34,
       "pts": 33,
-      "adjPts": 32.2,
-      "pointsPlus": 259
+      "adjPts": 32.1,
+      "pointsPlus": 258
     },
     {
       "date": "2025-12-05",
@@ -217,8 +217,8 @@
       "result": "L",
       "min": 37,
       "pts": 29,
-      "adjPts": 29.5,
-      "pointsPlus": 237
+      "adjPts": 29.4,
+      "pointsPlus": 236
     },
     {
       "date": "2025-12-12",
@@ -226,8 +226,8 @@
       "result": "W",
       "min": 35,
       "pts": 48,
-      "adjPts": 45.0,
-      "pointsPlus": 361
+      "adjPts": 44.9,
+      "pointsPlus": 360
     },
     {
       "date": "2025-12-14",
@@ -244,7 +244,7 @@
       "result": "L",
       "min": 33,
       "pts": 32,
-      "adjPts": 30.6,
+      "adjPts": 30.5,
       "pointsPlus": 245
     },
     {
@@ -253,7 +253,7 @@
       "result": "W",
       "min": 29,
       "pts": 30,
-      "adjPts": 30.4,
+      "adjPts": 30.5,
       "pointsPlus": 244
     },
     {
@@ -271,7 +271,7 @@
       "result": "L",
       "min": 33,
       "pts": 34,
-      "adjPts": 35.0,
+      "adjPts": 35.1,
       "pointsPlus": 281
     },
     {
@@ -298,8 +298,8 @@
       "result": "W",
       "min": 30,
       "pts": 34,
-      "adjPts": 35.1,
-      "pointsPlus": 282
+      "adjPts": 35.0,
+      "pointsPlus": 281
     },
     {
       "date": "2026-01-02",
@@ -307,8 +307,8 @@
       "result": "W",
       "min": 35,
       "pts": 33,
-      "adjPts": 33.0,
-      "pointsPlus": 265
+      "adjPts": 32.9,
+      "pointsPlus": 264
     },
     {
       "date": "2026-01-04",
@@ -316,7 +316,7 @@
       "result": "L",
       "min": 33,
       "pts": 30,
-      "adjPts": 31.6,
+      "adjPts": 31.7,
       "pointsPlus": 254
     },
     {
@@ -325,7 +325,7 @@
       "result": "L",
       "min": 37,
       "pts": 30,
-      "adjPts": 30.1,
+      "adjPts": 30.2,
       "pointsPlus": 242
     },
     {
@@ -343,7 +343,7 @@
       "result": "L",
       "min": 34,
       "pts": 21,
-      "adjPts": 19.3,
+      "adjPts": 19.4,
       "pointsPlus": 155
     },
     {
@@ -352,8 +352,8 @@
       "result": "W",
       "min": 33,
       "pts": 35,
-      "adjPts": 35.3,
-      "pointsPlus": 284
+      "adjPts": 35.2,
+      "pointsPlus": 283
     },
     {
       "date": "2026-01-16",
@@ -380,7 +380,7 @@
       "min": 37,
       "pts": 24,
       "adjPts": 24.4,
-      "pointsPlus": 196
+      "pointsPlus": 195
     },
     {
       "date": "2026-01-23",
@@ -407,7 +407,7 @@
       "min": 35,
       "pts": 45,
       "adjPts": 45.1,
-      "pointsPlus": 362
+      "pointsPlus": 361
     },
     {
       "date": "2026-01-28",
@@ -425,7 +425,7 @@
       "min": 28,
       "pts": 16,
       "adjPts": 16.5,
-      "pointsPlus": 133
+      "pointsPlus": 132
     },
     {
       "date": "2026-02-01",
@@ -433,8 +433,8 @@
       "result": "W",
       "min": 31,
       "pts": 14,
-      "adjPts": 13.7,
-      "pointsPlus": 110
+      "adjPts": 13.6,
+      "pointsPlus": 109
     },
     {
       "date": "2026-02-04",
@@ -451,7 +451,7 @@
       "result": "W",
       "min": 35,
       "pts": 35,
-      "adjPts": 33.6,
+      "adjPts": 33.5,
       "pointsPlus": 269
     },
     {
@@ -460,8 +460,17 @@
       "result": "W",
       "min": 34,
       "pts": 32,
-      "adjPts": 32.0,
-      "pointsPlus": 257
+      "adjPts": 31.9,
+      "pointsPlus": 256
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "CLE vs. WAS",
+      "result": "W",
+      "min": 28,
+      "pts": 30,
+      "adjPts": 28.1,
+      "pointsPlus": 225
     }
   ]
 }

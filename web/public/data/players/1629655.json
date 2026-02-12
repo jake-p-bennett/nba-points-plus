@@ -2,7 +2,7 @@
   "id": 1629655,
   "name": "Daniel Gafford",
   "team": "DAL",
-  "rank": 217,
+  "rank": 218,
   "gp": 37,
   "ppg": 8.2,
   "adjPpg": 8.2,
@@ -37,7 +37,7 @@
       "result": "L",
       "min": 25,
       "pts": 15,
-      "adjPts": 14.5,
+      "adjPts": 14.4,
       "pointsPlus": 116
     },
     {
@@ -73,7 +73,7 @@
       "result": "L",
       "min": 27,
       "pts": 15,
-      "adjPts": 15.5,
+      "adjPts": 15.4,
       "pointsPlus": 124
     },
     {
@@ -83,7 +83,7 @@
       "min": 27,
       "pts": 10,
       "adjPts": 10.3,
-      "pointsPlus": 82
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-16",
@@ -92,7 +92,7 @@
       "min": 31,
       "pts": 20,
       "adjPts": 19.5,
-      "pointsPlus": 157
+      "pointsPlus": 156
     },
     {
       "date": "2025-11-19",
@@ -235,7 +235,7 @@
       "result": "W",
       "min": 19,
       "pts": 9,
-      "adjPts": 9.5,
+      "adjPts": 9.6,
       "pointsPlus": 77
     },
     {

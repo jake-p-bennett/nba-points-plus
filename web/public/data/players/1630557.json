@@ -2,16 +2,16 @@
   "id": 1630557,
   "name": "Corey Kispert",
   "team": "ATL",
-  "rank": 185,
-  "gp": 34,
-  "ppg": 9.8,
-  "adjPpg": 9.9,
-  "pointsPlus": 79,
+  "rank": 190,
+  "gp": 35,
+  "ppg": 9.6,
+  "adjPpg": 9.6,
+  "pointsPlus": 77,
   "mpg": 20.4,
   "position": "F",
   "jersey": "24",
-  "usgPct": 17.1,
-  "tsPct": 61.3,
+  "usgPct": 16.8,
+  "tsPct": 60.8,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -73,7 +73,7 @@
       "result": "L",
       "min": 15,
       "pts": 15,
-      "adjPts": 15.4,
+      "adjPts": 15.5,
       "pointsPlus": 124
     },
     {
@@ -109,7 +109,7 @@
       "result": "L",
       "min": 23,
       "pts": 8,
-      "adjPts": 8.4,
+      "adjPts": 8.5,
       "pointsPlus": 68
     },
     {
@@ -163,7 +163,7 @@
       "result": "W",
       "min": 24,
       "pts": 19,
-      "adjPts": 18.4,
+      "adjPts": 18.5,
       "pointsPlus": 148
     },
     {
@@ -209,7 +209,7 @@
       "min": 13,
       "pts": 3,
       "adjPts": 2.9,
-      "pointsPlus": 24
+      "pointsPlus": 23
     },
     {
       "date": "2026-01-17",
@@ -217,7 +217,7 @@
       "result": "L",
       "min": 23,
       "pts": 16,
-      "adjPts": 17.0,
+      "adjPts": 17.1,
       "pointsPlus": 137
     },
     {
@@ -235,7 +235,7 @@
       "result": "W",
       "min": 14,
       "pts": 8,
-      "adjPts": 7.9,
+      "adjPts": 7.8,
       "pointsPlus": 63
     },
     {
@@ -244,7 +244,7 @@
       "result": "W",
       "min": 15,
       "pts": 8,
-      "adjPts": 8.3,
+      "adjPts": 8.2,
       "pointsPlus": 66
     },
     {
@@ -262,7 +262,7 @@
       "result": "W",
       "min": 20,
       "pts": 13,
-      "adjPts": 13.8,
+      "adjPts": 13.9,
       "pointsPlus": 111
     },
     {
@@ -289,7 +289,7 @@
       "result": "W",
       "min": 28,
       "pts": 13,
-      "adjPts": 12.7,
+      "adjPts": 12.8,
       "pointsPlus": 102
     },
     {
@@ -298,7 +298,7 @@
       "result": "W",
       "min": 25,
       "pts": 20,
-      "adjPts": 18.4,
+      "adjPts": 18.5,
       "pointsPlus": 148
     },
     {
@@ -318,6 +318,15 @@
       "pts": 12,
       "adjPts": 12.1,
       "pointsPlus": 97
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "ATL @ CHA",
+      "result": "L",
+      "min": 23,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 16
     }
   ]
 }

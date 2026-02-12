@@ -2,16 +2,16 @@
   "id": 1630170,
   "name": "Devin Vassell",
   "team": "SAS",
-  "rank": 102,
-  "gp": 40,
-  "ppg": 14.2,
-  "adjPpg": 14.2,
-  "pointsPlus": 114,
-  "mpg": 30.9,
+  "rank": 105,
+  "gp": 41,
+  "ppg": 14.1,
+  "adjPpg": 14.0,
+  "pointsPlus": 113,
+  "mpg": 30.8,
   "position": "G-F",
   "jersey": "24",
-  "usgPct": 18.4,
-  "tsPct": 55.2,
+  "usgPct": 18.3,
+  "tsPct": 55.0,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -28,7 +28,7 @@
       "result": "W",
       "min": 40,
       "pts": 23,
-      "adjPts": 22.2,
+      "adjPts": 22.1,
       "pointsPlus": 178
     },
     {
@@ -119,7 +119,7 @@
       "min": 32,
       "pts": 11,
       "adjPts": 11.2,
-      "pointsPlus": 90
+      "pointsPlus": 89
     },
     {
       "date": "2025-11-16",
@@ -154,8 +154,8 @@
       "result": "L",
       "min": 33,
       "pts": 17,
-      "adjPts": 17.6,
-      "pointsPlus": 141
+      "adjPts": 17.5,
+      "pointsPlus": 140
     },
     {
       "date": "2025-11-26",
@@ -163,7 +163,7 @@
       "result": "W",
       "min": 35,
       "pts": 23,
-      "adjPts": 22.5,
+      "adjPts": 22.4,
       "pointsPlus": 180
     },
     {
@@ -172,8 +172,8 @@
       "result": "W",
       "min": 31,
       "pts": 35,
-      "adjPts": 35.0,
-      "pointsPlus": 281
+      "adjPts": 34.9,
+      "pointsPlus": 280
     },
     {
       "date": "2025-11-30",
@@ -191,7 +191,7 @@
       "min": 28,
       "pts": 12,
       "adjPts": 11.8,
-      "pointsPlus": 95
+      "pointsPlus": 94
     },
     {
       "date": "2025-12-03",
@@ -200,7 +200,7 @@
       "min": 32,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 121
+      "pointsPlus": 120
     },
     {
       "date": "2025-12-05",
@@ -244,7 +244,7 @@
       "result": "W",
       "min": 26,
       "pts": 18,
-      "adjPts": 16.9,
+      "adjPts": 16.8,
       "pointsPlus": 135
     },
     {
@@ -263,7 +263,7 @@
       "min": 31,
       "pts": 11,
       "adjPts": 10.3,
-      "pointsPlus": 83
+      "pointsPlus": 82
     },
     {
       "date": "2025-12-23",
@@ -272,7 +272,7 @@
       "min": 28,
       "pts": 17,
       "adjPts": 18.3,
-      "pointsPlus": 147
+      "pointsPlus": 146
     },
     {
       "date": "2025-12-25",
@@ -289,7 +289,7 @@
       "result": "L",
       "min": 35,
       "pts": 11,
-      "adjPts": 10.1,
+      "adjPts": 10.2,
       "pointsPlus": 81
     },
     {
@@ -308,7 +308,7 @@
       "min": 25,
       "pts": 13,
       "adjPts": 12.5,
-      "pointsPlus": 101
+      "pointsPlus": 100
     },
     {
       "date": "2026-01-28",
@@ -335,7 +335,7 @@
       "min": 28,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 129
+      "pointsPlus": 128
     },
     {
       "date": "2026-02-04",
@@ -372,6 +372,15 @@
       "pts": 9,
       "adjPts": 8.9,
       "pointsPlus": 71
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "SAS @ GSW",
+      "result": "W",
+      "min": 28,
+      "pts": 8,
+      "adjPts": 8.1,
+      "pointsPlus": 65
     }
   ]
 }

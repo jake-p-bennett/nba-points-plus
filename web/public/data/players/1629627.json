@@ -2,11 +2,11 @@
   "id": 1629627,
   "name": "Zion Williamson",
   "team": "NOP",
-  "rank": 32,
-  "gp": 39,
-  "ppg": 21.5,
+  "rank": 31,
+  "gp": 40,
+  "ppg": 21.6,
   "adjPpg": 21.5,
-  "pointsPlus": 172,
+  "pointsPlus": 173,
   "mpg": 29.6,
   "position": "F",
   "jersey": "1",
@@ -20,7 +20,7 @@
       "min": 33,
       "pts": 27,
       "adjPts": 26.5,
-      "pointsPlus": 213
+      "pointsPlus": 212
     },
     {
       "date": "2025-10-24",
@@ -74,7 +74,7 @@
       "min": 30,
       "pts": 22,
       "adjPts": 21.8,
-      "pointsPlus": 175
+      "pointsPlus": 174
     },
     {
       "date": "2025-11-24",
@@ -100,8 +100,8 @@
       "result": "L",
       "min": 31,
       "pts": 25,
-      "adjPts": 25.4,
-      "pointsPlus": 204
+      "adjPts": 25.3,
+      "pointsPlus": 203
     },
     {
       "date": "2025-12-14",
@@ -118,7 +118,7 @@
       "result": "W",
       "min": 21,
       "pts": 9,
-      "adjPts": 9.5,
+      "adjPts": 9.6,
       "pointsPlus": 77
     },
     {
@@ -154,8 +154,8 @@
       "result": "L",
       "min": 28,
       "pts": 20,
-      "adjPts": 20.7,
-      "pointsPlus": 166
+      "adjPts": 20.6,
+      "pointsPlus": 165
     },
     {
       "date": "2025-12-27",
@@ -163,7 +163,7 @@
       "result": "L",
       "min": 29,
       "pts": 22,
-      "adjPts": 22.7,
+      "adjPts": 22.6,
       "pointsPlus": 182
     },
     {
@@ -172,8 +172,8 @@
       "result": "L",
       "min": 29,
       "pts": 32,
-      "adjPts": 32.9,
-      "pointsPlus": 264
+      "adjPts": 33.0,
+      "pointsPlus": 265
     },
     {
       "date": "2025-12-31",
@@ -182,7 +182,7 @@
       "min": 29,
       "pts": 31,
       "adjPts": 29.6,
-      "pointsPlus": 238
+      "pointsPlus": 237
     },
     {
       "date": "2026-01-02",
@@ -190,8 +190,8 @@
       "result": "L",
       "min": 31,
       "pts": 35,
-      "adjPts": 34.2,
-      "pointsPlus": 275
+      "adjPts": 34.1,
+      "pointsPlus": 273
     },
     {
       "date": "2026-01-04",
@@ -226,8 +226,8 @@
       "result": "W",
       "min": 29,
       "pts": 31,
-      "adjPts": 29.1,
-      "pointsPlus": 233
+      "adjPts": 29.0,
+      "pointsPlus": 232
     },
     {
       "date": "2026-01-11",
@@ -289,7 +289,7 @@
       "result": "W",
       "min": 33,
       "pts": 24,
-      "adjPts": 23.6,
+      "adjPts": 23.5,
       "pointsPlus": 189
     },
     {
@@ -307,7 +307,7 @@
       "result": "L",
       "min": 34,
       "pts": 21,
-      "adjPts": 22.5,
+      "adjPts": 22.6,
       "pointsPlus": 181
     },
     {
@@ -352,7 +352,7 @@
       "result": "W",
       "min": 32,
       "pts": 29,
-      "adjPts": 29.1,
+      "adjPts": 29.2,
       "pointsPlus": 234
     },
     {
@@ -362,7 +362,16 @@
       "min": 27,
       "pts": 18,
       "adjPts": 17.3,
-      "pointsPlus": 139
+      "pointsPlus": 138
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "NOP vs. MIA",
+      "result": "L",
+      "min": 33,
+      "pts": 25,
+      "adjPts": 24.5,
+      "pointsPlus": 197
     }
   ]
 }

@@ -3,14 +3,14 @@
   "name": "Tyrese Maxey",
   "team": "PHI",
   "rank": 5,
-  "gp": 51,
-  "ppg": 28.8,
-  "adjPpg": 29.0,
+  "gp": 52,
+  "ppg": 28.9,
+  "adjPpg": 29.1,
   "pointsPlus": 233,
-  "mpg": 38.8,
+  "mpg": 38.6,
   "position": "G",
   "jersey": "0",
-  "usgPct": 28.2,
+  "usgPct": 28.3,
   "tsPct": 59.8,
   "gameLog": [
     {
@@ -38,7 +38,7 @@
       "min": 42,
       "pts": 43,
       "adjPts": 43.1,
-      "pointsPlus": 346
+      "pointsPlus": 345
     },
     {
       "date": "2025-10-28",
@@ -46,8 +46,8 @@
       "result": "W",
       "min": 47,
       "pts": 39,
-      "adjPts": 36.6,
-      "pointsPlus": 293
+      "adjPts": 36.5,
+      "pointsPlus": 292
     },
     {
       "date": "2025-10-31",
@@ -74,7 +74,7 @@
       "min": 39,
       "pts": 39,
       "adjPts": 37.2,
-      "pointsPlus": 299
+      "pointsPlus": 298
     },
     {
       "date": "2025-11-05",
@@ -92,7 +92,7 @@
       "min": 43,
       "pts": 31,
       "adjPts": 32.0,
-      "pointsPlus": 257
+      "pointsPlus": 256
     },
     {
       "date": "2025-11-09",
@@ -100,8 +100,8 @@
       "result": "L",
       "min": 38,
       "pts": 33,
-      "adjPts": 34.8,
-      "pointsPlus": 279
+      "adjPts": 34.9,
+      "pointsPlus": 280
     },
     {
       "date": "2025-11-11",
@@ -110,7 +110,7 @@
       "min": 34,
       "pts": 21,
       "adjPts": 22.4,
-      "pointsPlus": 180
+      "pointsPlus": 179
     },
     {
       "date": "2025-11-14",
@@ -118,8 +118,8 @@
       "result": "L",
       "min": 40,
       "pts": 31,
-      "adjPts": 32.7,
-      "pointsPlus": 262
+      "adjPts": 32.8,
+      "pointsPlus": 263
     },
     {
       "date": "2025-11-17",
@@ -137,7 +137,7 @@
       "min": 39,
       "pts": 24,
       "adjPts": 24.7,
-      "pointsPlus": 199
+      "pointsPlus": 198
     },
     {
       "date": "2025-11-20",
@@ -145,7 +145,7 @@
       "result": "W",
       "min": 47,
       "pts": 54,
-      "adjPts": 53.9,
+      "adjPts": 54.0,
       "pointsPlus": 433
     },
     {
@@ -190,8 +190,8 @@
       "result": "W",
       "min": 29,
       "pts": 35,
-      "adjPts": 32.8,
-      "pointsPlus": 263
+      "adjPts": 32.7,
+      "pointsPlus": 262
     },
     {
       "date": "2025-12-04",
@@ -199,7 +199,7 @@
       "result": "W",
       "min": 40,
       "pts": 35,
-      "adjPts": 35.6,
+      "adjPts": 35.5,
       "pointsPlus": 285
     },
     {
@@ -226,7 +226,7 @@
       "result": "W",
       "min": 38,
       "pts": 30,
-      "adjPts": 30.8,
+      "adjPts": 31.0,
       "pointsPlus": 248
     },
     {
@@ -236,7 +236,7 @@
       "min": 41,
       "pts": 38,
       "adjPts": 37.6,
-      "pointsPlus": 302
+      "pointsPlus": 301
     },
     {
       "date": "2025-12-23",
@@ -271,8 +271,8 @@
       "result": "W",
       "min": 43,
       "pts": 34,
-      "adjPts": 33.4,
-      "pointsPlus": 268
+      "adjPts": 33.3,
+      "pointsPlus": 267
     },
     {
       "date": "2026-01-01",
@@ -289,8 +289,8 @@
       "result": "W",
       "min": 37,
       "pts": 36,
-      "adjPts": 37.0,
-      "pointsPlus": 297
+      "adjPts": 37.1,
+      "pointsPlus": 298
     },
     {
       "date": "2026-01-05",
@@ -298,8 +298,8 @@
       "result": "L",
       "min": 46,
       "pts": 28,
-      "adjPts": 28.0,
-      "pointsPlus": 225
+      "adjPts": 27.9,
+      "pointsPlus": 224
     },
     {
       "date": "2026-01-07",
@@ -308,7 +308,7 @@
       "min": 28,
       "pts": 22,
       "adjPts": 20.6,
-      "pointsPlus": 166
+      "pointsPlus": 165
     },
     {
       "date": "2026-01-09",
@@ -370,8 +370,8 @@
       "result": "L",
       "min": 43,
       "pts": 20,
-      "adjPts": 20.7,
-      "pointsPlus": 166
+      "adjPts": 20.6,
+      "pointsPlus": 165
     },
     {
       "date": "2026-01-22",
@@ -380,7 +380,7 @@
       "min": 43,
       "pts": 36,
       "adjPts": 38.2,
-      "pointsPlus": 307
+      "pointsPlus": 306
     },
     {
       "date": "2026-01-24",
@@ -388,7 +388,7 @@
       "result": "L",
       "min": 38,
       "pts": 22,
-      "adjPts": 22.6,
+      "adjPts": 22.7,
       "pointsPlus": 182
     },
     {
@@ -415,8 +415,8 @@
       "result": "W",
       "min": 41,
       "pts": 40,
-      "adjPts": 38.4,
-      "pointsPlus": 308
+      "adjPts": 38.3,
+      "pointsPlus": 307
     },
     {
       "date": "2026-01-31",
@@ -460,8 +460,8 @@
       "result": "W",
       "min": 40,
       "pts": 29,
-      "adjPts": 30.0,
-      "pointsPlus": 240
+      "adjPts": 29.8,
+      "pointsPlus": 239
     },
     {
       "date": "2026-02-09",
@@ -469,8 +469,17 @@
       "result": "L",
       "min": 32,
       "pts": 30,
-      "adjPts": 29.3,
-      "pointsPlus": 235
+      "adjPts": 29.2,
+      "pointsPlus": 234
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "PHI vs. NYK",
+      "result": "L",
+      "min": 32,
+      "pts": 32,
+      "adjPts": 33.0,
+      "pointsPlus": 265
     }
   ]
 }

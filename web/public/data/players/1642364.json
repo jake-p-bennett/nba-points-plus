@@ -2,16 +2,16 @@
   "id": 1642364,
   "name": "Jamir Watkins",
   "team": "WAS",
-  "rank": 305,
-  "gp": 26,
-  "ppg": 4.5,
-  "adjPpg": 4.5,
-  "pointsPlus": 36,
-  "mpg": 17.7,
+  "rank": 299,
+  "gp": 27,
+  "ppg": 5.0,
+  "adjPpg": 5.0,
+  "pointsPlus": 40,
+  "mpg": 18.1,
   "position": "F",
   "jersey": "5",
-  "usgPct": 11.6,
-  "tsPct": 50.2,
+  "usgPct": 12.4,
+  "tsPct": 49.8,
   "gameLog": [
     {
       "date": "2025-10-28",
@@ -190,7 +190,7 @@
       "result": "W",
       "min": 12,
       "pts": 2,
-      "adjPts": 2.0,
+      "adjPts": 1.9,
       "pointsPlus": 16
     },
     {
@@ -218,7 +218,7 @@
       "min": 16,
       "pts": 8,
       "adjPts": 7.7,
-      "pointsPlus": 62
+      "pointsPlus": 61
     },
     {
       "date": "2026-02-05",
@@ -246,6 +246,15 @@
       "pts": 12,
       "adjPts": 11.8,
       "pointsPlus": 94
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "WAS @ CLE",
+      "result": "L",
+      "min": 29,
+      "pts": 16,
+      "adjPts": 15.9,
+      "pointsPlus": 128
     }
   ]
 }

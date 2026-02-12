@@ -2,16 +2,16 @@
   "id": 1630572,
   "name": "Sandro Mamukelashvili",
   "team": "TOR",
-  "rank": 154,
-  "gp": 52,
-  "ppg": 11.5,
+  "rank": 156,
+  "gp": 53,
+  "ppg": 11.4,
   "adjPpg": 11.4,
-  "pointsPlus": 92,
+  "pointsPlus": 91,
   "mpg": 22.7,
   "position": "F-C",
   "jersey": "54",
-  "usgPct": 17.7,
-  "tsPct": 64.2,
+  "usgPct": 17.8,
+  "tsPct": 63.8,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -64,7 +64,7 @@
       "result": "W",
       "min": 19,
       "pts": 11,
-      "adjPts": 10.9,
+      "adjPts": 11.0,
       "pointsPlus": 88
     },
     {
@@ -91,7 +91,7 @@
       "result": "W",
       "min": 21,
       "pts": 12,
-      "adjPts": 11.6,
+      "adjPts": 11.7,
       "pointsPlus": 93
     },
     {
@@ -136,7 +136,7 @@
       "result": "W",
       "min": 15,
       "pts": 7,
-      "adjPts": 7.1,
+      "adjPts": 7.0,
       "pointsPlus": 57
     },
     {
@@ -145,8 +145,8 @@
       "result": "W",
       "min": 21,
       "pts": 23,
-      "adjPts": 21.6,
-      "pointsPlus": 173
+      "adjPts": 21.5,
+      "pointsPlus": 172
     },
     {
       "date": "2025-11-23",
@@ -199,7 +199,7 @@
       "result": "W",
       "min": 19,
       "pts": 6,
-      "adjPts": 5.9,
+      "adjPts": 5.8,
       "pointsPlus": 47
     },
     {
@@ -290,7 +290,7 @@
       "min": 33,
       "pts": 13,
       "adjPts": 12.2,
-      "pointsPlus": 98
+      "pointsPlus": 97
     },
     {
       "date": "2025-12-28",
@@ -308,7 +308,7 @@
       "min": 23,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-12-31",
@@ -334,7 +334,7 @@
       "result": "W",
       "min": 23,
       "pts": 12,
-      "adjPts": 11.6,
+      "adjPts": 11.7,
       "pointsPlus": 93
     },
     {
@@ -343,7 +343,7 @@
       "result": "W",
       "min": 25,
       "pts": 10,
-      "adjPts": 10.1,
+      "adjPts": 10.2,
       "pointsPlus": 81
     },
     {
@@ -415,8 +415,8 @@
       "result": "W",
       "min": 35,
       "pts": 22,
-      "adjPts": 21.5,
-      "pointsPlus": 173
+      "adjPts": 21.4,
+      "pointsPlus": 172
     },
     {
       "date": "2026-01-25",
@@ -451,7 +451,7 @@
       "result": "W",
       "min": 30,
       "pts": 20,
-      "adjPts": 18.4,
+      "adjPts": 18.5,
       "pointsPlus": 148
     },
     {
@@ -478,8 +478,17 @@
       "result": "W",
       "min": 22,
       "pts": 17,
-      "adjPts": 16.5,
+      "adjPts": 16.6,
       "pointsPlus": 133
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "TOR vs. DET",
+      "result": "L",
+      "min": 20,
+      "pts": 7,
+      "adjPts": 7.4,
+      "pointsPlus": 59
     }
   ]
 }

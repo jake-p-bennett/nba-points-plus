@@ -2,16 +2,16 @@
   "id": 1626171,
   "name": "Bobby Portis",
   "team": "MIL",
-  "rank": 115,
-  "gp": 49,
-  "ppg": 13.3,
-  "adjPpg": 13.3,
-  "pointsPlus": 107,
-  "mpg": 24.3,
+  "rank": 122,
+  "gp": 50,
+  "ppg": 13.1,
+  "adjPpg": 13.2,
+  "pointsPlus": 106,
+  "mpg": 24.1,
   "position": "F",
   "jersey": "9",
   "usgPct": 22.2,
-  "tsPct": 57.9,
+  "tsPct": 57.7,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -145,7 +145,7 @@
       "result": "L",
       "min": 27,
       "pts": 11,
-      "adjPts": 10.9,
+      "adjPts": 11.0,
       "pointsPlus": 88
     },
     {
@@ -154,8 +154,8 @@
       "result": "L",
       "min": 28,
       "pts": 19,
-      "adjPts": 19.2,
-      "pointsPlus": 154
+      "adjPts": 19.1,
+      "pointsPlus": 153
     },
     {
       "date": "2025-11-22",
@@ -164,7 +164,7 @@
       "min": 25,
       "pts": 18,
       "adjPts": 19.0,
-      "pointsPlus": 152
+      "pointsPlus": 153
     },
     {
       "date": "2025-11-24",
@@ -172,8 +172,8 @@
       "result": "L",
       "min": 27,
       "pts": 22,
-      "adjPts": 21.5,
-      "pointsPlus": 173
+      "adjPts": 21.4,
+      "pointsPlus": 172
     },
     {
       "date": "2025-11-26",
@@ -226,7 +226,7 @@
       "result": "L",
       "min": 23,
       "pts": 22,
-      "adjPts": 22.2,
+      "adjPts": 22.1,
       "pointsPlus": 178
     },
     {
@@ -263,7 +263,7 @@
       "min": 39,
       "pts": 24,
       "adjPts": 24.7,
-      "pointsPlus": 199
+      "pointsPlus": 198
     },
     {
       "date": "2025-12-21",
@@ -317,7 +317,7 @@
       "min": 20,
       "pts": 13,
       "adjPts": 12.2,
-      "pointsPlus": 98
+      "pointsPlus": 97
     },
     {
       "date": "2026-01-02",
@@ -388,7 +388,7 @@
       "result": "W",
       "min": 24,
       "pts": 19,
-      "adjPts": 18.4,
+      "adjPts": 18.5,
       "pointsPlus": 148
     },
     {
@@ -415,8 +415,8 @@
       "result": "L",
       "min": 36,
       "pts": 17,
-      "adjPts": 17.2,
-      "pointsPlus": 138
+      "adjPts": 17.1,
+      "pointsPlus": 137
     },
     {
       "date": "2026-01-29",
@@ -425,7 +425,7 @@
       "min": 36,
       "pts": 19,
       "adjPts": 17.8,
-      "pointsPlus": 143
+      "pointsPlus": 142
     },
     {
       "date": "2026-02-01",
@@ -453,6 +453,15 @@
       "pts": 10,
       "adjPts": 10.0,
       "pointsPlus": 80
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "MIL @ ORL",
+      "result": "W",
+      "min": 16,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 32
     }
   ]
 }

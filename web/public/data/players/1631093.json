@@ -2,16 +2,16 @@
   "id": 1631093,
   "name": "Jaden Ivey",
   "team": "CHI",
-  "rank": 209,
-  "gp": 36,
+  "rank": 210,
+  "gp": 37,
   "ppg": 8.5,
-  "adjPpg": 8.5,
-  "pointsPlus": 68,
-  "mpg": 17.8,
+  "adjPpg": 8.6,
+  "pointsPlus": 69,
+  "mpg": 18.1,
   "position": "G",
   "jersey": "31",
-  "usgPct": 19.5,
-  "tsPct": 57.3,
+  "usgPct": 19.2,
+  "tsPct": 57.1,
   "gameLog": [
     {
       "date": "2025-11-22",
@@ -82,7 +82,7 @@
       "result": "W",
       "min": 10,
       "pts": 2,
-      "adjPts": 2.0,
+      "adjPts": 1.9,
       "pointsPlus": 16
     },
     {
@@ -146,7 +146,7 @@
       "min": 14,
       "pts": 8,
       "adjPts": 7.7,
-      "pointsPlus": 62
+      "pointsPlus": 61
     },
     {
       "date": "2025-12-26",
@@ -154,7 +154,7 @@
       "result": "L",
       "min": 14,
       "pts": 11,
-      "adjPts": 10.1,
+      "adjPts": 10.2,
       "pointsPlus": 81
     },
     {
@@ -226,7 +226,7 @@
       "result": "W",
       "min": 17,
       "pts": 15,
-      "adjPts": 15.5,
+      "adjPts": 15.4,
       "pointsPlus": 124
     },
     {
@@ -336,6 +336,15 @@
       "pts": 13,
       "adjPts": 13.1,
       "pointsPlus": 105
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "CHI @ BOS",
+      "result": "L",
+      "min": 29,
+      "pts": 10,
+      "adjPts": 10.7,
+      "pointsPlus": 85
     }
   ]
 }

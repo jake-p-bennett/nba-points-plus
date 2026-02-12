@@ -2,16 +2,16 @@
   "id": 1630643,
   "name": "Jay Huff",
   "team": "IND",
-  "rank": 206,
-  "gp": 54,
-  "ppg": 8.6,
-  "adjPpg": 8.6,
+  "rank": 207,
+  "gp": 55,
+  "ppg": 8.7,
+  "adjPpg": 8.7,
   "pointsPlus": 69,
-  "mpg": 19.8,
+  "mpg": 20.0,
   "position": "C",
   "jersey": "32",
-  "usgPct": 17.0,
-  "tsPct": 59.5,
+  "usgPct": 16.9,
+  "tsPct": 59.4,
   "gameLog": [
     {
       "date": "2025-10-23",
@@ -227,7 +227,7 @@
       "min": 31,
       "pts": 8,
       "adjPts": 7.7,
-      "pointsPlus": 62
+      "pointsPlus": 61
     },
     {
       "date": "2025-12-12",
@@ -245,7 +245,7 @@
       "min": 25,
       "pts": 13,
       "adjPts": 12.2,
-      "pointsPlus": 98
+      "pointsPlus": 97
     },
     {
       "date": "2025-12-18",
@@ -352,7 +352,7 @@
       "result": "W",
       "min": 24,
       "pts": 10,
-      "adjPts": 10.1,
+      "adjPts": 10.2,
       "pointsPlus": 81
     },
     {
@@ -361,7 +361,7 @@
       "result": "W",
       "min": 19,
       "pts": 8,
-      "adjPts": 7.8,
+      "adjPts": 7.9,
       "pointsPlus": 63
     },
     {
@@ -442,7 +442,7 @@
       "result": "W",
       "min": 23,
       "pts": 10,
-      "adjPts": 9.6,
+      "adjPts": 9.5,
       "pointsPlus": 77
     },
     {
@@ -469,7 +469,7 @@
       "result": "L",
       "min": 25,
       "pts": 12,
-      "adjPts": 11.0,
+      "adjPts": 11.1,
       "pointsPlus": 89
     },
     {
@@ -498,6 +498,15 @@
       "pts": 10,
       "adjPts": 10.3,
       "pointsPlus": 83
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "IND @ BKN",
+      "result": "W",
+      "min": 31,
+      "pts": 11,
+      "adjPts": 11.1,
+      "pointsPlus": 89
     }
   ]
 }

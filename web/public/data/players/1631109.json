@@ -2,15 +2,15 @@
   "id": 1631109,
   "name": "Mark Williams",
   "team": "PHX",
-  "rank": 139,
-  "gp": 49,
-  "ppg": 12.2,
-  "adjPpg": 12.2,
-  "pointsPlus": 98,
-  "mpg": 24.2,
+  "rank": 142,
+  "gp": 50,
+  "ppg": 12.1,
+  "adjPpg": 12.1,
+  "pointsPlus": 97,
+  "mpg": 24.0,
   "position": "C",
   "jersey": "15",
-  "usgPct": 16.6,
+  "usgPct": 16.5,
   "tsPct": 69.8,
   "gameLog": [
     {
@@ -29,7 +29,7 @@
       "min": 14,
       "pts": 2,
       "adjPts": 2.1,
-      "pointsPlus": 16
+      "pointsPlus": 17
     },
     {
       "date": "2025-10-27",
@@ -37,8 +37,8 @@
       "result": "L",
       "min": 31,
       "pts": 25,
-      "adjPts": 23.0,
-      "pointsPlus": 184
+      "adjPts": 23.1,
+      "pointsPlus": 185
     },
     {
       "date": "2025-10-29",
@@ -47,7 +47,7 @@
       "min": 28,
       "pts": 20,
       "adjPts": 19.6,
-      "pointsPlus": 158
+      "pointsPlus": 157
     },
     {
       "date": "2025-10-31",
@@ -56,7 +56,7 @@
       "min": 25,
       "pts": 9,
       "adjPts": 8.3,
-      "pointsPlus": 66
+      "pointsPlus": 67
     },
     {
       "date": "2025-11-02",
@@ -73,8 +73,8 @@
       "result": "L",
       "min": 27,
       "pts": 16,
-      "adjPts": 16.3,
-      "pointsPlus": 131
+      "adjPts": 16.2,
+      "pointsPlus": 130
     },
     {
       "date": "2025-11-06",
@@ -91,7 +91,7 @@
       "result": "W",
       "min": 29,
       "pts": 19,
-      "adjPts": 19.5,
+      "adjPts": 19.6,
       "pointsPlus": 157
     },
     {
@@ -127,8 +127,8 @@
       "result": "W",
       "min": 21,
       "pts": 15,
-      "adjPts": 14.7,
-      "pointsPlus": 118
+      "adjPts": 14.6,
+      "pointsPlus": 117
     },
     {
       "date": "2025-11-21",
@@ -155,7 +155,7 @@
       "min": 29,
       "pts": 21,
       "adjPts": 20.1,
-      "pointsPlus": 162
+      "pointsPlus": 161
     },
     {
       "date": "2025-11-28",
@@ -236,7 +236,7 @@
       "min": 21,
       "pts": 18,
       "adjPts": 17.8,
-      "pointsPlus": 143
+      "pointsPlus": 142
     },
     {
       "date": "2025-12-26",
@@ -245,7 +245,7 @@
       "min": 27,
       "pts": 24,
       "adjPts": 23.1,
-      "pointsPlus": 186
+      "pointsPlus": 185
     },
     {
       "date": "2025-12-27",
@@ -299,7 +299,7 @@
       "min": 27,
       "pts": 12,
       "adjPts": 11.8,
-      "pointsPlus": 95
+      "pointsPlus": 94
     },
     {
       "date": "2026-01-09",
@@ -317,7 +317,7 @@
       "min": 22,
       "pts": 11,
       "adjPts": 10.3,
-      "pointsPlus": 83
+      "pointsPlus": 82
     },
     {
       "date": "2026-01-13",
@@ -325,7 +325,7 @@
       "result": "L",
       "min": 31,
       "pts": 18,
-      "adjPts": 17.6,
+      "adjPts": 17.7,
       "pointsPlus": 142
     },
     {
@@ -424,8 +424,8 @@
       "result": "W",
       "min": 26,
       "pts": 24,
-      "adjPts": 23.5,
-      "pointsPlus": 188
+      "adjPts": 23.4,
+      "pointsPlus": 187
     },
     {
       "date": "2026-02-05",
@@ -434,7 +434,7 @@
       "min": 23,
       "pts": 11,
       "adjPts": 11.2,
-      "pointsPlus": 90
+      "pointsPlus": 89
     },
     {
       "date": "2026-02-07",
@@ -453,6 +453,15 @@
       "pts": 13,
       "adjPts": 12.9,
       "pointsPlus": 103
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "PHX vs. OKC",
+      "result": "L",
+      "min": 16,
+      "pts": 6,
+      "adjPts": 6.4,
+      "pointsPlus": 52
     }
   ]
 }
