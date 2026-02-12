@@ -16,6 +16,14 @@ export function getPointsPlusBarColor(value: number): string {
   return "#ef4444";
 }
 
+export function getStdDevColor(value: number): string {
+  if (value >= 60) return "text-amber-400";
+  if (value >= 50) return "text-orange-300";
+  if (value >= 40) return "text-slate-300";
+  if (value >= 30) return "text-sky-300";
+  return "text-teal-400";
+}
+
 export function getRankAccent(rank: number): string {
   if (rank === 1) return "border-l-4 border-l-amber-400";
   if (rank === 2) return "border-l-4 border-l-slate-300";

@@ -137,8 +137,9 @@ def calculate(game_logs, team_stats, player_index, player_advanced):
         adv_data = player_advanced[adv_cols].drop_duplicates(subset=["PLAYER_ID"])
         qualifying = qualifying.merge(adv_data, on="PLAYER_ID", how="left")
 
-    # Build per-player game logs
+    # Build per-player game logs and compute per-player stddev
     player_game_logs = {}
+    pp_std_devs = {}
     for pid in qualifying["PLAYER_ID"].values:
         plogs = game_logs[game_logs["PLAYER_ID"] == pid].copy()
         plogs = plogs.sort_values("GAME_DATE")
@@ -146,10 +147,19 @@ def calculate(game_logs, team_stats, player_index, player_advanced):
         # Compute per-game Points+ (relative to league avg adj ppg)
         plogs["GAME_POINTS_PLUS"] = (plogs["ADJUSTED_PTS"] / league_avg_adj_ppg * 100).round(0).astype(int)
 
+        pp_std_devs[int(pid)] = round(float(np.std(plogs["GAME_POINTS_PLUS"].values)), 1)
+
         player_game_logs[int(pid)] = plogs[[
             "GAME_DATE", "MATCHUP", "WL", "MIN", "PTS",
             "ADJUSTED_PTS", "GAME_POINTS_PLUS"
         ]].to_dict("records")
+
+    # Add stddev and volatility percentile to qualifying DataFrame
+    qualifying["PP_STD_DEV"] = qualifying["PLAYER_ID"].map(
+        lambda pid: pp_std_devs.get(int(pid), 0.0)
+    )
+    # Percentile: % of players whose stddev is lower than this player's
+    qualifying["VOLATILITY_PERCENTILE"] = qualifying["PP_STD_DEV"].rank(pct=True).mul(100).round(0).astype(int)
 
     return qualifying, player_game_logs, league_avg_adj_ppg
 

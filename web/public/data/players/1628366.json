@@ -11,6 +11,8 @@
   "position": "G",
   "usgPct": 13.0,
   "tsPct": 43.2,
+  "pointsPlusStdDev": 29.5,
+  "volatilityPctile": 6,
   "gameLog": [
     {
       "date": "2025-10-22",

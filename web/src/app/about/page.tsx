@@ -199,6 +199,38 @@ export default function AboutPage() {
             </div>
           </section>
 
+          {/* Scoring Volatility */}
+          <section>
+            <h2 className="text-xl font-semibold text-white mb-3">Scoring Volatility (Std Dev)</h2>
+            <p>
+              The <strong className="text-white">Std Dev</strong> column on the leaderboard
+              measures how much a player&apos;s game-level Points+ fluctuates from game to game.
+              It&apos;s the standard deviation of all their individual-game Points+ scores.
+            </p>
+            <p className="mt-3">
+              A <strong className="text-white">low</strong> standard deviation means the player
+              puts up similar scoring performances every night — they&apos;re consistent and
+              predictable. A <strong className="text-white">high</strong> standard deviation means
+              the player swings between big games and quiet ones — they&apos;re streaky and volatile.
+            </p>
+            <p className="mt-3 mb-4">
+              On individual player pages, you&apos;ll see a volatility callout that ranks the player
+              against the rest of the league — e.g. &ldquo;top 8% most consistent scorer&rdquo; or
+              &ldquo;top 12% most volatile scorer.&rdquo;
+            </p>
+
+            <h3 className="text-sm font-medium text-slate-400 uppercase tracking-wider mb-3">
+              Std Dev Color Scale
+            </h3>
+            <div className="grid grid-cols-2 sm:grid-cols-3 gap-2">
+              <StdDevScaleItem color="text-teal-400" range="Below 30" label="Very Consistent" />
+              <StdDevScaleItem color="text-sky-300" range="30–40" label="Consistent" />
+              <StdDevScaleItem color="text-slate-300" range="40–50" label="Average" />
+              <StdDevScaleItem color="text-orange-300" range="50–60" label="Streaky" />
+              <StdDevScaleItem color="text-amber-400" range="60+" label="Very Streaky" />
+            </div>
+          </section>
+
           {/* Limitations */}
           <section>
             <h2 className="text-xl font-semibold text-white mb-3">Limitations</h2>
@@ -270,6 +302,15 @@ function ColorScaleItem({ color, range, label }: { color: string; range: string;
       <span className={`inline-block rounded-full px-2 py-0.5 text-xs font-semibold ${color}`}>
         {range}
       </span>
+      <span className="text-sm text-slate-400">{label}</span>
+    </div>
+  );
+}
+
+function StdDevScaleItem({ color, range, label }: { color: string; range: string; label: string }) {
+  return (
+    <div className="flex items-center gap-2 rounded-lg border border-slate-800 bg-slate-900 px-3 py-2">
+      <span className={`text-sm font-semibold ${color}`}>{range}</span>
       <span className="text-sm text-slate-400">{label}</span>
     </div>
   );

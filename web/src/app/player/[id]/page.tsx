@@ -7,6 +7,8 @@ import Footer from "@/components/Footer";
 import PointsPlusBadge from "@/components/PointsPlusBadge";
 import PlayerImage from "@/components/PlayerImage";
 import GameLogChart from "@/components/GameLogChart";
+import PointsPlusHistogram from "@/components/PointsPlusHistogram";
+import VolatilityCallout from "@/components/VolatilityCallout";
 
 export function generateStaticParams() {
   const players = getLeaderboard();
@@ -71,6 +73,22 @@ export default async function PlayerPage({ params }: { params: Promise<{ id: str
         <div className="mb-8">
           <GameLogChart gameLog={player.gameLog} />
         </div>
+
+        {/* Points+ distribution histogram */}
+        <div className="mb-8">
+          <PointsPlusHistogram gameLog={player.gameLog} />
+        </div>
+
+        {/* Volatility callout */}
+        {player.pointsPlusStdDev != null && player.volatilityPctile != null && (
+          <div className="mb-8">
+            <VolatilityCallout
+              pointsPlusStdDev={player.pointsPlusStdDev}
+              volatilityPctile={player.volatilityPctile}
+              name={player.name}
+            />
+          </div>
+        )}
 
         {/* Game log table */}
         <div className="rounded-lg border border-slate-800 overflow-x-auto">

@@ -12,6 +12,8 @@
   "jersey": "45",
   "usgPct": 13.6,
   "tsPct": 56.0,
+  "pointsPlusStdDev": 34.5,
+  "volatilityPctile": 13,
   "gameLog": [
     {
       "date": "2025-10-22",

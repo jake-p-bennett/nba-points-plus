@@ -4,7 +4,7 @@ import { useState } from "react";
 import Link from "next/link";
 import { ChevronUp, ChevronDown } from "lucide-react";
 import { LeaderboardPlayer, SortField, SortDirection } from "@/lib/types";
-import { getRankAccent } from "@/lib/colors";
+import { getRankAccent, getStdDevColor } from "@/lib/colors";
 import PlayerImage from "./PlayerImage";
 import PointsPlusBadge from "./PointsPlusBadge";
 
@@ -27,6 +27,9 @@ export default function Leaderboard({ players }: { players: LeaderboardPlayer[] 
   const sorted = [...players].sort((a, b) => {
     const aVal = a[sortField];
     const bVal = b[sortField];
+    if (aVal == null && bVal == null) return 0;
+    if (aVal == null) return 1;
+    if (bVal == null) return -1;
     if (typeof aVal === "string" && typeof bVal === "string") {
       return sortDir === "asc" ? aVal.localeCompare(bVal) : bVal.localeCompare(aVal);
     }
@@ -72,6 +75,7 @@ export default function Leaderboard({ players }: { players: LeaderboardPlayer[] 
               <ColHeader field="ppg" label="PPG" className="w-16" />
               <ColHeader field="adjPpg" label="Adj PPG" className="w-20" />
               <ColHeader field="pointsPlus" label="Points+" className="w-24" />
+              <ColHeader field="pointsPlusStdDev" label="Std Dev" className="w-20" />
             </tr>
           </thead>
           <tbody className="divide-y divide-slate-800">
@@ -98,6 +102,9 @@ export default function Leaderboard({ players }: { players: LeaderboardPlayer[] 
                 <td className="px-3 py-2.5 text-sm text-slate-300">{player.adjPpg}</td>
                 <td className="px-3 py-2.5">
                   <PointsPlusBadge value={player.pointsPlus} />
+                </td>
+                <td className={`px-3 py-2.5 text-sm font-medium ${player.pointsPlusStdDev != null ? getStdDevColor(player.pointsPlusStdDev) : "text-slate-300"}`}>
+                  {player.pointsPlusStdDev != null ? player.pointsPlusStdDev : "—"}
                 </td>
               </tr>
             ))}

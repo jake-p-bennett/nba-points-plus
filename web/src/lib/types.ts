@@ -12,6 +12,8 @@ export interface LeaderboardPlayer {
   jersey?: string;
   usgPct?: number;
   tsPct?: number;
+  pointsPlusStdDev?: number;
+  volatilityPctile?: number;
 }
 
 export interface GameLogEntry {
@@ -47,5 +49,5 @@ export interface Metadata {
   leagueAvgPointsPlus: number;
 }
 
-export type SortField = "rank" | "name" | "team" | "gp" | "ppg" | "adjPpg" | "pointsPlus" | "mpg";
+export type SortField = "rank" | "name" | "team" | "gp" | "ppg" | "adjPpg" | "pointsPlus" | "pointsPlusStdDev" | "mpg";
 export type SortDirection = "asc" | "desc";

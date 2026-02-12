@@ -12,7 +12,9 @@
     "position": "F-G",
     "jersey": "77",
     "usgPct": 36.6,
-    "tsPct": 61.4
+    "tsPct": 61.4,
+    "pointsPlusStdDev": 65.9,
+    "volatilityPctile": 93
   },
   {
     "id": 1628983,
@@ -27,7 +29,9 @@
     "position": "G",
     "jersey": "2",
     "usgPct": 32.2,
-    "tsPct": 67.0
+    "tsPct": 67.0,
+    "pointsPlusStdDev": 52.0,
+    "volatilityPctile": 68
   },
   {
     "id": 1627759,
@@ -42,7 +46,9 @@
     "position": "G-F",
     "jersey": "7",
     "usgPct": 36.0,
-    "tsPct": 57.1
+    "tsPct": 57.1,
+    "pointsPlusStdDev": 60.5,
+    "volatilityPctile": 88
   },
   {
     "id": 1630162,
@@ -57,7 +63,9 @@
     "position": "G",
     "jersey": "5",
     "usgPct": 30.4,
-    "tsPct": 62.0
+    "tsPct": 62.0,
+    "pointsPlusStdDev": 80.2,
+    "volatilityPctile": 99
   },
   {
     "id": 1630178,
@@ -72,7 +80,9 @@
     "position": "G",
     "jersey": "0",
     "usgPct": 28.3,
-    "tsPct": 59.8
+    "tsPct": 59.8,
+    "pointsPlusStdDev": 72.3,
+    "volatilityPctile": 97
   },
   {
     "id": 1628378,
@@ -87,7 +97,9 @@
     "position": "G",
     "jersey": "45",
     "usgPct": 31.6,
-    "tsPct": 61.9
+    "tsPct": 61.9,
+    "pointsPlusStdDev": 68.2,
+    "volatilityPctile": 95
   },
   {
     "id": 203999,
@@ -102,7 +114,9 @@
     "position": "C",
     "jersey": "15",
     "usgPct": 29.3,
-    "tsPct": 69.9
+    "tsPct": 69.9,
+    "pointsPlusStdDev": 75.6,
+    "volatilityPctile": 98
   },
   {
     "id": 202695,
@@ -117,7 +131,9 @@
     "position": "F",
     "jersey": "2",
     "usgPct": 32.9,
-    "tsPct": 61.9
+    "tsPct": 61.9,
+    "pointsPlusStdDev": 66.4,
+    "volatilityPctile": 93
   },
   {
     "id": 203507,
@@ -132,7 +148,9 @@
     "position": "F",
     "jersey": "34",
     "usgPct": 34.9,
-    "tsPct": 67.9
+    "tsPct": 67.9,
+    "pointsPlusStdDev": 63.9,
+    "volatilityPctile": 91
   },
   {
     "id": 201939,
@@ -147,7 +165,9 @@
     "position": "G",
     "jersey": "30",
     "usgPct": 31.1,
-    "tsPct": 63.6
+    "tsPct": 63.6,
+    "pointsPlusStdDev": 82.0,
+    "volatilityPctile": 100
   },
   {
     "id": 1628973,
@@ -162,7 +182,9 @@
     "position": "G",
     "jersey": "11",
     "usgPct": 30.2,
-    "tsPct": 58.7
+    "tsPct": 58.7,
+    "pointsPlusStdDev": 69.1,
+    "volatilityPctile": 96
   },
   {
     "id": 1628374,
@@ -177,7 +199,9 @@
     "position": "F-C",
     "jersey": "23",
     "usgPct": 26.7,
-    "tsPct": 61.0
+    "tsPct": 61.0,
+    "pointsPlusStdDev": 63.7,
+    "volatilityPctile": 91
   },
   {
     "id": 203954,
@@ -192,7 +216,9 @@
     "position": "C-F",
     "jersey": "21",
     "usgPct": 33.7,
-    "tsPct": 60.6
+    "tsPct": 60.6,
+    "pointsPlusStdDev": 64.2,
+    "volatilityPctile": 92
   },
   {
     "id": 201142,
@@ -207,7 +233,9 @@
     "position": "F",
     "jersey": "7",
     "usgPct": 26.3,
-    "tsPct": 62.7
+    "tsPct": 62.7,
+    "pointsPlusStdDev": 53.1,
+    "volatilityPctile": 71
   },
   {
     "id": 1630559,
@@ -222,7 +250,9 @@
     "position": "G",
     "jersey": "15",
     "usgPct": 28.1,
-    "tsPct": 66.5
+    "tsPct": 66.5,
+    "pointsPlusStdDev": 80.7,
+    "volatilityPctile": 99
   },
   {
     "id": 1627750,
@@ -237,7 +267,9 @@
     "position": "G",
     "jersey": "27",
     "usgPct": 27.6,
-    "tsPct": 61.5
+    "tsPct": 61.5,
+    "pointsPlusStdDev": 69.8,
+    "volatilityPctile": 97
   },
   {
     "id": 1630166,
@@ -252,7 +284,9 @@
     "position": "F",
     "jersey": "8",
     "usgPct": 28.3,
-    "tsPct": 60.6
+    "tsPct": 60.6,
+    "pointsPlusStdDev": 55.7,
+    "volatilityPctile": 78
   },
   {
     "id": 1630595,
@@ -267,7 +301,9 @@
     "position": "G",
     "jersey": "2",
     "usgPct": 29.9,
-    "tsPct": 56.8
+    "tsPct": 56.8,
+    "pointsPlusStdDev": 61.7,
+    "volatilityPctile": 89
   },
   {
     "id": 1629008,
@@ -282,7 +318,9 @@
     "position": "F",
     "jersey": "17",
     "usgPct": 29.3,
-    "tsPct": 60.9
+    "tsPct": 60.9,
+    "pointsPlusStdDev": 61.9,
+    "volatilityPctile": 90
   },
   {
     "id": 1626164,
@@ -297,7 +335,9 @@
     "position": "G",
     "jersey": "1",
     "usgPct": 29.8,
-    "tsPct": 58.0
+    "tsPct": 58.0,
+    "pointsPlusStdDev": 50.8,
+    "volatilityPctile": 64
   },
   {
     "id": 201935,
@@ -312,7 +352,9 @@
     "position": "G",
     "jersey": "1",
     "usgPct": 29.6,
-    "tsPct": 60.1
+    "tsPct": 60.1,
+    "pointsPlusStdDev": 67.7,
+    "volatilityPctile": 94
   },
   {
     "id": 1641705,
@@ -327,7 +369,9 @@
     "position": "F-C",
     "jersey": "1",
     "usgPct": 31.7,
-    "tsPct": 62.4
+    "tsPct": 62.4,
+    "pointsPlusStdDev": 60.6,
+    "volatilityPctile": 89
   },
   {
     "id": 1641718,
@@ -342,7 +386,9 @@
     "position": "G",
     "jersey": "3",
     "usgPct": 27.1,
-    "tsPct": 61.2
+    "tsPct": 61.2,
+    "pointsPlusStdDev": 73.0,
+    "volatilityPctile": 98
   },
   {
     "id": 1627783,
@@ -357,7 +403,9 @@
     "position": "F",
     "jersey": "43",
     "usgPct": 28.5,
-    "tsPct": 56.0
+    "tsPct": 56.0,
+    "pointsPlusStdDev": 51.1,
+    "volatilityPctile": 65
   },
   {
     "id": 1630552,
@@ -372,7 +420,9 @@
     "position": "F",
     "jersey": "1",
     "usgPct": 26.4,
-    "tsPct": 59.2
+    "tsPct": 59.2,
+    "pointsPlusStdDev": 60.5,
+    "volatilityPctile": 88
   },
   {
     "id": 1626181,
@@ -387,7 +437,9 @@
     "position": "G",
     "jersey": "24",
     "usgPct": 26.2,
-    "tsPct": 61.6
+    "tsPct": 61.6,
+    "pointsPlusStdDev": 52.4,
+    "volatilityPctile": 70
   },
   {
     "id": 203944,
@@ -402,7 +454,9 @@
     "position": "F-C",
     "jersey": "30",
     "usgPct": 25.9,
-    "tsPct": 59.9
+    "tsPct": 59.9,
+    "pointsPlusStdDev": 54.7,
+    "volatilityPctile": 76
   },
   {
     "id": 1630530,
@@ -417,7 +471,9 @@
     "position": "F",
     "jersey": "25",
     "usgPct": 22.4,
-    "tsPct": 61.6
+    "tsPct": 61.6,
+    "pointsPlusStdDev": 67.8,
+    "volatilityPctile": 94
   },
   {
     "id": 1627742,
@@ -432,7 +488,9 @@
     "position": "F",
     "jersey": "3",
     "usgPct": 26.6,
-    "tsPct": 57.0
+    "tsPct": 57.0,
+    "pointsPlusStdDev": 55.7,
+    "volatilityPctile": 78
   },
   {
     "id": 2544,
@@ -447,7 +505,9 @@
     "position": "F",
     "jersey": "23",
     "usgPct": 27.3,
-    "tsPct": 58.4
+    "tsPct": 58.4,
+    "pointsPlusStdDev": 51.5,
+    "volatilityPctile": 67
   },
   {
     "id": 1629627,
@@ -462,7 +522,9 @@
     "position": "F",
     "jersey": "1",
     "usgPct": 26.2,
-    "tsPct": 62.9
+    "tsPct": 62.9,
+    "pointsPlusStdDev": 54.5,
+    "volatilityPctile": 75
   },
   {
     "id": 1630532,
@@ -477,7 +539,9 @@
     "position": "F",
     "jersey": "22",
     "usgPct": 25.1,
-    "tsPct": 59.1
+    "tsPct": 59.1,
+    "pointsPlusStdDev": 55.6,
+    "volatilityPctile": 78
   },
   {
     "id": 1631101,
@@ -492,7 +556,9 @@
     "position": "G",
     "jersey": "17",
     "usgPct": 29.3,
-    "tsPct": 55.0
+    "tsPct": 55.0,
+    "pointsPlusStdDev": 55.8,
+    "volatilityPctile": 79
   },
   {
     "id": 1628415,
@@ -507,7 +573,9 @@
     "position": "G-F",
     "jersey": "3",
     "usgPct": 28.2,
-    "tsPct": 54.9
+    "tsPct": 54.9,
+    "pointsPlusStdDev": 56.5,
+    "volatilityPctile": 82
   },
   {
     "id": 1631094,
@@ -522,7 +590,9 @@
     "position": "F",
     "jersey": "5",
     "usgPct": 26.7,
-    "tsPct": 55.9
+    "tsPct": 55.9,
+    "pointsPlusStdDev": 55.9,
+    "volatilityPctile": 80
   },
   {
     "id": 1630578,
@@ -537,7 +607,9 @@
     "position": "C",
     "jersey": "28",
     "usgPct": 26.5,
-    "tsPct": 55.2
+    "tsPct": 55.2,
+    "pointsPlusStdDev": 62.4,
+    "volatilityPctile": 90
   },
   {
     "id": 1641706,
@@ -552,7 +624,9 @@
     "position": "F",
     "jersey": "24",
     "usgPct": 28.4,
-    "tsPct": 55.9
+    "tsPct": 55.9,
+    "pointsPlusStdDev": 56.2,
+    "volatilityPctile": 80
   },
   {
     "id": 1642843,
@@ -567,7 +641,9 @@
     "position": "F",
     "jersey": "32",
     "usgPct": 24.7,
-    "tsPct": 56.0
+    "tsPct": 56.0,
+    "pointsPlusStdDev": 74.4,
+    "volatilityPctile": 98
   },
   {
     "id": 203076,
@@ -582,7 +658,9 @@
     "position": "F-C",
     "jersey": "23",
     "usgPct": 27.2,
-    "tsPct": 55.1
+    "tsPct": 55.1,
+    "pointsPlusStdDev": 76.1,
+    "volatilityPctile": 99
   },
   {
     "id": 1629638,
@@ -597,7 +675,9 @@
     "position": "G",
     "jersey": "7",
     "usgPct": 23.7,
-    "tsPct": 57.6
+    "tsPct": 57.6,
+    "pointsPlusStdDev": 57.1,
+    "volatilityPctile": 83
   },
   {
     "id": 202710,
@@ -612,7 +692,9 @@
     "position": "F",
     "jersey": "10",
     "usgPct": 22.6,
-    "tsPct": 64.6
+    "tsPct": 64.6,
+    "pointsPlusStdDev": 53.0,
+    "volatilityPctile": 70
   },
   {
     "id": 1626157,
@@ -627,7 +709,9 @@
     "position": "C-F",
     "jersey": "32",
     "usgPct": 25.1,
-    "tsPct": 59.4
+    "tsPct": 59.4,
+    "pointsPlusStdDev": 67.8,
+    "volatilityPctile": 94
   },
   {
     "id": 1630217,
@@ -642,7 +726,9 @@
     "position": "G",
     "jersey": "3",
     "usgPct": 22.6,
-    "tsPct": 58.8
+    "tsPct": 58.8,
+    "pointsPlusStdDev": 64.5,
+    "volatilityPctile": 92
   },
   {
     "id": 1628991,
@@ -657,7 +743,9 @@
     "position": "F-C",
     "jersey": "20",
     "usgPct": 25.3,
-    "tsPct": 57.6
+    "tsPct": 57.6,
+    "pointsPlusStdDev": 47.4,
+    "volatilityPctile": 52
   },
   {
     "id": 1629630,
@@ -672,7 +760,9 @@
     "position": "G",
     "jersey": "12",
     "usgPct": 30.5,
-    "tsPct": 52.1
+    "tsPct": 52.1,
+    "pointsPlusStdDev": 63.6,
+    "volatilityPctile": 91
   },
   {
     "id": 1628368,
@@ -687,7 +777,9 @@
     "position": "G",
     "jersey": "4",
     "usgPct": 24.4,
-    "tsPct": 58.5
+    "tsPct": 58.5,
+    "pointsPlusStdDev": 59.2,
+    "volatilityPctile": 87
   },
   {
     "id": 1630567,
@@ -702,7 +794,9 @@
     "position": "F-G",
     "jersey": "4",
     "usgPct": 23.2,
-    "tsPct": 57.7
+    "tsPct": 57.7,
+    "pointsPlusStdDev": 47.9,
+    "volatilityPctile": 54
   },
   {
     "id": 1630163,
@@ -717,7 +811,9 @@
     "position": "G",
     "jersey": "1",
     "usgPct": 30.7,
-    "tsPct": 53.3
+    "tsPct": 53.3,
+    "pointsPlusStdDev": 54.6,
+    "volatilityPctile": 76
   },
   {
     "id": 203897,
@@ -732,7 +828,9 @@
     "position": "G",
     "jersey": "8",
     "usgPct": 23.4,
-    "tsPct": 61.4
+    "tsPct": 61.4,
+    "pointsPlusStdDev": 70.0,
+    "volatilityPctile": 97
   },
   {
     "id": 203468,
@@ -747,7 +845,9 @@
     "position": "G",
     "jersey": "3",
     "usgPct": 24.5,
-    "tsPct": 56.7
+    "tsPct": 56.7,
+    "pointsPlusStdDev": 68.6,
+    "volatilityPctile": 96
   },
   {
     "id": 203924,
@@ -762,7 +862,9 @@
     "position": "F",
     "jersey": "9",
     "usgPct": 23.6,
-    "tsPct": 59.7
+    "tsPct": 59.7,
+    "pointsPlusStdDev": 60.5,
+    "volatilityPctile": 88
   },
   {
     "id": 1642851,
@@ -777,7 +879,9 @@
     "position": "G-F",
     "jersey": "7",
     "usgPct": 21.5,
-    "tsPct": 64.6
+    "tsPct": 64.6,
+    "pointsPlusStdDev": 54.5,
+    "volatilityPctile": 75
   },
   {
     "id": 201942,
@@ -792,7 +896,9 @@
     "position": "G-F",
     "jersey": "10",
     "usgPct": 21.6,
-    "tsPct": 59.2
+    "tsPct": 59.2,
+    "pointsPlusStdDev": 67.3,
+    "volatilityPctile": 94
   },
   {
     "id": 1629628,
@@ -807,7 +913,9 @@
     "position": "F-G",
     "jersey": "9",
     "usgPct": 25.2,
-    "tsPct": 57.8
+    "tsPct": 57.8,
+    "pointsPlusStdDev": 41.0,
+    "volatilityPctile": 28
   },
   {
     "id": 1628389,
@@ -822,7 +930,9 @@
     "position": "C-F",
     "jersey": "13",
     "usgPct": 23.8,
-    "tsPct": 54.8
+    "tsPct": 54.8,
+    "pointsPlusStdDev": 56.4,
+    "volatilityPctile": 81
   },
   {
     "id": 1630581,
@@ -837,7 +947,9 @@
     "position": "G",
     "jersey": "3",
     "usgPct": 25.0,
-    "tsPct": 57.5
+    "tsPct": 57.5,
+    "pointsPlusStdDev": 50.3,
+    "volatilityPctile": 62
   },
   {
     "id": 1629632,
@@ -852,7 +964,9 @@
     "position": "G",
     "jersey": "3",
     "usgPct": 26.7,
-    "tsPct": 58.6
+    "tsPct": 58.6,
+    "pointsPlusStdDev": 52.9,
+    "volatilityPctile": 70
   },
   {
     "id": 1628970,
@@ -867,7 +981,9 @@
     "position": "F",
     "jersey": "0",
     "usgPct": 22.8,
-    "tsPct": 56.5
+    "tsPct": 56.5,
+    "pointsPlusStdDev": 57.6,
+    "volatilityPctile": 84
   },
   {
     "id": 1630596,
@@ -882,7 +998,9 @@
     "position": "C",
     "jersey": "4",
     "usgPct": 21.6,
-    "tsPct": 57.6
+    "tsPct": 57.6,
+    "pointsPlusStdDev": 42.3,
+    "volatilityPctile": 33
   },
   {
     "id": 1629636,
@@ -897,7 +1015,9 @@
     "position": "G",
     "jersey": "10",
     "usgPct": 25.0,
-    "tsPct": 56.7
+    "tsPct": 56.7,
+    "pointsPlusStdDev": 51.9,
+    "volatilityPctile": 67
   },
   {
     "id": 1641708,
@@ -912,7 +1032,9 @@
     "position": "G-F",
     "jersey": "1",
     "usgPct": 19.6,
-    "tsPct": 56.8
+    "tsPct": 56.8,
+    "pointsPlusStdDev": 48.5,
+    "volatilityPctile": 56
   },
   {
     "id": 1631105,
@@ -927,7 +1049,9 @@
     "position": "C",
     "jersey": "0",
     "usgPct": 22.1,
-    "tsPct": 66.7
+    "tsPct": 66.7,
+    "pointsPlusStdDev": 49.5,
+    "volatilityPctile": 59
   },
   {
     "id": 1629614,
@@ -942,7 +1066,9 @@
     "position": "G-F",
     "jersey": "2",
     "usgPct": 23.5,
-    "tsPct": 55.8
+    "tsPct": 55.8,
+    "pointsPlusStdDev": 55.6,
+    "volatilityPctile": 78
   },
   {
     "id": 1631097,
@@ -957,7 +1083,9 @@
     "position": "G-F",
     "jersey": "9",
     "usgPct": 22.9,
-    "tsPct": 58.0
+    "tsPct": 58.0,
+    "pointsPlusStdDev": 60.0,
+    "volatilityPctile": 87
   },
   {
     "id": 203932,
@@ -972,7 +1100,9 @@
     "position": "F",
     "jersey": "32",
     "usgPct": 22.8,
-    "tsPct": 63.2
+    "tsPct": 63.2,
+    "pointsPlusStdDev": 72.2,
+    "volatilityPctile": 97
   },
   {
     "id": 1631114,
@@ -987,7 +1117,9 @@
     "position": "G-F",
     "jersey": "8",
     "usgPct": 25.4,
-    "tsPct": 55.5
+    "tsPct": 55.5,
+    "pointsPlusStdDev": 42.6,
+    "volatilityPctile": 34
   },
   {
     "id": 1629645,
@@ -1002,7 +1134,9 @@
     "position": "G-F",
     "jersey": "7",
     "usgPct": 23.9,
-    "tsPct": 56.5
+    "tsPct": 56.5,
+    "pointsPlusStdDev": 62.7,
+    "volatilityPctile": 90
   },
   {
     "id": 1631096,
@@ -1017,7 +1151,9 @@
     "position": "C-F",
     "jersey": "7",
     "usgPct": 21.7,
-    "tsPct": 65.4
+    "tsPct": 65.4,
+    "pointsPlusStdDev": 49.9,
+    "volatilityPctile": 60
   },
   {
     "id": 1642259,
@@ -1032,7 +1168,9 @@
     "position": "C",
     "jersey": "20",
     "usgPct": 25.0,
-    "tsPct": 55.4
+    "tsPct": 55.4,
+    "pointsPlusStdDev": 55.8,
+    "volatilityPctile": 79
   },
   {
     "id": 1628401,
@@ -1047,7 +1185,9 @@
     "position": "G",
     "jersey": "9",
     "usgPct": 22.7,
-    "tsPct": 52.2
+    "tsPct": 52.2,
+    "pointsPlusStdDev": 58.5,
+    "volatilityPctile": 86
   },
   {
     "id": 1630202,
@@ -1062,7 +1202,9 @@
     "position": "G",
     "jersey": "11",
     "usgPct": 20.8,
-    "tsPct": 57.8
+    "tsPct": 57.8,
+    "pointsPlusStdDev": 68.2,
+    "volatilityPctile": 95
   },
   {
     "id": 1628960,
@@ -1077,7 +1219,9 @@
     "position": "G",
     "jersey": "8",
     "usgPct": 22.3,
-    "tsPct": 57.8
+    "tsPct": 57.8,
+    "pointsPlusStdDev": 57.8,
+    "volatilityPctile": 85
   },
   {
     "id": 1630193,
@@ -1092,7 +1236,9 @@
     "position": "G",
     "jersey": "5",
     "usgPct": 20.9,
-    "tsPct": 57.9
+    "tsPct": 57.9,
+    "pointsPlusStdDev": 54.0,
+    "volatilityPctile": 73
   },
   {
     "id": 1631157,
@@ -1107,7 +1253,9 @@
     "position": "G",
     "jersey": "13",
     "usgPct": 23.3,
-    "tsPct": 56.8
+    "tsPct": 56.8,
+    "pointsPlusStdDev": 54.8,
+    "volatilityPctile": 76
   },
   {
     "id": 202696,
@@ -1122,7 +1270,9 @@
     "position": "C",
     "jersey": "4",
     "usgPct": 21.6,
-    "tsPct": 58.4
+    "tsPct": 58.4,
+    "pointsPlusStdDev": 49.2,
+    "volatilityPctile": 58
   },
   {
     "id": 1630180,
@@ -1137,7 +1287,9 @@
     "position": "G-F",
     "jersey": "41",
     "usgPct": 20.4,
-    "tsPct": 57.2
+    "tsPct": 57.2,
+    "pointsPlusStdDev": 59.8,
+    "volatilityPctile": 87
   },
   {
     "id": 1642264,
@@ -1152,7 +1304,9 @@
     "position": "G",
     "jersey": "5",
     "usgPct": 25.0,
-    "tsPct": 56.1
+    "tsPct": 56.1,
+    "pointsPlusStdDev": 54.5,
+    "volatilityPctile": 75
   },
   {
     "id": 1628384,
@@ -1167,7 +1321,9 @@
     "position": "F-G",
     "jersey": "8",
     "usgPct": 19.8,
-    "tsPct": 60.3
+    "tsPct": 60.3,
+    "pointsPlusStdDev": 54.4,
+    "volatilityPctile": 74
   },
   {
     "id": 1630168,
@@ -1182,7 +1338,9 @@
     "position": "F-C",
     "jersey": "17",
     "usgPct": 19.7,
-    "tsPct": 59.6
+    "tsPct": 59.6,
+    "pointsPlusStdDev": 52.2,
+    "volatilityPctile": 68
   },
   {
     "id": 1641710,
@@ -1197,7 +1355,9 @@
     "position": "G",
     "jersey": "0",
     "usgPct": 22.0,
-    "tsPct": 56.6
+    "tsPct": 56.6,
+    "pointsPlusStdDev": 60.3,
+    "volatilityPctile": 88
   },
   {
     "id": 203952,
@@ -1212,7 +1372,9 @@
     "position": "F",
     "jersey": "22",
     "usgPct": 19.9,
-    "tsPct": 57.0
+    "tsPct": 57.0,
+    "pointsPlusStdDev": 46.8,
+    "volatilityPctile": 49
   },
   {
     "id": 1630560,
@@ -1227,7 +1389,9 @@
     "position": "G",
     "jersey": "24",
     "usgPct": 30.0,
-    "tsPct": 53.8
+    "tsPct": 53.8,
+    "pointsPlusStdDev": 84.5,
+    "volatilityPctile": 100
   },
   {
     "id": 1628969,
@@ -1242,7 +1406,9 @@
     "position": "G-F",
     "jersey": "25",
     "usgPct": 17.2,
-    "tsPct": 60.4
+    "tsPct": 60.4,
+    "pointsPlusStdDev": 48.0,
+    "volatilityPctile": 54
   },
   {
     "id": 202331,
@@ -1257,7 +1423,9 @@
     "position": "F",
     "jersey": "8",
     "usgPct": 21.8,
-    "tsPct": 55.6
+    "tsPct": 55.6,
+    "pointsPlusStdDev": 50.8,
+    "volatilityPctile": 64
   },
   {
     "id": 201566,
@@ -1272,7 +1440,9 @@
     "position": "G",
     "jersey": "18",
     "usgPct": 25.1,
-    "tsPct": 53.3
+    "tsPct": 53.3,
+    "pointsPlusStdDev": 49.6,
+    "volatilityPctile": 59
   },
   {
     "id": 1631095,
@@ -1287,7 +1457,9 @@
     "position": "F",
     "jersey": "10",
     "usgPct": 17.5,
-    "tsPct": 55.7
+    "tsPct": 55.7,
+    "pointsPlusStdDev": 39.6,
+    "volatilityPctile": 26
   },
   {
     "id": 1642273,
@@ -1302,7 +1474,9 @@
     "position": "F",
     "jersey": "18",
     "usgPct": 21.9,
-    "tsPct": 56.0
+    "tsPct": 56.0,
+    "pointsPlusStdDev": 57.4,
+    "volatilityPctile": 83
   },
   {
     "id": 1641824,
@@ -1317,7 +1491,9 @@
     "position": "F",
     "jersey": "14",
     "usgPct": 21.2,
-    "tsPct": 59.5
+    "tsPct": 59.5,
+    "pointsPlusStdDev": 48.3,
+    "volatilityPctile": 56
   },
   {
     "id": 1631170,
@@ -1332,7 +1508,9 @@
     "position": "G",
     "jersey": "11",
     "usgPct": 21.6,
-    "tsPct": 56.0
+    "tsPct": 56.0,
+    "pointsPlusStdDev": 53.3,
+    "volatilityPctile": 71
   },
   {
     "id": 201950,
@@ -1347,7 +1525,9 @@
     "position": "G",
     "jersey": "5",
     "usgPct": 22.5,
-    "tsPct": 55.7
+    "tsPct": 55.7,
+    "pointsPlusStdDev": 46.0,
+    "volatilityPctile": 45
   },
   {
     "id": 1642845,
@@ -1362,7 +1542,9 @@
     "position": "G",
     "jersey": "77",
     "usgPct": 18.7,
-    "tsPct": 52.8
+    "tsPct": 52.8,
+    "pointsPlusStdDev": 56.3,
+    "volatilityPctile": 80
   },
   {
     "id": 1630230,
@@ -1377,7 +1559,9 @@
     "position": "F",
     "jersey": "13",
     "usgPct": 18.5,
-    "tsPct": 61.9
+    "tsPct": 61.9,
+    "pointsPlusStdDev": 57.6,
+    "volatilityPctile": 84
   },
   {
     "id": 1630245,
@@ -1392,7 +1576,9 @@
     "position": "G",
     "jersey": "13",
     "usgPct": 20.1,
-    "tsPct": 63.7
+    "tsPct": 63.7,
+    "pointsPlusStdDev": 47.0,
+    "volatilityPctile": 50
   },
   {
     "id": 1630183,
@@ -1407,7 +1593,9 @@
     "position": "F",
     "jersey": "3",
     "usgPct": 17.8,
-    "tsPct": 62.3
+    "tsPct": 62.3,
+    "pointsPlusStdDev": 54.0,
+    "volatilityPctile": 73
   },
   {
     "id": 1631212,
@@ -1422,7 +1610,9 @@
     "position": "G",
     "jersey": "8",
     "usgPct": 20.0,
-    "tsPct": 60.0
+    "tsPct": 60.0,
+    "pointsPlusStdDev": 69.7,
+    "volatilityPctile": 96
   },
   {
     "id": 1629673,
@@ -1437,7 +1627,9 @@
     "position": "G",
     "jersey": "3",
     "usgPct": 24.0,
-    "tsPct": 53.3
+    "tsPct": 53.3,
+    "pointsPlusStdDev": 61.9,
+    "volatilityPctile": 90
   },
   {
     "id": 1628386,
@@ -1452,7 +1644,9 @@
     "position": "C",
     "jersey": "31",
     "usgPct": 18.6,
-    "tsPct": 66.1
+    "tsPct": 66.1,
+    "pointsPlusStdDev": 57.5,
+    "volatilityPctile": 83
   },
   {
     "id": 1627826,
@@ -1467,7 +1661,9 @@
     "position": "C",
     "jersey": "40",
     "usgPct": 18.4,
-    "tsPct": 63.5
+    "tsPct": 63.5,
+    "pointsPlusStdDev": 54.0,
+    "volatilityPctile": 73
   },
   {
     "id": 1629012,
@@ -1482,7 +1678,9 @@
     "position": "G",
     "jersey": "2",
     "usgPct": 25.0,
-    "tsPct": 60.9
+    "tsPct": 60.9,
+    "pointsPlusStdDev": 38.0,
+    "volatilityPctile": 19
   },
   {
     "id": 1629014,
@@ -1497,7 +1695,9 @@
     "position": "G",
     "jersey": "22",
     "usgPct": 22.6,
-    "tsPct": 57.9
+    "tsPct": 57.9,
+    "pointsPlusStdDev": 55.1,
+    "volatilityPctile": 77
   },
   {
     "id": 1630591,
@@ -1512,7 +1712,9 @@
     "position": "G",
     "jersey": "4",
     "usgPct": 22.5,
-    "tsPct": 56.9
+    "tsPct": 56.9,
+    "pointsPlusStdDev": 50.0,
+    "volatilityPctile": 61
   },
   {
     "id": 203501,
@@ -1527,7 +1729,9 @@
     "position": "G-F",
     "jersey": "10",
     "usgPct": 17.7,
-    "tsPct": 63.3
+    "tsPct": 63.3,
+    "pointsPlusStdDev": 52.2,
+    "volatilityPctile": 68
   },
   {
     "id": 1626162,
@@ -1542,7 +1746,9 @@
     "position": "F-G",
     "jersey": "9",
     "usgPct": 17.0,
-    "tsPct": 58.5
+    "tsPct": 58.5,
+    "pointsPlusStdDev": 58.4,
+    "volatilityPctile": 86
   },
   {
     "id": 1629675,
@@ -1557,7 +1763,9 @@
     "position": "C-F",
     "jersey": "11",
     "usgPct": 21.0,
-    "tsPct": 59.0
+    "tsPct": 59.0,
+    "pointsPlusStdDev": 55.9,
+    "volatilityPctile": 80
   },
   {
     "id": 1630170,
@@ -1572,7 +1780,9 @@
     "position": "G-F",
     "jersey": "24",
     "usgPct": 18.3,
-    "tsPct": 55.0
+    "tsPct": 55.0,
+    "pointsPlusStdDev": 52.6,
+    "volatilityPctile": 70
   },
   {
     "id": 1629023,
@@ -1587,7 +1797,9 @@
     "position": "F",
     "jersey": "25",
     "usgPct": 20.3,
-    "tsPct": 52.4
+    "tsPct": 52.4,
+    "pointsPlusStdDev": 50.2,
+    "volatilityPctile": 62
   },
   {
     "id": 1630583,
@@ -1602,7 +1814,9 @@
     "position": "F-C",
     "jersey": "7",
     "usgPct": 19.1,
-    "tsPct": 57.2
+    "tsPct": 57.2,
+    "pointsPlusStdDev": 53.3,
+    "volatilityPctile": 71
   },
   {
     "id": 1642349,
@@ -1617,7 +1831,9 @@
     "position": "G",
     "jersey": "25",
     "usgPct": 21.3,
-    "tsPct": 59.0
+    "tsPct": 59.0,
+    "pointsPlusStdDev": 38.4,
+    "volatilityPctile": 21
   },
   {
     "id": 1628381,
@@ -1632,7 +1848,9 @@
     "position": "F-C",
     "jersey": "20",
     "usgPct": 18.2,
-    "tsPct": 66.0
+    "tsPct": 66.0,
+    "pointsPlusStdDev": 42.4,
+    "volatilityPctile": 34
   },
   {
     "id": 1642281,
@@ -1647,7 +1865,9 @@
     "position": "G-F",
     "jersey": "20",
     "usgPct": 18.3,
-    "tsPct": 63.1
+    "tsPct": 63.1,
+    "pointsPlusStdDev": 56.4,
+    "volatilityPctile": 81
   },
   {
     "id": 1629631,
@@ -1662,7 +1882,9 @@
     "position": "F-G",
     "jersey": "15",
     "usgPct": 21.8,
-    "tsPct": 54.5
+    "tsPct": 54.5,
+    "pointsPlusStdDev": 52.3,
+    "volatilityPctile": 69
   },
   {
     "id": 1630174,
@@ -1677,7 +1899,9 @@
     "position": "G-F",
     "jersey": "23",
     "usgPct": 18.7,
-    "tsPct": 53.2
+    "tsPct": 53.2,
+    "pointsPlusStdDev": 49.8,
+    "volatilityPctile": 60
   },
   {
     "id": 1630241,
@@ -1692,7 +1916,9 @@
     "position": "G",
     "jersey": "5",
     "usgPct": 17.0,
-    "tsPct": 69.5
+    "tsPct": 69.5,
+    "pointsPlusStdDev": 53.3,
+    "volatilityPctile": 71
   },
   {
     "id": 1629640,
@@ -1707,7 +1933,9 @@
     "position": "F-G",
     "jersey": "3",
     "usgPct": 19.5,
-    "tsPct": 64.4
+    "tsPct": 64.4,
+    "pointsPlusStdDev": 49.4,
+    "volatilityPctile": 58
   },
   {
     "id": 202699,
@@ -1722,7 +1950,9 @@
     "position": "F",
     "jersey": "12",
     "usgPct": 18.3,
-    "tsPct": 56.9
+    "tsPct": 56.9,
+    "pointsPlusStdDev": 47.0,
+    "volatilityPctile": 50
   },
   {
     "id": 1642907,
@@ -1737,7 +1967,9 @@
     "position": "G",
     "jersey": "23",
     "usgPct": 20.0,
-    "tsPct": 58.0
+    "tsPct": 58.0,
+    "pointsPlusStdDev": 42.6,
+    "volatilityPctile": 34
   },
   {
     "id": 1631221,
@@ -1752,7 +1984,9 @@
     "position": "G",
     "jersey": "12",
     "usgPct": 18.6,
-    "tsPct": 59.4
+    "tsPct": 59.4,
+    "pointsPlusStdDev": 49.5,
+    "volatilityPctile": 59
   },
   {
     "id": 1642847,
@@ -1767,7 +2001,9 @@
     "position": "G",
     "jersey": "0",
     "usgPct": 23.9,
-    "tsPct": 51.3
+    "tsPct": 51.3,
+    "pointsPlusStdDev": 44.8,
+    "volatilityPctile": 41
   },
   {
     "id": 1631108,
@@ -1782,7 +2018,9 @@
     "position": "G",
     "jersey": "0",
     "usgPct": 16.2,
-    "tsPct": 62.4
+    "tsPct": 62.4,
+    "pointsPlusStdDev": 47.3,
+    "volatilityPctile": 51
   },
   {
     "id": 1629028,
@@ -1797,7 +2035,9 @@
     "position": "C",
     "jersey": "5",
     "usgPct": 16.8,
-    "tsPct": 68.0
+    "tsPct": 68.0,
+    "pointsPlusStdDev": 50.7,
+    "volatilityPctile": 63
   },
   {
     "id": 1641739,
@@ -1812,7 +2052,9 @@
     "position": "F",
     "jersey": "33",
     "usgPct": 15.8,
-    "tsPct": 57.7
+    "tsPct": 57.7,
+    "pointsPlusStdDev": 47.2,
+    "volatilityPctile": 51
   },
   {
     "id": 1626171,
@@ -1827,7 +2069,9 @@
     "position": "F",
     "jersey": "9",
     "usgPct": 22.2,
-    "tsPct": 57.7
+    "tsPct": 57.7,
+    "pointsPlusStdDev": 46.8,
+    "volatilityPctile": 49
   },
   {
     "id": 1642848,
@@ -1842,7 +2086,9 @@
     "position": "G",
     "jersey": "12",
     "usgPct": 20.7,
-    "tsPct": 57.0
+    "tsPct": 57.0,
+    "pointsPlusStdDev": 41.5,
+    "volatilityPctile": 30
   },
   {
     "id": 1641730,
@@ -1857,7 +2103,9 @@
     "position": "F-C",
     "jersey": "21",
     "usgPct": 20.6,
-    "tsPct": 55.1
+    "tsPct": 55.1,
+    "pointsPlusStdDev": 55.4,
+    "volatilityPctile": 77
   },
   {
     "id": 1628398,
@@ -1872,7 +2120,9 @@
     "position": "F",
     "jersey": "18",
     "usgPct": 20.9,
-    "tsPct": 56.8
+    "tsPct": 56.8,
+    "pointsPlusStdDev": 56.4,
+    "volatilityPctile": 81
   },
   {
     "id": 1630540,
@@ -1887,7 +2137,9 @@
     "position": "G",
     "jersey": "2",
     "usgPct": 17.0,
-    "tsPct": 59.2
+    "tsPct": 59.2,
+    "pointsPlusStdDev": 50.1,
+    "volatilityPctile": 61
   },
   {
     "id": 1629656,
@@ -1902,7 +2154,9 @@
     "position": "G",
     "jersey": "5",
     "usgPct": 17.2,
-    "tsPct": 59.2
+    "tsPct": 59.2,
+    "pointsPlusStdDev": 51.2,
+    "volatilityPctile": 66
   },
   {
     "id": 1628978,
@@ -1917,7 +2171,9 @@
     "position": "G",
     "jersey": "0",
     "usgPct": 16.6,
-    "tsPct": 57.4
+    "tsPct": 57.4,
+    "pointsPlusStdDev": 44.5,
+    "volatilityPctile": 39
   },
   {
     "id": 1642263,
@@ -1932,7 +2188,9 @@
     "position": "G",
     "jersey": "15",
     "usgPct": 20.8,
-    "tsPct": 55.0
+    "tsPct": 55.0,
+    "pointsPlusStdDev": 46.0,
+    "volatilityPctile": 45
   },
   {
     "id": 1626167,
@@ -1947,7 +2205,9 @@
     "position": "C-F",
     "jersey": "3",
     "usgPct": 18.1,
-    "tsPct": 58.6
+    "tsPct": 58.6,
+    "pointsPlusStdDev": 47.5,
+    "volatilityPctile": 52
   },
   {
     "id": 1630314,
@@ -1962,7 +2222,9 @@
     "position": "G",
     "jersey": "10",
     "usgPct": 24.4,
-    "tsPct": 55.2
+    "tsPct": 55.2,
+    "pointsPlusStdDev": 51.2,
+    "volatilityPctile": 66
   },
   {
     "id": 1629651,
@@ -1977,7 +2239,9 @@
     "position": "C",
     "jersey": "33",
     "usgPct": 17.2,
-    "tsPct": 60.8
+    "tsPct": 60.8,
+    "pointsPlusStdDev": 36.9,
+    "volatilityPctile": 17
   },
   {
     "id": 1628370,
@@ -1992,7 +2256,9 @@
     "position": "G",
     "jersey": "0",
     "usgPct": 23.0,
-    "tsPct": 56.9
+    "tsPct": 56.9,
+    "pointsPlusStdDev": 59.2,
+    "volatilityPctile": 87
   },
   {
     "id": 1630200,
@@ -2007,7 +2273,9 @@
     "position": "G",
     "jersey": "30",
     "usgPct": 16.6,
-    "tsPct": 64.8
+    "tsPct": 64.8,
+    "pointsPlusStdDev": 45.4,
+    "volatilityPctile": 43
   },
   {
     "id": 203471,
@@ -2022,7 +2290,9 @@
     "position": "G",
     "jersey": "8",
     "usgPct": 22.3,
-    "tsPct": 52.1
+    "tsPct": 52.1,
+    "pointsPlusStdDev": 57.0,
+    "volatilityPctile": 83
   },
   {
     "id": 1631106,
@@ -2037,7 +2307,9 @@
     "position": "F",
     "jersey": "17",
     "usgPct": 19.4,
-    "tsPct": 56.9
+    "tsPct": 56.9,
+    "pointsPlusStdDev": 44.7,
+    "volatilityPctile": 40
   },
   {
     "id": 1642852,
@@ -2052,7 +2324,9 @@
     "position": "C",
     "jersey": "22",
     "usgPct": 21.5,
-    "tsPct": 55.5
+    "tsPct": 55.5,
+    "pointsPlusStdDev": 54.0,
+    "volatilityPctile": 73
   },
   {
     "id": 1641729,
@@ -2067,7 +2341,9 @@
     "position": "F",
     "jersey": "28",
     "usgPct": 21.9,
-    "tsPct": 58.4
+    "tsPct": 58.4,
+    "pointsPlusStdDev": 65.2,
+    "volatilityPctile": 92
   },
   {
     "id": 1629130,
@@ -2082,7 +2358,9 @@
     "position": "F",
     "jersey": "55",
     "usgPct": 15.2,
-    "tsPct": 61.3
+    "tsPct": 61.3,
+    "pointsPlusStdDev": 39.1,
+    "volatilityPctile": 24
   },
   {
     "id": 1628404,
@@ -2097,7 +2375,9 @@
     "position": "G",
     "jersey": "3",
     "usgPct": 16.3,
-    "tsPct": 60.6
+    "tsPct": 60.6,
+    "pointsPlusStdDev": 48.2,
+    "volatilityPctile": 55
   },
   {
     "id": 1630228,
@@ -2112,7 +2392,9 @@
     "position": "F",
     "jersey": "0",
     "usgPct": 23.9,
-    "tsPct": 54.3
+    "tsPct": 54.3,
+    "pointsPlusStdDev": 56.6,
+    "volatilityPctile": 82
   },
   {
     "id": 1631109,
@@ -2127,7 +2409,9 @@
     "position": "C",
     "jersey": "15",
     "usgPct": 16.5,
-    "tsPct": 69.8
+    "tsPct": 69.8,
+    "pointsPlusStdDev": 50.1,
+    "volatilityPctile": 61
   },
   {
     "id": 1642377,
@@ -2142,7 +2426,9 @@
     "position": "F",
     "jersey": "0",
     "usgPct": 18.5,
-    "tsPct": 54.0
+    "tsPct": 54.0,
+    "pointsPlusStdDev": 41.7,
+    "volatilityPctile": 31
   },
   {
     "id": 1641764,
@@ -2157,7 +2443,9 @@
     "position": "G",
     "jersey": "2",
     "usgPct": 18.5,
-    "tsPct": 56.9
+    "tsPct": 56.9,
+    "pointsPlusStdDev": 43.0,
+    "volatilityPctile": 36
   },
   {
     "id": 1629060,
@@ -2172,7 +2460,9 @@
     "position": "F",
     "jersey": "28",
     "usgPct": 15.0,
-    "tsPct": 61.4
+    "tsPct": 61.4,
+    "pointsPlusStdDev": 48.1,
+    "volatilityPctile": 55
   },
   {
     "id": 1642846,
@@ -2187,7 +2477,9 @@
     "position": "F",
     "jersey": "19",
     "usgPct": 18.7,
-    "tsPct": 53.2
+    "tsPct": 53.2,
+    "pointsPlusStdDev": 50.9,
+    "volatilityPctile": 65
   },
   {
     "id": 1630700,
@@ -2202,7 +2494,9 @@
     "position": "G",
     "jersey": "5",
     "usgPct": 16.0,
-    "tsPct": 52.0
+    "tsPct": 52.0,
+    "pointsPlusStdDev": 45.1,
+    "volatilityPctile": 43
   },
   {
     "id": 1629001,
@@ -2217,7 +2511,9 @@
     "position": "G",
     "jersey": "8",
     "usgPct": 24.0,
-    "tsPct": 53.6
+    "tsPct": 53.6,
+    "pointsPlusStdDev": 53.5,
+    "volatilityPctile": 72
   },
   {
     "id": 1628976,
@@ -2232,7 +2528,9 @@
     "position": "C-F",
     "jersey": "34",
     "usgPct": 15.4,
-    "tsPct": 60.3
+    "tsPct": 60.3,
+    "pointsPlusStdDev": 42.3,
+    "volatilityPctile": 33
   },
   {
     "id": 1642285,
@@ -2247,7 +2545,9 @@
     "position": "G",
     "jersey": "24",
     "usgPct": 17.1,
-    "tsPct": 65.6
+    "tsPct": 65.6,
+    "pointsPlusStdDev": 48.7,
+    "volatilityPctile": 57
   },
   {
     "id": 202691,
@@ -2262,7 +2562,9 @@
     "position": "G",
     "jersey": "31",
     "usgPct": 20.8,
-    "tsPct": 53.2
+    "tsPct": 53.2,
+    "pointsPlusStdDev": 47.0,
+    "volatilityPctile": 50
   },
   {
     "id": 1630541,
@@ -2277,7 +2579,9 @@
     "position": "G",
     "jersey": "4",
     "usgPct": 17.0,
-    "tsPct": 59.8
+    "tsPct": 59.8,
+    "pointsPlusStdDev": 55.4,
+    "volatilityPctile": 77
   },
   {
     "id": 1642270,
@@ -2292,7 +2596,9 @@
     "position": "C",
     "jersey": "23",
     "usgPct": 15.0,
-    "tsPct": 60.0
+    "tsPct": 60.0,
+    "pointsPlusStdDev": 41.5,
+    "volatilityPctile": 30
   },
   {
     "id": 1629111,
@@ -2307,7 +2613,9 @@
     "position": "C",
     "jersey": "31",
     "usgPct": 17.9,
-    "tsPct": 61.0
+    "tsPct": 61.0,
+    "pointsPlusStdDev": 46.2,
+    "volatilityPctile": 46
   },
   {
     "id": 1631126,
@@ -2322,7 +2630,9 @@
     "position": "G",
     "jersey": "2",
     "usgPct": 22.7,
-    "tsPct": 50.1
+    "tsPct": 50.1,
+    "pointsPlusStdDev": 58.3,
+    "volatilityPctile": 85
   },
   {
     "id": 1630572,
@@ -2337,7 +2647,9 @@
     "position": "F-C",
     "jersey": "54",
     "usgPct": 17.8,
-    "tsPct": 63.8
+    "tsPct": 63.8,
+    "pointsPlusStdDev": 45.0,
+    "volatilityPctile": 42
   },
   {
     "id": 1629661,
@@ -2352,7 +2664,9 @@
     "position": "F",
     "jersey": "23",
     "usgPct": 14.3,
-    "tsPct": 61.1
+    "tsPct": 61.1,
+    "pointsPlusStdDev": 48.3,
+    "volatilityPctile": 56
   },
   {
     "id": 1642276,
@@ -2367,7 +2681,9 @@
     "position": "C",
     "jersey": "7",
     "usgPct": 17.5,
-    "tsPct": 61.9
+    "tsPct": 61.9,
+    "pointsPlusStdDev": 54.4,
+    "volatilityPctile": 74
   },
   {
     "id": 1630577,
@@ -2382,7 +2698,9 @@
     "position": "F",
     "jersey": "30",
     "usgPct": 14.8,
-    "tsPct": 60.0
+    "tsPct": 60.0,
+    "pointsPlusStdDev": 57.6,
+    "volatilityPctile": 84
   },
   {
     "id": 203994,
@@ -2397,7 +2715,9 @@
     "position": "C",
     "jersey": "30",
     "usgPct": 18.6,
-    "tsPct": 54.8
+    "tsPct": 54.8,
+    "pointsPlusStdDev": 45.6,
+    "volatilityPctile": 43
   },
   {
     "id": 203497,
@@ -2412,7 +2732,9 @@
     "position": "C",
     "jersey": "27",
     "usgPct": 12.5,
-    "tsPct": 67.3
+    "tsPct": 67.3,
+    "pointsPlusStdDev": 38.2,
+    "volatilityPctile": 20
   },
   {
     "id": 1642844,
@@ -2427,7 +2749,9 @@
     "position": "G",
     "jersey": "2",
     "usgPct": 21.8,
-    "tsPct": 52.9
+    "tsPct": 52.9,
+    "pointsPlusStdDev": 47.1,
+    "volatilityPctile": 51
   },
   {
     "id": 1642856,
@@ -2442,7 +2766,9 @@
     "position": "G",
     "jersey": "8",
     "usgPct": 18.8,
-    "tsPct": 57.5
+    "tsPct": 57.5,
+    "pointsPlusStdDev": 51.4,
+    "volatilityPctile": 67
   },
   {
     "id": 1630598,
@@ -2457,7 +2783,9 @@
     "position": "G",
     "jersey": "21",
     "usgPct": 19.1,
-    "tsPct": 56.5
+    "tsPct": 56.5,
+    "pointsPlusStdDev": 48.3,
+    "volatilityPctile": 56
   },
   {
     "id": 1641716,
@@ -2472,7 +2800,9 @@
     "position": "F",
     "jersey": "5",
     "usgPct": 19.5,
-    "tsPct": 53.1
+    "tsPct": 53.1,
+    "pointsPlusStdDev": 46.5,
+    "volatilityPctile": 48
   },
   {
     "id": 203084,
@@ -2487,7 +2817,9 @@
     "position": "F",
     "jersey": "40",
     "usgPct": 14.8,
-    "tsPct": 59.5
+    "tsPct": 59.5,
+    "pointsPlusStdDev": 50.6,
+    "volatilityPctile": 63
   },
   {
     "id": 1642258,
@@ -2502,7 +2834,9 @@
     "position": "F",
     "jersey": "10",
     "usgPct": 17.6,
-    "tsPct": 54.2
+    "tsPct": 54.2,
+    "pointsPlusStdDev": 44.1,
+    "volatilityPctile": 38
   },
   {
     "id": 1631260,
@@ -2517,7 +2851,9 @@
     "position": "G",
     "jersey": "20",
     "usgPct": 12.8,
-    "tsPct": 64.4
+    "tsPct": 64.4,
+    "pointsPlusStdDev": 43.2,
+    "volatilityPctile": 37
   },
   {
     "id": 203114,
@@ -2532,7 +2868,9 @@
     "position": "F",
     "jersey": "20",
     "usgPct": 18.9,
-    "tsPct": 53.6
+    "tsPct": 53.6,
+    "pointsPlusStdDev": 40.5,
+    "volatilityPctile": 27
   },
   {
     "id": 1628392,
@@ -2547,7 +2885,9 @@
     "position": "C-F",
     "jersey": "55",
     "usgPct": 16.4,
-    "tsPct": 64.9
+    "tsPct": 64.9,
+    "pointsPlusStdDev": 46.4,
+    "volatilityPctile": 47
   },
   {
     "id": 1628989,
@@ -2562,7 +2902,9 @@
     "position": "G-F",
     "jersey": "27",
     "usgPct": 18.7,
-    "tsPct": 55.4
+    "tsPct": 55.4,
+    "pointsPlusStdDev": 45.5,
+    "volatilityPctile": 43
   },
   {
     "id": 1628963,
@@ -2577,7 +2919,9 @@
     "position": "F",
     "jersey": "35",
     "usgPct": 18.2,
-    "tsPct": 65.8
+    "tsPct": 65.8,
+    "pointsPlusStdDev": 38.8,
+    "volatilityPctile": 22
   },
   {
     "id": 1626220,
@@ -2592,7 +2936,9 @@
     "position": "F",
     "jersey": "0",
     "usgPct": 14.4,
-    "tsPct": 59.4
+    "tsPct": 59.4,
+    "pointsPlusStdDev": 31.7,
+    "volatilityPctile": 9
   },
   {
     "id": 1626156,
@@ -2607,7 +2953,9 @@
     "position": "G",
     "jersey": "5",
     "usgPct": 26.1,
-    "tsPct": 51.1
+    "tsPct": 51.1,
+    "pointsPlusStdDev": 65.7,
+    "volatilityPctile": 93
   },
   {
     "id": 1630198,
@@ -2622,7 +2970,9 @@
     "position": "G",
     "jersey": "11",
     "usgPct": 17.4,
-    "tsPct": 64.2
+    "tsPct": 64.2,
+    "pointsPlusStdDev": 50.8,
+    "volatilityPctile": 64
   },
   {
     "id": 1642268,
@@ -2637,7 +2987,9 @@
     "position": "G",
     "jersey": "8",
     "usgPct": 18.4,
-    "tsPct": 57.8
+    "tsPct": 57.8,
+    "pointsPlusStdDev": 43.1,
+    "volatilityPctile": 37
   },
   {
     "id": 1642267,
@@ -2652,7 +3004,9 @@
     "position": "G",
     "jersey": "7",
     "usgPct": 16.9,
-    "tsPct": 54.2
+    "tsPct": 54.2,
+    "pointsPlusStdDev": 40.6,
+    "volatilityPctile": 27
   },
   {
     "id": 1641709,
@@ -2667,7 +3021,9 @@
     "position": "G-F",
     "jersey": "9",
     "usgPct": 17.4,
-    "tsPct": 53.8
+    "tsPct": 53.8,
+    "pointsPlusStdDev": 34.4,
+    "volatilityPctile": 13
   },
   {
     "id": 1641796,
@@ -2682,7 +3038,9 @@
     "position": "G",
     "jersey": "9",
     "usgPct": 15.8,
-    "tsPct": 60.0
+    "tsPct": 60.0,
+    "pointsPlusStdDev": 49.3,
+    "volatilityPctile": 58
   },
   {
     "id": 1630188,
@@ -2697,7 +3055,9 @@
     "position": "F-C",
     "jersey": "25",
     "usgPct": 18.6,
-    "tsPct": 60.8
+    "tsPct": 60.8,
+    "pointsPlusStdDev": 35.1,
+    "volatilityPctile": 14
   },
   {
     "id": 1627884,
@@ -2712,7 +3072,9 @@
     "position": "F",
     "jersey": "5",
     "usgPct": 14.3,
-    "tsPct": 66.1
+    "tsPct": 66.1,
+    "pointsPlusStdDev": 38.4,
+    "volatilityPctile": 21
   },
   {
     "id": 1630191,
@@ -2727,7 +3089,9 @@
     "position": "F-C",
     "jersey": "28",
     "usgPct": 16.1,
-    "tsPct": 62.2
+    "tsPct": 62.2,
+    "pointsPlusStdDev": 44.8,
+    "volatilityPctile": 41
   },
   {
     "id": 203935,
@@ -2742,7 +3106,9 @@
     "position": "G",
     "jersey": "36",
     "usgPct": 15.7,
-    "tsPct": 55.7
+    "tsPct": 55.7,
+    "pointsPlusStdDev": 46.3,
+    "volatilityPctile": 46
   },
   {
     "id": 1642875,
@@ -2757,7 +3123,9 @@
     "position": "C",
     "jersey": "42",
     "usgPct": 16.5,
-    "tsPct": 59.4
+    "tsPct": 59.4,
+    "pointsPlusStdDev": 49.9,
+    "volatilityPctile": 60
   },
   {
     "id": 1641731,
@@ -2772,7 +3140,9 @@
     "position": "G",
     "jersey": "0",
     "usgPct": 16.9,
-    "tsPct": 51.0
+    "tsPct": 51.0,
+    "pointsPlusStdDev": 39.1,
+    "volatilityPctile": 24
   },
   {
     "id": 1630533,
@@ -2787,7 +3157,9 @@
     "position": "F",
     "jersey": "1",
     "usgPct": 17.3,
-    "tsPct": 57.4
+    "tsPct": 57.4,
+    "pointsPlusStdDev": 47.0,
+    "volatilityPctile": 50
   },
   {
     "id": 1627751,
@@ -2802,7 +3174,9 @@
     "position": "C",
     "jersey": "19",
     "usgPct": 14.3,
-    "tsPct": 68.5
+    "tsPct": 68.5,
+    "pointsPlusStdDev": 42.7,
+    "volatilityPctile": 35
   },
   {
     "id": 1629674,
@@ -2817,7 +3191,9 @@
     "position": "C",
     "jersey": "88",
     "usgPct": 14.6,
-    "tsPct": 65.5
+    "tsPct": 65.5,
+    "pointsPlusStdDev": 30.9,
+    "volatilityPctile": 8
   },
   {
     "id": 1642271,
@@ -2832,7 +3208,9 @@
     "position": "C",
     "jersey": "22",
     "usgPct": 18.0,
-    "tsPct": 57.4
+    "tsPct": 57.4,
+    "pointsPlusStdDev": 44.6,
+    "volatilityPctile": 39
   },
   {
     "id": 1630557,
@@ -2847,7 +3225,9 @@
     "position": "F",
     "jersey": "24",
     "usgPct": 16.8,
-    "tsPct": 60.8
+    "tsPct": 60.8,
+    "pointsPlusStdDev": 45.9,
+    "volatilityPctile": 45
   },
   {
     "id": 204456,
@@ -2862,7 +3242,9 @@
     "position": "G",
     "jersey": "9",
     "usgPct": 23.7,
-    "tsPct": 56.8
+    "tsPct": 56.8,
+    "pointsPlusStdDev": 39.5,
+    "volatilityPctile": 25
   },
   {
     "id": 1629013,
@@ -2877,7 +3259,9 @@
     "position": "G",
     "jersey": "44",
     "usgPct": 15.1,
-    "tsPct": 61.9
+    "tsPct": 61.9,
+    "pointsPlusStdDev": 58.0,
+    "volatilityPctile": 85
   },
   {
     "id": 1631222,
@@ -2892,7 +3276,9 @@
     "position": "F",
     "jersey": "12",
     "usgPct": 14.5,
-    "tsPct": 57.8
+    "tsPct": 57.8,
+    "pointsPlusStdDev": 51.4,
+    "volatilityPctile": 67
   },
   {
     "id": 1641715,
@@ -2907,7 +3293,9 @@
     "position": "F",
     "jersey": "1",
     "usgPct": 22.5,
-    "tsPct": 52.8
+    "tsPct": 52.8,
+    "pointsPlusStdDev": 48.9,
+    "volatilityPctile": 57
   },
   {
     "id": 1641757,
@@ -2922,7 +3310,9 @@
     "position": "G",
     "jersey": "22",
     "usgPct": 18.9,
-    "tsPct": 62.7
+    "tsPct": 62.7,
+    "pointsPlusStdDev": 52.0,
+    "volatilityPctile": 68
   },
   {
     "id": 1630558,
@@ -2937,7 +3327,9 @@
     "position": "G",
     "jersey": "45",
     "usgPct": 13.6,
-    "tsPct": 56.0
+    "tsPct": 56.0,
+    "pointsPlusStdDev": 34.5,
+    "volatilityPctile": 13
   },
   {
     "id": 203903,
@@ -2952,7 +3344,9 @@
     "position": "G",
     "jersey": "0",
     "usgPct": 20.5,
-    "tsPct": 53.7
+    "tsPct": 53.7,
+    "pointsPlusStdDev": 44.7,
+    "volatilityPctile": 40
   },
   {
     "id": 1630249,
@@ -2967,7 +3361,9 @@
     "position": "G",
     "jersey": "27",
     "usgPct": 14.2,
-    "tsPct": 63.4
+    "tsPct": 63.4,
+    "pointsPlusStdDev": 51.0,
+    "volatilityPctile": 65
   },
   {
     "id": 1630573,
@@ -2982,7 +3378,9 @@
     "position": "F",
     "jersey": "30",
     "usgPct": 14.5,
-    "tsPct": 58.4
+    "tsPct": 58.4,
+    "pointsPlusStdDev": 52.3,
+    "volatilityPctile": 69
   },
   {
     "id": 1629004,
@@ -2997,7 +3395,9 @@
     "position": "G-F",
     "jersey": "10",
     "usgPct": 13.4,
-    "tsPct": 61.4
+    "tsPct": 61.4,
+    "pointsPlusStdDev": 44.7,
+    "volatilityPctile": 40
   },
   {
     "id": 1630529,
@@ -3012,7 +3412,9 @@
     "position": "F",
     "jersey": "2",
     "usgPct": 14.9,
-    "tsPct": 49.6
+    "tsPct": 49.6,
+    "pointsPlusStdDev": 38.3,
+    "volatilityPctile": 21
   },
   {
     "id": 1641713,
@@ -3027,7 +3429,9 @@
     "position": "F",
     "jersey": "45",
     "usgPct": 18.9,
-    "tsPct": 58.4
+    "tsPct": 58.4,
+    "pointsPlusStdDev": 47.9,
+    "volatilityPctile": 54
   },
   {
     "id": 1630171,
@@ -3042,7 +3446,9 @@
     "position": "F-G",
     "jersey": "35",
     "usgPct": 13.6,
-    "tsPct": 57.4
+    "tsPct": 57.4,
+    "pointsPlusStdDev": 42.1,
+    "volatilityPctile": 33
   },
   {
     "id": 1630692,
@@ -3057,7 +3463,9 @@
     "position": "G",
     "jersey": "23",
     "usgPct": 17.5,
-    "tsPct": 51.1
+    "tsPct": 51.1,
+    "pointsPlusStdDev": 43.1,
+    "volatilityPctile": 37
   },
   {
     "id": 1631323,
@@ -3072,7 +3480,9 @@
     "position": "F",
     "jersey": "0",
     "usgPct": 18.8,
-    "tsPct": 55.3
+    "tsPct": 55.3,
+    "pointsPlusStdDev": 44.4,
+    "volatilityPctile": 39
   },
   {
     "id": 203110,
@@ -3087,7 +3497,9 @@
     "position": "F",
     "jersey": "23",
     "usgPct": 16.8,
-    "tsPct": 53.9
+    "tsPct": 53.9,
+    "pointsPlusStdDev": 39.3,
+    "volatilityPctile": 25
   },
   {
     "id": 1630643,
@@ -3102,7 +3514,9 @@
     "position": "C",
     "jersey": "32",
     "usgPct": 16.9,
-    "tsPct": 59.4
+    "tsPct": 59.4,
+    "pointsPlusStdDev": 46.4,
+    "volatilityPctile": 47
   },
   {
     "id": 1629652,
@@ -3117,7 +3531,9 @@
     "position": "G",
     "jersey": "5",
     "usgPct": 13.5,
-    "tsPct": 54.3
+    "tsPct": 54.3,
+    "pointsPlusStdDev": 38.8,
+    "volatilityPctile": 22
   },
   {
     "id": 1641783,
@@ -3132,7 +3548,9 @@
     "position": "F",
     "jersey": "23",
     "usgPct": 16.1,
-    "tsPct": 54.1
+    "tsPct": 54.1,
+    "pointsPlusStdDev": 47.9,
+    "volatilityPctile": 54
   },
   {
     "id": 1631093,
@@ -3147,7 +3565,9 @@
     "position": "G",
     "jersey": "31",
     "usgPct": 19.2,
-    "tsPct": 57.1
+    "tsPct": 57.1,
+    "pointsPlusStdDev": 30.7,
+    "volatilityPctile": 7
   },
   {
     "id": 1631230,
@@ -3162,7 +3582,9 @@
     "position": "F",
     "jersey": "25",
     "usgPct": 13.3,
-    "tsPct": 62.3
+    "tsPct": 62.3,
+    "pointsPlusStdDev": 38.6,
+    "volatilityPctile": 22
   },
   {
     "id": 1630549,
@@ -3177,7 +3599,9 @@
     "position": "C",
     "jersey": "20",
     "usgPct": 18.4,
-    "tsPct": 65.0
+    "tsPct": 65.0,
+    "pointsPlusStdDev": 39.1,
+    "volatilityPctile": 24
   },
   {
     "id": 1629018,
@@ -3192,7 +3616,9 @@
     "position": "G",
     "jersey": "5",
     "usgPct": 15.0,
-    "tsPct": 54.0
+    "tsPct": 54.0,
+    "pointsPlusStdDev": 42.1,
+    "volatilityPctile": 33
   },
   {
     "id": 1630631,
@@ -3207,7 +3633,9 @@
     "position": "G",
     "jersey": "5",
     "usgPct": 16.1,
-    "tsPct": 56.6
+    "tsPct": 56.6,
+    "pointsPlusStdDev": 44.9,
+    "volatilityPctile": 42
   },
   {
     "id": 203484,
@@ -3222,7 +3650,9 @@
     "position": "G",
     "jersey": "3",
     "usgPct": 17.3,
-    "tsPct": 53.3
+    "tsPct": 53.3,
+    "pointsPlusStdDev": 39.4,
+    "volatilityPctile": 25
   },
   {
     "id": 1631245,
@@ -3237,7 +3667,9 @@
     "position": "G",
     "jersey": "29",
     "usgPct": 20.2,
-    "tsPct": 61.2
+    "tsPct": 61.2,
+    "pointsPlusStdDev": 50.7,
+    "volatilityPctile": 63
   },
   {
     "id": 1642874,
@@ -3252,7 +3684,9 @@
     "position": "F",
     "jersey": "2",
     "usgPct": 19.4,
-    "tsPct": 51.3
+    "tsPct": 51.3,
+    "pointsPlusStdDev": 42.0,
+    "volatilityPctile": 32
   },
   {
     "id": 1629655,
@@ -3267,7 +3701,9 @@
     "position": "F-C",
     "jersey": "21",
     "usgPct": 14.0,
-    "tsPct": 67.5
+    "tsPct": 67.5,
+    "pointsPlusStdDev": 40.5,
+    "volatilityPctile": 27
   },
   {
     "id": 1641750,
@@ -3282,7 +3718,9 @@
     "position": "C",
     "jersey": "11",
     "usgPct": 11.6,
-    "tsPct": 75.9
+    "tsPct": 75.9,
+    "pointsPlusStdDev": 30.8,
+    "volatilityPctile": 8
   },
   {
     "id": 1631217,
@@ -3297,7 +3735,9 @@
     "position": "F",
     "jersey": "14",
     "usgPct": 11.7,
-    "tsPct": 65.7
+    "tsPct": 65.7,
+    "pointsPlusStdDev": 33.4,
+    "volatilityPctile": 12
   },
   {
     "id": 1641717,
@@ -3312,7 +3752,9 @@
     "position": "G",
     "jersey": "22",
     "usgPct": 13.3,
-    "tsPct": 53.9
+    "tsPct": 53.9,
+    "pointsPlusStdDev": 41.7,
+    "volatilityPctile": 31
   },
   {
     "id": 1628379,
@@ -3327,7 +3769,9 @@
     "position": "G",
     "jersey": "10",
     "usgPct": 12.5,
-    "tsPct": 71.4
+    "tsPct": 71.4,
+    "pointsPlusStdDev": 41.5,
+    "volatilityPctile": 30
   },
   {
     "id": 1641842,
@@ -3342,7 +3786,9 @@
     "position": "F",
     "jersey": "5",
     "usgPct": 18.2,
-    "tsPct": 50.4
+    "tsPct": 50.4,
+    "pointsPlusStdDev": 35.0,
+    "volatilityPctile": 14
   },
   {
     "id": 1627739,
@@ -3357,7 +3803,9 @@
     "position": "G",
     "jersey": "8",
     "usgPct": 13.1,
-    "tsPct": 58.9
+    "tsPct": 58.9,
+    "pointsPlusStdDev": 36.2,
+    "volatilityPctile": 16
   },
   {
     "id": 1642450,
@@ -3372,7 +3820,9 @@
     "position": "G",
     "jersey": "24",
     "usgPct": 21.0,
-    "tsPct": 53.6
+    "tsPct": 53.6,
+    "pointsPlusStdDev": 56.3,
+    "volatilityPctile": 80
   },
   {
     "id": 1642867,
@@ -3387,7 +3837,9 @@
     "position": "F",
     "jersey": "12",
     "usgPct": 14.6,
-    "tsPct": 59.7
+    "tsPct": 59.7,
+    "pointsPlusStdDev": 40.5,
+    "volatilityPctile": 27
   },
   {
     "id": 1631246,
@@ -3402,7 +3854,9 @@
     "position": "G",
     "jersey": "0",
     "usgPct": 18.9,
-    "tsPct": 48.3
+    "tsPct": 48.3,
+    "pointsPlusStdDev": 38.2,
+    "volatilityPctile": 20
   },
   {
     "id": 1627741,
@@ -3417,7 +3871,9 @@
     "position": "G",
     "jersey": "8",
     "usgPct": 18.8,
-    "tsPct": 56.0
+    "tsPct": 56.0,
+    "pointsPlusStdDev": 46.4,
+    "volatilityPctile": 47
   },
   {
     "id": 1630551,
@@ -3432,7 +3888,9 @@
     "position": "G-F",
     "jersey": "9",
     "usgPct": 15.0,
-    "tsPct": 58.8
+    "tsPct": 58.8,
+    "pointsPlusStdDev": 44.9,
+    "volatilityPctile": 42
   },
   {
     "id": 1631121,
@@ -3447,7 +3905,9 @@
     "position": "G",
     "jersey": "11",
     "usgPct": 14.2,
-    "tsPct": 61.5
+    "tsPct": 61.5,
+    "pointsPlusStdDev": 47.7,
+    "volatilityPctile": 53
   },
   {
     "id": 1630568,
@@ -3462,7 +3922,9 @@
     "position": "C",
     "jersey": "52",
     "usgPct": 15.4,
-    "tsPct": 68.8
+    "tsPct": 68.8,
+    "pointsPlusStdDev": 41.5,
+    "volatilityPctile": 30
   },
   {
     "id": 1630695,
@@ -3477,7 +3939,9 @@
     "position": "C",
     "jersey": "11",
     "usgPct": 14.7,
-    "tsPct": 64.6
+    "tsPct": 64.6,
+    "pointsPlusStdDev": 39.1,
+    "volatilityPctile": 24
   },
   {
     "id": 1627747,
@@ -3492,7 +3956,9 @@
     "position": "G",
     "jersey": "8",
     "usgPct": 17.3,
-    "tsPct": 53.9
+    "tsPct": 53.9,
+    "pointsPlusStdDev": 34.5,
+    "volatilityPctile": 13
   },
   {
     "id": 1642366,
@@ -3507,7 +3973,9 @@
     "position": "C",
     "jersey": "21",
     "usgPct": 18.1,
-    "tsPct": 56.7
+    "tsPct": 56.7,
+    "pointsPlusStdDev": 40.7,
+    "volatilityPctile": 28
   },
   {
     "id": 201143,
@@ -3522,7 +3990,9 @@
     "position": "C-F",
     "jersey": "20",
     "usgPct": 15.7,
-    "tsPct": 55.5
+    "tsPct": 55.5,
+    "pointsPlusStdDev": 32.9,
+    "volatilityPctile": 10
   },
   {
     "id": 1631107,
@@ -3537,7 +4007,9 @@
     "position": "F",
     "jersey": "5",
     "usgPct": 20.3,
-    "tsPct": 48.5
+    "tsPct": 48.5,
+    "pointsPlusStdDev": 54.2,
+    "volatilityPctile": 74
   },
   {
     "id": 1629611,
@@ -3552,7 +4024,9 @@
     "position": "G-F",
     "jersey": "14",
     "usgPct": 13.4,
-    "tsPct": 55.6
+    "tsPct": 55.6,
+    "pointsPlusStdDev": 35.7,
+    "volatilityPctile": 15
   },
   {
     "id": 1628971,
@@ -3567,7 +4041,9 @@
     "position": "G-F",
     "jersey": "11",
     "usgPct": 13.6,
-    "tsPct": 54.3
+    "tsPct": 54.3,
+    "pointsPlusStdDev": 37.9,
+    "volatilityPctile": 18
   },
   {
     "id": 203937,
@@ -3582,7 +4058,9 @@
     "position": "F-G",
     "jersey": "2",
     "usgPct": 14.8,
-    "tsPct": 59.1
+    "tsPct": 59.1,
+    "pointsPlusStdDev": 37.4,
+    "volatilityPctile": 17
   },
   {
     "id": 1642849,
@@ -3597,7 +4075,9 @@
     "position": "G",
     "jersey": "88",
     "usgPct": 18.2,
-    "tsPct": 50.7
+    "tsPct": 50.7,
+    "pointsPlusStdDev": 47.6,
+    "volatilityPctile": 53
   },
   {
     "id": 1631213,
@@ -3611,7 +4091,9 @@
     "mpg": 18.8,
     "position": "F",
     "usgPct": 18.1,
-    "tsPct": 50.7
+    "tsPct": 50.7,
+    "pointsPlusStdDev": 49.2,
+    "volatilityPctile": 58
   },
   {
     "id": 1628436,
@@ -3626,7 +4108,9 @@
     "position": "C-F",
     "jersey": "7",
     "usgPct": 10.1,
-    "tsPct": 69.3
+    "tsPct": 69.3,
+    "pointsPlusStdDev": 36.2,
+    "volatilityPctile": 16
   },
   {
     "id": 1630173,
@@ -3641,7 +4125,9 @@
     "position": "F",
     "jersey": "9",
     "usgPct": 15.1,
-    "tsPct": 53.5
+    "tsPct": 53.5,
+    "pointsPlusStdDev": 38.9,
+    "volatilityPctile": 23
   },
   {
     "id": 1630544,
@@ -3656,7 +4142,9 @@
     "position": "G",
     "jersey": "23",
     "usgPct": 22.9,
-    "tsPct": 47.0
+    "tsPct": 47.0,
+    "pointsPlusStdDev": 45.9,
+    "volatilityPctile": 45
   },
   {
     "id": 1642383,
@@ -3671,7 +4159,9 @@
     "position": "G",
     "jersey": "13",
     "usgPct": 17.0,
-    "tsPct": 53.6
+    "tsPct": 53.6,
+    "pointsPlusStdDev": 37.9,
+    "volatilityPctile": 18
   },
   {
     "id": 201567,
@@ -3686,7 +4176,9 @@
     "position": "F-C",
     "jersey": "42",
     "usgPct": 16.4,
-    "tsPct": 56.3
+    "tsPct": 56.3,
+    "pointsPlusStdDev": 39.6,
+    "volatilityPctile": 26
   },
   {
     "id": 1642860,
@@ -3701,7 +4193,9 @@
     "position": "F",
     "jersey": "27",
     "usgPct": 18.4,
-    "tsPct": 51.6
+    "tsPct": 51.6,
+    "pointsPlusStdDev": 47.6,
+    "volatilityPctile": 53
   },
   {
     "id": 203083,
@@ -3716,7 +4210,9 @@
     "position": "C",
     "jersey": "1",
     "usgPct": 14.7,
-    "tsPct": 56.5
+    "tsPct": 56.5,
+    "pointsPlusStdDev": 39.2,
+    "volatilityPctile": 24
   },
   {
     "id": 1629750,
@@ -3731,7 +4227,9 @@
     "position": "G",
     "jersey": "31",
     "usgPct": 14.3,
-    "tsPct": 59.1
+    "tsPct": 59.1,
+    "pointsPlusStdDev": 38.0,
+    "volatilityPctile": 19
   },
   {
     "id": 1629026,
@@ -3746,7 +4244,9 @@
     "position": "G-F",
     "jersey": "34",
     "usgPct": 17.2,
-    "tsPct": 61.6
+    "tsPct": 61.6,
+    "pointsPlusStdDev": 49.8,
+    "volatilityPctile": 60
   },
   {
     "id": 1631123,
@@ -3761,7 +4261,9 @@
     "position": "G",
     "jersey": "17",
     "usgPct": 17.7,
-    "tsPct": 57.6
+    "tsPct": 57.6,
+    "pointsPlusStdDev": 41.9,
+    "volatilityPctile": 32
   },
   {
     "id": 1630172,
@@ -3776,7 +4278,9 @@
     "position": "F",
     "jersey": "44",
     "usgPct": 16.3,
-    "tsPct": 50.7
+    "tsPct": 50.7,
+    "pointsPlusStdDev": 35.6,
+    "volatilityPctile": 15
   },
   {
     "id": 1642920,
@@ -3791,7 +4295,9 @@
     "position": "G",
     "jersey": "4",
     "usgPct": 15.3,
-    "tsPct": 55.4
+    "tsPct": 55.4,
+    "pointsPlusStdDev": 41.4,
+    "volatilityPctile": 29
   },
   {
     "id": 1642347,
@@ -3806,7 +4312,9 @@
     "position": "G",
     "jersey": "23",
     "usgPct": 15.5,
-    "tsPct": 48.7
+    "tsPct": 48.7,
+    "pointsPlusStdDev": 38.0,
+    "volatilityPctile": 19
   },
   {
     "id": 201572,
@@ -3821,7 +4329,9 @@
     "position": "C",
     "jersey": "11",
     "usgPct": 17.5,
-    "tsPct": 52.8
+    "tsPct": 52.8,
+    "pointsPlusStdDev": 43.7,
+    "volatilityPctile": 38
   },
   {
     "id": 1630175,
@@ -3836,7 +4346,9 @@
     "position": "G",
     "jersey": "50",
     "usgPct": 24.4,
-    "tsPct": 48.3
+    "tsPct": 48.3,
+    "pointsPlusStdDev": 44.9,
+    "volatilityPctile": 42
   },
   {
     "id": 1642272,
@@ -3851,7 +4363,9 @@
     "position": "G",
     "jersey": "3",
     "usgPct": 17.9,
-    "tsPct": 51.3
+    "tsPct": 51.3,
+    "pointsPlusStdDev": 43.1,
+    "volatilityPctile": 37
   },
   {
     "id": 1629637,
@@ -3866,7 +4380,9 @@
     "position": "C-F",
     "jersey": "11",
     "usgPct": 11.6,
-    "tsPct": 76.8
+    "tsPct": 76.8,
+    "pointsPlusStdDev": 32.0,
+    "volatilityPctile": 10
   },
   {
     "id": 1642948,
@@ -3881,7 +4397,9 @@
     "position": "G",
     "jersey": "9",
     "usgPct": 17.9,
-    "tsPct": 50.5
+    "tsPct": 50.5,
+    "pointsPlusStdDev": 45.7,
+    "volatilityPctile": 44
   },
   {
     "id": 1642363,
@@ -3896,7 +4414,9 @@
     "position": "G",
     "jersey": "5",
     "usgPct": 15.5,
-    "tsPct": 48.6
+    "tsPct": 48.6,
+    "pointsPlusStdDev": 48.9,
+    "volatilityPctile": 57
   },
   {
     "id": 1642954,
@@ -3911,7 +4431,9 @@
     "position": "G",
     "jersey": "3",
     "usgPct": 13.2,
-    "tsPct": 60.5
+    "tsPct": 60.5,
+    "pointsPlusStdDev": 46.6,
+    "volatilityPctile": 48
   },
   {
     "id": 1641772,
@@ -3926,7 +4448,9 @@
     "position": "F",
     "jersey": "35",
     "usgPct": 15.2,
-    "tsPct": 55.5
+    "tsPct": 55.5,
+    "pointsPlusStdDev": 34.3,
+    "volatilityPctile": 12
   },
   {
     "id": 1641711,
@@ -3941,7 +4465,9 @@
     "position": "G-F",
     "jersey": "1",
     "usgPct": 16.4,
-    "tsPct": 55.2
+    "tsPct": 55.2,
+    "pointsPlusStdDev": 41.2,
+    "volatilityPctile": 29
   },
   {
     "id": 1629057,
@@ -3956,7 +4482,9 @@
     "position": "C-F",
     "jersey": "35",
     "usgPct": 12.1,
-    "tsPct": 77.9
+    "tsPct": 77.9,
+    "pointsPlusStdDev": 28.1,
+    "volatilityPctile": 5
   },
   {
     "id": 1641767,
@@ -3971,7 +4499,9 @@
     "position": "G",
     "jersey": "26",
     "usgPct": 12.6,
-    "tsPct": 53.1
+    "tsPct": 53.1,
+    "pointsPlusStdDev": 32.9,
+    "volatilityPctile": 10
   },
   {
     "id": 1631321,
@@ -3986,7 +4516,9 @@
     "position": "G",
     "jersey": "91",
     "usgPct": 12.7,
-    "tsPct": 53.5
+    "tsPct": 53.5,
+    "pointsPlusStdDev": 42.8,
+    "volatilityPctile": 35
   },
   {
     "id": 1630311,
@@ -4001,7 +4533,9 @@
     "position": "G",
     "jersey": "61",
     "usgPct": 18.9,
-    "tsPct": 53.0
+    "tsPct": 53.0,
+    "pointsPlusStdDev": 50.5,
+    "volatilityPctile": 63
   },
   {
     "id": 1630543,
@@ -4016,7 +4550,9 @@
     "position": "F",
     "jersey": "23",
     "usgPct": 15.2,
-    "tsPct": 61.7
+    "tsPct": 61.7,
+    "pointsPlusStdDev": 38.9,
+    "volatilityPctile": 23
   },
   {
     "id": 1630570,
@@ -4031,7 +4567,9 @@
     "position": "G-F",
     "jersey": "12",
     "usgPct": 15.9,
-    "tsPct": 57.2
+    "tsPct": 57.2,
+    "pointsPlusStdDev": 46.0,
+    "volatilityPctile": 45
   },
   {
     "id": 1642275,
@@ -4046,7 +4584,9 @@
     "position": "F",
     "jersey": "31",
     "usgPct": 14.5,
-    "tsPct": 64.0
+    "tsPct": 64.0,
+    "pointsPlusStdDev": 40.9,
+    "volatilityPctile": 28
   },
   {
     "id": 1631119,
@@ -4061,7 +4601,9 @@
     "position": "F",
     "jersey": "6",
     "usgPct": 15.3,
-    "tsPct": 53.0
+    "tsPct": 53.0,
+    "pointsPlusStdDev": 37.7,
+    "volatilityPctile": 18
   },
   {
     "id": 1627936,
@@ -4076,7 +4618,9 @@
     "position": "G",
     "jersey": "9",
     "usgPct": 14.7,
-    "tsPct": 55.1
+    "tsPct": 55.1,
+    "pointsPlusStdDev": 33.2,
+    "volatilityPctile": 12
   },
   {
     "id": 1642962,
@@ -4091,7 +4635,9 @@
     "position": "G-F",
     "jersey": "4",
     "usgPct": 14.8,
-    "tsPct": 56.0
+    "tsPct": 56.0,
+    "pointsPlusStdDev": 36.1,
+    "volatilityPctile": 16
   },
   {
     "id": 1642266,
@@ -4106,7 +4652,9 @@
     "position": "G",
     "jersey": "14",
     "usgPct": 13.5,
-    "tsPct": 57.0
+    "tsPct": 57.0,
+    "pointsPlusStdDev": 42.7,
+    "volatilityPctile": 35
   },
   {
     "id": 1630696,
@@ -4121,7 +4669,9 @@
     "position": "G",
     "jersey": "12",
     "usgPct": 14.6,
-    "tsPct": 53.6
+    "tsPct": 53.6,
+    "pointsPlusStdDev": 27.0,
+    "volatilityPctile": 3
   },
   {
     "id": 1631200,
@@ -4136,7 +4686,9 @@
     "position": "F",
     "jersey": "24",
     "usgPct": 10.0,
-    "tsPct": 53.5
+    "tsPct": 53.5,
+    "pointsPlusStdDev": 28.4,
+    "volatilityPctile": 5
   },
   {
     "id": 1642346,
@@ -4151,7 +4703,9 @@
     "position": "F",
     "jersey": "0",
     "usgPct": 14.4,
-    "tsPct": 52.4
+    "tsPct": 52.4,
+    "pointsPlusStdDev": 28.0,
+    "volatilityPctile": 4
   },
   {
     "id": 1642461,
@@ -4166,7 +4720,9 @@
     "position": "F",
     "jersey": "21",
     "usgPct": 9.9,
-    "tsPct": 63.5
+    "tsPct": 63.5,
+    "pointsPlusStdDev": 46.7,
+    "volatilityPctile": 49
   },
   {
     "id": 1642262,
@@ -4181,7 +4737,9 @@
     "position": "F",
     "jersey": "5",
     "usgPct": 12.7,
-    "tsPct": 53.2
+    "tsPct": 53.2,
+    "pointsPlusStdDev": 38.0,
+    "volatilityPctile": 19
   },
   {
     "id": 203500,
@@ -4196,7 +4754,9 @@
     "position": "C",
     "jersey": "12",
     "usgPct": 11.6,
-    "tsPct": 53.5
+    "tsPct": 53.5,
+    "pointsPlusStdDev": 24.3,
+    "volatilityPctile": 1
   },
   {
     "id": 1629048,
@@ -4211,7 +4771,9 @@
     "position": "C-F",
     "jersey": "35",
     "usgPct": 11.7,
-    "tsPct": 71.1
+    "tsPct": 71.1,
+    "pointsPlusStdDev": 28.9,
+    "volatilityPctile": 6
   },
   {
     "id": 1629731,
@@ -4226,7 +4788,9 @@
     "position": "F-C",
     "jersey": "32",
     "usgPct": 9.6,
-    "tsPct": 56.4
+    "tsPct": 56.4,
+    "pointsPlusStdDev": 29.0,
+    "volatilityPctile": 6
   },
   {
     "id": 1631169,
@@ -4241,7 +4805,9 @@
     "position": "F",
     "jersey": "0",
     "usgPct": 13.5,
-    "tsPct": 65.1
+    "tsPct": 65.1,
+    "pointsPlusStdDev": 42.8,
+    "volatilityPctile": 35
   },
   {
     "id": 1642274,
@@ -4256,7 +4822,9 @@
     "position": "C",
     "jersey": "21",
     "usgPct": 12.1,
-    "tsPct": 55.1
+    "tsPct": 55.1,
+    "pointsPlusStdDev": 26.5,
+    "volatilityPctile": 2
   },
   {
     "id": 1641775,
@@ -4271,7 +4839,9 @@
     "position": "G",
     "jersey": "27",
     "usgPct": 11.6,
-    "tsPct": 61.9
+    "tsPct": 61.9,
+    "pointsPlusStdDev": 41.6,
+    "volatilityPctile": 31
   },
   {
     "id": 1642883,
@@ -4286,7 +4856,9 @@
     "position": "G",
     "jersey": "4",
     "usgPct": 10.5,
-    "tsPct": 54.3
+    "tsPct": 54.3,
+    "pointsPlusStdDev": 30.2,
+    "volatilityPctile": 7
   },
   {
     "id": 1631165,
@@ -4301,7 +4873,9 @@
     "position": "G",
     "jersey": "14",
     "usgPct": 13.1,
-    "tsPct": 53.5
+    "tsPct": 53.5,
+    "pointsPlusStdDev": 43.4,
+    "volatilityPctile": 38
   },
   {
     "id": 1642345,
@@ -4316,7 +4890,9 @@
     "position": "F",
     "jersey": "11",
     "usgPct": 11.8,
-    "tsPct": 62.2
+    "tsPct": 62.2,
+    "pointsPlusStdDev": 30.7,
+    "volatilityPctile": 7
   },
   {
     "id": 1642857,
@@ -4331,7 +4907,9 @@
     "position": "G",
     "jersey": "25",
     "usgPct": 12.9,
-    "tsPct": 58.3
+    "tsPct": 58.3,
+    "pointsPlusStdDev": 45.8,
+    "volatilityPctile": 44
   },
   {
     "id": 1629618,
@@ -4346,7 +4924,9 @@
     "position": "G",
     "jersey": "24",
     "usgPct": 14.5,
-    "tsPct": 53.0
+    "tsPct": 53.0,
+    "pointsPlusStdDev": 46.5,
+    "volatilityPctile": 48
   },
   {
     "id": 1641707,
@@ -4361,7 +4941,9 @@
     "position": "F",
     "jersey": "0",
     "usgPct": 14.1,
-    "tsPct": 55.4
+    "tsPct": 55.4,
+    "pointsPlusStdDev": 43.4,
+    "volatilityPctile": 38
   },
   {
     "id": 1642928,
@@ -4376,7 +4958,9 @@
     "position": "C",
     "jersey": "32",
     "usgPct": 10.2,
-    "tsPct": 60.2
+    "tsPct": 60.2,
+    "pointsPlusStdDev": 27.6,
+    "volatilityPctile": 3
   },
   {
     "id": 1629006,
@@ -4391,7 +4975,9 @@
     "position": "G",
     "jersey": "20",
     "usgPct": 11.4,
-    "tsPct": 55.9
+    "tsPct": 55.9,
+    "pointsPlusStdDev": 35.1,
+    "volatilityPctile": 14
   },
   {
     "id": 1642277,
@@ -4406,7 +4992,9 @@
     "position": "G",
     "jersey": "12",
     "usgPct": 12.5,
-    "tsPct": 54.7
+    "tsPct": 54.7,
+    "pointsPlusStdDev": 33.2,
+    "volatilityPctile": 12
   },
   {
     "id": 1629020,
@@ -4421,7 +5009,9 @@
     "position": "F",
     "jersey": "2",
     "usgPct": 12.1,
-    "tsPct": 55.3
+    "tsPct": 55.3,
+    "pointsPlusStdDev": 28.1,
+    "volatilityPctile": 5
   },
   {
     "id": 1630679,
@@ -4436,7 +5026,9 @@
     "position": "G",
     "jersey": "55",
     "usgPct": 14.4,
-    "tsPct": 50.4
+    "tsPct": 50.4,
+    "pointsPlusStdDev": 41.4,
+    "volatilityPctile": 29
   },
   {
     "id": 1642879,
@@ -4451,7 +5043,9 @@
     "position": "G",
     "jersey": "77",
     "usgPct": 18.0,
-    "tsPct": 43.9
+    "tsPct": 43.9,
+    "pointsPlusStdDev": 27.7,
+    "volatilityPctile": 4
   },
   {
     "id": 1629011,
@@ -4466,7 +5060,9 @@
     "position": "C-F",
     "jersey": "23",
     "usgPct": 9.2,
-    "tsPct": 64.9
+    "tsPct": 64.9,
+    "pointsPlusStdDev": 33.0,
+    "volatilityPctile": 11
   },
   {
     "id": 1642364,
@@ -4481,7 +5077,9 @@
     "position": "F",
     "jersey": "5",
     "usgPct": 12.4,
-    "tsPct": 49.8
+    "tsPct": 49.8,
+    "pointsPlusStdDev": 37.4,
+    "volatilityPctile": 17
   },
   {
     "id": 1631243,
@@ -4496,7 +5094,9 @@
     "position": "F",
     "jersey": "18",
     "usgPct": 13.1,
-    "tsPct": 52.5
+    "tsPct": 52.5,
+    "pointsPlusStdDev": 36.2,
+    "volatilityPctile": 16
   },
   {
     "id": 1641854,
@@ -4511,7 +5111,9 @@
     "position": "G",
     "jersey": "9",
     "usgPct": 11.9,
-    "tsPct": 52.9
+    "tsPct": 52.9,
+    "pointsPlusStdDev": 33.0,
+    "volatilityPctile": 11
   },
   {
     "id": 1629216,
@@ -4526,7 +5128,9 @@
     "position": "G",
     "jersey": "4",
     "usgPct": 11.1,
-    "tsPct": 49.7
+    "tsPct": 49.7,
+    "pointsPlusStdDev": 31.8,
+    "volatilityPctile": 9
   },
   {
     "id": 1630182,
@@ -4541,7 +5145,9 @@
     "position": "G",
     "jersey": "10",
     "usgPct": 10.5,
-    "tsPct": 64.4
+    "tsPct": 64.4,
+    "pointsPlusStdDev": 31.9,
+    "volatilityPctile": 9
   },
   {
     "id": 1630526,
@@ -4555,7 +5161,9 @@
     "mpg": 16.4,
     "position": "F",
     "usgPct": 12.9,
-    "tsPct": 46.8
+    "tsPct": 46.8,
+    "pointsPlusStdDev": 26.5,
+    "volatilityPctile": 2
   },
   {
     "id": 1628366,
@@ -4569,7 +5177,9 @@
     "mpg": 20.8,
     "position": "G",
     "usgPct": 13.0,
-    "tsPct": 43.2
+    "tsPct": 43.2,
+    "pointsPlusStdDev": 29.5,
+    "volatilityPctile": 6
   },
   {
     "id": 201144,
@@ -4583,7 +5193,9 @@
     "mpg": 18.5,
     "position": "G",
     "usgPct": 11.2,
-    "tsPct": 50.2
+    "tsPct": 50.2,
+    "pointsPlusStdDev": 23.6,
+    "volatilityPctile": 1
   },
   {
     "id": 201587,
@@ -4598,7 +5210,9 @@
     "position": "G-F",
     "jersey": "33",
     "usgPct": 9.6,
-    "tsPct": 59.3
+    "tsPct": 59.3,
+    "pointsPlusStdDev": 25.9,
+    "volatilityPctile": 2
   },
   {
     "id": 1642877,
@@ -4613,7 +5227,9 @@
     "position": "G-F",
     "jersey": "14",
     "usgPct": 14.1,
-    "tsPct": 44.1
+    "tsPct": 44.1,
+    "pointsPlusStdDev": 35.3,
+    "volatilityPctile": 15
   },
   {
     "id": 1630534,
@@ -4628,7 +5244,9 @@
     "position": "G",
     "jersey": "30",
     "usgPct": 12.9,
-    "tsPct": 48.7
+    "tsPct": 48.7,
+    "pointsPlusStdDev": 30.2,
+    "volatilityPctile": 7
   },
   {
     "id": 1641737,
@@ -4643,7 +5261,9 @@
     "position": "F",
     "jersey": "30",
     "usgPct": 10.3,
-    "tsPct": 62.6
+    "tsPct": 62.6,
+    "pointsPlusStdDev": 27.9,
+    "volatilityPctile": 4
   },
   {
     "id": 1642864,
@@ -4658,7 +5278,9 @@
     "position": "G",
     "jersey": "28",
     "usgPct": 11.2,
-    "tsPct": 53.7
+    "tsPct": 53.7,
+    "pointsPlusStdDev": 27.5,
+    "volatilityPctile": 3
   },
   {
     "id": 1630579,
@@ -4673,7 +5295,9 @@
     "position": "C",
     "jersey": "0",
     "usgPct": 8.4,
-    "tsPct": 81.2
+    "tsPct": 81.2,
+    "pointsPlusStdDev": 31.9,
+    "volatilityPctile": 9
   },
   {
     "id": 1626145,
@@ -4688,7 +5312,9 @@
     "position": "G",
     "jersey": "1",
     "usgPct": 9.7,
-    "tsPct": 44.5
+    "tsPct": 44.5,
+    "pointsPlusStdDev": 27.1,
+    "volatilityPctile": 3
   },
   {
     "id": 1627827,
@@ -4703,7 +5329,9 @@
     "position": "F",
     "jersey": "2",
     "usgPct": 10.3,
-    "tsPct": 41.9
+    "tsPct": 41.9,
+    "pointsPlusStdDev": 16.0,
+    "volatilityPctile": 0
   },
   {
     "id": 1631132,
@@ -4718,6 +5346,8 @@
     "position": "C",
     "jersey": "10",
     "usgPct": 9.9,
-    "tsPct": 44.7
+    "tsPct": 44.7,
+    "pointsPlusStdDev": 22.7,
+    "volatilityPctile": 1
   }
 ]

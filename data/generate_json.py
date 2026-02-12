@@ -36,6 +36,11 @@ def generate_leaderboard(qualifying):
         if "TS_PCT" in row and not (isinstance(row.get("TS_PCT"), float) and np.isnan(row.get("TS_PCT", np.nan))):
             player["tsPct"] = round(float(row["TS_PCT"]) * 100, 1)
 
+        if "PP_STD_DEV" in row.index:
+            player["pointsPlusStdDev"] = float(row["PP_STD_DEV"])
+        if "VOLATILITY_PERCENTILE" in row.index:
+            player["volatilityPctile"] = int(row["VOLATILITY_PERCENTILE"])
+
         players.append(player)
 
     path = os.path.join(OUTPUT_DIR, "leaderboard.json")
