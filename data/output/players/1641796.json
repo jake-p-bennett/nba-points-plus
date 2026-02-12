@@ -2,7 +2,7 @@
   "id": 1641796,
   "name": "Pelle Larsson",
   "team": "MIA",
-  "rank": 178,
+  "rank": 179,
   "gp": 45,
   "ppg": 10.2,
   "adjPpg": 10.2,
@@ -28,7 +28,7 @@
       "result": "W",
       "min": 8,
       "pts": 8,
-      "adjPts": 7.9,
+      "adjPts": 7.8,
       "pointsPlus": 63
     },
     {
@@ -137,7 +137,7 @@
       "min": 26,
       "pts": 13,
       "adjPts": 13.4,
-      "pointsPlus": 107
+      "pointsPlus": 108
     },
     {
       "date": "2025-11-19",
@@ -145,8 +145,8 @@
       "result": "W",
       "min": 28,
       "pts": 10,
-      "adjPts": 10.2,
-      "pointsPlus": 82
+      "adjPts": 10.1,
+      "pointsPlus": 81
     },
     {
       "date": "2025-11-21",
@@ -155,7 +155,7 @@
       "min": 26,
       "pts": 16,
       "adjPts": 15.3,
-      "pointsPlus": 123
+      "pointsPlus": 122
     },
     {
       "date": "2025-11-23",
@@ -163,8 +163,8 @@
       "result": "W",
       "min": 32,
       "pts": 6,
-      "adjPts": 6.1,
-      "pointsPlus": 49
+      "adjPts": 6.0,
+      "pointsPlus": 48
     },
     {
       "date": "2025-11-24",
@@ -343,7 +343,7 @@
       "result": "L",
       "min": 29,
       "pts": 6,
-      "adjPts": 5.9,
+      "adjPts": 5.8,
       "pointsPlus": 47
     },
     {
@@ -352,7 +352,7 @@
       "result": "W",
       "min": 25,
       "pts": 20,
-      "adjPts": 18.4,
+      "adjPts": 18.5,
       "pointsPlus": 148
     },
     {
@@ -389,7 +389,7 @@
       "min": 33,
       "pts": 22,
       "adjPts": 21.0,
-      "pointsPlus": 169
+      "pointsPlus": 168
     },
     {
       "date": "2026-02-01",

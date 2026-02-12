@@ -2,7 +2,7 @@
   "id": 1626156,
   "name": "D'Angelo Russell",
   "team": "DAL",
-  "rank": 173,
+  "rank": 174,
   "gp": 26,
   "ppg": 10.2,
   "adjPpg": 10.3,
@@ -29,7 +29,7 @@
       "min": 8,
       "pts": 1,
       "adjPts": 0.9,
-      "pointsPlus": 8
+      "pointsPlus": 7
     },
     {
       "date": "2025-10-26",
@@ -38,7 +38,7 @@
       "min": 29,
       "pts": 24,
       "adjPts": 24.7,
-      "pointsPlus": 199
+      "pointsPlus": 198
     },
     {
       "date": "2025-10-27",
@@ -64,8 +64,8 @@
       "result": "L",
       "min": 30,
       "pts": 31,
-      "adjPts": 32.7,
-      "pointsPlus": 262
+      "adjPts": 32.8,
+      "pointsPlus": 263
     },
     {
       "date": "2025-11-03",
@@ -118,7 +118,7 @@
       "result": "L",
       "min": 14,
       "pts": 5,
-      "adjPts": 5.2,
+      "adjPts": 5.1,
       "pointsPlus": 41
     },
     {
@@ -146,7 +146,7 @@
       "min": 22,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 65
+      "pointsPlus": 64
     },
     {
       "date": "2025-11-19",
@@ -154,7 +154,7 @@
       "result": "L",
       "min": 25,
       "pts": 23,
-      "adjPts": 23.6,
+      "adjPts": 23.7,
       "pointsPlus": 190
     },
     {

@@ -2,8 +2,8 @@
   "id": 1629652,
   "name": "Luguentz Dort",
   "team": "OKC",
-  "rank": 205,
-  "gp": 43,
+  "rank": 208,
+  "gp": 44,
   "ppg": 8.7,
   "adjPpg": 8.6,
   "pointsPlus": 69,
@@ -11,7 +11,7 @@
   "position": "G",
   "jersey": "5",
   "usgPct": 13.5,
-  "tsPct": 53.9,
+  "tsPct": 54.3,
   "gameLog": [
     {
       "date": "2025-10-21",
@@ -64,8 +64,8 @@
       "result": "W",
       "min": 26,
       "pts": 7,
-      "adjPts": 6.6,
-      "pointsPlus": 53
+      "adjPts": 6.5,
+      "pointsPlus": 52
     },
     {
       "date": "2025-11-04",
@@ -74,7 +74,7 @@
       "min": 15,
       "pts": 6,
       "adjPts": 6.2,
-      "pointsPlus": 49
+      "pointsPlus": 50
     },
     {
       "date": "2025-11-15",
@@ -110,7 +110,7 @@
       "min": 21,
       "pts": 9,
       "adjPts": 8.3,
-      "pointsPlus": 66
+      "pointsPlus": 67
     },
     {
       "date": "2025-11-23",
@@ -145,7 +145,7 @@
       "result": "W",
       "min": 28,
       "pts": 10,
-      "adjPts": 9.8,
+      "adjPts": 9.7,
       "pointsPlus": 78
     },
     {
@@ -154,7 +154,7 @@
       "result": "W",
       "min": 22,
       "pts": 12,
-      "adjPts": 12.4,
+      "adjPts": 12.3,
       "pointsPlus": 99
     },
     {
@@ -190,7 +190,7 @@
       "result": "W",
       "min": 30,
       "pts": 13,
-      "adjPts": 12.8,
+      "adjPts": 12.7,
       "pointsPlus": 102
     },
     {
@@ -245,7 +245,7 @@
       "min": 26,
       "pts": 11,
       "adjPts": 11.2,
-      "pointsPlus": 90
+      "pointsPlus": 89
     },
     {
       "date": "2026-01-04",
@@ -254,7 +254,7 @@
       "min": 27,
       "pts": 13,
       "adjPts": 13.4,
-      "pointsPlus": 108
+      "pointsPlus": 107
     },
     {
       "date": "2026-01-05",
@@ -280,7 +280,7 @@
       "result": "W",
       "min": 35,
       "pts": 13,
-      "adjPts": 12.8,
+      "adjPts": 12.7,
       "pointsPlus": 102
     },
     {
@@ -399,6 +399,15 @@
       "pts": 7,
       "adjPts": 6.9,
       "pointsPlus": 55
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "OKC @ PHX",
+      "result": "W",
+      "min": 24,
+      "pts": 9,
+      "adjPts": 9.3,
+      "pointsPlus": 74
     }
   ]
 }

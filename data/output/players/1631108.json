@@ -2,7 +2,7 @@
   "id": 1631108,
   "name": "Max Christie",
   "team": "DAL",
-  "rank": 120,
+  "rank": 119,
   "gp": 49,
   "ppg": 13.1,
   "adjPpg": 13.2,
@@ -29,7 +29,7 @@
       "min": 29,
       "pts": 9,
       "adjPts": 8.4,
-      "pointsPlus": 68
+      "pointsPlus": 67
     },
     {
       "date": "2025-10-26",
@@ -91,7 +91,7 @@
       "result": "L",
       "min": 28,
       "pts": 18,
-      "adjPts": 17.7,
+      "adjPts": 17.6,
       "pointsPlus": 142
     },
     {
@@ -118,7 +118,7 @@
       "result": "L",
       "min": 34,
       "pts": 12,
-      "adjPts": 12.4,
+      "adjPts": 12.3,
       "pointsPlus": 99
     },
     {
@@ -128,7 +128,7 @@
       "min": 37,
       "pts": 10,
       "adjPts": 10.3,
-      "pointsPlus": 82
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-16",
@@ -136,8 +136,8 @@
       "result": "W",
       "min": 28,
       "pts": 14,
-      "adjPts": 13.7,
-      "pointsPlus": 110
+      "adjPts": 13.6,
+      "pointsPlus": 109
     },
     {
       "date": "2025-11-17",
@@ -154,7 +154,7 @@
       "result": "L",
       "min": 37,
       "pts": 15,
-      "adjPts": 15.4,
+      "adjPts": 15.5,
       "pointsPlus": 124
     },
     {
@@ -163,7 +163,7 @@
       "result": "W",
       "min": 32,
       "pts": 23,
-      "adjPts": 22.2,
+      "adjPts": 22.1,
       "pointsPlus": 178
     },
     {
@@ -299,7 +299,7 @@
       "min": 29,
       "pts": 25,
       "adjPts": 24.4,
-      "pointsPlus": 196
+      "pointsPlus": 195
     },
     {
       "date": "2026-01-01",
@@ -307,8 +307,8 @@
       "result": "L",
       "min": 29,
       "pts": 18,
-      "adjPts": 18.2,
-      "pointsPlus": 146
+      "adjPts": 18.1,
+      "pointsPlus": 145
     },
     {
       "date": "2026-01-03",
@@ -334,7 +334,7 @@
       "result": "L",
       "min": 32,
       "pts": 16,
-      "adjPts": 14.7,
+      "adjPts": 14.8,
       "pointsPlus": 118
     },
     {
@@ -343,7 +343,7 @@
       "result": "L",
       "min": 27,
       "pts": 10,
-      "adjPts": 9.6,
+      "adjPts": 9.5,
       "pointsPlus": 77
     },
     {
@@ -361,8 +361,8 @@
       "result": "W",
       "min": 26,
       "pts": 22,
-      "adjPts": 20.2,
-      "pointsPlus": 162
+      "adjPts": 20.3,
+      "pointsPlus": 163
     },
     {
       "date": "2026-01-19",
@@ -370,7 +370,7 @@
       "result": "W",
       "min": 35,
       "pts": 26,
-      "adjPts": 26.7,
+      "adjPts": 26.8,
       "pointsPlus": 215
     },
     {
@@ -442,7 +442,7 @@
       "result": "L",
       "min": 27,
       "pts": 17,
-      "adjPts": 17.4,
+      "adjPts": 17.5,
       "pointsPlus": 140
     },
     {
@@ -451,7 +451,7 @@
       "result": "L",
       "min": 31,
       "pts": 5,
-      "adjPts": 5.2,
+      "adjPts": 5.1,
       "pointsPlus": 41
     }
   ]

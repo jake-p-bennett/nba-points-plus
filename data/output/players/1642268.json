@@ -3,15 +3,15 @@
   "name": "Isaiah Collier",
   "team": "UTA",
   "rank": 176,
-  "gp": 46,
+  "gp": 47,
   "ppg": 10.3,
   "adjPpg": 10.3,
-  "pointsPlus": 82,
+  "pointsPlus": 83,
   "mpg": 25.3,
   "position": "G",
   "jersey": "8",
   "usgPct": 18.4,
-  "tsPct": 57.5,
+  "tsPct": 57.8,
   "gameLog": [
     {
       "date": "2025-11-07",
@@ -19,7 +19,7 @@
       "result": "L",
       "min": 26,
       "pts": 10,
-      "adjPts": 10.0,
+      "adjPts": 10.1,
       "pointsPlus": 81
     },
     {
@@ -56,7 +56,7 @@
       "min": 37,
       "pts": 16,
       "adjPts": 15.3,
-      "pointsPlus": 123
+      "pointsPlus": 122
     },
     {
       "date": "2025-11-18",
@@ -137,7 +137,7 @@
       "min": 24,
       "pts": 13,
       "adjPts": 13.4,
-      "pointsPlus": 107
+      "pointsPlus": 108
     },
     {
       "date": "2025-12-07",
@@ -173,7 +173,7 @@
       "min": 28,
       "pts": 18,
       "adjPts": 17.8,
-      "pointsPlus": 143
+      "pointsPlus": 142
     },
     {
       "date": "2025-12-20",
@@ -199,7 +199,7 @@
       "result": "L",
       "min": 26,
       "pts": 8,
-      "adjPts": 7.9,
+      "adjPts": 7.8,
       "pointsPlus": 63
     },
     {
@@ -235,7 +235,7 @@
       "result": "L",
       "min": 37,
       "pts": 16,
-      "adjPts": 16.4,
+      "adjPts": 16.5,
       "pointsPlus": 132
     },
     {
@@ -253,7 +253,7 @@
       "result": "L",
       "min": 30,
       "pts": 10,
-      "adjPts": 9.8,
+      "adjPts": 9.7,
       "pointsPlus": 78
     },
     {
@@ -397,7 +397,7 @@
       "result": "W",
       "min": 48,
       "pts": 17,
-      "adjPts": 16.5,
+      "adjPts": 16.6,
       "pointsPlus": 133
     },
     {
@@ -424,8 +424,17 @@
       "result": "W",
       "min": 34,
       "pts": 13,
-      "adjPts": 12.7,
+      "adjPts": 12.8,
       "pointsPlus": 102
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "UTA vs. SAC",
+      "result": "W",
+      "min": 27,
+      "pts": 12,
+      "adjPts": 11.5,
+      "pointsPlus": 92
     }
   ]
 }

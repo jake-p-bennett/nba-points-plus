@@ -2,16 +2,16 @@
   "id": 1642849,
   "name": "Nolan Traore",
   "team": "BKN",
-  "rank": 249,
-  "gp": 30,
-  "ppg": 7.0,
-  "adjPpg": 7.0,
-  "pointsPlus": 56,
-  "mpg": 20.7,
+  "rank": 240,
+  "gp": 31,
+  "ppg": 7.5,
+  "adjPpg": 7.4,
+  "pointsPlus": 59,
+  "mpg": 21.1,
   "position": "G",
   "jersey": "88",
-  "usgPct": 17.8,
-  "tsPct": 49.5,
+  "usgPct": 18.2,
+  "tsPct": 50.7,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -83,7 +83,7 @@
       "min": 14,
       "pts": 5,
       "adjPts": 5.0,
-      "pointsPlus": 41
+      "pointsPlus": 40
     },
     {
       "date": "2025-12-27",
@@ -155,7 +155,7 @@
       "min": 20,
       "pts": 4,
       "adjPts": 3.9,
-      "pointsPlus": 32
+      "pointsPlus": 31
     },
     {
       "date": "2026-01-12",
@@ -191,7 +191,7 @@
       "min": 26,
       "pts": 16,
       "adjPts": 15.3,
-      "pointsPlus": 123
+      "pointsPlus": 122
     },
     {
       "date": "2026-01-19",
@@ -218,7 +218,7 @@
       "min": 37,
       "pts": 21,
       "adjPts": 22.4,
-      "pointsPlus": 180
+      "pointsPlus": 179
     },
     {
       "date": "2026-01-29",
@@ -235,7 +235,7 @@
       "result": "W",
       "min": 26,
       "pts": 7,
-      "adjPts": 6.4,
+      "adjPts": 6.5,
       "pointsPlus": 52
     },
     {
@@ -271,8 +271,8 @@
       "result": "W",
       "min": 24,
       "pts": 15,
-      "adjPts": 14.1,
-      "pointsPlus": 113
+      "adjPts": 14.0,
+      "pointsPlus": 112
     },
     {
       "date": "2026-02-09",
@@ -281,7 +281,16 @@
       "min": 32,
       "pts": 13,
       "adjPts": 12.4,
-      "pointsPlus": 100
+      "pointsPlus": 99
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "BKN vs. IND",
+      "result": "L",
+      "min": 32,
+      "pts": 20,
+      "adjPts": 19.5,
+      "pointsPlus": 156
     }
   ]
 }

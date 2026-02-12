@@ -2,15 +2,15 @@
   "id": 1642271,
   "name": "Kyle Filipowski",
   "team": "UTA",
-  "rank": 186,
-  "gp": 53,
-  "ppg": 9.7,
-  "adjPpg": 9.8,
-  "pointsPlus": 79,
-  "mpg": 22.3,
+  "rank": 189,
+  "gp": 54,
+  "ppg": 9.6,
+  "adjPpg": 9.7,
+  "pointsPlus": 78,
+  "mpg": 22.0,
   "position": "C",
   "jersey": "22",
-  "usgPct": 17.9,
+  "usgPct": 18.0,
   "tsPct": 57.4,
   "gameLog": [
     {
@@ -19,7 +19,7 @@
       "result": "W",
       "min": 25,
       "pts": 9,
-      "adjPts": 9.2,
+      "adjPts": 9.3,
       "pointsPlus": 74
     },
     {
@@ -47,7 +47,7 @@
       "min": 16,
       "pts": 8,
       "adjPts": 7.8,
-      "pointsPlus": 63
+      "pointsPlus": 62
     },
     {
       "date": "2025-10-31",
@@ -73,7 +73,7 @@
       "result": "W",
       "min": 19,
       "pts": 13,
-      "adjPts": 13.8,
+      "adjPts": 13.9,
       "pointsPlus": 111
     },
     {
@@ -155,7 +155,7 @@
       "min": 16,
       "pts": 11,
       "adjPts": 11.2,
-      "pointsPlus": 90
+      "pointsPlus": 89
     },
     {
       "date": "2025-11-28",
@@ -164,7 +164,7 @@
       "min": 21,
       "pts": 8,
       "adjPts": 7.7,
-      "pointsPlus": 62
+      "pointsPlus": 61
     },
     {
       "date": "2025-11-30",
@@ -208,7 +208,7 @@
       "result": "L",
       "min": 36,
       "pts": 21,
-      "adjPts": 22.5,
+      "adjPts": 22.6,
       "pointsPlus": 181
     },
     {
@@ -236,7 +236,7 @@
       "min": 27,
       "pts": 6,
       "adjPts": 5.9,
-      "pointsPlus": 48
+      "pointsPlus": 47
     },
     {
       "date": "2025-12-20",
@@ -362,7 +362,7 @@
       "min": 31,
       "pts": 19,
       "adjPts": 18.1,
-      "pointsPlus": 146
+      "pointsPlus": 145
     },
     {
       "date": "2026-01-15",
@@ -489,6 +489,15 @@
       "pts": 16,
       "adjPts": 15.7,
       "pointsPlus": 126
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "UTA vs. SAC",
+      "result": "W",
+      "min": 8,
+      "pts": 4,
+      "adjPts": 3.8,
+      "pointsPlus": 31
     }
   ]
 }

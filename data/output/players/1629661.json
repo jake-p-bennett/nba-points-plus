@@ -2,16 +2,16 @@
   "id": 1629661,
   "name": "Cameron Johnson",
   "team": "DEN",
-  "rank": 149,
-  "gp": 30,
-  "ppg": 11.7,
-  "adjPpg": 11.6,
-  "pointsPlus": 93,
-  "mpg": 30.5,
+  "rank": 157,
+  "gp": 31,
+  "ppg": 11.5,
+  "adjPpg": 11.3,
+  "pointsPlus": 91,
+  "mpg": 30.4,
   "position": "F",
   "jersey": "23",
-  "usgPct": 14.4,
-  "tsPct": 61.7,
+  "usgPct": 14.3,
+  "tsPct": 61.1,
   "gameLog": [
     {
       "date": "2025-10-23",
@@ -28,7 +28,7 @@
       "result": "W",
       "min": 25,
       "pts": 15,
-      "adjPts": 15.5,
+      "adjPts": 15.4,
       "pointsPlus": 124
     },
     {
@@ -56,7 +56,7 @@
       "min": 31,
       "pts": 9,
       "adjPts": 8.8,
-      "pointsPlus": 71
+      "pointsPlus": 70
     },
     {
       "date": "2025-11-03",
@@ -110,7 +110,7 @@
       "min": 8,
       "pts": 2,
       "adjPts": 2.1,
-      "pointsPlus": 16
+      "pointsPlus": 17
     },
     {
       "date": "2025-11-17",
@@ -119,7 +119,7 @@
       "min": 37,
       "pts": 19,
       "adjPts": 18.1,
-      "pointsPlus": 146
+      "pointsPlus": 145
     },
     {
       "date": "2025-11-19",
@@ -136,7 +136,7 @@
       "result": "W",
       "min": 32,
       "pts": 9,
-      "adjPts": 9.5,
+      "adjPts": 9.6,
       "pointsPlus": 77
     },
     {
@@ -154,7 +154,7 @@
       "result": "W",
       "min": 37,
       "pts": 18,
-      "adjPts": 17.7,
+      "adjPts": 17.6,
       "pointsPlus": 142
     },
     {
@@ -172,7 +172,7 @@
       "result": "W",
       "min": 35,
       "pts": 15,
-      "adjPts": 15.5,
+      "adjPts": 15.4,
       "pointsPlus": 124
     },
     {
@@ -253,7 +253,7 @@
       "result": "W",
       "min": 29,
       "pts": 20,
-      "adjPts": 18.4,
+      "adjPts": 18.5,
       "pointsPlus": 148
     },
     {
@@ -282,6 +282,15 @@
       "pts": 10,
       "adjPts": 10.0,
       "pointsPlus": 80
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "DEN vs. MEM",
+      "result": "W",
+      "min": 29,
+      "pts": 5,
+      "adjPts": 4.9,
+      "pointsPlus": 39
     }
   ]
 }

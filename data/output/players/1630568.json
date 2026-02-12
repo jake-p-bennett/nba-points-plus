@@ -2,16 +2,16 @@
   "id": 1630568,
   "name": "Luka Garza",
   "team": "BOS",
-  "rank": 226,
-  "gp": 44,
-  "ppg": 7.9,
-  "adjPpg": 7.9,
-  "pointsPlus": 63,
-  "mpg": 16.8,
+  "rank": 231,
+  "gp": 45,
+  "ppg": 7.8,
+  "adjPpg": 7.7,
+  "pointsPlus": 62,
+  "mpg": 16.6,
   "position": "C",
   "jersey": "52",
   "usgPct": 15.4,
-  "tsPct": 69.3,
+  "tsPct": 68.8,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -101,7 +101,7 @@
       "min": 17,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 129
+      "pointsPlus": 128
     },
     {
       "date": "2025-11-11",
@@ -173,7 +173,7 @@
       "min": 8,
       "pts": 5,
       "adjPts": 4.7,
-      "pointsPlus": 38
+      "pointsPlus": 37
     },
     {
       "date": "2025-12-05",
@@ -316,7 +316,7 @@
       "result": "L",
       "min": 15,
       "pts": 10,
-      "adjPts": 10.5,
+      "adjPts": 10.6,
       "pointsPlus": 85
     },
     {
@@ -408,6 +408,15 @@
       "pts": 6,
       "adjPts": 6.2,
       "pointsPlus": 50
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "BOS vs. CHI",
+      "result": "W",
+      "min": 7,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
     }
   ]
 }

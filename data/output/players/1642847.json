@@ -2,16 +2,16 @@
   "id": 1642847,
   "name": "Jeremiah Fears",
   "team": "NOP",
-  "rank": 119,
-  "gp": 55,
+  "rank": 118,
+  "gp": 56,
   "ppg": 13.2,
   "adjPpg": 13.2,
   "pointsPlus": 106,
-  "mpg": 25.5,
+  "mpg": 25.6,
   "position": "G",
   "jersey": "0",
-  "usgPct": 23.8,
-  "tsPct": 51.7,
+  "usgPct": 23.9,
+  "tsPct": 51.3,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -100,7 +100,7 @@
       "result": "L",
       "min": 31,
       "pts": 15,
-      "adjPts": 15.5,
+      "adjPts": 15.4,
       "pointsPlus": 124
     },
     {
@@ -109,8 +109,8 @@
       "result": "L",
       "min": 26,
       "pts": 15,
-      "adjPts": 14.7,
-      "pointsPlus": 118
+      "adjPts": 14.6,
+      "pointsPlus": 117
     },
     {
       "date": "2025-11-14",
@@ -127,8 +127,8 @@
       "result": "L",
       "min": 25,
       "pts": 17,
-      "adjPts": 17.3,
-      "pointsPlus": 139
+      "adjPts": 17.2,
+      "pointsPlus": 138
     },
     {
       "date": "2025-11-17",
@@ -190,8 +190,8 @@
       "result": "L",
       "min": 36,
       "pts": 16,
-      "adjPts": 16.3,
-      "pointsPlus": 131
+      "adjPts": 16.2,
+      "pointsPlus": 130
     },
     {
       "date": "2025-11-30",
@@ -244,8 +244,8 @@
       "result": "W",
       "min": 25,
       "pts": 19,
-      "adjPts": 18.6,
-      "pointsPlus": 149
+      "adjPts": 18.5,
+      "pointsPlus": 148
     },
     {
       "date": "2025-12-14",
@@ -262,7 +262,7 @@
       "result": "W",
       "min": 20,
       "pts": 9,
-      "adjPts": 9.5,
+      "adjPts": 9.6,
       "pointsPlus": 77
     },
     {
@@ -289,7 +289,7 @@
       "result": "L",
       "min": 27,
       "pts": 11,
-      "adjPts": 10.9,
+      "adjPts": 11.0,
       "pointsPlus": 88
     },
     {
@@ -299,7 +299,7 @@
       "min": 17,
       "pts": 9,
       "adjPts": 9.3,
-      "pointsPlus": 75
+      "pointsPlus": 74
     },
     {
       "date": "2025-12-27",
@@ -307,7 +307,7 @@
       "result": "L",
       "min": 34,
       "pts": 18,
-      "adjPts": 18.6,
+      "adjPts": 18.5,
       "pointsPlus": 149
     },
     {
@@ -334,7 +334,7 @@
       "result": "L",
       "min": 29,
       "pts": 18,
-      "adjPts": 17.6,
+      "adjPts": 17.5,
       "pointsPlus": 141
     },
     {
@@ -370,8 +370,8 @@
       "result": "W",
       "min": 32,
       "pts": 21,
-      "adjPts": 19.7,
-      "pointsPlus": 158
+      "adjPts": 19.6,
+      "pointsPlus": 157
     },
     {
       "date": "2026-01-11",
@@ -380,7 +380,7 @@
       "min": 28,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 129
+      "pointsPlus": 128
     },
     {
       "date": "2026-01-13",
@@ -434,7 +434,7 @@
       "min": 23,
       "pts": 12,
       "adjPts": 11.8,
-      "pointsPlus": 95
+      "pointsPlus": 94
     },
     {
       "date": "2026-01-25",
@@ -507,6 +507,15 @@
       "pts": 20,
       "adjPts": 19.2,
       "pointsPlus": 154
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "NOP vs. MIA",
+      "result": "L",
+      "min": 31,
+      "pts": 13,
+      "adjPts": 12.8,
+      "pointsPlus": 102
     }
   ]
 }

@@ -3,11 +3,11 @@
   "name": "Jalen Johnson",
   "team": "ATL",
   "rank": 25,
-  "gp": 49,
-  "ppg": 23.4,
+  "gp": 50,
+  "ppg": 23.3,
   "adjPpg": 23.3,
   "pointsPlus": 187,
-  "mpg": 35.8,
+  "mpg": 35.7,
   "position": "F",
   "jersey": "1",
   "usgPct": 26.4,
@@ -38,7 +38,7 @@
       "min": 32,
       "pts": 25,
       "adjPts": 23.9,
-      "pointsPlus": 192
+      "pointsPlus": 191
     },
     {
       "date": "2025-10-29",
@@ -91,7 +91,7 @@
       "result": "W",
       "min": 35,
       "pts": 16,
-      "adjPts": 16.4,
+      "adjPts": 16.5,
       "pointsPlus": 132
     },
     {
@@ -101,7 +101,7 @@
       "min": 24,
       "pts": 24,
       "adjPts": 23.0,
-      "pointsPlus": 185
+      "pointsPlus": 184
     },
     {
       "date": "2025-11-13",
@@ -109,8 +109,8 @@
       "result": "W",
       "min": 41,
       "pts": 31,
-      "adjPts": 28.5,
-      "pointsPlus": 229
+      "adjPts": 28.6,
+      "pointsPlus": 230
     },
     {
       "date": "2025-11-16",
@@ -118,8 +118,8 @@
       "result": "W",
       "min": 39,
       "pts": 25,
-      "adjPts": 25.8,
-      "pointsPlus": 207
+      "adjPts": 25.7,
+      "pointsPlus": 206
     },
     {
       "date": "2025-11-18",
@@ -163,8 +163,8 @@
       "result": "L",
       "min": 30,
       "pts": 7,
-      "adjPts": 6.6,
-      "pointsPlus": 53
+      "adjPts": 6.5,
+      "pointsPlus": 52
     },
     {
       "date": "2025-11-28",
@@ -181,8 +181,8 @@
       "result": "W",
       "min": 45,
       "pts": 41,
-      "adjPts": 41.4,
-      "pointsPlus": 332
+      "adjPts": 41.3,
+      "pointsPlus": 331
     },
     {
       "date": "2025-12-01",
@@ -191,7 +191,7 @@
       "min": 38,
       "pts": 29,
       "adjPts": 30.6,
-      "pointsPlus": 245
+      "pointsPlus": 246
     },
     {
       "date": "2025-12-05",
@@ -209,7 +209,7 @@
       "min": 39,
       "pts": 30,
       "adjPts": 28.1,
-      "pointsPlus": 226
+      "pointsPlus": 225
     },
     {
       "date": "2025-12-12",
@@ -217,7 +217,7 @@
       "result": "L",
       "min": 34,
       "pts": 19,
-      "adjPts": 20.0,
+      "adjPts": 20.1,
       "pointsPlus": 161
     },
     {
@@ -235,7 +235,7 @@
       "result": "L",
       "min": 39,
       "pts": 43,
-      "adjPts": 43.6,
+      "adjPts": 43.7,
       "pointsPlus": 350
     },
     {
@@ -244,7 +244,7 @@
       "result": "L",
       "min": 31,
       "pts": 17,
-      "adjPts": 17.4,
+      "adjPts": 17.5,
       "pointsPlus": 140
     },
     {
@@ -271,7 +271,7 @@
       "result": "L",
       "min": 38,
       "pts": 24,
-      "adjPts": 23.5,
+      "adjPts": 23.6,
       "pointsPlus": 189
     },
     {
@@ -298,7 +298,7 @@
       "result": "W",
       "min": 38,
       "pts": 18,
-      "adjPts": 18.5,
+      "adjPts": 18.6,
       "pointsPlus": 149
     },
     {
@@ -334,8 +334,8 @@
       "result": "W",
       "min": 35,
       "pts": 29,
-      "adjPts": 29.0,
-      "pointsPlus": 233
+      "adjPts": 28.9,
+      "pointsPlus": 232
     },
     {
       "date": "2026-01-11",
@@ -343,8 +343,8 @@
       "result": "W",
       "min": 33,
       "pts": 23,
-      "adjPts": 23.4,
-      "pointsPlus": 188
+      "adjPts": 23.3,
+      "pointsPlus": 187
     },
     {
       "date": "2026-01-13",
@@ -397,8 +397,8 @@
       "result": "W",
       "min": 39,
       "pts": 23,
-      "adjPts": 23.8,
-      "pointsPlus": 191
+      "adjPts": 23.7,
+      "pointsPlus": 190
     },
     {
       "date": "2026-01-26",
@@ -433,7 +433,7 @@
       "result": "W",
       "min": 36,
       "pts": 29,
-      "adjPts": 28.4,
+      "adjPts": 28.5,
       "pointsPlus": 228
     },
     {
@@ -442,8 +442,8 @@
       "result": "W",
       "min": 39,
       "pts": 22,
-      "adjPts": 20.2,
-      "pointsPlus": 162
+      "adjPts": 20.3,
+      "pointsPlus": 163
     },
     {
       "date": "2026-02-07",
@@ -452,7 +452,16 @@
       "min": 40,
       "pts": 31,
       "adjPts": 31.5,
-      "pointsPlus": 253
+      "pointsPlus": 252
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "ATL @ CHA",
+      "result": "L",
+      "min": 34,
+      "pts": 19,
+      "adjPts": 19.3,
+      "pointsPlus": 155
     }
   ]
 }

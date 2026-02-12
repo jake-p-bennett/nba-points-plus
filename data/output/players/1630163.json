@@ -2,15 +2,15 @@
   "id": 1630163,
   "name": "LaMelo Ball",
   "team": "CHA",
-  "rank": 49,
-  "gp": 44,
-  "ppg": 19.2,
-  "adjPpg": 19.1,
-  "pointsPlus": 153,
-  "mpg": 27.5,
+  "rank": 48,
+  "gp": 45,
+  "ppg": 19.3,
+  "adjPpg": 19.2,
+  "pointsPlus": 154,
+  "mpg": 27.6,
   "position": "G",
   "jersey": "1",
-  "usgPct": 30.8,
+  "usgPct": 30.7,
   "tsPct": 53.3,
   "gameLog": [
     {
@@ -20,7 +20,7 @@
       "min": 34,
       "pts": 20,
       "adjPts": 20.1,
-      "pointsPlus": 162
+      "pointsPlus": 161
     },
     {
       "date": "2025-10-25",
@@ -28,8 +28,8 @@
       "result": "L",
       "min": 34,
       "pts": 27,
-      "adjPts": 27.3,
-      "pointsPlus": 219
+      "adjPts": 27.2,
+      "pointsPlus": 218
     },
     {
       "date": "2025-10-26",
@@ -37,8 +37,8 @@
       "result": "W",
       "min": 35,
       "pts": 38,
-      "adjPts": 35.6,
-      "pointsPlus": 286
+      "adjPts": 35.5,
+      "pointsPlus": 285
     },
     {
       "date": "2025-10-28",
@@ -83,7 +83,7 @@
       "min": 28,
       "pts": 20,
       "adjPts": 20.6,
-      "pointsPlus": 166
+      "pointsPlus": 165
     },
     {
       "date": "2025-11-19",
@@ -101,7 +101,7 @@
       "min": 25,
       "pts": 18,
       "adjPts": 18.5,
-      "pointsPlus": 148
+      "pointsPlus": 149
     },
     {
       "date": "2025-11-26",
@@ -109,7 +109,7 @@
       "result": "L",
       "min": 27,
       "pts": 11,
-      "adjPts": 11.3,
+      "adjPts": 11.4,
       "pointsPlus": 91
     },
     {
@@ -119,7 +119,7 @@
       "min": 29,
       "pts": 16,
       "adjPts": 15.3,
-      "pointsPlus": 123
+      "pointsPlus": 122
     },
     {
       "date": "2025-11-29",
@@ -145,7 +145,7 @@
       "result": "L",
       "min": 37,
       "pts": 34,
-      "adjPts": 35.0,
+      "adjPts": 35.1,
       "pointsPlus": 281
     },
     {
@@ -172,7 +172,7 @@
       "result": "L",
       "min": 23,
       "pts": 8,
-      "adjPts": 8.4,
+      "adjPts": 8.5,
       "pointsPlus": 68
     },
     {
@@ -190,8 +190,8 @@
       "result": "W",
       "min": 25,
       "pts": 23,
-      "adjPts": 21.6,
-      "pointsPlus": 173
+      "adjPts": 21.5,
+      "pointsPlus": 172
     },
     {
       "date": "2025-12-26",
@@ -271,8 +271,8 @@
       "result": "W",
       "min": 23,
       "pts": 17,
-      "adjPts": 15.6,
-      "pointsPlus": 125
+      "adjPts": 15.7,
+      "pointsPlus": 126
     },
     {
       "date": "2026-01-12",
@@ -290,7 +290,7 @@
       "min": 29,
       "pts": 30,
       "adjPts": 29.6,
-      "pointsPlus": 238
+      "pointsPlus": 237
     },
     {
       "date": "2026-01-17",
@@ -326,7 +326,7 @@
       "min": 28,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 129
+      "pointsPlus": 128
     },
     {
       "date": "2026-01-24",
@@ -362,7 +362,7 @@
       "min": 31,
       "pts": 22,
       "adjPts": 21.8,
-      "pointsPlus": 175
+      "pointsPlus": 174
     },
     {
       "date": "2026-01-31",
@@ -380,7 +380,7 @@
       "min": 30,
       "pts": 24,
       "adjPts": 23.1,
-      "pointsPlus": 186
+      "pointsPlus": 185
     },
     {
       "date": "2026-02-05",
@@ -397,7 +397,7 @@
       "result": "W",
       "min": 31,
       "pts": 19,
-      "adjPts": 18.4,
+      "adjPts": 18.5,
       "pointsPlus": 148
     },
     {
@@ -408,6 +408,15 @@
       "pts": 20,
       "adjPts": 21.1,
       "pointsPlus": 169
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "CHA vs. ATL",
+      "result": "W",
+      "min": 32,
+      "pts": 24,
+      "adjPts": 23.3,
+      "pointsPlus": 187
     }
   ]
 }

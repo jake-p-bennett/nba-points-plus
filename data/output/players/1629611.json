@@ -2,16 +2,16 @@
   "id": 1629611,
   "name": "Terance Mann",
   "team": "BKN",
-  "rank": 234,
-  "gp": 45,
-  "ppg": 7.6,
-  "adjPpg": 7.6,
-  "pointsPlus": 61,
+  "rank": 237,
+  "gp": 46,
+  "ppg": 7.5,
+  "adjPpg": 7.5,
+  "pointsPlus": 60,
   "mpg": 25.3,
   "position": "G-F",
   "jersey": "14",
   "usgPct": 13.4,
-  "tsPct": 56.2,
+  "tsPct": 55.6,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -64,8 +64,8 @@
       "result": "L",
       "min": 34,
       "pts": 17,
-      "adjPts": 17.2,
-      "pointsPlus": 138
+      "adjPts": 17.1,
+      "pointsPlus": 137
     },
     {
       "date": "2025-11-03",
@@ -388,7 +388,7 @@
       "result": "W",
       "min": 28,
       "pts": 7,
-      "adjPts": 6.4,
+      "adjPts": 6.5,
       "pointsPlus": 52
     },
     {
@@ -417,6 +417,15 @@
       "pts": 9,
       "adjPts": 8.6,
       "pointsPlus": 69
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "BKN vs. IND",
+      "result": "L",
+      "min": 25,
+      "pts": 4,
+      "adjPts": 3.9,
+      "pointsPlus": 31
     }
   ]
 }

@@ -2,16 +2,16 @@
   "id": 1628404,
   "name": "Josh Hart",
   "team": "NYK",
-  "rank": 136,
-  "gp": 42,
-  "ppg": 12.3,
-  "adjPpg": 12.3,
-  "pointsPlus": 99,
-  "mpg": 30.6,
+  "rank": 140,
+  "gp": 43,
+  "ppg": 12.2,
+  "adjPpg": 12.2,
+  "pointsPlus": 98,
+  "mpg": 30.5,
   "position": "G",
   "jersey": "3",
-  "usgPct": 16.4,
-  "tsPct": 61.3,
+  "usgPct": 16.3,
+  "tsPct": 60.6,
   "gameLog": [
     {
       "date": "2025-10-24",
@@ -91,7 +91,7 @@
       "result": "W",
       "min": 30,
       "pts": 8,
-      "adjPts": 7.9,
+      "adjPts": 7.8,
       "pointsPlus": 63
     },
     {
@@ -173,7 +173,7 @@
       "min": 35,
       "pts": 20,
       "adjPts": 20.6,
-      "pointsPlus": 166
+      "pointsPlus": 165
     },
     {
       "date": "2025-12-02",
@@ -236,7 +236,7 @@
       "min": 34,
       "pts": 5,
       "adjPts": 5.0,
-      "pointsPlus": 41
+      "pointsPlus": 40
     },
     {
       "date": "2025-12-21",
@@ -244,7 +244,7 @@
       "result": "W",
       "min": 33,
       "pts": 13,
-      "adjPts": 12.7,
+      "adjPts": 12.8,
       "pointsPlus": 102
     },
     {
@@ -271,7 +271,7 @@
       "result": "W",
       "min": 31,
       "pts": 18,
-      "adjPts": 17.6,
+      "adjPts": 17.5,
       "pointsPlus": 141
     },
     {
@@ -344,7 +344,7 @@
       "min": 30,
       "pts": 20,
       "adjPts": 19.5,
-      "pointsPlus": 157
+      "pointsPlus": 156
     },
     {
       "date": "2026-02-01",
@@ -390,6 +390,15 @@
       "pts": 15,
       "adjPts": 14.6,
       "pointsPlus": 117
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "NYK @ PHI",
+      "result": "W",
+      "min": 29,
+      "pts": 6,
+      "adjPts": 6.0,
+      "pointsPlus": 48
     }
   ]
 }

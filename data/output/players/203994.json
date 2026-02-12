@@ -3,15 +3,15 @@
   "name": "Jusuf Nurki\u0107",
   "team": "UTA",
   "rank": 160,
-  "gp": 40,
-  "ppg": 11.0,
-  "adjPpg": 11.2,
-  "pointsPlus": 90,
+  "gp": 41,
+  "ppg": 10.9,
+  "adjPpg": 11.1,
+  "pointsPlus": 89,
   "mpg": 26.4,
   "position": "C",
   "jersey": "30",
-  "usgPct": 18.7,
-  "tsPct": 54.6,
+  "usgPct": 18.6,
+  "tsPct": 54.8,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -217,7 +217,7 @@
       "result": "W",
       "min": 28,
       "pts": 13,
-      "adjPts": 12.8,
+      "adjPts": 12.7,
       "pointsPlus": 102
     },
     {
@@ -254,7 +254,7 @@
       "min": 32,
       "pts": 16,
       "adjPts": 16.9,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2025-12-27",
@@ -281,7 +281,7 @@
       "min": 31,
       "pts": 21,
       "adjPts": 20.5,
-      "pointsPlus": 165
+      "pointsPlus": 164
     },
     {
       "date": "2026-01-07",
@@ -298,7 +298,7 @@
       "result": "W",
       "min": 30,
       "pts": 11,
-      "adjPts": 10.9,
+      "adjPts": 11.0,
       "pointsPlus": 88
     },
     {
@@ -325,7 +325,7 @@
       "result": "L",
       "min": 35,
       "pts": 17,
-      "adjPts": 17.4,
+      "adjPts": 17.5,
       "pointsPlus": 140
     },
     {
@@ -344,7 +344,7 @@
       "min": 23,
       "pts": 11,
       "adjPts": 11.2,
-      "pointsPlus": 90
+      "pointsPlus": 89
     },
     {
       "date": "2026-02-01",
@@ -372,6 +372,15 @@
       "pts": 10,
       "adjPts": 9.8,
       "pointsPlus": 79
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "UTA vs. SAC",
+      "result": "W",
+      "min": 26,
+      "pts": 8,
+      "adjPts": 7.7,
+      "pointsPlus": 61
     }
   ]
 }

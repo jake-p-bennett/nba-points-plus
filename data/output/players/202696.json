@@ -2,16 +2,16 @@
   "id": 202696,
   "name": "Nikola Vu\u010devi\u0107",
   "team": "BOS",
-  "rank": 77,
-  "gp": 50,
-  "ppg": 16.6,
+  "rank": 75,
+  "gp": 51,
+  "ppg": 16.7,
   "adjPpg": 16.6,
   "pointsPlus": 133,
-  "mpg": 30.6,
+  "mpg": 30.5,
   "position": "C",
   "jersey": "4",
-  "usgPct": 21.5,
-  "tsPct": 58.2,
+  "usgPct": 21.6,
+  "tsPct": 58.4,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -19,7 +19,7 @@
       "result": "W",
       "min": 33,
       "pts": 28,
-      "adjPts": 29.5,
+      "adjPts": 29.6,
       "pointsPlus": 237
     },
     {
@@ -29,7 +29,7 @@
       "min": 31,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 121
+      "pointsPlus": 120
     },
     {
       "date": "2025-10-27",
@@ -55,7 +55,7 @@
       "result": "W",
       "min": 31,
       "pts": 26,
-      "adjPts": 26.7,
+      "adjPts": 26.8,
       "pointsPlus": 215
     },
     {
@@ -65,7 +65,7 @@
       "min": 32,
       "pts": 17,
       "adjPts": 17.5,
-      "pointsPlus": 140
+      "pointsPlus": 141
     },
     {
       "date": "2025-11-04",
@@ -73,8 +73,8 @@
       "result": "W",
       "min": 31,
       "pts": 19,
-      "adjPts": 19.2,
-      "pointsPlus": 154
+      "adjPts": 19.1,
+      "pointsPlus": 153
     },
     {
       "date": "2025-11-07",
@@ -118,7 +118,7 @@
       "result": "L",
       "min": 41,
       "pts": 21,
-      "adjPts": 19.3,
+      "adjPts": 19.4,
       "pointsPlus": 155
     },
     {
@@ -136,8 +136,8 @@
       "result": "W",
       "min": 34,
       "pts": 27,
-      "adjPts": 26.4,
-      "pointsPlus": 212
+      "adjPts": 26.3,
+      "pointsPlus": 211
     },
     {
       "date": "2025-11-21",
@@ -155,7 +155,7 @@
       "min": 27,
       "pts": 28,
       "adjPts": 26.2,
-      "pointsPlus": 211
+      "pointsPlus": 210
     },
     {
       "date": "2025-11-28",
@@ -271,7 +271,7 @@
       "result": "W",
       "min": 29,
       "pts": 7,
-      "adjPts": 7.1,
+      "adjPts": 7.0,
       "pointsPlus": 57
     },
     {
@@ -361,8 +361,8 @@
       "result": "W",
       "min": 31,
       "pts": 35,
-      "adjPts": 32.2,
-      "pointsPlus": 258
+      "adjPts": 32.3,
+      "pointsPlus": 259
     },
     {
       "date": "2026-01-16",
@@ -371,7 +371,7 @@
       "min": 33,
       "pts": 19,
       "adjPts": 19.1,
-      "pointsPlus": 154
+      "pointsPlus": 153
     },
     {
       "date": "2026-01-18",
@@ -388,7 +388,7 @@
       "result": "W",
       "min": 32,
       "pts": 19,
-      "adjPts": 19.5,
+      "adjPts": 19.6,
       "pointsPlus": 157
     },
     {
@@ -397,7 +397,7 @@
       "result": "W",
       "min": 31,
       "pts": 10,
-      "adjPts": 10.0,
+      "adjPts": 10.1,
       "pointsPlus": 81
     },
     {
@@ -406,7 +406,7 @@
       "result": "W",
       "min": 35,
       "pts": 16,
-      "adjPts": 17.0,
+      "adjPts": 17.1,
       "pointsPlus": 137
     },
     {
@@ -416,7 +416,7 @@
       "min": 36,
       "pts": 18,
       "adjPts": 17.8,
-      "pointsPlus": 143
+      "pointsPlus": 142
     },
     {
       "date": "2026-01-28",
@@ -460,8 +460,17 @@
       "result": "L",
       "min": 23,
       "pts": 11,
-      "adjPts": 11.3,
+      "adjPts": 11.4,
       "pointsPlus": 91
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "BOS vs. CHI",
+      "result": "W",
+      "min": 26,
+      "pts": 19,
+      "adjPts": 18.1,
+      "pointsPlus": 145
     }
   ]
 }

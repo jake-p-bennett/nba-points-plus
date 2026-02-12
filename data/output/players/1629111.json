@@ -2,15 +2,15 @@
   "id": 1629111,
   "name": "Jock Landale",
   "team": "ATL",
-  "rank": 153,
-  "gp": 48,
-  "ppg": 11.5,
-  "adjPpg": 11.5,
+  "rank": 154,
+  "gp": 49,
+  "ppg": 11.4,
+  "adjPpg": 11.4,
   "pointsPlus": 92,
-  "mpg": 23.5,
+  "mpg": 23.4,
   "position": "C",
   "jersey": "31",
-  "usgPct": 18.0,
+  "usgPct": 17.9,
   "tsPct": 61.0,
   "gameLog": [
     {
@@ -46,8 +46,8 @@
       "result": "L",
       "min": 24,
       "pts": 17,
-      "adjPts": 17.3,
-      "pointsPlus": 139
+      "adjPts": 17.2,
+      "pointsPlus": 138
     },
     {
       "date": "2025-10-29",
@@ -118,7 +118,7 @@
       "result": "L",
       "min": 26,
       "pts": 8,
-      "adjPts": 8.2,
+      "adjPts": 8.3,
       "pointsPlus": 66
     },
     {
@@ -155,7 +155,7 @@
       "min": 15,
       "pts": 21,
       "adjPts": 20.1,
-      "pointsPlus": 162
+      "pointsPlus": 161
     },
     {
       "date": "2025-11-22",
@@ -226,8 +226,8 @@
       "result": "W",
       "min": 21,
       "pts": 15,
-      "adjPts": 14.7,
-      "pointsPlus": 118
+      "adjPts": 14.6,
+      "pointsPlus": 117
     },
     {
       "date": "2025-12-12",
@@ -263,7 +263,7 @@
       "min": 24,
       "pts": 5,
       "adjPts": 4.7,
-      "pointsPlus": 38
+      "pointsPlus": 37
     },
     {
       "date": "2025-12-22",
@@ -280,8 +280,8 @@
       "result": "W",
       "min": 21,
       "pts": 17,
-      "adjPts": 15.6,
-      "pointsPlus": 125
+      "adjPts": 15.7,
+      "pointsPlus": 126
     },
     {
       "date": "2025-12-30",
@@ -289,8 +289,8 @@
       "result": "L",
       "min": 18,
       "pts": 6,
-      "adjPts": 6.1,
-      "pointsPlus": 49
+      "adjPts": 6.0,
+      "pointsPlus": 48
     },
     {
       "date": "2026-01-02",
@@ -317,7 +317,7 @@
       "min": 24,
       "pts": 19,
       "adjPts": 19.5,
-      "pointsPlus": 157
+      "pointsPlus": 156
     },
     {
       "date": "2026-01-07",
@@ -380,7 +380,7 @@
       "min": 32,
       "pts": 24,
       "adjPts": 23.1,
-      "pointsPlus": 186
+      "pointsPlus": 185
     },
     {
       "date": "2026-01-28",
@@ -388,7 +388,7 @@
       "result": "L",
       "min": 26,
       "pts": 10,
-      "adjPts": 10.1,
+      "adjPts": 10.2,
       "pointsPlus": 81
     },
     {
@@ -424,8 +424,8 @@
       "result": "W",
       "min": 32,
       "pts": 26,
-      "adjPts": 23.9,
-      "pointsPlus": 192
+      "adjPts": 24.0,
+      "pointsPlus": 193
     },
     {
       "date": "2026-02-07",
@@ -444,6 +444,15 @@
       "pts": 12,
       "adjPts": 12.1,
       "pointsPlus": 97
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "ATL @ CHA",
+      "result": "L",
+      "min": 19,
+      "pts": 9,
+      "adjPts": 9.1,
+      "pointsPlus": 73
     }
   ]
 }

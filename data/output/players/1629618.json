@@ -2,16 +2,16 @@
   "id": 1629618,
   "name": "Jalen Pickett",
   "team": "DEN",
-  "rank": 287,
-  "gp": 38,
-  "ppg": 5.5,
-  "adjPpg": 5.5,
+  "rank": 290,
+  "gp": 39,
+  "ppg": 5.4,
+  "adjPpg": 5.4,
   "pointsPlus": 44,
-  "mpg": 17.8,
+  "mpg": 17.6,
   "position": "G",
   "jersey": "24",
   "usgPct": 14.5,
-  "tsPct": 53.1,
+  "tsPct": 53.0,
   "gameLog": [
     {
       "date": "2025-10-25",
@@ -199,8 +199,8 @@
       "result": "W",
       "min": 42,
       "pts": 29,
-      "adjPts": 29.3,
-      "pointsPlus": 235
+      "adjPts": 29.2,
+      "pointsPlus": 234
     },
     {
       "date": "2026-01-07",
@@ -254,7 +254,7 @@
       "min": 22,
       "pts": 5,
       "adjPts": 4.7,
-      "pointsPlus": 38
+      "pointsPlus": 37
     },
     {
       "date": "2026-01-18",
@@ -353,6 +353,15 @@
       "min": 12,
       "pts": 3,
       "adjPts": 3.0,
+      "pointsPlus": 24
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "DEN vs. MEM",
+      "result": "W",
+      "min": 9,
+      "pts": 3,
+      "adjPts": 2.9,
       "pointsPlus": 24
     }
   ]

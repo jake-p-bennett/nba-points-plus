@@ -2,16 +2,16 @@
   "id": 1628398,
   "name": "Kyle Kuzma",
   "team": "MIL",
-  "rank": 127,
-  "gp": 48,
-  "ppg": 12.8,
+  "rank": 125,
+  "gp": 49,
+  "ppg": 12.9,
   "adjPpg": 12.9,
-  "pointsPlus": 103,
-  "mpg": 26.8,
+  "pointsPlus": 104,
+  "mpg": 26.9,
   "position": "F",
   "jersey": "18",
-  "usgPct": 20.7,
-  "tsPct": 57.2,
+  "usgPct": 20.9,
+  "tsPct": 56.8,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -37,7 +37,7 @@
       "result": "W",
       "min": 20,
       "pts": 5,
-      "adjPts": 5.1,
+      "adjPts": 5.2,
       "pointsPlus": 41
     },
     {
@@ -46,8 +46,8 @@
       "result": "W",
       "min": 36,
       "pts": 10,
-      "adjPts": 10.2,
-      "pointsPlus": 82
+      "adjPts": 10.1,
+      "pointsPlus": 81
     },
     {
       "date": "2025-11-01",
@@ -118,7 +118,7 @@
       "result": "W",
       "min": 39,
       "pts": 29,
-      "adjPts": 29.4,
+      "adjPts": 29.5,
       "pointsPlus": 236
     },
     {
@@ -145,8 +145,8 @@
       "result": "L",
       "min": 38,
       "pts": 17,
-      "adjPts": 17.2,
-      "pointsPlus": 138
+      "adjPts": 17.1,
+      "pointsPlus": 137
     },
     {
       "date": "2025-11-22",
@@ -163,8 +163,8 @@
       "result": "L",
       "min": 27,
       "pts": 15,
-      "adjPts": 14.7,
-      "pointsPlus": 118
+      "adjPts": 14.6,
+      "pointsPlus": 117
     },
     {
       "date": "2025-11-26",
@@ -172,7 +172,7 @@
       "result": "L",
       "min": 29,
       "pts": 8,
-      "adjPts": 7.8,
+      "adjPts": 7.9,
       "pointsPlus": 63
     },
     {
@@ -200,7 +200,7 @@
       "min": 20,
       "pts": 3,
       "adjPts": 2.8,
-      "pointsPlus": 23
+      "pointsPlus": 22
     },
     {
       "date": "2025-12-03",
@@ -226,7 +226,7 @@
       "result": "L",
       "min": 29,
       "pts": 15,
-      "adjPts": 15.8,
+      "adjPts": 15.9,
       "pointsPlus": 127
     },
     {
@@ -299,7 +299,7 @@
       "min": 21,
       "pts": 5,
       "adjPts": 4.7,
-      "pointsPlus": 38
+      "pointsPlus": 37
     },
     {
       "date": "2026-01-02",
@@ -397,8 +397,8 @@
       "result": "L",
       "min": 32,
       "pts": 17,
-      "adjPts": 17.2,
-      "pointsPlus": 138
+      "adjPts": 17.1,
+      "pointsPlus": 137
     },
     {
       "date": "2026-01-29",
@@ -407,7 +407,7 @@
       "min": 35,
       "pts": 19,
       "adjPts": 17.8,
-      "pointsPlus": 143
+      "pointsPlus": 142
     },
     {
       "date": "2026-02-01",
@@ -415,7 +415,7 @@
       "result": "L",
       "min": 34,
       "pts": 16,
-      "adjPts": 17.0,
+      "adjPts": 17.1,
       "pointsPlus": 137
     },
     {
@@ -425,7 +425,7 @@
       "min": 31,
       "pts": 31,
       "adjPts": 29.6,
-      "pointsPlus": 238
+      "pointsPlus": 237
     },
     {
       "date": "2026-02-04",
@@ -444,6 +444,15 @@
       "pts": 3,
       "adjPts": 3.0,
       "pointsPlus": 24
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "MIL @ ORL",
+      "result": "W",
+      "min": 30,
+      "pts": 15,
+      "adjPts": 15.0,
+      "pointsPlus": 120
     }
   ]
 }

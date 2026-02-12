@@ -2,16 +2,16 @@
   "id": 1642272,
   "name": "Jared McCain",
   "team": "OKC",
-  "rank": 260,
-  "gp": 39,
-  "ppg": 6.6,
-  "adjPpg": 6.6,
-  "pointsPlus": 53,
-  "mpg": 16.7,
+  "rank": 257,
+  "gp": 40,
+  "ppg": 6.7,
+  "adjPpg": 6.7,
+  "pointsPlus": 54,
+  "mpg": 16.8,
   "position": "G",
   "jersey": "3",
-  "usgPct": 17.8,
-  "tsPct": 50.6,
+  "usgPct": 17.9,
+  "tsPct": 51.3,
   "gameLog": [
     {
       "date": "2025-11-04",
@@ -83,7 +83,7 @@
       "min": 25,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 121
+      "pointsPlus": 120
     },
     {
       "date": "2025-11-28",
@@ -92,7 +92,7 @@
       "min": 29,
       "pts": 20,
       "adjPts": 20.1,
-      "pointsPlus": 162
+      "pointsPlus": 161
     },
     {
       "date": "2025-11-30",
@@ -163,7 +163,7 @@
       "result": "W",
       "min": 21,
       "pts": 12,
-      "adjPts": 12.3,
+      "adjPts": 12.4,
       "pointsPlus": 99
     },
     {
@@ -335,7 +335,7 @@
       "min": 14,
       "pts": 6,
       "adjPts": 6.2,
-      "pointsPlus": 49
+      "pointsPlus": 50
     },
     {
       "date": "2026-02-03",
@@ -363,6 +363,15 @@
       "pts": 7,
       "adjPts": 6.9,
       "pointsPlus": 55
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "OKC @ PHX",
+      "result": "W",
+      "min": 22,
+      "pts": 12,
+      "adjPts": 12.3,
+      "pointsPlus": 99
     }
   ]
 }

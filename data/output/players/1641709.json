@@ -2,16 +2,16 @@
   "id": 1641709,
   "name": "Ausar Thompson",
   "team": "DET",
-  "rank": 174,
-  "gp": 48,
-  "ppg": 10.4,
-  "adjPpg": 10.3,
-  "pointsPlus": 83,
-  "mpg": 25.9,
+  "rank": 178,
+  "gp": 49,
+  "ppg": 10.2,
+  "adjPpg": 10.2,
+  "pointsPlus": 82,
+  "mpg": 25.8,
   "position": "G-F",
   "jersey": "9",
-  "usgPct": 17.6,
-  "tsPct": 53.7,
+  "usgPct": 17.4,
+  "tsPct": 53.8,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -38,7 +38,7 @@
       "min": 36,
       "pts": 21,
       "adjPts": 22.4,
-      "pointsPlus": 180
+      "pointsPlus": 179
     },
     {
       "date": "2025-10-27",
@@ -82,7 +82,7 @@
       "result": "W",
       "min": 31,
       "pts": 18,
-      "adjPts": 16.5,
+      "adjPts": 16.6,
       "pointsPlus": 133
     },
     {
@@ -127,7 +127,7 @@
       "result": "W",
       "min": 31,
       "pts": 13,
-      "adjPts": 12.6,
+      "adjPts": 12.7,
       "pointsPlus": 102
     },
     {
@@ -181,8 +181,8 @@
       "result": "W",
       "min": 25,
       "pts": 15,
-      "adjPts": 14.7,
-      "pointsPlus": 118
+      "adjPts": 14.6,
+      "pointsPlus": 117
     },
     {
       "date": "2025-12-06",
@@ -199,7 +199,7 @@
       "result": "W",
       "min": 21,
       "pts": 12,
-      "adjPts": 11.6,
+      "adjPts": 11.7,
       "pointsPlus": 93
     },
     {
@@ -235,7 +235,7 @@
       "result": "W",
       "min": 28,
       "pts": 18,
-      "adjPts": 17.6,
+      "adjPts": 17.5,
       "pointsPlus": 141
     },
     {
@@ -263,7 +263,7 @@
       "min": 24,
       "pts": 6,
       "adjPts": 6.2,
-      "pointsPlus": 49
+      "pointsPlus": 50
     },
     {
       "date": "2025-12-30",
@@ -317,7 +317,7 @@
       "min": 34,
       "pts": 6,
       "adjPts": 6.2,
-      "pointsPlus": 49
+      "pointsPlus": 50
     },
     {
       "date": "2026-01-15",
@@ -325,7 +325,7 @@
       "result": "W",
       "min": 19,
       "pts": 5,
-      "adjPts": 5.2,
+      "adjPts": 5.1,
       "pointsPlus": 41
     },
     {
@@ -425,7 +425,7 @@
       "min": 33,
       "pts": 13,
       "adjPts": 12.2,
-      "pointsPlus": 98
+      "pointsPlus": 97
     },
     {
       "date": "2026-02-06",
@@ -444,6 +444,15 @@
       "pts": 6,
       "adjPts": 6.1,
       "pointsPlus": 49
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "DET @ TOR",
+      "result": "W",
+      "min": 24,
+      "pts": 4,
+      "adjPts": 4.1,
+      "pointsPlus": 33
     }
   ]
 }

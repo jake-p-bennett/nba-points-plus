@@ -2,16 +2,16 @@
   "id": 1628386,
   "name": "Jarrett Allen",
   "team": "CLE",
-  "rank": 99,
-  "gp": 42,
-  "ppg": 14.5,
-  "adjPpg": 14.4,
-  "pointsPlus": 116,
+  "rank": 97,
+  "gp": 43,
+  "ppg": 14.6,
+  "adjPpg": 14.5,
+  "pointsPlus": 117,
   "mpg": 27.4,
   "position": "C",
   "jersey": "31",
   "usgPct": 18.6,
-  "tsPct": 65.4,
+  "tsPct": 66.1,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -55,7 +55,7 @@
       "result": "L",
       "min": 25,
       "pts": 16,
-      "adjPts": 17.0,
+      "adjPts": 17.1,
       "pointsPlus": 137
     },
     {
@@ -65,7 +65,7 @@
       "min": 30,
       "pts": 24,
       "adjPts": 24.2,
-      "pointsPlus": 195
+      "pointsPlus": 194
     },
     {
       "date": "2025-11-07",
@@ -227,7 +227,7 @@
       "min": 27,
       "pts": 16,
       "adjPts": 16.5,
-      "pointsPlus": 133
+      "pointsPlus": 132
     },
     {
       "date": "2026-01-02",
@@ -352,7 +352,7 @@
       "result": "L",
       "min": 23,
       "pts": 12,
-      "adjPts": 12.4,
+      "adjPts": 12.3,
       "pointsPlus": 99
     },
     {
@@ -361,8 +361,8 @@
       "result": "W",
       "min": 30,
       "pts": 40,
-      "adjPts": 39.1,
-      "pointsPlus": 314
+      "adjPts": 39.0,
+      "pointsPlus": 312
     },
     {
       "date": "2026-02-04",
@@ -371,7 +371,7 @@
       "min": 23,
       "pts": 10,
       "adjPts": 10.3,
-      "pointsPlus": 82
+      "pointsPlus": 83
     },
     {
       "date": "2026-02-07",
@@ -390,6 +390,15 @@
       "pts": 22,
       "adjPts": 22.0,
       "pointsPlus": 176
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "CLE vs. WAS",
+      "result": "W",
+      "min": 27,
+      "pts": 21,
+      "adjPts": 19.6,
+      "pointsPlus": 157
     }
   ]
 }

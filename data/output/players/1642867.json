@@ -2,7 +2,7 @@
   "id": 1642867,
   "name": "Collin Murray-Boyles",
   "team": "TOR",
-  "rank": 225,
+  "rank": 226,
   "gp": 43,
   "ppg": 7.9,
   "adjPpg": 7.9,
@@ -29,7 +29,7 @@
       "min": 24,
       "pts": 19,
       "adjPts": 19.5,
-      "pointsPlus": 157
+      "pointsPlus": 156
     },
     {
       "date": "2025-10-29",
@@ -154,7 +154,7 @@
       "result": "L",
       "min": 22,
       "pts": 11,
-      "adjPts": 11.3,
+      "adjPts": 11.4,
       "pointsPlus": 91
     },
     {
@@ -163,7 +163,7 @@
       "result": "W",
       "min": 16,
       "pts": 10,
-      "adjPts": 9.8,
+      "adjPts": 9.7,
       "pointsPlus": 78
     },
     {
@@ -307,8 +307,8 @@
       "result": "W",
       "min": 42,
       "pts": 17,
-      "adjPts": 17.2,
-      "pointsPlus": 138
+      "adjPts": 17.1,
+      "pointsPlus": 137
     },
     {
       "date": "2026-01-12",

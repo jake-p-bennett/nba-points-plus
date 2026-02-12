@@ -2,16 +2,16 @@
   "id": 1641717,
   "name": "Cason Wallace",
   "team": "OKC",
-  "rank": 218,
-  "gp": 51,
-  "ppg": 8.3,
+  "rank": 221,
+  "gp": 52,
+  "ppg": 8.2,
   "adjPpg": 8.2,
-  "pointsPlus": 66,
+  "pointsPlus": 65,
   "mpg": 26.8,
   "position": "G",
   "jersey": "22",
   "usgPct": 13.3,
-  "tsPct": 54.3,
+  "tsPct": 53.9,
   "gameLog": [
     {
       "date": "2025-10-21",
@@ -47,7 +47,7 @@
       "min": 27,
       "pts": 8,
       "adjPts": 7.7,
-      "pointsPlus": 62
+      "pointsPlus": 61
     },
     {
       "date": "2025-10-30",
@@ -65,7 +65,7 @@
       "min": 26,
       "pts": 13,
       "adjPts": 12.5,
-      "pointsPlus": 101
+      "pointsPlus": 100
     },
     {
       "date": "2025-11-04",
@@ -119,7 +119,7 @@
       "min": 24,
       "pts": 6,
       "adjPts": 5.9,
-      "pointsPlus": 48
+      "pointsPlus": 47
     },
     {
       "date": "2025-11-15",
@@ -127,7 +127,7 @@
       "result": "W",
       "min": 30,
       "pts": 10,
-      "adjPts": 10.1,
+      "adjPts": 10.2,
       "pointsPlus": 81
     },
     {
@@ -181,7 +181,7 @@
       "result": "W",
       "min": 32,
       "pts": 14,
-      "adjPts": 14.5,
+      "adjPts": 14.4,
       "pointsPlus": 116
     },
     {
@@ -191,7 +191,7 @@
       "min": 21,
       "pts": 3,
       "adjPts": 2.9,
-      "pointsPlus": 24
+      "pointsPlus": 23
     },
     {
       "date": "2025-12-02",
@@ -227,7 +227,7 @@
       "min": 19,
       "pts": 9,
       "adjPts": 9.3,
-      "pointsPlus": 75
+      "pointsPlus": 74
     },
     {
       "date": "2025-12-13",
@@ -262,7 +262,7 @@
       "result": "W",
       "min": 29,
       "pts": 8,
-      "adjPts": 7.9,
+      "adjPts": 7.8,
       "pointsPlus": 63
     },
     {
@@ -434,7 +434,7 @@
       "min": 30,
       "pts": 27,
       "adjPts": 27.0,
-      "pointsPlus": 217
+      "pointsPlus": 216
     },
     {
       "date": "2026-02-03",
@@ -471,6 +471,15 @@
       "pts": 12,
       "adjPts": 11.8,
       "pointsPlus": 95
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "OKC @ PHX",
+      "result": "W",
+      "min": 26,
+      "pts": 4,
+      "adjPts": 4.1,
+      "pointsPlus": 33
     }
   ]
 }

@@ -2,16 +2,16 @@
   "id": 1642347,
   "name": "Jamal Shead",
   "team": "TOR",
-  "rank": 250,
-  "gp": 54,
-  "ppg": 6.9,
-  "adjPpg": 7.0,
-  "pointsPlus": 56,
+  "rank": 254,
+  "gp": 55,
+  "ppg": 6.8,
+  "adjPpg": 6.8,
+  "pointsPlus": 55,
   "mpg": 22.2,
   "position": "G",
   "jersey": "23",
   "usgPct": 15.5,
-  "tsPct": 49.4,
+  "tsPct": 48.7,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -154,8 +154,8 @@
       "result": "W",
       "min": 16,
       "pts": 7,
-      "adjPts": 6.6,
-      "pointsPlus": 53
+      "adjPts": 6.5,
+      "pointsPlus": 52
     },
     {
       "date": "2025-11-23",
@@ -209,7 +209,7 @@
       "min": 23,
       "pts": 3,
       "adjPts": 2.9,
-      "pointsPlus": 24
+      "pointsPlus": 23
     },
     {
       "date": "2025-12-04",
@@ -244,7 +244,7 @@
       "result": "L",
       "min": 34,
       "pts": 18,
-      "adjPts": 18.5,
+      "adjPts": 18.6,
       "pointsPlus": 149
     },
     {
@@ -253,7 +253,7 @@
       "result": "W",
       "min": 23,
       "pts": 8,
-      "adjPts": 7.8,
+      "adjPts": 7.9,
       "pointsPlus": 63
     },
     {
@@ -289,7 +289,7 @@
       "result": "W",
       "min": 19,
       "pts": 8,
-      "adjPts": 7.8,
+      "adjPts": 7.9,
       "pointsPlus": 63
     },
     {
@@ -361,7 +361,7 @@
       "result": "L",
       "min": 24,
       "pts": 13,
-      "adjPts": 13.8,
+      "adjPts": 13.9,
       "pointsPlus": 111
     },
     {
@@ -370,7 +370,7 @@
       "result": "W",
       "min": 37,
       "pts": 22,
-      "adjPts": 22.2,
+      "adjPts": 22.1,
       "pointsPlus": 178
     },
     {
@@ -415,8 +415,8 @@
       "result": "W",
       "min": 30,
       "pts": 10,
-      "adjPts": 10.2,
-      "pointsPlus": 82
+      "adjPts": 10.1,
+      "pointsPlus": 81
     },
     {
       "date": "2026-01-21",
@@ -498,6 +498,15 @@
       "pts": 6,
       "adjPts": 5.8,
       "pointsPlus": 47
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "TOR vs. DET",
+      "result": "L",
+      "min": 24,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
     }
   ]
 }

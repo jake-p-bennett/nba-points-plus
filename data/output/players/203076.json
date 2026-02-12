@@ -2,10 +2,10 @@
   "id": 203076,
   "name": "Anthony Davis",
   "team": "DAL",
-  "rank": 38,
+  "rank": 39,
   "gp": 20,
   "ppg": 20.4,
-  "adjPpg": 20.5,
+  "adjPpg": 20.4,
   "pointsPlus": 164,
   "mpg": 31.2,
   "position": "F-C",
@@ -28,8 +28,8 @@
       "result": "L",
       "min": 38,
       "pts": 27,
-      "adjPts": 25.3,
-      "pointsPlus": 203
+      "adjPts": 25.2,
+      "pointsPlus": 202
     },
     {
       "date": "2025-10-26",
@@ -73,8 +73,8 @@
       "result": "W",
       "min": 32,
       "pts": 32,
-      "adjPts": 32.0,
-      "pointsPlus": 257
+      "adjPts": 31.9,
+      "pointsPlus": 256
     },
     {
       "date": "2025-12-03",
@@ -118,7 +118,7 @@
       "result": "W",
       "min": 37,
       "pts": 15,
-      "adjPts": 15.8,
+      "adjPts": 15.9,
       "pointsPlus": 127
     },
     {
@@ -128,7 +128,7 @@
       "min": 34,
       "pts": 24,
       "adjPts": 24.2,
-      "pointsPlus": 195
+      "pointsPlus": 194
     },
     {
       "date": "2025-12-22",
@@ -137,7 +137,7 @@
       "min": 35,
       "pts": 35,
       "adjPts": 33.7,
-      "pointsPlus": 271
+      "pointsPlus": 270
     },
     {
       "date": "2025-12-23",
@@ -145,8 +145,8 @@
       "result": "W",
       "min": 36,
       "pts": 31,
-      "adjPts": 31.0,
-      "pointsPlus": 249
+      "adjPts": 30.9,
+      "pointsPlus": 248
     },
     {
       "date": "2025-12-25",
@@ -190,7 +190,7 @@
       "result": "L",
       "min": 35,
       "pts": 21,
-      "adjPts": 19.3,
+      "adjPts": 19.4,
       "pointsPlus": 155
     }
   ]

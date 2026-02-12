@@ -3,15 +3,15 @@
   "name": "Deni Avdija",
   "team": "POR",
   "rank": 17,
-  "gp": 45,
-  "ppg": 25.5,
-  "adjPpg": 25.6,
-  "pointsPlus": 206,
-  "mpg": 34.5,
+  "gp": 46,
+  "ppg": 25.2,
+  "adjPpg": 25.3,
+  "pointsPlus": 203,
+  "mpg": 34.3,
   "position": "F",
   "jersey": "8",
   "usgPct": 28.3,
-  "tsPct": 61.0,
+  "tsPct": 60.6,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -29,7 +29,7 @@
       "min": 29,
       "pts": 26,
       "adjPts": 26.4,
-      "pointsPlus": 212
+      "pointsPlus": 211
     },
     {
       "date": "2025-10-26",
@@ -37,7 +37,7 @@
       "result": "L",
       "min": 33,
       "pts": 23,
-      "adjPts": 23.6,
+      "adjPts": 23.7,
       "pointsPlus": 190
     },
     {
@@ -56,7 +56,7 @@
       "min": 34,
       "pts": 19,
       "adjPts": 17.5,
-      "pointsPlus": 140
+      "pointsPlus": 141
     },
     {
       "date": "2025-10-31",
@@ -91,7 +91,7 @@
       "result": "L",
       "min": 37,
       "pts": 33,
-      "adjPts": 32.3,
+      "adjPts": 32.4,
       "pointsPlus": 260
     },
     {
@@ -118,7 +118,7 @@
       "result": "L",
       "min": 30,
       "pts": 22,
-      "adjPts": 23.3,
+      "adjPts": 23.4,
       "pointsPlus": 187
     },
     {
@@ -137,7 +137,7 @@
       "min": 29,
       "pts": 19,
       "adjPts": 19.6,
-      "pointsPlus": 158
+      "pointsPlus": 157
     },
     {
       "date": "2025-11-19",
@@ -145,7 +145,7 @@
       "result": "L",
       "min": 38,
       "pts": 32,
-      "adjPts": 30.6,
+      "adjPts": 30.5,
       "pointsPlus": 245
     },
     {
@@ -155,7 +155,7 @@
       "min": 40,
       "pts": 26,
       "adjPts": 26.4,
-      "pointsPlus": 212
+      "pointsPlus": 211
     },
     {
       "date": "2025-11-23",
@@ -217,8 +217,8 @@
       "result": "L",
       "min": 38,
       "pts": 35,
-      "adjPts": 36.9,
-      "pointsPlus": 296
+      "adjPts": 37.0,
+      "pointsPlus": 297
     },
     {
       "date": "2025-12-07",
@@ -245,7 +245,7 @@
       "min": 33,
       "pts": 26,
       "adjPts": 26.4,
-      "pointsPlus": 212
+      "pointsPlus": 211
     },
     {
       "date": "2025-12-18",
@@ -253,7 +253,7 @@
       "result": "W",
       "min": 42,
       "pts": 35,
-      "adjPts": 33.6,
+      "adjPts": 33.5,
       "pointsPlus": 269
     },
     {
@@ -263,7 +263,7 @@
       "min": 40,
       "pts": 24,
       "adjPts": 23.0,
-      "pointsPlus": 185
+      "pointsPlus": 184
     },
     {
       "date": "2025-12-22",
@@ -272,7 +272,7 @@
       "min": 39,
       "pts": 18,
       "adjPts": 19.0,
-      "pointsPlus": 152
+      "pointsPlus": 153
     },
     {
       "date": "2025-12-23",
@@ -317,7 +317,7 @@
       "min": 32,
       "pts": 17,
       "adjPts": 18.3,
-      "pointsPlus": 147
+      "pointsPlus": 146
     },
     {
       "date": "2026-01-02",
@@ -325,7 +325,7 @@
       "result": "W",
       "min": 38,
       "pts": 34,
-      "adjPts": 32.8,
+      "adjPts": 32.7,
       "pointsPlus": 263
     },
     {
@@ -343,7 +343,7 @@
       "result": "W",
       "min": 29,
       "pts": 33,
-      "adjPts": 30.3,
+      "adjPts": 30.5,
       "pointsPlus": 244
     },
     {
@@ -370,8 +370,8 @@
       "result": "L",
       "min": 38,
       "pts": 25,
-      "adjPts": 25.7,
-      "pointsPlus": 206
+      "adjPts": 25.8,
+      "pointsPlus": 207
     },
     {
       "date": "2026-01-18",
@@ -398,7 +398,7 @@
       "min": 31,
       "pts": 17,
       "adjPts": 15.9,
-      "pointsPlus": 128
+      "pointsPlus": 127
     },
     {
       "date": "2026-01-30",
@@ -406,7 +406,7 @@
       "result": "L",
       "min": 28,
       "pts": 11,
-      "adjPts": 11.3,
+      "adjPts": 11.4,
       "pointsPlus": 91
     },
     {
@@ -415,8 +415,17 @@
       "result": "W",
       "min": 27,
       "pts": 26,
-      "adjPts": 26.3,
-      "pointsPlus": 211
+      "adjPts": 26.2,
+      "pointsPlus": 210
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "POR @ MIN",
+      "result": "L",
+      "min": 27,
+      "pts": 11,
+      "adjPts": 11.1,
+      "pointsPlus": 89
     }
   ]
 }

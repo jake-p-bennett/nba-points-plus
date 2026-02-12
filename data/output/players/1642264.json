@@ -2,16 +2,16 @@
   "id": 1642264,
   "name": "Stephon Castle",
   "team": "SAS",
-  "rank": 75,
-  "gp": 43,
-  "ppg": 16.7,
-  "adjPpg": 16.7,
-  "pointsPlus": 134,
-  "mpg": 30.4,
+  "rank": 77,
+  "gp": 44,
+  "ppg": 16.5,
+  "adjPpg": 16.5,
+  "pointsPlus": 133,
+  "mpg": 30.2,
   "position": "G",
   "jersey": "5",
-  "usgPct": 24.9,
-  "tsPct": 56.5,
+  "usgPct": 25.0,
+  "tsPct": 56.1,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -20,7 +20,7 @@
       "min": 29,
       "pts": 22,
       "adjPts": 21.8,
-      "pointsPlus": 175
+      "pointsPlus": 174
     },
     {
       "date": "2025-10-24",
@@ -64,8 +64,8 @@
       "result": "L",
       "min": 34,
       "pts": 26,
-      "adjPts": 26.9,
-      "pointsPlus": 216
+      "adjPts": 26.8,
+      "pointsPlus": 215
     },
     {
       "date": "2025-11-05",
@@ -101,7 +101,7 @@
       "min": 32,
       "pts": 19,
       "adjPts": 18.1,
-      "pointsPlus": 146
+      "pointsPlus": 145
     },
     {
       "date": "2025-11-12",
@@ -109,8 +109,8 @@
       "result": "L",
       "min": 31,
       "pts": 23,
-      "adjPts": 23.4,
-      "pointsPlus": 188
+      "adjPts": 23.3,
+      "pointsPlus": 187
     },
     {
       "date": "2025-11-14",
@@ -146,7 +146,7 @@
       "min": 27,
       "pts": 30,
       "adjPts": 29.6,
-      "pointsPlus": 238
+      "pointsPlus": 237
     },
     {
       "date": "2025-12-13",
@@ -155,7 +155,7 @@
       "min": 34,
       "pts": 22,
       "adjPts": 23.6,
-      "pointsPlus": 190
+      "pointsPlus": 189
     },
     {
       "date": "2025-12-18",
@@ -164,7 +164,7 @@
       "min": 25,
       "pts": 17,
       "adjPts": 15.9,
-      "pointsPlus": 128
+      "pointsPlus": 127
     },
     {
       "date": "2025-12-19",
@@ -181,7 +181,7 @@
       "result": "W",
       "min": 32,
       "pts": 18,
-      "adjPts": 16.9,
+      "adjPts": 16.8,
       "pointsPlus": 135
     },
     {
@@ -208,7 +208,7 @@
       "result": "L",
       "min": 33,
       "pts": 20,
-      "adjPts": 18.4,
+      "adjPts": 18.5,
       "pointsPlus": 148
     },
     {
@@ -226,7 +226,7 @@
       "result": "W",
       "min": 27,
       "pts": 5,
-      "adjPts": 5.1,
+      "adjPts": 5.2,
       "pointsPlus": 41
     },
     {
@@ -308,7 +308,7 @@
       "min": 28,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 65
+      "pointsPlus": 64
     },
     {
       "date": "2026-01-19",
@@ -316,7 +316,7 @@
       "result": "W",
       "min": 31,
       "pts": 18,
-      "adjPts": 16.5,
+      "adjPts": 16.6,
       "pointsPlus": 133
     },
     {
@@ -334,7 +334,7 @@
       "result": "W",
       "min": 38,
       "pts": 16,
-      "adjPts": 14.7,
+      "adjPts": 14.8,
       "pointsPlus": 118
     },
     {
@@ -399,6 +399,15 @@
       "pts": 2,
       "adjPts": 2.0,
       "pointsPlus": 16
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "SAS @ GSW",
+      "result": "W",
+      "min": 21,
+      "pts": 8,
+      "adjPts": 8.1,
+      "pointsPlus": 65
     }
   ]
 }

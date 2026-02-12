@@ -3,15 +3,15 @@
   "name": "Desmond Bane",
   "team": "ORL",
   "rank": 43,
-  "gp": 52,
-  "ppg": 19.4,
-  "adjPpg": 19.4,
-  "pointsPlus": 156,
-  "mpg": 33.9,
+  "gp": 53,
+  "ppg": 19.6,
+  "adjPpg": 19.6,
+  "pointsPlus": 158,
+  "mpg": 34.0,
   "position": "G",
   "jersey": "3",
   "usgPct": 22.6,
-  "tsPct": 58.2,
+  "tsPct": 58.8,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -19,7 +19,7 @@
       "result": "W",
       "min": 33,
       "pts": 23,
-      "adjPts": 22.5,
+      "adjPts": 22.6,
       "pointsPlus": 181
     },
     {
@@ -47,7 +47,7 @@
       "min": 34,
       "pts": 24,
       "adjPts": 24.2,
-      "pointsPlus": 195
+      "pointsPlus": 194
     },
     {
       "date": "2025-10-29",
@@ -74,7 +74,7 @@
       "min": 20,
       "pts": 5,
       "adjPts": 4.7,
-      "pointsPlus": 38
+      "pointsPlus": 37
     },
     {
       "date": "2025-11-04",
@@ -109,8 +109,8 @@
       "result": "W",
       "min": 33,
       "pts": 22,
-      "adjPts": 21.5,
-      "pointsPlus": 173
+      "adjPts": 21.4,
+      "pointsPlus": 172
     },
     {
       "date": "2025-11-12",
@@ -118,7 +118,7 @@
       "result": "W",
       "min": 34,
       "pts": 22,
-      "adjPts": 22.6,
+      "adjPts": 22.7,
       "pointsPlus": 182
     },
     {
@@ -128,7 +128,7 @@
       "min": 40,
       "pts": 19,
       "adjPts": 19.1,
-      "pointsPlus": 154
+      "pointsPlus": 153
     },
     {
       "date": "2025-11-16",
@@ -145,8 +145,8 @@
       "result": "W",
       "min": 39,
       "pts": 23,
-      "adjPts": 23.4,
-      "pointsPlus": 188
+      "adjPts": 23.3,
+      "pointsPlus": 187
     },
     {
       "date": "2025-11-20",
@@ -163,7 +163,7 @@
       "result": "W",
       "min": 32,
       "pts": 27,
-      "adjPts": 27.8,
+      "adjPts": 27.9,
       "pointsPlus": 223
     },
     {
@@ -182,7 +182,7 @@
       "min": 29,
       "pts": 15,
       "adjPts": 15.1,
-      "pointsPlus": 122
+      "pointsPlus": 121
     },
     {
       "date": "2025-11-28",
@@ -190,8 +190,8 @@
       "result": "W",
       "min": 39,
       "pts": 37,
-      "adjPts": 39.0,
-      "pointsPlus": 313
+      "adjPts": 39.1,
+      "pointsPlus": 314
     },
     {
       "date": "2025-12-01",
@@ -200,7 +200,7 @@
       "min": 34,
       "pts": 37,
       "adjPts": 35.3,
-      "pointsPlus": 284
+      "pointsPlus": 283
     },
     {
       "date": "2025-12-03",
@@ -244,7 +244,7 @@
       "result": "L",
       "min": 37,
       "pts": 18,
-      "adjPts": 18.5,
+      "adjPts": 18.6,
       "pointsPlus": 149
     },
     {
@@ -262,8 +262,8 @@
       "result": "W",
       "min": 39,
       "pts": 32,
-      "adjPts": 29.4,
-      "pointsPlus": 236
+      "adjPts": 29.5,
+      "pointsPlus": 237
     },
     {
       "date": "2025-12-22",
@@ -280,7 +280,7 @@
       "result": "W",
       "min": 36,
       "pts": 23,
-      "adjPts": 22.5,
+      "adjPts": 22.4,
       "pointsPlus": 180
     },
     {
@@ -343,8 +343,8 @@
       "result": "L",
       "min": 24,
       "pts": 15,
-      "adjPts": 14.1,
-      "pointsPlus": 113
+      "adjPts": 14.0,
+      "pointsPlus": 112
     },
     {
       "date": "2026-01-07",
@@ -379,7 +379,7 @@
       "result": "W",
       "min": 34,
       "pts": 13,
-      "adjPts": 12.8,
+      "adjPts": 12.7,
       "pointsPlus": 102
     },
     {
@@ -389,7 +389,7 @@
       "min": 37,
       "pts": 11,
       "adjPts": 10.8,
-      "pointsPlus": 87
+      "pointsPlus": 86
     },
     {
       "date": "2026-01-22",
@@ -424,7 +424,7 @@
       "result": "W",
       "min": 37,
       "pts": 23,
-      "adjPts": 22.5,
+      "adjPts": 22.6,
       "pointsPlus": 181
     },
     {
@@ -469,8 +469,8 @@
       "result": "W",
       "min": 36,
       "pts": 22,
-      "adjPts": 20.2,
-      "pointsPlus": 162
+      "adjPts": 20.3,
+      "pointsPlus": 163
     },
     {
       "date": "2026-02-09",
@@ -480,6 +480,15 @@
       "pts": 25,
       "adjPts": 25.0,
       "pointsPlus": 200
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "ORL vs. MIL",
+      "result": "L",
+      "min": 39,
+      "pts": 31,
+      "adjPts": 31.0,
+      "pointsPlus": 248
     }
   ]
 }

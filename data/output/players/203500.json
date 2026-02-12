@@ -2,7 +2,7 @@
   "id": 203500,
   "name": "Steven Adams",
   "team": "HOU",
-  "rank": 279,
+  "rank": 280,
   "gp": 32,
   "ppg": 5.8,
   "adjPpg": 5.8,
@@ -92,7 +92,7 @@
       "min": 17,
       "pts": 5,
       "adjPts": 4.7,
-      "pointsPlus": 38
+      "pointsPlus": 37
     },
     {
       "date": "2025-11-14",
@@ -209,7 +209,7 @@
       "min": 14,
       "pts": 2,
       "adjPts": 2.1,
-      "pointsPlus": 16
+      "pointsPlus": 17
     },
     {
       "date": "2025-12-25",
@@ -244,7 +244,7 @@
       "result": "W",
       "min": 31,
       "pts": 8,
-      "adjPts": 8.3,
+      "adjPts": 8.2,
       "pointsPlus": 66
     },
     {

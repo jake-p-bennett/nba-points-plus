@@ -2,16 +2,16 @@
   "id": 1631221,
   "name": "Collin Gillespie",
   "team": "PHX",
-  "rank": 114,
-  "gp": 53,
-  "ppg": 13.4,
-  "adjPpg": 13.4,
-  "pointsPlus": 108,
-  "mpg": 28.4,
+  "rank": 117,
+  "gp": 54,
+  "ppg": 13.3,
+  "adjPpg": 13.3,
+  "pointsPlus": 107,
+  "mpg": 28.3,
   "position": "G",
   "jersey": "12",
   "usgPct": 18.6,
-  "tsPct": 59.6,
+  "tsPct": 59.4,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -64,7 +64,7 @@
       "result": "W",
       "min": 27,
       "pts": 12,
-      "adjPts": 11.0,
+      "adjPts": 11.1,
       "pointsPlus": 89
     },
     {
@@ -145,8 +145,8 @@
       "result": "W",
       "min": 28,
       "pts": 19,
-      "adjPts": 18.6,
-      "pointsPlus": 149
+      "adjPts": 18.5,
+      "pointsPlus": 148
     },
     {
       "date": "2025-11-21",
@@ -182,7 +182,7 @@
       "min": 34,
       "pts": 21,
       "adjPts": 20.1,
-      "pointsPlus": 162
+      "pointsPlus": 161
     },
     {
       "date": "2025-11-28",
@@ -253,8 +253,8 @@
       "result": "W",
       "min": 34,
       "pts": 16,
-      "adjPts": 16.3,
-      "pointsPlus": 131
+      "adjPts": 16.2,
+      "pointsPlus": 130
     },
     {
       "date": "2025-12-20",
@@ -262,8 +262,8 @@
       "result": "L",
       "min": 35,
       "pts": 16,
-      "adjPts": 16.3,
-      "pointsPlus": 131
+      "adjPts": 16.2,
+      "pointsPlus": 130
     },
     {
       "date": "2025-12-23",
@@ -299,7 +299,7 @@
       "min": 29,
       "pts": 25,
       "adjPts": 23.4,
-      "pointsPlus": 188
+      "pointsPlus": 187
     },
     {
       "date": "2025-12-31",
@@ -370,7 +370,7 @@
       "result": "L",
       "min": 24,
       "pts": 13,
-      "adjPts": 12.7,
+      "adjPts": 12.8,
       "pointsPlus": 102
     },
     {
@@ -380,7 +380,7 @@
       "min": 36,
       "pts": 18,
       "adjPts": 19.0,
-      "pointsPlus": 152
+      "pointsPlus": 153
     },
     {
       "date": "2026-01-17",
@@ -388,7 +388,7 @@
       "result": "W",
       "min": 26,
       "pts": 11,
-      "adjPts": 11.3,
+      "adjPts": 11.4,
       "pointsPlus": 91
     },
     {
@@ -434,7 +434,7 @@
       "min": 26,
       "pts": 16,
       "adjPts": 16.9,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2026-01-30",
@@ -460,8 +460,8 @@
       "result": "W",
       "min": 33,
       "pts": 30,
-      "adjPts": 29.3,
-      "pointsPlus": 235
+      "adjPts": 29.2,
+      "pointsPlus": 234
     },
     {
       "date": "2026-02-05",
@@ -470,7 +470,7 @@
       "min": 33,
       "pts": 11,
       "adjPts": 11.2,
-      "pointsPlus": 90
+      "pointsPlus": 89
     },
     {
       "date": "2026-02-07",
@@ -478,8 +478,8 @@
       "result": "L",
       "min": 28,
       "pts": 6,
-      "adjPts": 6.1,
-      "pointsPlus": 49
+      "adjPts": 6.0,
+      "pointsPlus": 48
     },
     {
       "date": "2026-02-10",
@@ -489,6 +489,15 @@
       "pts": 5,
       "adjPts": 4.9,
       "pointsPlus": 40
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "PHX vs. OKC",
+      "result": "L",
+      "min": 23,
+      "pts": 6,
+      "adjPts": 6.4,
+      "pointsPlus": 52
     }
   ]
 }

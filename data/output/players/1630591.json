@@ -2,16 +2,16 @@
   "id": 1630591,
   "name": "Jalen Suggs",
   "team": "ORL",
-  "rank": 103,
-  "gp": 32,
-  "ppg": 14.0,
+  "rank": 101,
+  "gp": 33,
+  "ppg": 14.1,
   "adjPpg": 14.2,
   "pointsPlus": 114,
-  "mpg": 26.3,
+  "mpg": 26.6,
   "position": "G",
   "jersey": "4",
   "usgPct": 22.5,
-  "tsPct": 57.1,
+  "tsPct": 56.9,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -46,7 +46,7 @@
       "result": "L",
       "min": 21,
       "pts": 8,
-      "adjPts": 8.4,
+      "adjPts": 8.5,
       "pointsPlus": 68
     },
     {
@@ -64,7 +64,7 @@
       "result": "L",
       "min": 20,
       "pts": 12,
-      "adjPts": 11.6,
+      "adjPts": 11.7,
       "pointsPlus": 93
     },
     {
@@ -118,7 +118,7 @@
       "result": "W",
       "min": 26,
       "pts": 23,
-      "adjPts": 23.6,
+      "adjPts": 23.7,
       "pointsPlus": 190
     },
     {
@@ -127,7 +127,7 @@
       "result": "W",
       "min": 32,
       "pts": 26,
-      "adjPts": 26.7,
+      "adjPts": 26.8,
       "pointsPlus": 215
     },
     {
@@ -146,7 +146,7 @@
       "min": 34,
       "pts": 14,
       "adjPts": 14.8,
-      "pointsPlus": 118
+      "pointsPlus": 119
     },
     {
       "date": "2025-12-01",
@@ -154,7 +154,7 @@
       "result": "W",
       "min": 30,
       "pts": 10,
-      "adjPts": 9.6,
+      "adjPts": 9.5,
       "pointsPlus": 77
     },
     {
@@ -182,7 +182,7 @@
       "min": 32,
       "pts": 17,
       "adjPts": 17.5,
-      "pointsPlus": 140
+      "pointsPlus": 141
     },
     {
       "date": "2025-12-09",
@@ -199,7 +199,7 @@
       "result": "L",
       "min": 29,
       "pts": 26,
-      "adjPts": 26.7,
+      "adjPts": 26.8,
       "pointsPlus": 215
     },
     {
@@ -289,7 +289,7 @@
       "result": "W",
       "min": 34,
       "pts": 12,
-      "adjPts": 11.0,
+      "adjPts": 11.1,
       "pointsPlus": 89
     },
     {
@@ -300,6 +300,15 @@
       "pts": 7,
       "adjPts": 7.0,
       "pointsPlus": 56
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "ORL vs. MIL",
+      "result": "L",
+      "min": 35,
+      "pts": 16,
+      "adjPts": 16.0,
+      "pointsPlus": 128
     }
   ]
 }

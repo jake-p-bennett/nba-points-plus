@@ -2,16 +2,16 @@
   "id": 1631243,
   "name": "Mouhamed Gueye",
   "team": "ATL",
-  "rank": 296,
-  "gp": 52,
+  "rank": 300,
+  "gp": 53,
   "ppg": 4.9,
   "adjPpg": 4.9,
-  "pointsPlus": 39,
-  "mpg": 16.4,
+  "pointsPlus": 40,
+  "mpg": 16.2,
   "position": "F",
   "jersey": "18",
   "usgPct": 13.1,
-  "tsPct": 51.7,
+  "tsPct": 52.5,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -29,7 +29,7 @@
       "min": 30,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-10-25",
@@ -110,7 +110,7 @@
       "min": 8,
       "pts": 2,
       "adjPts": 2.1,
-      "pointsPlus": 16
+      "pointsPlus": 17
     },
     {
       "date": "2025-11-12",
@@ -181,8 +181,8 @@
       "result": "L",
       "min": 18,
       "pts": 7,
-      "adjPts": 6.6,
-      "pointsPlus": 53
+      "adjPts": 6.5,
+      "pointsPlus": 52
     },
     {
       "date": "2025-11-28",
@@ -244,7 +244,7 @@
       "result": "L",
       "min": 17,
       "pts": 8,
-      "adjPts": 8.4,
+      "adjPts": 8.5,
       "pointsPlus": 68
     },
     {
@@ -379,7 +379,7 @@
       "result": "L",
       "min": 21,
       "pts": 6,
-      "adjPts": 5.9,
+      "adjPts": 5.8,
       "pointsPlus": 47
     },
     {
@@ -478,8 +478,17 @@
       "result": "L",
       "min": 20,
       "pts": 10,
-      "adjPts": 10.0,
+      "adjPts": 10.1,
       "pointsPlus": 81
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "ATL @ CHA",
+      "result": "L",
+      "min": 9,
+      "pts": 6,
+      "adjPts": 6.1,
+      "pointsPlus": 49
     }
   ]
 }

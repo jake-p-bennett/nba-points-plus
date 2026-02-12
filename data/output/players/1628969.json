@@ -3,15 +3,15 @@
   "name": "Mikal Bridges",
   "team": "NYK",
   "rank": 83,
-  "gp": 54,
-  "ppg": 15.8,
-  "adjPpg": 15.8,
-  "pointsPlus": 127,
-  "mpg": 34.6,
+  "gp": 55,
+  "ppg": 15.9,
+  "adjPpg": 15.9,
+  "pointsPlus": 128,
+  "mpg": 34.5,
   "position": "G-F",
   "jersey": "25",
-  "usgPct": 17.0,
-  "tsPct": 60.3,
+  "usgPct": 17.2,
+  "tsPct": 60.4,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -55,7 +55,7 @@
       "result": "L",
       "min": 38,
       "pts": 23,
-      "adjPts": 22.0,
+      "adjPts": 21.9,
       "pointsPlus": 176
     },
     {
@@ -64,7 +64,7 @@
       "result": "W",
       "min": 35,
       "pts": 10,
-      "adjPts": 9.6,
+      "adjPts": 9.5,
       "pointsPlus": 77
     },
     {
@@ -127,7 +127,7 @@
       "result": "L",
       "min": 39,
       "pts": 23,
-      "adjPts": 22.5,
+      "adjPts": 22.6,
       "pointsPlus": 181
     },
     {
@@ -236,7 +236,7 @@
       "min": 43,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 129
+      "pointsPlus": 128
     },
     {
       "date": "2025-12-18",
@@ -253,7 +253,7 @@
       "result": "L",
       "min": 37,
       "pts": 21,
-      "adjPts": 21.2,
+      "adjPts": 21.1,
       "pointsPlus": 170
     },
     {
@@ -262,7 +262,7 @@
       "result": "W",
       "min": 40,
       "pts": 24,
-      "adjPts": 23.5,
+      "adjPts": 23.6,
       "pointsPlus": 189
     },
     {
@@ -334,7 +334,7 @@
       "result": "L",
       "min": 26,
       "pts": 10,
-      "adjPts": 10.5,
+      "adjPts": 10.6,
       "pointsPlus": 85
     },
     {
@@ -352,7 +352,7 @@
       "result": "L",
       "min": 33,
       "pts": 11,
-      "adjPts": 11.4,
+      "adjPts": 11.3,
       "pointsPlus": 91
     },
     {
@@ -361,7 +361,7 @@
       "result": "W",
       "min": 34,
       "pts": 18,
-      "adjPts": 17.6,
+      "adjPts": 17.5,
       "pointsPlus": 141
     },
     {
@@ -388,7 +388,7 @@
       "result": "L",
       "min": 37,
       "pts": 15,
-      "adjPts": 15.5,
+      "adjPts": 15.4,
       "pointsPlus": 124
     },
     {
@@ -425,7 +425,7 @@
       "min": 38,
       "pts": 18,
       "adjPts": 17.3,
-      "pointsPlus": 139
+      "pointsPlus": 138
     },
     {
       "date": "2026-01-28",
@@ -442,7 +442,7 @@
       "result": "W",
       "min": 33,
       "pts": 10,
-      "adjPts": 9.8,
+      "adjPts": 9.7,
       "pointsPlus": 78
     },
     {
@@ -460,8 +460,8 @@
       "result": "W",
       "min": 26,
       "pts": 23,
-      "adjPts": 21.6,
-      "pointsPlus": 173
+      "adjPts": 21.5,
+      "pointsPlus": 172
     },
     {
       "date": "2026-02-04",
@@ -478,7 +478,7 @@
       "result": "L",
       "min": 28,
       "pts": 19,
-      "adjPts": 20.0,
+      "adjPts": 20.1,
       "pointsPlus": 161
     },
     {
@@ -498,6 +498,15 @@
       "pts": 22,
       "adjPts": 21.4,
       "pointsPlus": 172
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "NYK @ PHI",
+      "result": "W",
+      "min": 29,
+      "pts": 22,
+      "adjPts": 22.1,
+      "pointsPlus": 178
     }
   ]
 }

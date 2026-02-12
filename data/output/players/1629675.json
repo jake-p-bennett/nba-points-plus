@@ -3,14 +3,14 @@
   "name": "Naz Reid",
   "team": "MIN",
   "rank": 104,
-  "gp": 55,
+  "gp": 56,
   "ppg": 14.2,
   "adjPpg": 14.1,
   "pointsPlus": 113,
-  "mpg": 26.3,
+  "mpg": 26.2,
   "position": "C-F",
   "jersey": "11",
-  "usgPct": 21.1,
+  "usgPct": 21.0,
   "tsPct": 59.0,
   "gameLog": [
     {
@@ -19,7 +19,7 @@
       "result": "W",
       "min": 20,
       "pts": 6,
-      "adjPts": 5.9,
+      "adjPts": 5.8,
       "pointsPlus": 47
     },
     {
@@ -82,7 +82,7 @@
       "result": "L",
       "min": 21,
       "pts": 5,
-      "adjPts": 5.1,
+      "adjPts": 5.2,
       "pointsPlus": 41
     },
     {
@@ -109,7 +109,7 @@
       "result": "W",
       "min": 28,
       "pts": 7,
-      "adjPts": 6.4,
+      "adjPts": 6.5,
       "pointsPlus": 52
     },
     {
@@ -137,7 +137,7 @@
       "min": 23,
       "pts": 22,
       "adjPts": 21.8,
-      "pointsPlus": 175
+      "pointsPlus": 174
     },
     {
       "date": "2025-11-19",
@@ -146,7 +146,7 @@
       "min": 27,
       "pts": 28,
       "adjPts": 26.2,
-      "pointsPlus": 211
+      "pointsPlus": 210
     },
     {
       "date": "2025-11-21",
@@ -155,7 +155,7 @@
       "min": 27,
       "pts": 9,
       "adjPts": 9.3,
-      "pointsPlus": 75
+      "pointsPlus": 74
     },
     {
       "date": "2025-11-24",
@@ -217,7 +217,7 @@
       "result": "W",
       "min": 28,
       "pts": 19,
-      "adjPts": 19.5,
+      "adjPts": 19.6,
       "pointsPlus": 157
     },
     {
@@ -236,7 +236,7 @@
       "min": 30,
       "pts": 18,
       "adjPts": 18.3,
-      "pointsPlus": 147
+      "pointsPlus": 146
     },
     {
       "date": "2025-12-14",
@@ -280,7 +280,7 @@
       "result": "W",
       "min": 25,
       "pts": 8,
-      "adjPts": 8.2,
+      "adjPts": 8.3,
       "pointsPlus": 66
     },
     {
@@ -325,7 +325,7 @@
       "result": "W",
       "min": 25,
       "pts": 29,
-      "adjPts": 28.4,
+      "adjPts": 28.5,
       "pointsPlus": 228
     },
     {
@@ -335,7 +335,7 @@
       "min": 20,
       "pts": 9,
       "adjPts": 8.4,
-      "pointsPlus": 68
+      "pointsPlus": 67
     },
     {
       "date": "2026-01-06",
@@ -370,7 +370,7 @@
       "result": "W",
       "min": 31,
       "pts": 17,
-      "adjPts": 17.4,
+      "adjPts": 17.5,
       "pointsPlus": 140
     },
     {
@@ -443,7 +443,7 @@
       "min": 28,
       "pts": 23,
       "adjPts": 22.7,
-      "pointsPlus": 183
+      "pointsPlus": 182
     },
     {
       "date": "2026-01-29",
@@ -461,7 +461,7 @@
       "min": 31,
       "pts": 20,
       "adjPts": 19.6,
-      "pointsPlus": 158
+      "pointsPlus": 157
     },
     {
       "date": "2026-02-02",
@@ -507,6 +507,15 @@
       "pts": 7,
       "adjPts": 6.8,
       "pointsPlus": 55
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "MIN vs. POR",
+      "result": "W",
+      "min": 24,
+      "pts": 11,
+      "adjPts": 10.7,
+      "pointsPlus": 86
     }
   ]
 }

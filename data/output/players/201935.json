@@ -2,16 +2,16 @@
   "id": 201935,
   "name": "James Harden",
   "team": "CLE",
-  "rank": 18,
-  "gp": 46,
-  "ppg": 25.3,
-  "adjPpg": 25.2,
-  "pointsPlus": 203,
-  "mpg": 35.5,
+  "rank": 21,
+  "gp": 47,
+  "ppg": 25.0,
+  "adjPpg": 25.0,
+  "pointsPlus": 200,
+  "mpg": 35.3,
   "position": "G",
   "jersey": "1",
-  "usgPct": 29.8,
-  "tsPct": 60.0,
+  "usgPct": 29.6,
+  "tsPct": 60.1,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -28,8 +28,8 @@
       "result": "W",
       "min": 28,
       "pts": 30,
-      "adjPts": 31.0,
-      "pointsPlus": 249
+      "adjPts": 30.9,
+      "pointsPlus": 248
     },
     {
       "date": "2025-10-26",
@@ -38,7 +38,7 @@
       "min": 38,
       "pts": 20,
       "adjPts": 19.5,
-      "pointsPlus": 157
+      "pointsPlus": 156
     },
     {
       "date": "2025-10-28",
@@ -56,7 +56,7 @@
       "min": 39,
       "pts": 24,
       "adjPts": 23.1,
-      "pointsPlus": 186
+      "pointsPlus": 185
     },
     {
       "date": "2025-11-03",
@@ -64,7 +64,7 @@
       "result": "L",
       "min": 39,
       "pts": 29,
-      "adjPts": 28.4,
+      "adjPts": 28.5,
       "pointsPlus": 228
     },
     {
@@ -83,7 +83,7 @@
       "min": 41,
       "pts": 13,
       "adjPts": 13.4,
-      "pointsPlus": 108
+      "pointsPlus": 107
     },
     {
       "date": "2025-11-10",
@@ -127,8 +127,8 @@
       "result": "L",
       "min": 37,
       "pts": 28,
-      "adjPts": 28.3,
-      "pointsPlus": 227
+      "adjPts": 28.2,
+      "pointsPlus": 226
     },
     {
       "date": "2025-11-20",
@@ -136,7 +136,7 @@
       "result": "L",
       "min": 31,
       "pts": 31,
-      "adjPts": 31.1,
+      "adjPts": 31.0,
       "pointsPlus": 249
     },
     {
@@ -145,7 +145,7 @@
       "result": "W",
       "min": 35,
       "pts": 55,
-      "adjPts": 55.8,
+      "adjPts": 55.9,
       "pointsPlus": 448
     },
     {
@@ -164,7 +164,7 @@
       "min": 37,
       "pts": 29,
       "adjPts": 28.6,
-      "pointsPlus": 230
+      "pointsPlus": 229
     },
     {
       "date": "2025-11-28",
@@ -208,7 +208,7 @@
       "result": "L",
       "min": 36,
       "pts": 18,
-      "adjPts": 17.7,
+      "adjPts": 17.6,
       "pointsPlus": 142
     },
     {
@@ -226,7 +226,7 @@
       "result": "L",
       "min": 40,
       "pts": 22,
-      "adjPts": 23.3,
+      "adjPts": 23.4,
       "pointsPlus": 187
     },
     {
@@ -235,7 +235,7 @@
       "result": "L",
       "min": 31,
       "pts": 13,
-      "adjPts": 12.8,
+      "adjPts": 12.7,
       "pointsPlus": 102
     },
     {
@@ -262,8 +262,8 @@
       "result": "W",
       "min": 39,
       "pts": 34,
-      "adjPts": 33.2,
-      "pointsPlus": 267
+      "adjPts": 33.1,
+      "pointsPlus": 266
     },
     {
       "date": "2025-12-28",
@@ -271,7 +271,7 @@
       "result": "W",
       "min": 40,
       "pts": 28,
-      "adjPts": 29.5,
+      "adjPts": 29.6,
       "pointsPlus": 237
     },
     {
@@ -281,7 +281,7 @@
       "min": 30,
       "pts": 21,
       "adjPts": 20.1,
-      "pointsPlus": 162
+      "pointsPlus": 161
     },
     {
       "date": "2026-01-01",
@@ -289,7 +289,7 @@
       "result": "W",
       "min": 29,
       "pts": 20,
-      "adjPts": 18.4,
+      "adjPts": 18.5,
       "pointsPlus": 148
     },
     {
@@ -307,7 +307,7 @@
       "result": "L",
       "min": 38,
       "pts": 23,
-      "adjPts": 23.6,
+      "adjPts": 23.7,
       "pointsPlus": 190
     },
     {
@@ -317,7 +317,7 @@
       "min": 35,
       "pts": 31,
       "adjPts": 31.2,
-      "pointsPlus": 251
+      "pointsPlus": 250
     },
     {
       "date": "2026-01-10",
@@ -325,7 +325,7 @@
       "result": "W",
       "min": 37,
       "pts": 19,
-      "adjPts": 20.0,
+      "adjPts": 20.1,
       "pointsPlus": 161
     },
     {
@@ -344,7 +344,7 @@
       "min": 37,
       "pts": 22,
       "adjPts": 20.6,
-      "pointsPlus": 166
+      "pointsPlus": 165
     },
     {
       "date": "2026-01-16",
@@ -353,7 +353,7 @@
       "min": 42,
       "pts": 31,
       "adjPts": 32.0,
-      "pointsPlus": 257
+      "pointsPlus": 256
     },
     {
       "date": "2026-01-19",
@@ -362,7 +362,7 @@
       "min": 37,
       "pts": 36,
       "adjPts": 33.7,
-      "pointsPlus": 271
+      "pointsPlus": 270
     },
     {
       "date": "2026-01-20",
@@ -380,7 +380,7 @@
       "min": 38,
       "pts": 18,
       "adjPts": 17.8,
-      "pointsPlus": 143
+      "pointsPlus": 142
     },
     {
       "date": "2026-01-25",
@@ -389,7 +389,7 @@
       "min": 31,
       "pts": 19,
       "adjPts": 19.1,
-      "pointsPlus": 154
+      "pointsPlus": 153
     },
     {
       "date": "2026-01-27",
@@ -397,7 +397,7 @@
       "result": "W",
       "min": 31,
       "pts": 16,
-      "adjPts": 14.7,
+      "adjPts": 14.8,
       "pointsPlus": 118
     },
     {
@@ -415,7 +415,7 @@
       "result": "W",
       "min": 32,
       "pts": 23,
-      "adjPts": 22.1,
+      "adjPts": 22.0,
       "pointsPlus": 177
     },
     {
@@ -426,6 +426,15 @@
       "pts": 22,
       "adjPts": 22.0,
       "pointsPlus": 176
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "CLE vs. WAS",
+      "result": "W",
+      "min": 28,
+      "pts": 13,
+      "adjPts": 12.2,
+      "pointsPlus": 97
     }
   ]
 }

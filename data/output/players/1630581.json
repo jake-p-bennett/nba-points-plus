@@ -2,7 +2,7 @@
   "id": 1630581,
   "name": "Josh Giddey",
   "team": "CHI",
-  "rank": 55,
+  "rank": 56,
   "gp": 34,
   "ppg": 18.6,
   "adjPpg": 18.4,
@@ -19,7 +19,7 @@
       "result": "W",
       "min": 29,
       "pts": 19,
-      "adjPts": 20.0,
+      "adjPts": 20.1,
       "pointsPlus": 161
     },
     {
@@ -55,8 +55,8 @@
       "result": "W",
       "min": 38,
       "pts": 32,
-      "adjPts": 32.9,
-      "pointsPlus": 264
+      "adjPts": 33.0,
+      "pointsPlus": 265
     },
     {
       "date": "2025-11-02",
@@ -64,7 +64,7 @@
       "result": "L",
       "min": 38,
       "pts": 23,
-      "adjPts": 23.6,
+      "adjPts": 23.7,
       "pointsPlus": 190
     },
     {
@@ -73,8 +73,8 @@
       "result": "W",
       "min": 37,
       "pts": 29,
-      "adjPts": 29.3,
-      "pointsPlus": 235
+      "adjPts": 29.2,
+      "pointsPlus": 234
     },
     {
       "date": "2025-11-07",
@@ -100,8 +100,8 @@
       "result": "L",
       "min": 42,
       "pts": 26,
-      "adjPts": 23.9,
-      "pointsPlus": 192
+      "adjPts": 24.0,
+      "pointsPlus": 193
     },
     {
       "date": "2025-11-17",
@@ -119,7 +119,7 @@
       "min": 31,
       "pts": 9,
       "adjPts": 8.8,
-      "pointsPlus": 71
+      "pointsPlus": 70
     },
     {
       "date": "2025-11-21",
@@ -128,7 +128,7 @@
       "min": 31,
       "pts": 19,
       "adjPts": 18.6,
-      "pointsPlus": 149
+      "pointsPlus": 150
     },
     {
       "date": "2025-11-22",
@@ -136,7 +136,7 @@
       "result": "W",
       "min": 34,
       "pts": 18,
-      "adjPts": 16.9,
+      "adjPts": 16.8,
       "pointsPlus": 135
     },
     {
@@ -163,7 +163,7 @@
       "result": "L",
       "min": 34,
       "pts": 17,
-      "adjPts": 16.5,
+      "adjPts": 16.6,
       "pointsPlus": 133
     },
     {
@@ -200,7 +200,7 @@
       "min": 35,
       "pts": 18,
       "adjPts": 18.3,
-      "pointsPlus": 147
+      "pointsPlus": 146
     },
     {
       "date": "2025-12-12",
@@ -244,7 +244,7 @@
       "result": "W",
       "min": 32,
       "pts": 19,
-      "adjPts": 18.4,
+      "adjPts": 18.5,
       "pointsPlus": 148
     },
     {
@@ -253,7 +253,7 @@
       "result": "W",
       "min": 36,
       "pts": 19,
-      "adjPts": 18.4,
+      "adjPts": 18.5,
       "pointsPlus": 148
     },
     {

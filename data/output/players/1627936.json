@@ -2,16 +2,16 @@
   "id": 1627936,
   "name": "Alex Caruso",
   "team": "OKC",
-  "rank": 267,
-  "gp": 35,
-  "ppg": 6.4,
-  "adjPpg": 6.4,
-  "pointsPlus": 52,
-  "mpg": 18.6,
+  "rank": 272,
+  "gp": 36,
+  "ppg": 6.2,
+  "adjPpg": 6.3,
+  "pointsPlus": 50,
+  "mpg": 18.3,
   "position": "G",
   "jersey": "9",
   "usgPct": 14.7,
-  "tsPct": 55.4,
+  "tsPct": 55.1,
   "gameLog": [
     {
       "date": "2025-10-21",
@@ -29,7 +29,7 @@
       "min": 24,
       "pts": 8,
       "adjPts": 7.7,
-      "pointsPlus": 62
+      "pointsPlus": 61
     },
     {
       "date": "2025-10-30",
@@ -118,7 +118,7 @@
       "result": "W",
       "min": 18,
       "pts": 11,
-      "adjPts": 10.1,
+      "adjPts": 10.2,
       "pointsPlus": 81
     },
     {
@@ -208,7 +208,7 @@
       "result": "W",
       "min": 16,
       "pts": 7,
-      "adjPts": 7.1,
+      "adjPts": 7.0,
       "pointsPlus": 57
     },
     {
@@ -227,7 +227,7 @@
       "min": 9,
       "pts": 3,
       "adjPts": 2.9,
-      "pointsPlus": 24
+      "pointsPlus": 23
     },
     {
       "date": "2026-01-02",
@@ -327,6 +327,15 @@
       "pts": 17,
       "adjPts": 16.8,
       "pointsPlus": 135
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "OKC @ PHX",
+      "result": "W",
+      "min": 8,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
     }
   ]
 }

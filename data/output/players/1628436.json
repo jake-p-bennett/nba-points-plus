@@ -2,16 +2,16 @@
   "id": 1628436,
   "name": "Luke Kornet",
   "team": "SAS",
-  "rank": 239,
-  "gp": 43,
-  "ppg": 7.4,
+  "rank": 242,
+  "gp": 44,
+  "ppg": 7.3,
   "adjPpg": 7.3,
-  "pointsPlus": 59,
-  "mpg": 23.0,
+  "pointsPlus": 58,
+  "mpg": 22.9,
   "position": "C-F",
   "jersey": "7",
-  "usgPct": 10.2,
-  "tsPct": 69.0,
+  "usgPct": 10.1,
+  "tsPct": 69.3,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -38,7 +38,7 @@
       "min": 20,
       "pts": 16,
       "adjPts": 15.3,
-      "pointsPlus": 123
+      "pointsPlus": 122
     },
     {
       "date": "2025-11-12",
@@ -91,7 +91,7 @@
       "result": "L",
       "min": 28,
       "pts": 8,
-      "adjPts": 8.3,
+      "adjPts": 8.2,
       "pointsPlus": 66
     },
     {
@@ -100,7 +100,7 @@
       "result": "W",
       "min": 28,
       "pts": 6,
-      "adjPts": 5.9,
+      "adjPts": 5.8,
       "pointsPlus": 47
     },
     {
@@ -128,7 +128,7 @@
       "min": 28,
       "pts": 4,
       "adjPts": 3.9,
-      "pointsPlus": 32
+      "pointsPlus": 31
     },
     {
       "date": "2025-12-03",
@@ -217,7 +217,7 @@
       "result": "L",
       "min": 19,
       "pts": 7,
-      "adjPts": 6.4,
+      "adjPts": 6.5,
       "pointsPlus": 52
     },
     {
@@ -253,7 +253,7 @@
       "result": "L",
       "min": 31,
       "pts": 23,
-      "adjPts": 22.5,
+      "adjPts": 22.4,
       "pointsPlus": 180
     },
     {
@@ -263,7 +263,7 @@
       "min": 27,
       "pts": 4,
       "adjPts": 3.9,
-      "pointsPlus": 32
+      "pointsPlus": 31
     },
     {
       "date": "2026-01-07",
@@ -317,7 +317,7 @@
       "min": 19,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 65
+      "pointsPlus": 64
     },
     {
       "date": "2026-01-19",
@@ -325,7 +325,7 @@
       "result": "W",
       "min": 22,
       "pts": 7,
-      "adjPts": 6.4,
+      "adjPts": 6.5,
       "pointsPlus": 52
     },
     {
@@ -398,7 +398,16 @@
       "min": 10,
       "pts": 6,
       "adjPts": 5.9,
-      "pointsPlus": 48
+      "pointsPlus": 47
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "SAS @ GSW",
+      "result": "W",
+      "min": 15,
+      "pts": 4,
+      "adjPts": 4.1,
+      "pointsPlus": 33
     }
   ]
 }

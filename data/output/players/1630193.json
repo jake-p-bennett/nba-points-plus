@@ -3,7 +3,7 @@
   "name": "Immanuel Quickley",
   "team": "TOR",
   "rank": 73,
-  "gp": 51,
+  "gp": 52,
   "ppg": 17.0,
   "adjPpg": 17.0,
   "pointsPlus": 136,
@@ -100,7 +100,7 @@
       "result": "L",
       "min": 36,
       "pts": 22,
-      "adjPts": 22.2,
+      "adjPts": 22.1,
       "pointsPlus": 178
     },
     {
@@ -145,8 +145,8 @@
       "result": "W",
       "min": 38,
       "pts": 18,
-      "adjPts": 18.2,
-      "pointsPlus": 146
+      "adjPts": 18.1,
+      "pointsPlus": 145
     },
     {
       "date": "2025-11-21",
@@ -155,7 +155,7 @@
       "min": 30,
       "pts": 17,
       "adjPts": 15.9,
-      "pointsPlus": 128
+      "pointsPlus": 127
     },
     {
       "date": "2025-11-23",
@@ -172,7 +172,7 @@
       "result": "W",
       "min": 33,
       "pts": 11,
-      "adjPts": 10.9,
+      "adjPts": 11.0,
       "pointsPlus": 88
     },
     {
@@ -199,7 +199,7 @@
       "result": "L",
       "min": 35,
       "pts": 19,
-      "adjPts": 19.5,
+      "adjPts": 19.6,
       "pointsPlus": 157
     },
     {
@@ -208,7 +208,7 @@
       "result": "W",
       "min": 35,
       "pts": 23,
-      "adjPts": 22.5,
+      "adjPts": 22.4,
       "pointsPlus": 180
     },
     {
@@ -227,7 +227,7 @@
       "min": 31,
       "pts": 31,
       "adjPts": 31.5,
-      "pointsPlus": 253
+      "pointsPlus": 252
     },
     {
       "date": "2025-12-07",
@@ -280,7 +280,7 @@
       "result": "W",
       "min": 35,
       "pts": 18,
-      "adjPts": 17.6,
+      "adjPts": 17.7,
       "pointsPlus": 142
     },
     {
@@ -290,7 +290,7 @@
       "min": 33,
       "pts": 25,
       "adjPts": 23.4,
-      "pointsPlus": 188
+      "pointsPlus": 187
     },
     {
       "date": "2025-12-28",
@@ -361,8 +361,8 @@
       "result": "W",
       "min": 40,
       "pts": 20,
-      "adjPts": 20.2,
-      "pointsPlus": 162
+      "adjPts": 20.1,
+      "pointsPlus": 161
     },
     {
       "date": "2026-01-12",
@@ -370,8 +370,8 @@
       "result": "L",
       "min": 32,
       "pts": 18,
-      "adjPts": 18.2,
-      "pointsPlus": 146
+      "adjPts": 18.1,
+      "pointsPlus": 145
     },
     {
       "date": "2026-01-18",
@@ -389,7 +389,7 @@
       "min": 34,
       "pts": 40,
       "adjPts": 40.6,
-      "pointsPlus": 326
+      "pointsPlus": 325
     },
     {
       "date": "2026-01-21",
@@ -398,7 +398,7 @@
       "min": 36,
       "pts": 18,
       "adjPts": 17.3,
-      "pointsPlus": 139
+      "pointsPlus": 138
     },
     {
       "date": "2026-01-23",
@@ -407,7 +407,7 @@
       "min": 34,
       "pts": 20,
       "adjPts": 19.5,
-      "pointsPlus": 157
+      "pointsPlus": 156
     },
     {
       "date": "2026-01-25",
@@ -434,7 +434,7 @@
       "min": 33,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2026-02-01",
@@ -442,8 +442,8 @@
       "result": "W",
       "min": 33,
       "pts": 17,
-      "adjPts": 15.6,
-      "pointsPlus": 125
+      "adjPts": 15.7,
+      "pointsPlus": 126
     },
     {
       "date": "2026-02-04",
@@ -469,8 +469,17 @@
       "result": "W",
       "min": 28,
       "pts": 13,
-      "adjPts": 12.6,
+      "adjPts": 12.7,
       "pointsPlus": 102
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "TOR vs. DET",
+      "result": "L",
+      "min": 32,
+      "pts": 18,
+      "adjPts": 19.0,
+      "pointsPlus": 153
     }
   ]
 }

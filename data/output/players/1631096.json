@@ -2,12 +2,12 @@
   "id": 1631096,
   "name": "Chet Holmgren",
   "team": "OKC",
-  "rank": 65,
-  "gp": 47,
-  "ppg": 17.6,
-  "adjPpg": 17.5,
-  "pointsPlus": 141,
-  "mpg": 29.4,
+  "rank": 68,
+  "gp": 48,
+  "ppg": 17.5,
+  "adjPpg": 17.4,
+  "pointsPlus": 140,
+  "mpg": 29.2,
   "position": "C-F",
   "jersey": "7",
   "usgPct": 21.7,
@@ -38,7 +38,7 @@
       "min": 27,
       "pts": 31,
       "adjPts": 30.1,
-      "pointsPlus": 242
+      "pointsPlus": 241
     },
     {
       "date": "2025-10-27",
@@ -82,8 +82,8 @@
       "result": "W",
       "min": 25,
       "pts": 23,
-      "adjPts": 23.4,
-      "pointsPlus": 188
+      "adjPts": 23.3,
+      "pointsPlus": 187
     },
     {
       "date": "2025-11-12",
@@ -119,7 +119,7 @@
       "min": 31,
       "pts": 21,
       "adjPts": 20.1,
-      "pointsPlus": 162
+      "pointsPlus": 161
     },
     {
       "date": "2025-11-21",
@@ -127,7 +127,7 @@
       "result": "W",
       "min": 27,
       "pts": 11,
-      "adjPts": 10.1,
+      "adjPts": 10.2,
       "pointsPlus": 81
     },
     {
@@ -154,8 +154,8 @@
       "result": "W",
       "min": 32,
       "pts": 23,
-      "adjPts": 23.8,
-      "pointsPlus": 191
+      "adjPts": 23.7,
+      "pointsPlus": 190
     },
     {
       "date": "2025-11-30",
@@ -163,8 +163,8 @@
       "result": "W",
       "min": 30,
       "pts": 19,
-      "adjPts": 18.6,
-      "pointsPlus": 149
+      "adjPts": 18.5,
+      "pointsPlus": 148
     },
     {
       "date": "2025-12-02",
@@ -190,8 +190,8 @@
       "result": "W",
       "min": 23,
       "pts": 25,
-      "adjPts": 23.0,
-      "pointsPlus": 184
+      "adjPts": 23.1,
+      "pointsPlus": 185
     },
     {
       "date": "2025-12-10",
@@ -199,8 +199,8 @@
       "result": "W",
       "min": 25,
       "pts": 24,
-      "adjPts": 24.8,
-      "pointsPlus": 199
+      "adjPts": 24.7,
+      "pointsPlus": 198
     },
     {
       "date": "2025-12-13",
@@ -208,7 +208,7 @@
       "result": "L",
       "min": 30,
       "pts": 17,
-      "adjPts": 17.4,
+      "adjPts": 17.5,
       "pointsPlus": 140
     },
     {
@@ -218,7 +218,7 @@
       "min": 31,
       "pts": 22,
       "adjPts": 22.6,
-      "pointsPlus": 181
+      "pointsPlus": 182
     },
     {
       "date": "2025-12-19",
@@ -253,8 +253,8 @@
       "result": "W",
       "min": 29,
       "pts": 29,
-      "adjPts": 29.3,
-      "pointsPlus": 235
+      "adjPts": 29.2,
+      "pointsPlus": 234
     },
     {
       "date": "2025-12-29",
@@ -289,7 +289,7 @@
       "result": "L",
       "min": 33,
       "pts": 18,
-      "adjPts": 18.6,
+      "adjPts": 18.5,
       "pointsPlus": 149
     },
     {
@@ -307,7 +307,7 @@
       "result": "W",
       "min": 40,
       "pts": 23,
-      "adjPts": 21.1,
+      "adjPts": 21.2,
       "pointsPlus": 170
     },
     {
@@ -389,7 +389,7 @@
       "min": 33,
       "pts": 20,
       "adjPts": 19.3,
-      "pointsPlus": 155
+      "pointsPlus": 154
     },
     {
       "date": "2026-01-29",
@@ -416,7 +416,7 @@
       "min": 27,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 129
+      "pointsPlus": 128
     },
     {
       "date": "2026-02-07",
@@ -435,6 +435,15 @@
       "pts": 13,
       "adjPts": 12.8,
       "pointsPlus": 103
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "OKC @ PHX",
+      "result": "W",
+      "min": 21,
+      "pts": 13,
+      "adjPts": 13.4,
+      "pointsPlus": 107
     }
   ]
 }

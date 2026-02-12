@@ -2,7 +2,7 @@
   "id": 1642907,
   "name": "Cedric Coward",
   "team": "MEM",
-  "rank": 117,
+  "rank": 116,
   "gp": 48,
   "ppg": 13.3,
   "adjPpg": 13.3,
@@ -55,7 +55,7 @@
       "result": "W",
       "min": 28,
       "pts": 14,
-      "adjPts": 14.5,
+      "adjPts": 14.4,
       "pointsPlus": 116
     },
     {
@@ -82,7 +82,7 @@
       "result": "L",
       "min": 31,
       "pts": 17,
-      "adjPts": 17.9,
+      "adjPts": 18.0,
       "pointsPlus": 144
     },
     {
@@ -118,7 +118,7 @@
       "result": "L",
       "min": 30,
       "pts": 11,
-      "adjPts": 11.3,
+      "adjPts": 11.4,
       "pointsPlus": 91
     },
     {
@@ -146,7 +146,7 @@
       "min": 26,
       "pts": 19,
       "adjPts": 19.5,
-      "pointsPlus": 157
+      "pointsPlus": 156
     },
     {
       "date": "2025-11-20",
@@ -217,7 +217,7 @@
       "result": "W",
       "min": 28,
       "pts": 23,
-      "adjPts": 23.6,
+      "adjPts": 23.7,
       "pointsPlus": 190
     },
     {
@@ -235,8 +235,8 @@
       "result": "L",
       "min": 29,
       "pts": 17,
-      "adjPts": 15.6,
-      "pointsPlus": 125
+      "adjPts": 15.7,
+      "pointsPlus": 126
     },
     {
       "date": "2025-12-15",
@@ -290,7 +290,7 @@
       "min": 23,
       "pts": 11,
       "adjPts": 10.3,
-      "pointsPlus": 83
+      "pointsPlus": 82
     },
     {
       "date": "2025-12-30",
@@ -298,8 +298,8 @@
       "result": "L",
       "min": 37,
       "pts": 28,
-      "adjPts": 28.3,
-      "pointsPlus": 227
+      "adjPts": 28.2,
+      "pointsPlus": 226
     },
     {
       "date": "2026-01-02",
@@ -353,7 +353,7 @@
       "min": 23,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2026-01-21",
@@ -371,7 +371,7 @@
       "min": 28,
       "pts": 13,
       "adjPts": 12.5,
-      "pointsPlus": 101
+      "pointsPlus": 100
     },
     {
       "date": "2026-01-26",
@@ -398,7 +398,7 @@
       "min": 23,
       "pts": 13,
       "adjPts": 12.5,
-      "pointsPlus": 101
+      "pointsPlus": 100
     },
     {
       "date": "2026-01-31",
@@ -407,7 +407,7 @@
       "min": 27,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 65
+      "pointsPlus": 64
     },
     {
       "date": "2026-02-02",

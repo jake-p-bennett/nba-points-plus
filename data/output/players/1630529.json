@@ -2,16 +2,16 @@
   "id": 1630529,
   "name": "Herbert Jones",
   "team": "NOP",
-  "rank": 198,
-  "gp": 32,
+  "rank": 201,
+  "gp": 33,
   "ppg": 8.9,
   "adjPpg": 9.0,
-  "pointsPlus": 73,
-  "mpg": 28.7,
+  "pointsPlus": 72,
+  "mpg": 28.8,
   "position": "F",
   "jersey": "2",
-  "usgPct": 15.0,
-  "tsPct": 49.4,
+  "usgPct": 14.9,
+  "tsPct": 49.6,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -163,7 +163,7 @@
       "result": "L",
       "min": 26,
       "pts": 17,
-      "adjPts": 17.4,
+      "adjPts": 17.5,
       "pointsPlus": 140
     },
     {
@@ -181,7 +181,7 @@
       "result": "W",
       "min": 20,
       "pts": 10,
-      "adjPts": 9.6,
+      "adjPts": 9.5,
       "pointsPlus": 77
     },
     {
@@ -263,7 +263,7 @@
       "min": 31,
       "pts": 5,
       "adjPts": 5.0,
-      "pointsPlus": 41
+      "pointsPlus": 40
     },
     {
       "date": "2026-02-02",
@@ -299,7 +299,16 @@
       "min": 30,
       "pts": 8,
       "adjPts": 7.7,
-      "pointsPlus": 62
+      "pointsPlus": 61
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "NOP vs. MIA",
+      "result": "L",
+      "min": 33,
+      "pts": 7,
+      "adjPts": 6.9,
+      "pointsPlus": 55
     }
   ]
 }

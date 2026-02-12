@@ -3,15 +3,15 @@
   "name": "Jordan Clarkson",
   "team": "NYK",
   "rank": 197,
-  "gp": 50,
+  "gp": 51,
   "ppg": 9.1,
   "adjPpg": 9.1,
   "pointsPlus": 73,
-  "mpg": 19.1,
+  "mpg": 18.9,
   "position": "G",
   "jersey": "0",
-  "usgPct": 20.4,
-  "tsPct": 53.6,
+  "usgPct": 20.5,
+  "tsPct": 53.7,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -37,7 +37,7 @@
       "result": "L",
       "min": 15,
       "pts": 8,
-      "adjPts": 7.8,
+      "adjPts": 7.9,
       "pointsPlus": 63
     },
     {
@@ -73,8 +73,8 @@
       "result": "W",
       "min": 21,
       "pts": 15,
-      "adjPts": 14.1,
-      "pointsPlus": 113
+      "adjPts": 14.0,
+      "pointsPlus": 112
     },
     {
       "date": "2025-11-05",
@@ -100,7 +100,7 @@
       "result": "W",
       "min": 17,
       "pts": 13,
-      "adjPts": 12.8,
+      "adjPts": 12.7,
       "pointsPlus": 102
     },
     {
@@ -118,7 +118,7 @@
       "result": "W",
       "min": 33,
       "pts": 24,
-      "adjPts": 23.5,
+      "adjPts": 23.6,
       "pointsPlus": 189
     },
     {
@@ -146,7 +146,7 @@
       "min": 34,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 121
+      "pointsPlus": 120
     },
     {
       "date": "2025-11-24",
@@ -208,7 +208,7 @@
       "result": "W",
       "min": 31,
       "pts": 16,
-      "adjPts": 14.7,
+      "adjPts": 14.8,
       "pointsPlus": 118
     },
     {
@@ -271,7 +271,7 @@
       "result": "L",
       "min": 30,
       "pts": 10,
-      "adjPts": 10.0,
+      "adjPts": 10.1,
       "pointsPlus": 81
     },
     {
@@ -334,7 +334,7 @@
       "result": "L",
       "min": 20,
       "pts": 8,
-      "adjPts": 8.4,
+      "adjPts": 8.5,
       "pointsPlus": 68
     },
     {
@@ -352,7 +352,7 @@
       "result": "L",
       "min": 21,
       "pts": 12,
-      "adjPts": 12.4,
+      "adjPts": 12.3,
       "pointsPlus": 99
     },
     {
@@ -362,7 +362,7 @@
       "min": 13,
       "pts": 3,
       "adjPts": 2.9,
-      "pointsPlus": 24
+      "pointsPlus": 23
     },
     {
       "date": "2026-01-14",
@@ -380,7 +380,7 @@
       "min": 18,
       "pts": 11,
       "adjPts": 11.2,
-      "pointsPlus": 90
+      "pointsPlus": 89
     },
     {
       "date": "2026-01-17",
@@ -462,6 +462,15 @@
       "pts": 4,
       "adjPts": 3.9,
       "pointsPlus": 31
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "NYK @ PHI",
+      "result": "W",
+      "min": 13,
+      "pts": 8,
+      "adjPts": 8.1,
+      "pointsPlus": 65
     }
   ]
 }

@@ -2,10 +2,10 @@
   "id": 1630188,
   "name": "Jalen Smith",
   "team": "CHI",
-  "rank": 179,
+  "rank": 180,
   "gp": 43,
   "ppg": 10.2,
-  "adjPpg": 10.1,
+  "adjPpg": 10.2,
   "pointsPlus": 81,
   "mpg": 20.2,
   "position": "F-C",
@@ -29,7 +29,7 @@
       "min": 17,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 129
+      "pointsPlus": 128
     },
     {
       "date": "2025-10-27",
@@ -64,7 +64,7 @@
       "result": "L",
       "min": 16,
       "pts": 12,
-      "adjPts": 12.3,
+      "adjPts": 12.4,
       "pointsPlus": 99
     },
     {
@@ -155,7 +155,7 @@
       "min": 19,
       "pts": 9,
       "adjPts": 8.4,
-      "pointsPlus": 68
+      "pointsPlus": 67
     },
     {
       "date": "2025-11-24",
@@ -164,7 +164,7 @@
       "min": 26,
       "pts": 13,
       "adjPts": 12.5,
-      "pointsPlus": 101
+      "pointsPlus": 100
     },
     {
       "date": "2025-11-28",
@@ -307,7 +307,7 @@
       "result": "W",
       "min": 17,
       "pts": 12,
-      "adjPts": 11.0,
+      "adjPts": 11.1,
       "pointsPlus": 89
     },
     {
@@ -335,7 +335,7 @@
       "min": 24,
       "pts": 10,
       "adjPts": 10.3,
-      "pointsPlus": 82
+      "pointsPlus": 83
     },
     {
       "date": "2026-01-22",
@@ -370,7 +370,7 @@
       "result": "L",
       "min": 28,
       "pts": 13,
-      "adjPts": 12.6,
+      "adjPts": 12.7,
       "pointsPlus": 102
     },
     {

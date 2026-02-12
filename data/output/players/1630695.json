@@ -2,16 +2,16 @@
   "id": 1630695,
   "name": "Micah Potter",
   "team": "IND",
-  "rank": 243,
-  "gp": 21,
-  "ppg": 7.0,
-  "adjPpg": 7.1,
-  "pointsPlus": 57,
-  "mpg": 18.1,
+  "rank": 232,
+  "gp": 22,
+  "ppg": 7.5,
+  "adjPpg": 7.7,
+  "pointsPlus": 62,
+  "mpg": 18.5,
   "position": "C",
   "jersey": "11",
-  "usgPct": 14.4,
-  "tsPct": 62.8,
+  "usgPct": 14.7,
+  "tsPct": 64.6,
   "gameLog": [
     {
       "date": "2025-12-26",
@@ -73,7 +73,7 @@
       "result": "L",
       "min": 17,
       "pts": 11,
-      "adjPts": 10.9,
+      "adjPts": 11.0,
       "pointsPlus": 88
     },
     {
@@ -201,6 +201,15 @@
       "pts": 10,
       "adjPts": 10.3,
       "pointsPlus": 83
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "IND @ BKN",
+      "result": "W",
+      "min": 27,
+      "pts": 19,
+      "adjPts": 19.1,
+      "pointsPlus": 153
     }
   ]
 }

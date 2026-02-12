@@ -2,16 +2,16 @@
   "id": 1630560,
   "name": "Cam Thomas",
   "team": "MIL",
-  "rank": 85,
-  "gp": 25,
-  "ppg": 15.2,
-  "adjPpg": 15.2,
-  "pointsPlus": 122,
-  "mpg": 23.8,
+  "rank": 82,
+  "gp": 26,
+  "ppg": 15.9,
+  "adjPpg": 16.0,
+  "pointsPlus": 128,
+  "mpg": 23.9,
   "position": "G",
   "jersey": "24",
-  "usgPct": 29.3,
-  "tsPct": 52.4,
+  "usgPct": 30.0,
+  "tsPct": 53.8,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -28,8 +28,8 @@
       "result": "L",
       "min": 34,
       "pts": 33,
-      "adjPts": 32.8,
-      "pointsPlus": 264
+      "adjPts": 32.9,
+      "pointsPlus": 263
     },
     {
       "date": "2025-10-26",
@@ -46,7 +46,7 @@
       "result": "L",
       "min": 25,
       "pts": 9,
-      "adjPts": 9.5,
+      "adjPts": 9.6,
       "pointsPlus": 77
     },
     {
@@ -55,7 +55,7 @@
       "result": "L",
       "min": 35,
       "pts": 19,
-      "adjPts": 18.4,
+      "adjPts": 18.5,
       "pointsPlus": 148
     },
     {
@@ -64,8 +64,8 @@
       "result": "L",
       "min": 35,
       "pts": 29,
-      "adjPts": 29.3,
-      "pointsPlus": 235
+      "adjPts": 29.2,
+      "pointsPlus": 234
     },
     {
       "date": "2025-11-03",
@@ -91,7 +91,7 @@
       "result": "W",
       "min": 20,
       "pts": 30,
-      "adjPts": 30.1,
+      "adjPts": 30.2,
       "pointsPlus": 242
     },
     {
@@ -181,7 +181,7 @@
       "result": "L",
       "min": 16,
       "pts": 5,
-      "adjPts": 5.1,
+      "adjPts": 5.2,
       "pointsPlus": 41
     },
     {
@@ -199,7 +199,7 @@
       "result": "L",
       "min": 25,
       "pts": 11,
-      "adjPts": 11.4,
+      "adjPts": 11.3,
       "pointsPlus": 91
     },
     {
@@ -208,7 +208,7 @@
       "result": "W",
       "min": 24,
       "pts": 21,
-      "adjPts": 19.3,
+      "adjPts": 19.4,
       "pointsPlus": 155
     },
     {
@@ -237,6 +237,15 @@
       "pts": 4,
       "adjPts": 4.0,
       "pointsPlus": 32
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "MIL @ ORL",
+      "result": "W",
+      "min": 25,
+      "pts": 34,
+      "adjPts": 34.0,
+      "pointsPlus": 273
     }
   ]
 }

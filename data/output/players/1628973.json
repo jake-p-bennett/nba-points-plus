@@ -2,15 +2,15 @@
   "id": 1628973,
   "name": "Jalen Brunson",
   "team": "NYK",
-  "rank": 10,
-  "gp": 49,
-  "ppg": 27.4,
-  "adjPpg": 27.3,
-  "pointsPlus": 219,
-  "mpg": 34.7,
+  "rank": 11,
+  "gp": 50,
+  "ppg": 27.0,
+  "adjPpg": 26.9,
+  "pointsPlus": 216,
+  "mpg": 34.6,
   "position": "G",
   "jersey": "11",
-  "usgPct": 30.5,
+  "usgPct": 30.2,
   "tsPct": 58.7,
   "gameLog": [
     {
@@ -46,8 +46,8 @@
       "result": "L",
       "min": 35,
       "pts": 36,
-      "adjPts": 35.9,
-      "pointsPlus": 288
+      "adjPts": 36.0,
+      "pointsPlus": 289
     },
     {
       "date": "2025-10-31",
@@ -65,7 +65,7 @@
       "min": 32,
       "pts": 31,
       "adjPts": 29.6,
-      "pointsPlus": 238
+      "pointsPlus": 237
     },
     {
       "date": "2025-11-03",
@@ -92,7 +92,7 @@
       "min": 29,
       "pts": 19,
       "adjPts": 19.1,
-      "pointsPlus": 154
+      "pointsPlus": 153
     },
     {
       "date": "2025-11-11",
@@ -109,7 +109,7 @@
       "result": "L",
       "min": 37,
       "pts": 31,
-      "adjPts": 31.1,
+      "adjPts": 31.0,
       "pointsPlus": 249
     },
     {
@@ -127,7 +127,7 @@
       "result": "L",
       "min": 37,
       "pts": 33,
-      "adjPts": 33.1,
+      "adjPts": 33.0,
       "pointsPlus": 265
     },
     {
@@ -154,7 +154,7 @@
       "result": "W",
       "min": 39,
       "pts": 37,
-      "adjPts": 36.9,
+      "adjPts": 37.0,
       "pointsPlus": 297
     },
     {
@@ -190,7 +190,7 @@
       "result": "W",
       "min": 31,
       "pts": 33,
-      "adjPts": 30.3,
+      "adjPts": 30.5,
       "pointsPlus": 244
     },
     {
@@ -199,7 +199,7 @@
       "result": "W",
       "min": 38,
       "pts": 30,
-      "adjPts": 30.1,
+      "adjPts": 30.0,
       "pointsPlus": 241
     },
     {
@@ -209,7 +209,7 @@
       "min": 39,
       "pts": 35,
       "adjPts": 36.1,
-      "pointsPlus": 290
+      "pointsPlus": 289
     },
     {
       "date": "2025-12-13",
@@ -218,7 +218,7 @@
       "min": 39,
       "pts": 40,
       "adjPts": 40.1,
-      "pointsPlus": 322
+      "pointsPlus": 321
     },
     {
       "date": "2025-12-18",
@@ -235,7 +235,7 @@
       "result": "L",
       "min": 37,
       "pts": 22,
-      "adjPts": 22.2,
+      "adjPts": 22.1,
       "pointsPlus": 178
     },
     {
@@ -253,8 +253,8 @@
       "result": "W",
       "min": 39,
       "pts": 34,
-      "adjPts": 33.8,
-      "pointsPlus": 272
+      "adjPts": 33.9,
+      "pointsPlus": 271
     },
     {
       "date": "2025-12-27",
@@ -272,7 +272,7 @@
       "min": 36,
       "pts": 28,
       "adjPts": 27.0,
-      "pointsPlus": 217
+      "pointsPlus": 216
     },
     {
       "date": "2025-12-31",
@@ -298,8 +298,8 @@
       "result": "L",
       "min": 35,
       "pts": 31,
-      "adjPts": 31.3,
-      "pointsPlus": 251
+      "adjPts": 31.2,
+      "pointsPlus": 250
     },
     {
       "date": "2026-01-05",
@@ -316,8 +316,8 @@
       "result": "W",
       "min": 33,
       "pts": 26,
-      "adjPts": 26.7,
-      "pointsPlus": 214
+      "adjPts": 26.8,
+      "pointsPlus": 215
     },
     {
       "date": "2026-01-09",
@@ -325,8 +325,8 @@
       "result": "L",
       "min": 37,
       "pts": 27,
-      "adjPts": 27.9,
-      "pointsPlus": 224
+      "adjPts": 27.8,
+      "pointsPlus": 223
     },
     {
       "date": "2026-01-11",
@@ -334,8 +334,8 @@
       "result": "W",
       "min": 37,
       "pts": 26,
-      "adjPts": 25.4,
-      "pointsPlus": 204
+      "adjPts": 25.3,
+      "pointsPlus": 203
     },
     {
       "date": "2026-01-14",
@@ -353,7 +353,7 @@
       "min": 34,
       "pts": 22,
       "adjPts": 21.8,
-      "pointsPlus": 175
+      "pointsPlus": 174
     },
     {
       "date": "2026-01-21",
@@ -362,7 +362,7 @@
       "min": 31,
       "pts": 20,
       "adjPts": 20.1,
-      "pointsPlus": 162
+      "pointsPlus": 161
     },
     {
       "date": "2026-01-24",
@@ -370,8 +370,8 @@
       "result": "W",
       "min": 38,
       "pts": 31,
-      "adjPts": 31.3,
-      "pointsPlus": 251
+      "adjPts": 31.2,
+      "pointsPlus": 250
     },
     {
       "date": "2026-01-27",
@@ -397,8 +397,8 @@
       "result": "W",
       "min": 34,
       "pts": 26,
-      "adjPts": 25.4,
-      "pointsPlus": 204
+      "adjPts": 25.3,
+      "pointsPlus": 203
     },
     {
       "date": "2026-02-01",
@@ -415,8 +415,8 @@
       "result": "W",
       "min": 31,
       "pts": 21,
-      "adjPts": 19.7,
-      "pointsPlus": 158
+      "adjPts": 19.6,
+      "pointsPlus": 157
     },
     {
       "date": "2026-02-04",
@@ -424,8 +424,8 @@
       "result": "W",
       "min": 47,
       "pts": 42,
-      "adjPts": 42.0,
-      "pointsPlus": 337
+      "adjPts": 41.9,
+      "pointsPlus": 336
     },
     {
       "date": "2026-02-06",
@@ -453,6 +453,15 @@
       "pts": 40,
       "adjPts": 38.9,
       "pointsPlus": 312
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "NYK @ PHI",
+      "result": "W",
+      "min": 30,
+      "pts": 8,
+      "adjPts": 8.1,
+      "pointsPlus": 65
     }
   ]
 }

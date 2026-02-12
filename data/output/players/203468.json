@@ -2,16 +2,16 @@
   "id": 203468,
   "name": "CJ McCollum",
   "team": "ATL",
-  "rank": 51,
-  "gp": 50,
+  "rank": 50,
+  "gp": 51,
   "ppg": 18.8,
   "adjPpg": 18.9,
-  "pointsPlus": 152,
+  "pointsPlus": 151,
   "mpg": 30.1,
   "position": "G",
   "jersey": "3",
-  "usgPct": 24.4,
-  "tsPct": 57.0,
+  "usgPct": 24.5,
+  "tsPct": 56.7,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -38,7 +38,7 @@
       "min": 30,
       "pts": 24,
       "adjPts": 24.4,
-      "pointsPlus": 196
+      "pointsPlus": 195
     },
     {
       "date": "2025-10-28",
@@ -65,7 +65,7 @@
       "min": 22,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-11-03",
@@ -73,7 +73,7 @@
       "result": "L",
       "min": 22,
       "pts": 5,
-      "adjPts": 5.1,
+      "adjPts": 5.2,
       "pointsPlus": 41
     },
     {
@@ -109,8 +109,8 @@
       "result": "L",
       "min": 43,
       "pts": 42,
-      "adjPts": 44.3,
-      "pointsPlus": 355
+      "adjPts": 44.4,
+      "pointsPlus": 356
     },
     {
       "date": "2025-11-12",
@@ -146,7 +146,7 @@
       "min": 26,
       "pts": 20,
       "adjPts": 20.6,
-      "pointsPlus": 166
+      "pointsPlus": 165
     },
     {
       "date": "2025-11-22",
@@ -245,7 +245,7 @@
       "min": 39,
       "pts": 28,
       "adjPts": 27.5,
-      "pointsPlus": 221
+      "pointsPlus": 220
     },
     {
       "date": "2025-12-21",
@@ -289,8 +289,8 @@
       "result": "L",
       "min": 28,
       "pts": 17,
-      "adjPts": 17.6,
-      "pointsPlus": 141
+      "adjPts": 17.5,
+      "pointsPlus": 140
     },
     {
       "date": "2025-12-31",
@@ -353,7 +353,7 @@
       "min": 29,
       "pts": 20,
       "adjPts": 19.5,
-      "pointsPlus": 157
+      "pointsPlus": 156
     },
     {
       "date": "2026-01-17",
@@ -388,8 +388,8 @@
       "result": "W",
       "min": 29,
       "pts": 21,
-      "adjPts": 21.7,
-      "pointsPlus": 174
+      "adjPts": 21.6,
+      "pointsPlus": 173
     },
     {
       "date": "2026-01-26",
@@ -406,7 +406,7 @@
       "result": "W",
       "min": 29,
       "pts": 13,
-      "adjPts": 13.8,
+      "adjPts": 13.9,
       "pointsPlus": 111
     },
     {
@@ -462,6 +462,15 @@
       "pts": 38,
       "adjPts": 38.2,
       "pointsPlus": 306
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "ATL @ CHA",
+      "result": "L",
+      "min": 32,
+      "pts": 17,
+      "adjPts": 17.3,
+      "pointsPlus": 138
     }
   ]
 }

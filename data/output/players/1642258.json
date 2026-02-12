@@ -2,16 +2,16 @@
   "id": 1642258,
   "name": "Zaccharie Risacher",
   "team": "ATL",
-  "rank": 164,
-  "gp": 41,
-  "ppg": 10.7,
-  "adjPpg": 10.7,
-  "pointsPlus": 86,
+  "rank": 167,
+  "gp": 42,
+  "ppg": 10.5,
+  "adjPpg": 10.5,
+  "pointsPlus": 84,
   "mpg": 24.2,
   "position": "F",
   "jersey": "10",
-  "usgPct": 17.7,
-  "tsPct": 54.5,
+  "usgPct": 17.6,
+  "tsPct": 54.2,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -46,7 +46,7 @@
       "result": "W",
       "min": 23,
       "pts": 13,
-      "adjPts": 12.6,
+      "adjPts": 12.7,
       "pointsPlus": 102
     },
     {
@@ -109,7 +109,7 @@
       "result": "W",
       "min": 19,
       "pts": 11,
-      "adjPts": 10.1,
+      "adjPts": 10.2,
       "pointsPlus": 81
     },
     {
@@ -118,7 +118,7 @@
       "result": "W",
       "min": 26,
       "pts": 15,
-      "adjPts": 15.5,
+      "adjPts": 15.4,
       "pointsPlus": 124
     },
     {
@@ -155,7 +155,7 @@
       "min": 30,
       "pts": 17,
       "adjPts": 15.9,
-      "pointsPlus": 128
+      "pointsPlus": 127
     },
     {
       "date": "2025-11-28",
@@ -208,8 +208,8 @@
       "result": "W",
       "min": 19,
       "pts": 7,
-      "adjPts": 6.6,
-      "pointsPlus": 53
+      "adjPts": 6.5,
+      "pointsPlus": 52
     },
     {
       "date": "2025-12-12",
@@ -217,7 +217,7 @@
       "result": "L",
       "min": 27,
       "pts": 10,
-      "adjPts": 10.5,
+      "adjPts": 10.6,
       "pointsPlus": 85
     },
     {
@@ -227,7 +227,7 @@
       "min": 21,
       "pts": 15,
       "adjPts": 15.1,
-      "pointsPlus": 122
+      "pointsPlus": 121
     },
     {
       "date": "2025-12-18",
@@ -262,7 +262,7 @@
       "result": "L",
       "min": 21,
       "pts": 10,
-      "adjPts": 9.6,
+      "adjPts": 9.5,
       "pointsPlus": 77
     },
     {
@@ -307,7 +307,7 @@
       "result": "W",
       "min": 22,
       "pts": 12,
-      "adjPts": 12.3,
+      "adjPts": 12.4,
       "pointsPlus": 99
     },
     {
@@ -381,6 +381,15 @@
       "pts": 3,
       "adjPts": 3.0,
       "pointsPlus": 24
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "ATL @ CHA",
+      "result": "L",
+      "min": 23,
+      "pts": 5,
+      "adjPts": 5.1,
+      "pointsPlus": 41
     }
   ]
 }

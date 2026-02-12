@@ -2,7 +2,7 @@
   "id": 1630200,
   "name": "Tre Jones",
   "team": "CHI",
-  "rank": 135,
+  "rank": 134,
   "gp": 38,
   "ppg": 12.4,
   "adjPpg": 12.4,
@@ -29,7 +29,7 @@
       "min": 29,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-10-27",
@@ -55,7 +55,7 @@
       "result": "W",
       "min": 24,
       "pts": 8,
-      "adjPts": 8.2,
+      "adjPts": 8.3,
       "pointsPlus": 66
     },
     {
@@ -64,7 +64,7 @@
       "result": "L",
       "min": 34,
       "pts": 15,
-      "adjPts": 15.4,
+      "adjPts": 15.5,
       "pointsPlus": 124
     },
     {
@@ -154,7 +154,7 @@
       "result": "L",
       "min": 29,
       "pts": 17,
-      "adjPts": 16.5,
+      "adjPts": 16.6,
       "pointsPlus": 133
     },
     {
@@ -190,7 +190,7 @@
       "result": "W",
       "min": 24,
       "pts": 11,
-      "adjPts": 10.9,
+      "adjPts": 11.0,
       "pointsPlus": 88
     },
     {
@@ -227,7 +227,7 @@
       "min": 24,
       "pts": 15,
       "adjPts": 15.1,
-      "pointsPlus": 122
+      "pointsPlus": 121
     },
     {
       "date": "2025-12-27",
@@ -254,7 +254,7 @@
       "min": 27,
       "pts": 20,
       "adjPts": 19.3,
-      "pointsPlus": 155
+      "pointsPlus": 154
     },
     {
       "date": "2026-01-02",
@@ -271,7 +271,7 @@
       "result": "L",
       "min": 28,
       "pts": 10,
-      "adjPts": 10.1,
+      "adjPts": 10.2,
       "pointsPlus": 81
     },
     {
@@ -308,7 +308,7 @@
       "min": 27,
       "pts": 34,
       "adjPts": 36.1,
-      "pointsPlus": 290
+      "pointsPlus": 289
     },
     {
       "date": "2026-01-14",
@@ -316,7 +316,7 @@
       "result": "W",
       "min": 26,
       "pts": 7,
-      "adjPts": 6.4,
+      "adjPts": 6.5,
       "pointsPlus": 52
     },
     {

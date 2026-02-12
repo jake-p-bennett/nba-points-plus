@@ -2,16 +2,16 @@
   "id": 1626220,
   "name": "Royce O'Neale",
   "team": "PHX",
-  "rank": 175,
-  "gp": 54,
+  "rank": 173,
+  "gp": 55,
   "ppg": 10.3,
   "adjPpg": 10.3,
   "pointsPlus": 83,
-  "mpg": 29.4,
+  "mpg": 29.3,
   "position": "F",
   "jersey": "0",
-  "usgPct": 14.3,
-  "tsPct": 59.5,
+  "usgPct": 14.4,
+  "tsPct": 59.4,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -46,8 +46,8 @@
       "result": "L",
       "min": 46,
       "pts": 17,
-      "adjPts": 15.6,
-      "pointsPlus": 125
+      "adjPts": 15.7,
+      "pointsPlus": 126
     },
     {
       "date": "2025-10-29",
@@ -55,7 +55,7 @@
       "result": "L",
       "min": 35,
       "pts": 18,
-      "adjPts": 17.7,
+      "adjPts": 17.6,
       "pointsPlus": 142
     },
     {
@@ -146,7 +146,7 @@
       "min": 31,
       "pts": 9,
       "adjPts": 8.8,
-      "pointsPlus": 71
+      "pointsPlus": 70
     },
     {
       "date": "2025-11-21",
@@ -209,7 +209,7 @@
       "min": 33,
       "pts": 6,
       "adjPts": 5.9,
-      "pointsPlus": 48
+      "pointsPlus": 47
     },
     {
       "date": "2025-12-05",
@@ -289,7 +289,7 @@
       "result": "W",
       "min": 33,
       "pts": 15,
-      "adjPts": 14.5,
+      "adjPts": 14.4,
       "pointsPlus": 116
     },
     {
@@ -298,8 +298,8 @@
       "result": "W",
       "min": 33,
       "pts": 15,
-      "adjPts": 14.1,
-      "pointsPlus": 113
+      "adjPts": 14.0,
+      "pointsPlus": 112
     },
     {
       "date": "2025-12-31",
@@ -344,7 +344,7 @@
       "min": 27,
       "pts": 12,
       "adjPts": 11.8,
-      "pointsPlus": 95
+      "pointsPlus": 94
     },
     {
       "date": "2026-01-09",
@@ -352,7 +352,7 @@
       "result": "W",
       "min": 33,
       "pts": 12,
-      "adjPts": 12.3,
+      "adjPts": 12.4,
       "pointsPlus": 99
     },
     {
@@ -362,7 +362,7 @@
       "min": 25,
       "pts": 19,
       "adjPts": 17.8,
-      "pointsPlus": 143
+      "pointsPlus": 142
     },
     {
       "date": "2026-01-13",
@@ -370,7 +370,7 @@
       "result": "L",
       "min": 32,
       "pts": 8,
-      "adjPts": 7.8,
+      "adjPts": 7.9,
       "pointsPlus": 63
     },
     {
@@ -424,7 +424,7 @@
       "result": "L",
       "min": 31,
       "pts": 8,
-      "adjPts": 7.8,
+      "adjPts": 7.9,
       "pointsPlus": 63
     },
     {
@@ -442,7 +442,7 @@
       "result": "W",
       "min": 28,
       "pts": 10,
-      "adjPts": 10.5,
+      "adjPts": 10.6,
       "pointsPlus": 85
     },
     {
@@ -460,7 +460,7 @@
       "result": "L",
       "min": 34,
       "pts": 9,
-      "adjPts": 9.2,
+      "adjPts": 9.3,
       "pointsPlus": 74
     },
     {
@@ -498,6 +498,15 @@
       "pts": 12,
       "adjPts": 11.9,
       "pointsPlus": 95
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "PHX vs. OKC",
+      "result": "L",
+      "min": 24,
+      "pts": 12,
+      "adjPts": 12.9,
+      "pointsPlus": 103
     }
   ]
 }

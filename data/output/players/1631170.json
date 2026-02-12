@@ -3,15 +3,15 @@
   "name": "Jaime Jaquez Jr.",
   "team": "MIA",
   "rank": 89,
-  "gp": 50,
-  "ppg": 15.1,
-  "adjPpg": 15.1,
-  "pointsPlus": 121,
-  "mpg": 28.8,
+  "gp": 51,
+  "ppg": 15.2,
+  "adjPpg": 15.2,
+  "pointsPlus": 122,
+  "mpg": 28.9,
   "position": "G",
   "jersey": "11",
-  "usgPct": 21.4,
-  "tsPct": 56.3,
+  "usgPct": 21.6,
+  "tsPct": 56.0,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -20,7 +20,7 @@
       "min": 30,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-10-24",
@@ -38,7 +38,7 @@
       "min": 27,
       "pts": 17,
       "adjPts": 17.5,
-      "pointsPlus": 140
+      "pointsPlus": 141
     },
     {
       "date": "2025-10-28",
@@ -65,7 +65,7 @@
       "min": 35,
       "pts": 31,
       "adjPts": 30.6,
-      "pointsPlus": 246
+      "pointsPlus": 245
     },
     {
       "date": "2025-11-03",
@@ -74,7 +74,7 @@
       "min": 26,
       "pts": 6,
       "adjPts": 6.2,
-      "pointsPlus": 49
+      "pointsPlus": 50
     },
     {
       "date": "2025-11-05",
@@ -100,8 +100,8 @@
       "result": "W",
       "min": 29,
       "pts": 14,
-      "adjPts": 13.7,
-      "pointsPlus": 110
+      "adjPts": 13.6,
+      "pointsPlus": 109
     },
     {
       "date": "2025-11-10",
@@ -118,7 +118,7 @@
       "result": "L",
       "min": 30,
       "pts": 11,
-      "adjPts": 10.9,
+      "adjPts": 11.0,
       "pointsPlus": 88
     },
     {
@@ -127,7 +127,7 @@
       "result": "L",
       "min": 34,
       "pts": 23,
-      "adjPts": 23.6,
+      "adjPts": 23.7,
       "pointsPlus": 190
     },
     {
@@ -137,7 +137,7 @@
       "min": 32,
       "pts": 13,
       "adjPts": 13.4,
-      "pointsPlus": 107
+      "pointsPlus": 108
     },
     {
       "date": "2025-11-19",
@@ -154,7 +154,7 @@
       "result": "W",
       "min": 24,
       "pts": 10,
-      "adjPts": 9.6,
+      "adjPts": 9.5,
       "pointsPlus": 77
     },
     {
@@ -163,7 +163,7 @@
       "result": "W",
       "min": 33,
       "pts": 22,
-      "adjPts": 22.2,
+      "adjPts": 22.1,
       "pointsPlus": 178
     },
     {
@@ -209,7 +209,7 @@
       "min": 33,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 129
+      "pointsPlus": 128
     },
     {
       "date": "2025-12-06",
@@ -245,7 +245,7 @@
       "min": 29,
       "pts": 19,
       "adjPts": 19.1,
-      "pointsPlus": 154
+      "pointsPlus": 153
     },
     {
       "date": "2025-12-19",
@@ -262,7 +262,7 @@
       "result": "L",
       "min": 34,
       "pts": 23,
-      "adjPts": 23.6,
+      "adjPts": 23.7,
       "pointsPlus": 190
     },
     {
@@ -289,7 +289,7 @@
       "result": "W",
       "min": 29,
       "pts": 28,
-      "adjPts": 27.2,
+      "adjPts": 27.3,
       "pointsPlus": 219
     },
     {
@@ -307,7 +307,7 @@
       "result": "W",
       "min": 30,
       "pts": 19,
-      "adjPts": 20.0,
+      "adjPts": 20.1,
       "pointsPlus": 161
     },
     {
@@ -344,7 +344,7 @@
       "min": 31,
       "pts": 16,
       "adjPts": 16.5,
-      "pointsPlus": 133
+      "pointsPlus": 132
     },
     {
       "date": "2026-01-19",
@@ -352,8 +352,8 @@
       "result": "L",
       "min": 26,
       "pts": 10,
-      "adjPts": 10.2,
-      "pointsPlus": 82
+      "adjPts": 10.1,
+      "pointsPlus": 81
     },
     {
       "date": "2026-01-20",
@@ -380,7 +380,7 @@
       "min": 28,
       "pts": 9,
       "adjPts": 8.3,
-      "pointsPlus": 66
+      "pointsPlus": 67
     },
     {
       "date": "2026-01-25",
@@ -388,8 +388,8 @@
       "result": "W",
       "min": 36,
       "pts": 20,
-      "adjPts": 20.7,
-      "pointsPlus": 166
+      "adjPts": 20.6,
+      "pointsPlus": 165
     },
     {
       "date": "2026-01-28",
@@ -398,7 +398,7 @@
       "min": 28,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2026-01-29",
@@ -407,7 +407,7 @@
       "min": 32,
       "pts": 19,
       "adjPts": 18.1,
-      "pointsPlus": 146
+      "pointsPlus": 145
     },
     {
       "date": "2026-01-31",
@@ -461,7 +461,16 @@
       "min": 31,
       "pts": 9,
       "adjPts": 8.3,
-      "pointsPlus": 66
+      "pointsPlus": 67
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "MIA @ NOP",
+      "result": "W",
+      "min": 35,
+      "pts": 23,
+      "adjPts": 22.1,
+      "pointsPlus": 178
     }
   ]
 }

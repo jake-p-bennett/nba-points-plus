@@ -2,16 +2,16 @@
   "id": 1631121,
   "name": "Bryce McGowens",
   "team": "NOP",
-  "rank": 231,
-  "gp": 31,
-  "ppg": 7.7,
-  "adjPpg": 7.7,
-  "pointsPlus": 62,
+  "rank": 230,
+  "gp": 32,
+  "ppg": 7.9,
+  "adjPpg": 7.8,
+  "pointsPlus": 63,
   "mpg": 19.9,
   "position": "G",
   "jersey": "11",
-  "usgPct": 14.1,
-  "tsPct": 61.1,
+  "usgPct": 14.2,
+  "tsPct": 61.5,
   "gameLog": [
     {
       "date": "2025-10-27",
@@ -154,7 +154,7 @@
       "result": "W",
       "min": 30,
       "pts": 23,
-      "adjPts": 22.5,
+      "adjPts": 22.4,
       "pointsPlus": 180
     },
     {
@@ -290,7 +290,16 @@
       "min": 24,
       "pts": 8,
       "adjPts": 7.7,
-      "pointsPlus": 62
+      "pointsPlus": 61
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "NOP vs. MIA",
+      "result": "L",
+      "min": 21,
+      "pts": 12,
+      "adjPts": 11.8,
+      "pointsPlus": 94
     }
   ]
 }

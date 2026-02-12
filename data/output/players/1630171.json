@@ -2,7 +2,7 @@
   "id": 1630171,
   "name": "Isaac Okoro",
   "team": "CHI",
-  "rank": 202,
+  "rank": 203,
   "gp": 46,
   "ppg": 8.9,
   "adjPpg": 8.8,
@@ -73,8 +73,8 @@
       "result": "W",
       "min": 33,
       "pts": 16,
-      "adjPts": 16.2,
-      "pointsPlus": 130
+      "adjPts": 16.1,
+      "pointsPlus": 129
     },
     {
       "date": "2025-11-07",
@@ -109,7 +109,7 @@
       "result": "L",
       "min": 32,
       "pts": 15,
-      "adjPts": 15.8,
+      "adjPts": 15.9,
       "pointsPlus": 127
     },
     {
@@ -236,7 +236,7 @@
       "min": 36,
       "pts": 24,
       "adjPts": 23.1,
-      "pointsPlus": 186
+      "pointsPlus": 185
     },
     {
       "date": "2026-01-02",
@@ -289,7 +289,7 @@
       "result": "L",
       "min": 25,
       "pts": 9,
-      "adjPts": 9.5,
+      "adjPts": 9.6,
       "pointsPlus": 77
     },
     {
@@ -298,7 +298,7 @@
       "result": "W",
       "min": 34,
       "pts": 12,
-      "adjPts": 11.0,
+      "adjPts": 11.1,
       "pointsPlus": 89
     },
     {
@@ -326,7 +326,7 @@
       "min": 15,
       "pts": 2,
       "adjPts": 2.1,
-      "pointsPlus": 16
+      "pointsPlus": 17
     },
     {
       "date": "2026-01-22",
@@ -334,7 +334,7 @@
       "result": "W",
       "min": 26,
       "pts": 10,
-      "adjPts": 10.0,
+      "adjPts": 10.1,
       "pointsPlus": 81
     },
     {
@@ -370,7 +370,7 @@
       "result": "L",
       "min": 26,
       "pts": 8,
-      "adjPts": 7.8,
+      "adjPts": 7.9,
       "pointsPlus": 63
     },
     {

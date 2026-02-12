@@ -2,7 +2,7 @@
   "id": 1629048,
   "name": "Goga Bitadze",
   "team": "ORL",
-  "rank": 280,
+  "rank": 281,
   "gp": 42,
   "ppg": 5.9,
   "adjPpg": 5.8,
@@ -19,7 +19,7 @@
       "result": "W",
       "min": 19,
       "pts": 8,
-      "adjPts": 7.8,
+      "adjPts": 7.9,
       "pointsPlus": 63
     },
     {
@@ -47,7 +47,7 @@
       "min": 14,
       "pts": 5,
       "adjPts": 5.0,
-      "pointsPlus": 41
+      "pointsPlus": 40
     },
     {
       "date": "2025-10-29",
@@ -55,7 +55,7 @@
       "result": "L",
       "min": 27,
       "pts": 10,
-      "adjPts": 10.5,
+      "adjPts": 10.6,
       "pointsPlus": 85
     },
     {
@@ -73,8 +73,8 @@
       "result": "W",
       "min": 20,
       "pts": 15,
-      "adjPts": 14.1,
-      "pointsPlus": 113
+      "adjPts": 14.0,
+      "pointsPlus": 112
     },
     {
       "date": "2025-11-04",
@@ -155,7 +155,7 @@
       "min": 16,
       "pts": 10,
       "adjPts": 10.3,
-      "pointsPlus": 82
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-22",
@@ -208,7 +208,7 @@
       "result": "W",
       "min": 20,
       "pts": 8,
-      "adjPts": 7.8,
+      "adjPts": 7.9,
       "pointsPlus": 63
     },
     {

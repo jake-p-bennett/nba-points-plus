@@ -2,16 +2,16 @@
   "id": 1629057,
   "name": "Robert Williams III",
   "team": "POR",
-  "rank": 262,
-  "gp": 37,
-  "ppg": 6.5,
-  "adjPpg": 6.6,
-  "pointsPlus": 53,
-  "mpg": 16.4,
+  "rank": 264,
+  "gp": 38,
+  "ppg": 6.4,
+  "adjPpg": 6.5,
+  "pointsPlus": 52,
+  "mpg": 16.3,
   "position": "C-F",
   "jersey": "35",
   "usgPct": 12.1,
-  "tsPct": 78.2,
+  "tsPct": 77.9,
   "gameLog": [
     {
       "date": "2025-10-31",
@@ -29,7 +29,7 @@
       "min": 15,
       "pts": 6,
       "adjPts": 5.9,
-      "pointsPlus": 48
+      "pointsPlus": 47
     },
     {
       "date": "2025-11-05",
@@ -145,7 +145,7 @@
       "result": "L",
       "min": 30,
       "pts": 8,
-      "adjPts": 8.4,
+      "adjPts": 8.5,
       "pointsPlus": 68
     },
     {
@@ -155,7 +155,7 @@
       "min": 19,
       "pts": 11,
       "adjPts": 11.2,
-      "pointsPlus": 90
+      "pointsPlus": 89
     },
     {
       "date": "2025-12-18",
@@ -181,7 +181,7 @@
       "result": "L",
       "min": 14,
       "pts": 8,
-      "adjPts": 8.4,
+      "adjPts": 8.5,
       "pointsPlus": 68
     },
     {
@@ -253,7 +253,7 @@
       "result": "L",
       "min": 16,
       "pts": 12,
-      "adjPts": 12.3,
+      "adjPts": 12.4,
       "pointsPlus": 99
     },
     {
@@ -263,7 +263,7 @@
       "min": 16,
       "pts": 11,
       "adjPts": 11.2,
-      "pointsPlus": 90
+      "pointsPlus": 89
     },
     {
       "date": "2026-01-15",
@@ -325,7 +325,7 @@
       "result": "L",
       "min": 19,
       "pts": 14,
-      "adjPts": 14.5,
+      "adjPts": 14.4,
       "pointsPlus": 116
     },
     {
@@ -334,7 +334,7 @@
       "result": "W",
       "min": 19,
       "pts": 13,
-      "adjPts": 12.8,
+      "adjPts": 12.7,
       "pointsPlus": 102
     },
     {
@@ -345,6 +345,15 @@
       "pts": 8,
       "adjPts": 8.1,
       "pointsPlus": 65
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "POR @ MIN",
+      "result": "L",
+      "min": 12,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 40
     }
   ]
 }

@@ -2,16 +2,16 @@
   "id": 1628971,
   "name": "Bruce Brown",
   "team": "DEN",
-  "rank": 237,
-  "gp": 54,
+  "rank": 238,
+  "gp": 55,
   "ppg": 7.5,
-  "adjPpg": 7.4,
+  "adjPpg": 7.5,
   "pointsPlus": 60,
-  "mpg": 24.8,
+  "mpg": 24.9,
   "position": "G-F",
   "jersey": "11",
-  "usgPct": 13.7,
-  "tsPct": 53.8,
+  "usgPct": 13.6,
+  "tsPct": 54.3,
   "gameLog": [
     {
       "date": "2025-10-23",
@@ -28,7 +28,7 @@
       "result": "W",
       "min": 22,
       "pts": 11,
-      "adjPts": 11.4,
+      "adjPts": 11.3,
       "pointsPlus": 91
     },
     {
@@ -110,7 +110,7 @@
       "min": 28,
       "pts": 2,
       "adjPts": 2.1,
-      "pointsPlus": 16
+      "pointsPlus": 17
     },
     {
       "date": "2025-11-15",
@@ -227,7 +227,7 @@
       "min": 26,
       "pts": 8,
       "adjPts": 7.7,
-      "pointsPlus": 62
+      "pointsPlus": 61
     },
     {
       "date": "2025-12-15",
@@ -334,8 +334,8 @@
       "result": "W",
       "min": 39,
       "pts": 19,
-      "adjPts": 19.2,
-      "pointsPlus": 154
+      "adjPts": 19.1,
+      "pointsPlus": 153
     },
     {
       "date": "2026-01-07",
@@ -434,7 +434,7 @@
       "min": 23,
       "pts": 16,
       "adjPts": 16.9,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2026-01-29",
@@ -452,7 +452,7 @@
       "min": 26,
       "pts": 6,
       "adjPts": 6.2,
-      "pointsPlus": 49
+      "pointsPlus": 50
     },
     {
       "date": "2026-02-01",
@@ -469,7 +469,7 @@
       "result": "L",
       "min": 23,
       "pts": 10,
-      "adjPts": 10.5,
+      "adjPts": 10.6,
       "pointsPlus": 85
     },
     {
@@ -487,7 +487,7 @@
       "result": "W",
       "min": 31,
       "pts": 10,
-      "adjPts": 9.6,
+      "adjPts": 9.5,
       "pointsPlus": 77
     },
     {
@@ -498,6 +498,15 @@
       "pts": 1,
       "adjPts": 1.0,
       "pointsPlus": 8
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "DEN vs. MEM",
+      "result": "W",
+      "min": 29,
+      "pts": 10,
+      "adjPts": 9.8,
+      "pointsPlus": 79
     }
   ]
 }

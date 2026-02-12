@@ -2,15 +2,15 @@
   "id": 1626167,
   "name": "Myles Turner",
   "team": "MIL",
-  "rank": 128,
-  "gp": 49,
-  "ppg": 12.9,
-  "adjPpg": 12.8,
-  "pointsPlus": 103,
-  "mpg": 28.4,
+  "rank": 130,
+  "gp": 50,
+  "ppg": 12.7,
+  "adjPpg": 12.7,
+  "pointsPlus": 102,
+  "mpg": 28.5,
   "position": "C-F",
   "jersey": "3",
-  "usgPct": 18.4,
+  "usgPct": 18.1,
   "tsPct": 58.6,
   "gameLog": [
     {
@@ -20,7 +20,7 @@
       "min": 29,
       "pts": 11,
       "adjPts": 10.3,
-      "pointsPlus": 83
+      "pointsPlus": 82
     },
     {
       "date": "2025-10-24",
@@ -46,7 +46,7 @@
       "result": "W",
       "min": 30,
       "pts": 5,
-      "adjPts": 5.1,
+      "adjPts": 5.2,
       "pointsPlus": 41
     },
     {
@@ -55,8 +55,8 @@
       "result": "W",
       "min": 29,
       "pts": 17,
-      "adjPts": 17.3,
-      "pointsPlus": 139
+      "adjPts": 17.2,
+      "pointsPlus": 138
     },
     {
       "date": "2025-11-01",
@@ -91,7 +91,7 @@
       "result": "W",
       "min": 31,
       "pts": 23,
-      "adjPts": 22.0,
+      "adjPts": 21.9,
       "pointsPlus": 176
     },
     {
@@ -181,7 +181,7 @@
       "result": "L",
       "min": 31,
       "pts": 24,
-      "adjPts": 23.5,
+      "adjPts": 23.6,
       "pointsPlus": 189
     },
     {
@@ -209,7 +209,7 @@
       "min": 26,
       "pts": 9,
       "adjPts": 8.4,
-      "pointsPlus": 68
+      "pointsPlus": 67
     },
     {
       "date": "2025-12-03",
@@ -226,8 +226,8 @@
       "result": "L",
       "min": 23,
       "pts": 19,
-      "adjPts": 19.2,
-      "pointsPlus": 154
+      "adjPts": 19.1,
+      "pointsPlus": 153
     },
     {
       "date": "2025-12-06",
@@ -289,7 +289,7 @@
       "result": "L",
       "min": 28,
       "pts": 8,
-      "adjPts": 7.9,
+      "adjPts": 7.8,
       "pointsPlus": 63
     },
     {
@@ -299,7 +299,7 @@
       "min": 27,
       "pts": 13,
       "adjPts": 12.4,
-      "pointsPlus": 100
+      "pointsPlus": 99
     },
     {
       "date": "2025-12-29",
@@ -307,7 +307,7 @@
       "result": "W",
       "min": 31,
       "pts": 23,
-      "adjPts": 23.3,
+      "adjPts": 23.4,
       "pointsPlus": 187
     },
     {
@@ -317,7 +317,7 @@
       "min": 31,
       "pts": 13,
       "adjPts": 12.2,
-      "pointsPlus": 98
+      "pointsPlus": 97
     },
     {
       "date": "2026-01-02",
@@ -397,8 +397,8 @@
       "result": "L",
       "min": 35,
       "pts": 31,
-      "adjPts": 31.3,
-      "pointsPlus": 251
+      "adjPts": 31.2,
+      "pointsPlus": 250
     },
     {
       "date": "2026-01-29",
@@ -406,8 +406,8 @@
       "result": "L",
       "min": 39,
       "pts": 21,
-      "adjPts": 19.7,
-      "pointsPlus": 158
+      "adjPts": 19.6,
+      "pointsPlus": 157
     },
     {
       "date": "2026-02-01",
@@ -452,7 +452,16 @@
       "min": 27,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "MIL @ ORL",
+      "result": "W",
+      "min": 31,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 40
     }
   ]
 }

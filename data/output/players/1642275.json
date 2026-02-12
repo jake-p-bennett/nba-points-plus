@@ -2,16 +2,16 @@
   "id": 1642275,
   "name": "Tidjane Sala\u00fcn",
   "team": "CHA",
-  "rank": 268,
-  "gp": 31,
-  "ppg": 6.4,
-  "adjPpg": 6.4,
-  "pointsPlus": 51,
-  "mpg": 16.1,
+  "rank": 270,
+  "gp": 32,
+  "ppg": 6.3,
+  "adjPpg": 6.3,
+  "pointsPlus": 50,
+  "mpg": 16.0,
   "position": "F",
   "jersey": "31",
-  "usgPct": 14.7,
-  "tsPct": 64.2,
+  "usgPct": 14.5,
+  "tsPct": 64.0,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -92,7 +92,7 @@
       "min": 23,
       "pts": 13,
       "adjPts": 13.4,
-      "pointsPlus": 107
+      "pointsPlus": 108
     },
     {
       "date": "2025-12-05",
@@ -145,7 +145,7 @@
       "result": "L",
       "min": 18,
       "pts": 8,
-      "adjPts": 8.4,
+      "adjPts": 8.5,
       "pointsPlus": 68
     },
     {
@@ -164,7 +164,7 @@
       "min": 22,
       "pts": 11,
       "adjPts": 10.3,
-      "pointsPlus": 83
+      "pointsPlus": 82
     },
     {
       "date": "2025-12-26",
@@ -173,7 +173,7 @@
       "min": 22,
       "pts": 14,
       "adjPts": 14.0,
-      "pointsPlus": 113
+      "pointsPlus": 112
     },
     {
       "date": "2025-12-29",
@@ -272,7 +272,7 @@
       "min": 18,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2026-01-26",
@@ -280,7 +280,7 @@
       "result": "W",
       "min": 12,
       "pts": 7,
-      "adjPts": 7.1,
+      "adjPts": 7.0,
       "pointsPlus": 57
     },
     {
@@ -291,6 +291,15 @@
       "pts": 2,
       "adjPts": 2.0,
       "pointsPlus": 16
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "CHA vs. ATL",
+      "result": "W",
+      "min": 15,
+      "pts": 3,
+      "adjPts": 2.9,
+      "pointsPlus": 23
     }
   ]
 }

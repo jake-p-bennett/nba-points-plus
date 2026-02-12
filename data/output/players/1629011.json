@@ -2,16 +2,16 @@
   "id": 1629011,
   "name": "Mitchell Robinson",
   "team": "NYK",
-  "rank": 297,
-  "gp": 38,
-  "ppg": 4.8,
-  "adjPpg": 4.8,
-  "pointsPlus": 39,
-  "mpg": 19.7,
+  "rank": 298,
+  "gp": 39,
+  "ppg": 5.0,
+  "adjPpg": 5.0,
+  "pointsPlus": 40,
+  "mpg": 19.6,
   "position": "C-F",
   "jersey": "23",
-  "usgPct": 9.0,
-  "tsPct": 64.0,
+  "usgPct": 9.2,
+  "tsPct": 64.9,
   "gameLog": [
     {
       "date": "2025-10-31",
@@ -38,7 +38,7 @@
       "min": 16,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 65
+      "pointsPlus": 64
     },
     {
       "date": "2025-11-09",
@@ -172,7 +172,7 @@
       "result": "L",
       "min": 26,
       "pts": 21,
-      "adjPts": 21.2,
+      "adjPts": 21.1,
       "pointsPlus": 170
     },
     {
@@ -244,7 +244,7 @@
       "result": "L",
       "min": 24,
       "pts": 8,
-      "adjPts": 8.3,
+      "adjPts": 8.2,
       "pointsPlus": 66
     },
     {
@@ -253,7 +253,7 @@
       "result": "W",
       "min": 25,
       "pts": 6,
-      "adjPts": 5.9,
+      "adjPts": 5.8,
       "pointsPlus": 47
     },
     {
@@ -263,7 +263,7 @@
       "min": 19,
       "pts": 8,
       "adjPts": 7.7,
-      "pointsPlus": 62
+      "pointsPlus": 61
     },
     {
       "date": "2026-01-17",
@@ -298,8 +298,8 @@
       "result": "W",
       "min": 27,
       "pts": 6,
-      "adjPts": 6.1,
-      "pointsPlus": 49
+      "adjPts": 6.0,
+      "pointsPlus": 48
     },
     {
       "date": "2026-01-27",
@@ -316,7 +316,7 @@
       "result": "W",
       "min": 17,
       "pts": 2,
-      "adjPts": 2.0,
+      "adjPts": 1.9,
       "pointsPlus": 16
     },
     {
@@ -354,6 +354,15 @@
       "pts": 5,
       "adjPts": 5.3,
       "pointsPlus": 43
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "NYK @ PHI",
+      "result": "W",
+      "min": 15,
+      "pts": 11,
+      "adjPts": 11.1,
+      "pointsPlus": 89
     }
   ]
 }

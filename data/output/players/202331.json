@@ -2,7 +2,7 @@
   "id": 202331,
   "name": "Paul George",
   "team": "PHI",
-  "rank": 82,
+  "rank": 84,
   "gp": 27,
   "ppg": 16.0,
   "adjPpg": 15.8,
@@ -19,7 +19,7 @@
       "result": "W",
       "min": 21,
       "pts": 9,
-      "adjPts": 9.2,
+      "adjPts": 9.3,
       "pointsPlus": 74
     },
     {
@@ -65,7 +65,7 @@
       "min": 18,
       "pts": 11,
       "adjPts": 10.3,
-      "pointsPlus": 83
+      "pointsPlus": 82
     },
     {
       "date": "2025-12-05",
@@ -119,7 +119,7 @@
       "min": 33,
       "pts": 19,
       "adjPts": 19.1,
-      "pointsPlus": 154
+      "pointsPlus": 153
     },
     {
       "date": "2025-12-26",
@@ -163,7 +163,7 @@
       "result": "W",
       "min": 35,
       "pts": 15,
-      "adjPts": 15.4,
+      "adjPts": 15.5,
       "pointsPlus": 124
     },
     {
@@ -181,8 +181,8 @@
       "result": "W",
       "min": 33,
       "pts": 23,
-      "adjPts": 21.6,
-      "pointsPlus": 173
+      "adjPts": 21.5,
+      "pointsPlus": 172
     },
     {
       "date": "2026-01-09",
@@ -244,7 +244,7 @@
       "result": "W",
       "min": 33,
       "pts": 32,
-      "adjPts": 31.9,
+      "adjPts": 32.0,
       "pointsPlus": 256
     },
     {

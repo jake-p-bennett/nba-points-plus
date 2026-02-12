@@ -3,14 +3,14 @@
   "name": "Kevin Durant",
   "team": "HOU",
   "rank": 14,
-  "gp": 49,
-  "ppg": 25.9,
-  "adjPpg": 25.9,
-  "pointsPlus": 208,
+  "gp": 50,
+  "ppg": 25.8,
+  "adjPpg": 25.8,
+  "pointsPlus": 207,
   "mpg": 36.7,
   "position": "F",
   "jersey": "7",
-  "usgPct": 26.2,
+  "usgPct": 26.3,
   "tsPct": 62.7,
   "gameLog": [
     {
@@ -28,8 +28,8 @@
       "result": "L",
       "min": 37,
       "pts": 37,
-      "adjPts": 39.0,
-      "pointsPlus": 313
+      "adjPts": 39.1,
+      "pointsPlus": 314
     },
     {
       "date": "2025-10-27",
@@ -38,7 +38,7 @@
       "min": 25,
       "pts": 19,
       "adjPts": 19.1,
-      "pointsPlus": 154
+      "pointsPlus": 153
     },
     {
       "date": "2025-10-29",
@@ -47,7 +47,7 @@
       "min": 37,
       "pts": 31,
       "adjPts": 32.0,
-      "pointsPlus": 257
+      "pointsPlus": 256
     },
     {
       "date": "2025-11-01",
@@ -74,7 +74,7 @@
       "min": 34,
       "pts": 11,
       "adjPts": 10.8,
-      "pointsPlus": 87
+      "pointsPlus": 86
     },
     {
       "date": "2025-11-07",
@@ -100,8 +100,8 @@
       "result": "W",
       "min": 31,
       "pts": 23,
-      "adjPts": 21.6,
-      "pointsPlus": 173
+      "adjPts": 21.5,
+      "pointsPlus": 172
     },
     {
       "date": "2025-11-14",
@@ -109,8 +109,8 @@
       "result": "W",
       "min": 36,
       "pts": 30,
-      "adjPts": 29.3,
-      "pointsPlus": 235
+      "adjPts": 29.2,
+      "pointsPlus": 234
     },
     {
       "date": "2025-11-16",
@@ -118,7 +118,7 @@
       "result": "W",
       "min": 45,
       "pts": 35,
-      "adjPts": 35.1,
+      "adjPts": 35.0,
       "pointsPlus": 281
     },
     {
@@ -145,8 +145,8 @@
       "result": "W",
       "min": 30,
       "pts": 25,
-      "adjPts": 23.0,
-      "pointsPlus": 184
+      "adjPts": 23.1,
+      "pointsPlus": 185
     },
     {
       "date": "2025-12-01",
@@ -154,8 +154,8 @@
       "result": "L",
       "min": 40,
       "pts": 32,
-      "adjPts": 29.4,
-      "pointsPlus": 236
+      "adjPts": 29.5,
+      "pointsPlus": 237
     },
     {
       "date": "2025-12-03",
@@ -164,7 +164,7 @@
       "min": 32,
       "pts": 24,
       "adjPts": 23.0,
-      "pointsPlus": 185
+      "pointsPlus": 184
     },
     {
       "date": "2025-12-05",
@@ -172,8 +172,8 @@
       "result": "W",
       "min": 32,
       "pts": 28,
-      "adjPts": 28.9,
-      "pointsPlus": 232
+      "adjPts": 28.8,
+      "pointsPlus": 231
     },
     {
       "date": "2025-12-06",
@@ -190,7 +190,7 @@
       "result": "W",
       "min": 37,
       "pts": 16,
-      "adjPts": 16.4,
+      "adjPts": 16.5,
       "pointsPlus": 132
     },
     {
@@ -217,8 +217,8 @@
       "result": "W",
       "min": 40,
       "pts": 31,
-      "adjPts": 31.0,
-      "pointsPlus": 249
+      "adjPts": 30.9,
+      "pointsPlus": 248
     },
     {
       "date": "2025-12-21",
@@ -227,7 +227,7 @@
       "min": 48,
       "pts": 24,
       "adjPts": 23.0,
-      "pointsPlus": 185
+      "pointsPlus": 184
     },
     {
       "date": "2025-12-23",
@@ -236,7 +236,7 @@
       "min": 29,
       "pts": 22,
       "adjPts": 22.6,
-      "pointsPlus": 181
+      "pointsPlus": 182
     },
     {
       "date": "2025-12-25",
@@ -289,8 +289,8 @@
       "result": "W",
       "min": 39,
       "pts": 26,
-      "adjPts": 26.9,
-      "pointsPlus": 216
+      "adjPts": 26.8,
+      "pointsPlus": 215
     },
     {
       "date": "2026-01-07",
@@ -298,8 +298,8 @@
       "result": "L",
       "min": 37,
       "pts": 37,
-      "adjPts": 36.2,
-      "pointsPlus": 290
+      "adjPts": 36.0,
+      "pointsPlus": 289
     },
     {
       "date": "2026-01-09",
@@ -307,8 +307,8 @@
       "result": "L",
       "min": 39,
       "pts": 30,
-      "adjPts": 29.3,
-      "pointsPlus": 235
+      "adjPts": 29.2,
+      "pointsPlus": 234
     },
     {
       "date": "2026-01-11",
@@ -316,7 +316,7 @@
       "result": "L",
       "min": 38,
       "pts": 23,
-      "adjPts": 22.1,
+      "adjPts": 22.0,
       "pointsPlus": 177
     },
     {
@@ -326,7 +326,7 @@
       "min": 40,
       "pts": 28,
       "adjPts": 26.7,
-      "pointsPlus": 215
+      "pointsPlus": 214
     },
     {
       "date": "2026-01-15",
@@ -344,7 +344,7 @@
       "min": 40,
       "pts": 39,
       "adjPts": 39.2,
-      "pointsPlus": 315
+      "pointsPlus": 314
     },
     {
       "date": "2026-01-18",
@@ -370,8 +370,8 @@
       "result": "L",
       "min": 44,
       "pts": 36,
-      "adjPts": 36.4,
-      "pointsPlus": 292
+      "adjPts": 36.2,
+      "pointsPlus": 291
     },
     {
       "date": "2026-01-23",
@@ -379,7 +379,7 @@
       "result": "W",
       "min": 41,
       "pts": 32,
-      "adjPts": 33.7,
+      "adjPts": 33.8,
       "pointsPlus": 271
     },
     {
@@ -389,7 +389,7 @@
       "min": 37,
       "pts": 33,
       "adjPts": 32.4,
-      "pointsPlus": 260
+      "pointsPlus": 259
     },
     {
       "date": "2026-01-28",
@@ -407,7 +407,7 @@
       "min": 34,
       "pts": 31,
       "adjPts": 30.1,
-      "pointsPlus": 242
+      "pointsPlus": 241
     },
     {
       "date": "2026-01-31",
@@ -434,7 +434,7 @@
       "min": 31,
       "pts": 31,
       "adjPts": 31.5,
-      "pointsPlus": 253
+      "pointsPlus": 252
     },
     {
       "date": "2026-02-07",
@@ -451,8 +451,17 @@
       "result": "W",
       "min": 38,
       "pts": 26,
-      "adjPts": 26.7,
-      "pointsPlus": 214
+      "adjPts": 26.8,
+      "pointsPlus": 215
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "HOU vs. LAC",
+      "result": "L",
+      "min": 36,
+      "pts": 21,
+      "adjPts": 21.6,
+      "pointsPlus": 173
     }
   ]
 }

@@ -2,16 +2,16 @@
   "id": 1642285,
   "name": "Cam Spencer",
   "team": "MEM",
-  "rank": 146,
-  "gp": 50,
-  "ppg": 11.8,
-  "adjPpg": 11.8,
-  "pointsPlus": 95,
+  "rank": 150,
+  "gp": 51,
+  "ppg": 11.6,
+  "adjPpg": 11.6,
+  "pointsPlus": 93,
   "mpg": 24.2,
   "position": "G",
   "jersey": "24",
   "usgPct": 17.1,
-  "tsPct": 66.5,
+  "tsPct": 65.6,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -47,7 +47,7 @@
       "min": 14,
       "pts": 11,
       "adjPts": 11.2,
-      "pointsPlus": 90
+      "pointsPlus": 89
     },
     {
       "date": "2025-10-29",
@@ -118,7 +118,7 @@
       "result": "L",
       "min": 19,
       "pts": 11,
-      "adjPts": 11.3,
+      "adjPts": 11.4,
       "pointsPlus": 91
     },
     {
@@ -191,7 +191,7 @@
       "min": 25,
       "pts": 10,
       "adjPts": 10.3,
-      "pointsPlus": 82
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-30",
@@ -235,7 +235,7 @@
       "result": "L",
       "min": 25,
       "pts": 20,
-      "adjPts": 18.4,
+      "adjPts": 18.5,
       "pointsPlus": 148
     },
     {
@@ -244,7 +244,7 @@
       "result": "W",
       "min": 30,
       "pts": 27,
-      "adjPts": 27.7,
+      "adjPts": 27.8,
       "pointsPlus": 223
     },
     {
@@ -254,7 +254,7 @@
       "min": 37,
       "pts": 19,
       "adjPts": 17.8,
-      "pointsPlus": 143
+      "pointsPlus": 142
     },
     {
       "date": "2025-12-22",
@@ -271,7 +271,7 @@
       "result": "W",
       "min": 32,
       "pts": 11,
-      "adjPts": 10.1,
+      "adjPts": 10.2,
       "pointsPlus": 81
     },
     {
@@ -298,7 +298,7 @@
       "result": "L",
       "min": 19,
       "pts": 7,
-      "adjPts": 7.1,
+      "adjPts": 7.0,
       "pointsPlus": 57
     },
     {
@@ -334,7 +334,7 @@
       "result": "L",
       "min": 27,
       "pts": 14,
-      "adjPts": 14.5,
+      "adjPts": 14.4,
       "pointsPlus": 116
     },
     {
@@ -451,7 +451,7 @@
       "result": "L",
       "min": 26,
       "pts": 18,
-      "adjPts": 17.6,
+      "adjPts": 17.5,
       "pointsPlus": 141
     },
     {
@@ -459,6 +459,15 @@
       "matchup": "MEM @ GSW",
       "result": "L",
       "min": 24,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 16
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "MEM @ DEN",
+      "result": "L",
+      "min": 22,
       "pts": 2,
       "adjPts": 2.0,
       "pointsPlus": 16

@@ -3,7 +3,7 @@
   "name": "VJ Edgecombe",
   "team": "PHI",
   "rank": 91,
-  "gp": 49,
+  "gp": 50,
   "ppg": 14.9,
   "adjPpg": 15.0,
   "pointsPlus": 120,
@@ -11,7 +11,7 @@
   "position": "G",
   "jersey": "77",
   "usgPct": 18.7,
-  "tsPct": 53.1,
+  "tsPct": 52.8,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -119,7 +119,7 @@
       "min": 37,
       "pts": 18,
       "adjPts": 19.0,
-      "pointsPlus": 152
+      "pointsPlus": 153
     },
     {
       "date": "2025-11-17",
@@ -128,7 +128,7 @@
       "min": 37,
       "pts": 14,
       "adjPts": 14.4,
-      "pointsPlus": 115
+      "pointsPlus": 116
     },
     {
       "date": "2025-11-19",
@@ -164,7 +164,7 @@
       "min": 24,
       "pts": 9,
       "adjPts": 8.4,
-      "pointsPlus": 68
+      "pointsPlus": 67
     },
     {
       "date": "2025-12-04",
@@ -172,8 +172,8 @@
       "result": "W",
       "min": 24,
       "pts": 10,
-      "adjPts": 10.2,
-      "pointsPlus": 82
+      "adjPts": 10.1,
+      "pointsPlus": 81
     },
     {
       "date": "2025-12-05",
@@ -208,7 +208,7 @@
       "result": "L",
       "min": 39,
       "pts": 26,
-      "adjPts": 25.2,
+      "adjPts": 25.3,
       "pointsPlus": 203
     },
     {
@@ -217,7 +217,7 @@
       "result": "W",
       "min": 38,
       "pts": 23,
-      "adjPts": 23.6,
+      "adjPts": 23.7,
       "pointsPlus": 190
     },
     {
@@ -235,7 +235,7 @@
       "result": "L",
       "min": 33,
       "pts": 10,
-      "adjPts": 9.6,
+      "adjPts": 9.5,
       "pointsPlus": 77
     },
     {
@@ -263,7 +263,7 @@
       "min": 40,
       "pts": 23,
       "adjPts": 22.7,
-      "pointsPlus": 183
+      "pointsPlus": 182
     },
     {
       "date": "2026-01-03",
@@ -271,7 +271,7 @@
       "result": "W",
       "min": 41,
       "pts": 26,
-      "adjPts": 26.7,
+      "adjPts": 26.8,
       "pointsPlus": 215
     },
     {
@@ -290,7 +290,7 @@
       "min": 35,
       "pts": 13,
       "adjPts": 12.2,
-      "pointsPlus": 98
+      "pointsPlus": 97
     },
     {
       "date": "2026-01-09",
@@ -352,8 +352,8 @@
       "result": "L",
       "min": 37,
       "pts": 25,
-      "adjPts": 25.8,
-      "pointsPlus": 207
+      "adjPts": 25.7,
+      "pointsPlus": 206
     },
     {
       "date": "2026-01-22",
@@ -361,7 +361,7 @@
       "result": "W",
       "min": 40,
       "pts": 9,
-      "adjPts": 9.5,
+      "adjPts": 9.6,
       "pointsPlus": 77
     },
     {
@@ -406,7 +406,7 @@
       "result": "W",
       "min": 37,
       "pts": 15,
-      "adjPts": 14.5,
+      "adjPts": 14.4,
       "pointsPlus": 116
     },
     {
@@ -424,8 +424,8 @@
       "result": "W",
       "min": 40,
       "pts": 25,
-      "adjPts": 25.4,
-      "pointsPlus": 204
+      "adjPts": 25.3,
+      "pointsPlus": 203
     },
     {
       "date": "2026-02-05",
@@ -442,7 +442,7 @@
       "result": "W",
       "min": 25,
       "pts": 5,
-      "adjPts": 5.2,
+      "adjPts": 5.1,
       "pointsPlus": 41
     },
     {
@@ -453,6 +453,15 @@
       "pts": 11,
       "adjPts": 10.7,
       "pointsPlus": 86
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "PHI vs. NYK",
+      "result": "L",
+      "min": 32,
+      "pts": 14,
+      "adjPts": 14.4,
+      "pointsPlus": 116
     }
   ]
 }

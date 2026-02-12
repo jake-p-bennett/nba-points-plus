@@ -2,7 +2,7 @@
   "id": 1629614,
   "name": "Andrew Nembhard",
   "team": "IND",
-  "rank": 64,
+  "rank": 63,
   "gp": 43,
   "ppg": 17.4,
   "adjPpg": 17.5,
@@ -46,8 +46,8 @@
       "result": "L",
       "min": 30,
       "pts": 25,
-      "adjPts": 23.0,
-      "pointsPlus": 184
+      "adjPts": 23.1,
+      "pointsPlus": 185
     },
     {
       "date": "2025-11-13",
@@ -55,8 +55,8 @@
       "result": "L",
       "min": 27,
       "pts": 21,
-      "adjPts": 21.7,
-      "pointsPlus": 174
+      "adjPts": 21.6,
+      "pointsPlus": 173
     },
     {
       "date": "2025-11-15",
@@ -73,7 +73,7 @@
       "result": "L",
       "min": 32,
       "pts": 15,
-      "adjPts": 15.8,
+      "adjPts": 15.9,
       "pointsPlus": 127
     },
     {
@@ -92,7 +92,7 @@
       "min": 33,
       "pts": 32,
       "adjPts": 31.9,
-      "pointsPlus": 256
+      "pointsPlus": 255
     },
     {
       "date": "2025-11-24",
@@ -163,8 +163,8 @@
       "result": "L",
       "min": 35,
       "pts": 18,
-      "adjPts": 18.2,
-      "pointsPlus": 146
+      "adjPts": 18.1,
+      "pointsPlus": 145
     },
     {
       "date": "2025-12-14",
@@ -172,8 +172,8 @@
       "result": "L",
       "min": 30,
       "pts": 7,
-      "adjPts": 6.6,
-      "pointsPlus": 53
+      "adjPts": 6.5,
+      "pointsPlus": 52
     },
     {
       "date": "2025-12-18",
@@ -181,8 +181,8 @@
       "result": "L",
       "min": 37,
       "pts": 31,
-      "adjPts": 31.9,
-      "pointsPlus": 256
+      "adjPts": 32.0,
+      "pointsPlus": 257
     },
     {
       "date": "2025-12-20",
@@ -254,7 +254,7 @@
       "min": 36,
       "pts": 19,
       "adjPts": 19.5,
-      "pointsPlus": 157
+      "pointsPlus": 156
     },
     {
       "date": "2026-01-04",
@@ -280,7 +280,7 @@
       "result": "W",
       "min": 29,
       "pts": 29,
-      "adjPts": 28.4,
+      "adjPts": 28.5,
       "pointsPlus": 228
     },
     {
@@ -289,7 +289,7 @@
       "result": "W",
       "min": 33,
       "pts": 13,
-      "adjPts": 13.8,
+      "adjPts": 13.9,
       "pointsPlus": 111
     },
     {
@@ -317,7 +317,7 @@
       "min": 36,
       "pts": 25,
       "adjPts": 25.2,
-      "pointsPlus": 203
+      "pointsPlus": 202
     },
     {
       "date": "2026-01-21",
@@ -361,7 +361,7 @@
       "result": "W",
       "min": 32,
       "pts": 26,
-      "adjPts": 25.2,
+      "adjPts": 25.3,
       "pointsPlus": 203
     },
     {
@@ -397,8 +397,8 @@
       "result": "W",
       "min": 37,
       "pts": 24,
-      "adjPts": 24.7,
-      "pointsPlus": 198
+      "adjPts": 24.8,
+      "pointsPlus": 199
     }
   ]
 }

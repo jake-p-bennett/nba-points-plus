@@ -2,16 +2,16 @@
   "id": 1641783,
   "name": "Tristan da Silva",
   "team": "ORL",
-  "rank": 204,
-  "gp": 47,
+  "rank": 209,
+  "gp": 48,
   "ppg": 8.6,
-  "adjPpg": 8.7,
-  "pointsPlus": 70,
+  "adjPpg": 8.6,
+  "pointsPlus": 69,
   "mpg": 22.3,
   "position": "F",
   "jersey": "23",
-  "usgPct": 16.2,
-  "tsPct": 54.2,
+  "usgPct": 16.1,
+  "tsPct": 54.1,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -55,7 +55,7 @@
       "result": "L",
       "min": 21,
       "pts": 15,
-      "adjPts": 15.8,
+      "adjPts": 15.9,
       "pointsPlus": 127
     },
     {
@@ -109,7 +109,7 @@
       "result": "W",
       "min": 17,
       "pts": 2,
-      "adjPts": 2.0,
+      "adjPts": 1.9,
       "pointsPlus": 16
     },
     {
@@ -118,7 +118,7 @@
       "result": "W",
       "min": 22,
       "pts": 8,
-      "adjPts": 8.2,
+      "adjPts": 8.3,
       "pointsPlus": 66
     },
     {
@@ -190,7 +190,7 @@
       "result": "W",
       "min": 21,
       "pts": 8,
-      "adjPts": 8.4,
+      "adjPts": 8.5,
       "pointsPlus": 68
     },
     {
@@ -308,7 +308,7 @@
       "min": 22,
       "pts": 13,
       "adjPts": 12.2,
-      "pointsPlus": 98
+      "pointsPlus": 97
     },
     {
       "date": "2026-01-07",
@@ -334,7 +334,7 @@
       "result": "W",
       "min": 21,
       "pts": 8,
-      "adjPts": 7.9,
+      "adjPts": 7.8,
       "pointsPlus": 63
     },
     {
@@ -344,7 +344,7 @@
       "min": 18,
       "pts": 4,
       "adjPts": 3.9,
-      "pointsPlus": 32
+      "pointsPlus": 31
     },
     {
       "date": "2026-01-22",
@@ -435,6 +435,15 @@
       "pts": 3,
       "adjPts": 3.0,
       "pointsPlus": 24
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "ORL vs. MIL",
+      "result": "L",
+      "min": 23,
+      "pts": 5,
+      "adjPts": 5.0,
+      "pointsPlus": 40
     }
   ]
 }

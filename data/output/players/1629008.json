@@ -2,11 +2,11 @@
   "id": 1629008,
   "name": "Michael Porter Jr.",
   "team": "BKN",
-  "rank": 20,
+  "rank": 19,
   "gp": 41,
   "ppg": 25.0,
   "adjPpg": 25.1,
-  "pointsPlus": 202,
+  "pointsPlus": 201,
   "mpg": 33.0,
   "position": "F",
   "jersey": "17",
@@ -64,8 +64,8 @@
       "result": "L",
       "min": 31,
       "pts": 17,
-      "adjPts": 17.2,
-      "pointsPlus": 138
+      "adjPts": 17.1,
+      "pointsPlus": 137
     },
     {
       "date": "2025-11-05",
@@ -73,7 +73,7 @@
       "result": "W",
       "min": 35,
       "pts": 32,
-      "adjPts": 31.1,
+      "adjPts": 31.2,
       "pointsPlus": 250
     },
     {
@@ -82,7 +82,7 @@
       "result": "L",
       "min": 32,
       "pts": 28,
-      "adjPts": 29.5,
+      "adjPts": 29.6,
       "pointsPlus": 237
     },
     {
@@ -91,8 +91,8 @@
       "result": "L",
       "min": 26,
       "pts": 25,
-      "adjPts": 25.7,
-      "pointsPlus": 206
+      "adjPts": 25.8,
+      "pointsPlus": 207
     },
     {
       "date": "2025-11-11",
@@ -118,8 +118,8 @@
       "result": "W",
       "min": 34,
       "pts": 34,
-      "adjPts": 31.9,
-      "pointsPlus": 256
+      "adjPts": 31.8,
+      "pointsPlus": 255
     },
     {
       "date": "2025-11-18",
@@ -136,7 +136,7 @@
       "result": "W",
       "min": 37,
       "pts": 33,
-      "adjPts": 35.1,
+      "adjPts": 35.2,
       "pointsPlus": 282
     },
     {
@@ -182,7 +182,7 @@
       "min": 33,
       "pts": 35,
       "adjPts": 33.7,
-      "pointsPlus": 271
+      "pointsPlus": 270
     },
     {
       "date": "2025-12-12",
@@ -208,7 +208,7 @@
       "result": "L",
       "min": 34,
       "pts": 28,
-      "adjPts": 27.4,
+      "adjPts": 27.5,
       "pointsPlus": 220
     },
     {
@@ -218,7 +218,7 @@
       "min": 36,
       "pts": 24,
       "adjPts": 24.7,
-      "pointsPlus": 199
+      "pointsPlus": 198
     },
     {
       "date": "2025-12-23",
@@ -226,8 +226,8 @@
       "result": "W",
       "min": 34,
       "pts": 28,
-      "adjPts": 28.3,
-      "pointsPlus": 227
+      "adjPts": 28.2,
+      "pointsPlus": 226
     },
     {
       "date": "2025-12-27",
@@ -254,7 +254,7 @@
       "min": 32,
       "pts": 27,
       "adjPts": 27.0,
-      "pointsPlus": 217
+      "pointsPlus": 216
     },
     {
       "date": "2026-01-07",
@@ -262,7 +262,7 @@
       "result": "L",
       "min": 38,
       "pts": 34,
-      "adjPts": 34.1,
+      "adjPts": 34.0,
       "pointsPlus": 273
     },
     {
@@ -272,7 +272,7 @@
       "min": 33,
       "pts": 18,
       "adjPts": 18.5,
-      "pointsPlus": 148
+      "pointsPlus": 149
     },
     {
       "date": "2026-01-12",
@@ -290,7 +290,7 @@
       "min": 32,
       "pts": 20,
       "adjPts": 19.3,
-      "pointsPlus": 155
+      "pointsPlus": 154
     },
     {
       "date": "2026-01-16",
@@ -307,8 +307,8 @@
       "result": "L",
       "min": 37,
       "pts": 23,
-      "adjPts": 23.8,
-      "pointsPlus": 191
+      "adjPts": 23.7,
+      "pointsPlus": 190
     },
     {
       "date": "2026-01-21",
@@ -316,7 +316,7 @@
       "result": "L",
       "min": 26,
       "pts": 12,
-      "adjPts": 12.3,
+      "adjPts": 12.4,
       "pointsPlus": 99
     },
     {
@@ -334,7 +334,7 @@
       "result": "L",
       "min": 22,
       "pts": 9,
-      "adjPts": 9.2,
+      "adjPts": 9.3,
       "pointsPlus": 74
     },
     {
@@ -343,8 +343,8 @@
       "result": "L",
       "min": 37,
       "pts": 36,
-      "adjPts": 37.2,
-      "pointsPlus": 298
+      "adjPts": 37.0,
+      "pointsPlus": 297
     },
     {
       "date": "2026-01-29",
@@ -352,8 +352,8 @@
       "result": "L",
       "min": 37,
       "pts": 38,
-      "adjPts": 38.0,
-      "pointsPlus": 305
+      "adjPts": 37.9,
+      "pointsPlus": 304
     },
     {
       "date": "2026-02-03",
@@ -379,8 +379,8 @@
       "result": "W",
       "min": 31,
       "pts": 23,
-      "adjPts": 21.6,
-      "pointsPlus": 173
+      "adjPts": 21.5,
+      "pointsPlus": 172
     }
   ]
 }

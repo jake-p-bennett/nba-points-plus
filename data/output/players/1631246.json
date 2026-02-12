@@ -2,16 +2,16 @@
   "id": 1631246,
   "name": "Vince Williams Jr.",
   "team": "UTA",
-  "rank": 229,
-  "gp": 36,
+  "rank": 227,
+  "gp": 37,
   "ppg": 7.7,
   "adjPpg": 7.8,
   "pointsPlus": 63,
   "mpg": 21.1,
   "position": "G",
   "jersey": "0",
-  "usgPct": 19.0,
-  "tsPct": 47.7,
+  "usgPct": 18.9,
+  "tsPct": 48.3,
   "gameLog": [
     {
       "date": "2025-10-31",
@@ -145,7 +145,7 @@
       "result": "W",
       "min": 23,
       "pts": 16,
-      "adjPts": 16.4,
+      "adjPts": 16.5,
       "pointsPlus": 132
     },
     {
@@ -289,7 +289,7 @@
       "result": "L",
       "min": 20,
       "pts": 10,
-      "adjPts": 10.1,
+      "adjPts": 10.2,
       "pointsPlus": 81
     },
     {
@@ -299,7 +299,7 @@
       "min": 25,
       "pts": 13,
       "adjPts": 12.5,
-      "pointsPlus": 101
+      "pointsPlus": 100
     },
     {
       "date": "2026-01-31",
@@ -308,7 +308,7 @@
       "min": 23,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 65
+      "pointsPlus": 64
     },
     {
       "date": "2026-02-02",
@@ -336,6 +336,15 @@
       "pts": 5,
       "adjPts": 4.9,
       "pointsPlus": 39
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "UTA vs. SAC",
+      "result": "W",
+      "min": 21,
+      "pts": 9,
+      "adjPts": 8.6,
+      "pointsPlus": 69
     }
   ]
 }

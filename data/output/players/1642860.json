@@ -2,16 +2,16 @@
   "id": 1642860,
   "name": "Will Riley",
   "team": "WAS",
-  "rank": 246,
-  "gp": 44,
+  "rank": 247,
+  "gp": 45,
   "ppg": 7.0,
-  "adjPpg": 7.1,
-  "pointsPlus": 57,
-  "mpg": 16.3,
+  "adjPpg": 7.0,
+  "pointsPlus": 56,
+  "mpg": 16.6,
   "position": "F",
   "jersey": "27",
   "usgPct": 18.4,
-  "tsPct": 53.2,
+  "tsPct": 51.6,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -191,7 +191,7 @@
       "min": 11,
       "pts": 4,
       "adjPts": 3.9,
-      "pointsPlus": 32
+      "pointsPlus": 31
     },
     {
       "date": "2025-12-21",
@@ -281,7 +281,7 @@
       "min": 19,
       "pts": 9,
       "adjPts": 9.3,
-      "pointsPlus": 75
+      "pointsPlus": 74
     },
     {
       "date": "2026-01-14",
@@ -343,7 +343,7 @@
       "result": "W",
       "min": 11,
       "pts": 6,
-      "adjPts": 5.9,
+      "adjPts": 5.8,
       "pointsPlus": 47
     },
     {
@@ -371,7 +371,7 @@
       "min": 30,
       "pts": 18,
       "adjPts": 17.3,
-      "pointsPlus": 139
+      "pointsPlus": 138
     },
     {
       "date": "2026-02-03",
@@ -380,7 +380,7 @@
       "min": 25,
       "pts": 17,
       "adjPts": 17.5,
-      "pointsPlus": 140
+      "pointsPlus": 141
     },
     {
       "date": "2026-02-05",
@@ -408,6 +408,15 @@
       "pts": 9,
       "adjPts": 8.8,
       "pointsPlus": 71
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "WAS @ CLE",
+      "result": "L",
+      "min": 29,
+      "pts": 4,
+      "adjPts": 4.0,
+      "pointsPlus": 32
     }
   ]
 }

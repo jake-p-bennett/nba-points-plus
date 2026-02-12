@@ -2,7 +2,7 @@
   "id": 1631213,
   "name": "Tyrese Martin",
   "team": "BKN",
-  "rank": 240,
+  "rank": 241,
   "gp": 37,
   "ppg": 7.3,
   "adjPpg": 7.3,
@@ -99,7 +99,7 @@
       "result": "L",
       "min": 25,
       "pts": 5,
-      "adjPts": 5.1,
+      "adjPts": 5.2,
       "pointsPlus": 41
     },
     {
@@ -171,8 +171,8 @@
       "result": "L",
       "min": 17,
       "pts": 16,
-      "adjPts": 16.2,
-      "pointsPlus": 130
+      "adjPts": 16.1,
+      "pointsPlus": 129
     },
     {
       "date": "2025-11-29",
@@ -252,7 +252,7 @@
       "result": "W",
       "min": 12,
       "pts": 7,
-      "adjPts": 7.1,
+      "adjPts": 7.0,
       "pointsPlus": 57
     },
     {
@@ -307,7 +307,7 @@
       "min": 15,
       "pts": 9,
       "adjPts": 9.3,
-      "pointsPlus": 75
+      "pointsPlus": 74
     },
     {
       "date": "2026-01-21",
@@ -325,7 +325,7 @@
       "min": 14,
       "pts": 2,
       "adjPts": 2.1,
-      "pointsPlus": 16
+      "pointsPlus": 17
     },
     {
       "date": "2026-01-29",

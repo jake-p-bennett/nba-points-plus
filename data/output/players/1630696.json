@@ -2,16 +2,16 @@
   "id": 1630696,
   "name": "Dru Smith",
   "team": "MIA",
-  "rank": 274,
-  "gp": 54,
+  "rank": 275,
+  "gp": 55,
   "ppg": 6.1,
   "adjPpg": 6.2,
   "pointsPlus": 49,
   "mpg": 17.3,
   "position": "G",
   "jersey": "12",
-  "usgPct": 14.7,
-  "tsPct": 53.5,
+  "usgPct": 14.6,
+  "tsPct": 53.6,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -74,7 +74,7 @@
       "min": 14,
       "pts": 2,
       "adjPts": 2.1,
-      "pointsPlus": 16
+      "pointsPlus": 17
     },
     {
       "date": "2025-11-05",
@@ -136,7 +136,7 @@
       "result": "W",
       "min": 16,
       "pts": 11,
-      "adjPts": 11.3,
+      "adjPts": 11.4,
       "pointsPlus": 91
     },
     {
@@ -424,7 +424,7 @@
       "result": "W",
       "min": 23,
       "pts": 11,
-      "adjPts": 11.4,
+      "adjPts": 11.3,
       "pointsPlus": 91
     },
     {
@@ -434,7 +434,7 @@
       "min": 22,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2026-01-29",
@@ -460,7 +460,7 @@
       "result": "W",
       "min": 21,
       "pts": 10,
-      "adjPts": 9.6,
+      "adjPts": 9.5,
       "pointsPlus": 77
     },
     {
@@ -498,6 +498,15 @@
       "pts": 4,
       "adjPts": 3.7,
       "pointsPlus": 30
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "MIA @ NOP",
+      "result": "W",
+      "min": 20,
+      "pts": 6,
+      "adjPts": 5.8,
+      "pointsPlus": 46
     }
   ]
 }

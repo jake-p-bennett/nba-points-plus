@@ -2,16 +2,16 @@
   "id": 201950,
   "name": "Jrue Holiday",
   "team": "POR",
-  "rank": 94,
-  "gp": 25,
-  "ppg": 14.8,
-  "adjPpg": 14.8,
-  "pointsPlus": 119,
+  "rank": 90,
+  "gp": 26,
+  "ppg": 15.1,
+  "adjPpg": 15.1,
+  "pointsPlus": 121,
   "mpg": 28.0,
   "position": "G",
   "jersey": "5",
-  "usgPct": 22.0,
-  "tsPct": 56.0,
+  "usgPct": 22.5,
+  "tsPct": 55.7,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -55,8 +55,8 @@
       "result": "W",
       "min": 35,
       "pts": 27,
-      "adjPts": 24.8,
-      "pointsPlus": 199
+      "adjPts": 24.9,
+      "pointsPlus": 200
     },
     {
       "date": "2025-10-31",
@@ -83,7 +83,7 @@
       "min": 35,
       "pts": 22,
       "adjPts": 23.6,
-      "pointsPlus": 190
+      "pointsPlus": 189
     },
     {
       "date": "2025-11-08",
@@ -91,7 +91,7 @@
       "result": "L",
       "min": 35,
       "pts": 18,
-      "adjPts": 17.6,
+      "adjPts": 17.7,
       "pointsPlus": 142
     },
     {
@@ -101,7 +101,7 @@
       "min": 36,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 105
+      "pointsPlus": 104
     },
     {
       "date": "2025-11-12",
@@ -127,7 +127,7 @@
       "result": "L",
       "min": 16,
       "pts": 8,
-      "adjPts": 8.2,
+      "adjPts": 8.3,
       "pointsPlus": 66
     },
     {
@@ -145,7 +145,7 @@
       "result": "W",
       "min": 21,
       "pts": 12,
-      "adjPts": 11.6,
+      "adjPts": 11.7,
       "pointsPlus": 93
     },
     {
@@ -191,7 +191,7 @@
       "min": 25,
       "pts": 5,
       "adjPts": 4.7,
-      "pointsPlus": 38
+      "pointsPlus": 37
     },
     {
       "date": "2026-01-30",
@@ -199,7 +199,7 @@
       "result": "L",
       "min": 22,
       "pts": 5,
-      "adjPts": 5.1,
+      "adjPts": 5.2,
       "pointsPlus": 41
     },
     {
@@ -208,7 +208,7 @@
       "result": "L",
       "min": 29,
       "pts": 15,
-      "adjPts": 15.5,
+      "adjPts": 15.4,
       "pointsPlus": 124
     },
     {
@@ -218,7 +218,7 @@
       "min": 25,
       "pts": 20,
       "adjPts": 19.6,
-      "pointsPlus": 158
+      "pointsPlus": 157
     },
     {
       "date": "2026-02-07",
@@ -237,6 +237,15 @@
       "pts": 13,
       "adjPts": 13.1,
       "pointsPlus": 105
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "POR @ MIN",
+      "result": "L",
+      "min": 30,
+      "pts": 23,
+      "adjPts": 23.1,
+      "pointsPlus": 185
     }
   ]
 }

@@ -2,8 +2,8 @@
   "id": 1641824,
   "name": "Matas Buzelis",
   "team": "CHI",
-  "rank": 87,
-  "gp": 54,
+  "rank": 88,
+  "gp": 55,
   "ppg": 15.2,
   "adjPpg": 15.2,
   "pointsPlus": 122,
@@ -11,7 +11,7 @@
   "position": "F",
   "jersey": "14",
   "usgPct": 21.2,
-  "tsPct": 59.6,
+  "tsPct": 59.5,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -19,7 +19,7 @@
       "result": "W",
       "min": 34,
       "pts": 21,
-      "adjPts": 22.1,
+      "adjPts": 22.2,
       "pointsPlus": 178
     },
     {
@@ -56,7 +56,7 @@
       "min": 29,
       "pts": 13,
       "adjPts": 13.4,
-      "pointsPlus": 107
+      "pointsPlus": 108
     },
     {
       "date": "2025-11-02",
@@ -109,7 +109,7 @@
       "result": "L",
       "min": 34,
       "pts": 21,
-      "adjPts": 22.1,
+      "adjPts": 22.2,
       "pointsPlus": 178
     },
     {
@@ -118,7 +118,7 @@
       "result": "L",
       "min": 33,
       "pts": 18,
-      "adjPts": 16.5,
+      "adjPts": 16.6,
       "pointsPlus": 133
     },
     {
@@ -155,7 +155,7 @@
       "min": 29,
       "pts": 13,
       "adjPts": 12.2,
-      "pointsPlus": 98
+      "pointsPlus": 97
     },
     {
       "date": "2025-11-24",
@@ -217,8 +217,8 @@
       "result": "L",
       "min": 25,
       "pts": 16,
-      "adjPts": 16.3,
-      "pointsPlus": 131
+      "adjPts": 16.2,
+      "pointsPlus": 130
     },
     {
       "date": "2025-12-12",
@@ -226,7 +226,7 @@
       "result": "W",
       "min": 24,
       "pts": 10,
-      "adjPts": 10.1,
+      "adjPts": 10.2,
       "pointsPlus": 81
     },
     {
@@ -370,7 +370,7 @@
       "result": "W",
       "min": 19,
       "pts": 7,
-      "adjPts": 6.4,
+      "adjPts": 6.5,
       "pointsPlus": 52
     },
     {
@@ -498,6 +498,15 @@
       "pts": 18,
       "adjPts": 18.1,
       "pointsPlus": 145
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "CHI @ BOS",
+      "result": "L",
+      "min": 29,
+      "pts": 15,
+      "adjPts": 16.0,
+      "pointsPlus": 128
     }
   ]
 }

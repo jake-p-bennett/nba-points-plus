@@ -2,16 +2,16 @@
   "id": 1629750,
   "name": "Javonte Green",
   "team": "DET",
-  "rank": 248,
-  "gp": 52,
-  "ppg": 7.1,
-  "adjPpg": 7.0,
+  "rank": 249,
+  "gp": 53,
+  "ppg": 7.0,
+  "adjPpg": 6.9,
   "pointsPlus": 56,
-  "mpg": 18.5,
+  "mpg": 18.4,
   "position": "G",
   "jersey": "31",
   "usgPct": 14.3,
-  "tsPct": 59.6,
+  "tsPct": 59.1,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -100,8 +100,8 @@
       "result": "W",
       "min": 28,
       "pts": 6,
-      "adjPts": 6.1,
-      "pointsPlus": 49
+      "adjPts": 6.0,
+      "pointsPlus": 48
     },
     {
       "date": "2025-11-10",
@@ -110,7 +110,7 @@
       "min": 38,
       "pts": 11,
       "adjPts": 10.3,
-      "pointsPlus": 83
+      "pointsPlus": 82
     },
     {
       "date": "2025-11-12",
@@ -127,7 +127,7 @@
       "result": "W",
       "min": 37,
       "pts": 21,
-      "adjPts": 21.2,
+      "adjPts": 21.1,
       "pointsPlus": 170
     },
     {
@@ -271,7 +271,7 @@
       "result": "W",
       "min": 24,
       "pts": 6,
-      "adjPts": 5.9,
+      "adjPts": 5.8,
       "pointsPlus": 47
     },
     {
@@ -325,7 +325,7 @@
       "result": "W",
       "min": 24,
       "pts": 11,
-      "adjPts": 10.9,
+      "adjPts": 11.0,
       "pointsPlus": 88
     },
     {
@@ -335,7 +335,7 @@
       "min": 29,
       "pts": 17,
       "adjPts": 17.5,
-      "pointsPlus": 140
+      "pointsPlus": 141
     },
     {
       "date": "2026-01-07",
@@ -361,7 +361,7 @@
       "result": "W",
       "min": 16,
       "pts": 5,
-      "adjPts": 5.2,
+      "adjPts": 5.1,
       "pointsPlus": 41
     },
     {
@@ -469,7 +469,7 @@
       "result": "W",
       "min": 14,
       "pts": 8,
-      "adjPts": 8.2,
+      "adjPts": 8.3,
       "pointsPlus": 66
     },
     {
@@ -480,6 +480,15 @@
       "pts": 4,
       "adjPts": 4.1,
       "pointsPlus": 33
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "DET @ TOR",
+      "result": "W",
+      "min": 16,
+      "pts": 3,
+      "adjPts": 3.1,
+      "pointsPlus": 25
     }
   ]
 }

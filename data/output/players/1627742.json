@@ -3,15 +3,15 @@
   "name": "Brandon Ingram",
   "team": "TOR",
   "rank": 29,
-  "gp": 52,
-  "ppg": 22.0,
-  "adjPpg": 21.9,
-  "pointsPlus": 176,
+  "gp": 53,
+  "ppg": 21.8,
+  "adjPpg": 21.8,
+  "pointsPlus": 175,
   "mpg": 33.9,
   "position": "F",
   "jersey": "3",
-  "usgPct": 26.8,
-  "tsPct": 56.8,
+  "usgPct": 26.6,
+  "tsPct": 57.0,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -38,7 +38,7 @@
       "min": 32,
       "pts": 22,
       "adjPts": 21.8,
-      "pointsPlus": 175
+      "pointsPlus": 174
     },
     {
       "date": "2025-10-27",
@@ -74,7 +74,7 @@
       "min": 33,
       "pts": 26,
       "adjPts": 25.5,
-      "pointsPlus": 205
+      "pointsPlus": 204
     },
     {
       "date": "2025-11-04",
@@ -100,7 +100,7 @@
       "result": "L",
       "min": 37,
       "pts": 21,
-      "adjPts": 21.2,
+      "adjPts": 21.1,
       "pointsPlus": 170
     },
     {
@@ -118,7 +118,7 @@
       "result": "W",
       "min": 35,
       "pts": 11,
-      "adjPts": 10.9,
+      "adjPts": 11.0,
       "pointsPlus": 88
     },
     {
@@ -145,7 +145,7 @@
       "result": "W",
       "min": 31,
       "pts": 22,
-      "adjPts": 22.2,
+      "adjPts": 22.1,
       "pointsPlus": 178
     },
     {
@@ -154,8 +154,8 @@
       "result": "W",
       "min": 30,
       "pts": 24,
-      "adjPts": 22.5,
-      "pointsPlus": 181
+      "adjPts": 22.4,
+      "pointsPlus": 180
     },
     {
       "date": "2025-11-23",
@@ -173,7 +173,7 @@
       "min": 37,
       "pts": 37,
       "adjPts": 36.8,
-      "pointsPlus": 296
+      "pointsPlus": 295
     },
     {
       "date": "2025-11-26",
@@ -209,7 +209,7 @@
       "min": 35,
       "pts": 21,
       "adjPts": 20.5,
-      "pointsPlus": 165
+      "pointsPlus": 164
     },
     {
       "date": "2025-12-04",
@@ -244,8 +244,8 @@
       "result": "L",
       "min": 39,
       "pts": 31,
-      "adjPts": 31.9,
-      "pointsPlus": 256
+      "adjPts": 32.0,
+      "pointsPlus": 257
     },
     {
       "date": "2025-12-15",
@@ -253,7 +253,7 @@
       "result": "W",
       "min": 38,
       "pts": 28,
-      "adjPts": 27.4,
+      "adjPts": 27.5,
       "pointsPlus": 220
     },
     {
@@ -281,7 +281,7 @@
       "min": 33,
       "pts": 19,
       "adjPts": 19.1,
-      "pointsPlus": 154
+      "pointsPlus": 153
     },
     {
       "date": "2025-12-23",
@@ -298,8 +298,8 @@
       "result": "L",
       "min": 33,
       "pts": 29,
-      "adjPts": 27.2,
-      "pointsPlus": 218
+      "adjPts": 27.1,
+      "pointsPlus": 217
     },
     {
       "date": "2025-12-28",
@@ -308,7 +308,7 @@
       "min": 39,
       "pts": 26,
       "adjPts": 26.4,
-      "pointsPlus": 212
+      "pointsPlus": 211
     },
     {
       "date": "2025-12-29",
@@ -325,8 +325,8 @@
       "result": "L",
       "min": 36,
       "pts": 30,
-      "adjPts": 30.0,
-      "pointsPlus": 241
+      "adjPts": 29.9,
+      "pointsPlus": 240
     },
     {
       "date": "2026-01-03",
@@ -343,7 +343,7 @@
       "result": "W",
       "min": 35,
       "pts": 19,
-      "adjPts": 18.4,
+      "adjPts": 18.5,
       "pointsPlus": 148
     },
     {
@@ -361,8 +361,8 @@
       "result": "L",
       "min": 34,
       "pts": 17,
-      "adjPts": 17.2,
-      "pointsPlus": 138
+      "adjPts": 17.1,
+      "pointsPlus": 137
     },
     {
       "date": "2026-01-14",
@@ -379,7 +379,7 @@
       "result": "L",
       "min": 41,
       "pts": 19,
-      "adjPts": 19.5,
+      "adjPts": 19.6,
       "pointsPlus": 157
     },
     {
@@ -397,7 +397,7 @@
       "result": "W",
       "min": 36,
       "pts": 22,
-      "adjPts": 22.4,
+      "adjPts": 22.3,
       "pointsPlus": 179
     },
     {
@@ -406,7 +406,7 @@
       "result": "W",
       "min": 35,
       "pts": 23,
-      "adjPts": 22.1,
+      "adjPts": 22.0,
       "pointsPlus": 177
     },
     {
@@ -416,7 +416,7 @@
       "min": 35,
       "pts": 20,
       "adjPts": 19.5,
-      "pointsPlus": 157
+      "pointsPlus": 156
     },
     {
       "date": "2026-01-25",
@@ -433,7 +433,7 @@
       "result": "L",
       "min": 34,
       "pts": 27,
-      "adjPts": 27.8,
+      "adjPts": 27.9,
       "pointsPlus": 223
     },
     {
@@ -442,7 +442,7 @@
       "result": "L",
       "min": 35,
       "pts": 35,
-      "adjPts": 35.1,
+      "adjPts": 35.0,
       "pointsPlus": 281
     },
     {
@@ -452,7 +452,7 @@
       "min": 35,
       "pts": 19,
       "adjPts": 17.5,
-      "pointsPlus": 140
+      "pointsPlus": 141
     },
     {
       "date": "2026-02-04",
@@ -478,8 +478,17 @@
       "result": "W",
       "min": 26,
       "pts": 13,
-      "adjPts": 12.6,
+      "adjPts": 12.7,
       "pointsPlus": 102
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "TOR vs. DET",
+      "result": "L",
+      "min": 32,
+      "pts": 13,
+      "adjPts": 13.7,
+      "pointsPlus": 110
     }
   ]
 }

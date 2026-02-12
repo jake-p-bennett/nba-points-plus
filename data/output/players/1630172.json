@@ -3,15 +3,15 @@
   "name": "Patrick Williams",
   "team": "CHI",
   "rank": 252,
-  "gp": 50,
-  "ppg": 6.8,
-  "adjPpg": 6.8,
+  "gp": 51,
+  "ppg": 6.9,
+  "adjPpg": 6.9,
   "pointsPlus": 55,
-  "mpg": 18.9,
+  "mpg": 19.2,
   "position": "F",
   "jersey": "44",
   "usgPct": 16.3,
-  "tsPct": 50.4,
+  "tsPct": 50.7,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -37,7 +37,7 @@
       "result": "W",
       "min": 22,
       "pts": 12,
-      "adjPts": 11.6,
+      "adjPts": 11.7,
       "pointsPlus": 93
     },
     {
@@ -64,7 +64,7 @@
       "result": "L",
       "min": 26,
       "pts": 11,
-      "adjPts": 11.3,
+      "adjPts": 11.4,
       "pointsPlus": 91
     },
     {
@@ -91,7 +91,7 @@
       "result": "L",
       "min": 23,
       "pts": 11,
-      "adjPts": 10.9,
+      "adjPts": 11.0,
       "pointsPlus": 88
     },
     {
@@ -145,7 +145,7 @@
       "result": "L",
       "min": 18,
       "pts": 8,
-      "adjPts": 7.8,
+      "adjPts": 7.9,
       "pointsPlus": 63
     },
     {
@@ -299,7 +299,7 @@
       "min": 23,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 121
+      "pointsPlus": 120
     },
     {
       "date": "2026-01-03",
@@ -462,6 +462,15 @@
       "pts": 7,
       "adjPts": 7.0,
       "pointsPlus": 57
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "CHI @ BOS",
+      "result": "L",
+      "min": 35,
+      "pts": 12,
+      "adjPts": 12.8,
+      "pointsPlus": 103
     }
   ]
 }

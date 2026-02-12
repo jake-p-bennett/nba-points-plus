@@ -3,15 +3,15 @@
   "name": "Ryan Dunn",
   "team": "PHX",
   "rank": 277,
-  "gp": 47,
-  "ppg": 6.1,
-  "adjPpg": 6.1,
-  "pointsPlus": 49,
+  "gp": 48,
+  "ppg": 6.0,
+  "adjPpg": 6.0,
+  "pointsPlus": 48,
   "mpg": 19.4,
   "position": "F",
   "jersey": "0",
   "usgPct": 14.4,
-  "tsPct": 53.1,
+  "tsPct": 52.4,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -29,7 +29,7 @@
       "min": 17,
       "pts": 6,
       "adjPts": 6.2,
-      "pointsPlus": 49
+      "pointsPlus": 50
     },
     {
       "date": "2025-10-25",
@@ -46,7 +46,7 @@
       "result": "L",
       "min": 17,
       "pts": 7,
-      "adjPts": 6.4,
+      "adjPts": 6.5,
       "pointsPlus": 52
     },
     {
@@ -73,7 +73,7 @@
       "result": "W",
       "min": 27,
       "pts": 17,
-      "adjPts": 17.4,
+      "adjPts": 17.5,
       "pointsPlus": 140
     },
     {
@@ -82,8 +82,8 @@
       "result": "L",
       "min": 31,
       "pts": 10,
-      "adjPts": 10.2,
-      "pointsPlus": 82
+      "adjPts": 10.1,
+      "pointsPlus": 81
     },
     {
       "date": "2025-11-06",
@@ -92,7 +92,7 @@
       "min": 25,
       "pts": 10,
       "adjPts": 10.3,
-      "pointsPlus": 82
+      "pointsPlus": 83
     },
     {
       "date": "2025-11-08",
@@ -101,7 +101,7 @@
       "min": 20,
       "pts": 6,
       "adjPts": 6.2,
-      "pointsPlus": 49
+      "pointsPlus": 50
     },
     {
       "date": "2025-11-10",
@@ -136,7 +136,7 @@
       "result": "L",
       "min": 24,
       "pts": 12,
-      "adjPts": 11.6,
+      "adjPts": 11.7,
       "pointsPlus": 93
     },
     {
@@ -146,7 +146,7 @@
       "min": 27,
       "pts": 9,
       "adjPts": 8.8,
-      "pointsPlus": 71
+      "pointsPlus": 70
     },
     {
       "date": "2025-11-21",
@@ -164,7 +164,7 @@
       "min": 21,
       "pts": 6,
       "adjPts": 5.9,
-      "pointsPlus": 48
+      "pointsPlus": 47
     },
     {
       "date": "2025-12-05",
@@ -299,7 +299,7 @@
       "min": 19,
       "pts": 9,
       "adjPts": 8.4,
-      "pointsPlus": 68
+      "pointsPlus": 67
     },
     {
       "date": "2026-01-13",
@@ -325,7 +325,7 @@
       "result": "W",
       "min": 17,
       "pts": 8,
-      "adjPts": 8.2,
+      "adjPts": 8.3,
       "pointsPlus": 66
     },
     {
@@ -406,7 +406,7 @@
       "result": "W",
       "min": 9,
       "pts": 6,
-      "adjPts": 5.9,
+      "adjPts": 5.8,
       "pointsPlus": 47
     },
     {
@@ -435,6 +435,15 @@
       "pts": 12,
       "adjPts": 11.9,
       "pointsPlus": 95
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "PHX vs. OKC",
+      "result": "L",
+      "min": 23,
+      "pts": 2,
+      "adjPts": 2.1,
+      "pointsPlus": 17
     }
   ]
 }

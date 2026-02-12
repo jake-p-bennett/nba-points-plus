@@ -2,16 +2,16 @@
   "id": 203937,
   "name": "Kyle Anderson",
   "team": "MEM",
-  "rank": 238,
-  "gp": 22,
+  "rank": 239,
+  "gp": 23,
   "ppg": 7.3,
   "adjPpg": 7.4,
   "pointsPlus": 59,
-  "mpg": 20.7,
+  "mpg": 20.6,
   "position": "F-G",
   "jersey": "2",
   "usgPct": 14.8,
-  "tsPct": 58.4,
+  "tsPct": 59.1,
   "gameLog": [
     {
       "date": "2025-10-31",
@@ -19,7 +19,7 @@
       "result": "L",
       "min": 25,
       "pts": 8,
-      "adjPts": 8.3,
+      "adjPts": 8.2,
       "pointsPlus": 66
     },
     {
@@ -38,7 +38,7 @@
       "min": 12,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 65
+      "pointsPlus": 64
     },
     {
       "date": "2025-11-18",
@@ -101,7 +101,7 @@
       "min": 32,
       "pts": 22,
       "adjPts": 22.6,
-      "pointsPlus": 181
+      "pointsPlus": 182
     },
     {
       "date": "2026-01-08",
@@ -210,6 +210,15 @@
       "pts": 8,
       "adjPts": 8.1,
       "pointsPlus": 65
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "MEM @ DEN",
+      "result": "L",
+      "min": 18,
+      "pts": 8,
+      "adjPts": 8.0,
+      "pointsPlus": 64
     }
   ]
 }

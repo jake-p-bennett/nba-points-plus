@@ -2,16 +2,16 @@
   "id": 1641854,
   "name": "Craig Porter Jr.",
   "team": "CLE",
-  "rank": 298,
-  "gp": 48,
-  "ppg": 4.8,
-  "adjPpg": 4.8,
-  "pointsPlus": 38,
+  "rank": 301,
+  "gp": 49,
+  "ppg": 4.7,
+  "adjPpg": 4.7,
+  "pointsPlus": 37,
   "mpg": 17.8,
   "position": "G",
   "jersey": "9",
   "usgPct": 11.9,
-  "tsPct": 53.6,
+  "tsPct": 52.9,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -119,7 +119,7 @@
       "min": 32,
       "pts": 19,
       "adjPts": 18.6,
-      "pointsPlus": 149
+      "pointsPlus": 150
     },
     {
       "date": "2025-11-13",
@@ -154,7 +154,7 @@
       "result": "L",
       "min": 26,
       "pts": 9,
-      "adjPts": 9.5,
+      "adjPts": 9.6,
       "pointsPlus": 77
     },
     {
@@ -416,7 +416,7 @@
       "min": 28,
       "pts": 3,
       "adjPts": 2.9,
-      "pointsPlus": 24
+      "pointsPlus": 23
     },
     {
       "date": "2026-02-04",
@@ -441,6 +441,15 @@
       "matchup": "CLE @ DEN",
       "result": "W",
       "min": 9,
+      "pts": 0,
+      "adjPts": 0.0,
+      "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "CLE vs. WAS",
+      "result": "W",
+      "min": 18,
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0

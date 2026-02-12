@@ -2,7 +2,7 @@
   "id": 1629004,
   "name": "Svi Mykhailiuk",
   "team": "UTA",
-  "rank": 199,
+  "rank": 200,
   "gp": 44,
   "ppg": 8.9,
   "adjPpg": 9.0,
@@ -19,7 +19,7 @@
       "result": "W",
       "min": 24,
       "pts": 9,
-      "adjPts": 9.2,
+      "adjPts": 9.3,
       "pointsPlus": 74
     },
     {
@@ -37,7 +37,7 @@
       "result": "W",
       "min": 37,
       "pts": 11,
-      "adjPts": 11.4,
+      "adjPts": 11.3,
       "pointsPlus": 91
     },
     {
@@ -82,7 +82,7 @@
       "result": "L",
       "min": 36,
       "pts": 28,
-      "adjPts": 29.5,
+      "adjPts": 29.6,
       "pointsPlus": 237
     },
     {
@@ -127,7 +127,7 @@
       "result": "W",
       "min": 29,
       "pts": 10,
-      "adjPts": 9.6,
+      "adjPts": 9.5,
       "pointsPlus": 77
     },
     {
@@ -298,8 +298,8 @@
       "result": "L",
       "min": 28,
       "pts": 10,
-      "adjPts": 10.2,
-      "pointsPlus": 82
+      "adjPts": 10.1,
+      "pointsPlus": 81
     },
     {
       "date": "2026-01-05",
@@ -308,7 +308,7 @@
       "min": 20,
       "pts": 8,
       "adjPts": 7.8,
-      "pointsPlus": 63
+      "pointsPlus": 62
     },
     {
       "date": "2026-01-07",
@@ -325,7 +325,7 @@
       "result": "W",
       "min": 26,
       "pts": 11,
-      "adjPts": 10.9,
+      "adjPts": 11.0,
       "pointsPlus": 88
     },
     {
@@ -361,7 +361,7 @@
       "result": "L",
       "min": 17,
       "pts": 8,
-      "adjPts": 7.8,
+      "adjPts": 7.9,
       "pointsPlus": 63
     },
     {

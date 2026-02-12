@@ -3,15 +3,15 @@
   "name": "DeMar DeRozan",
   "team": "SAC",
   "rank": 53,
-  "gp": 55,
+  "gp": 56,
   "ppg": 18.7,
   "adjPpg": 18.8,
   "pointsPlus": 151,
   "mpg": 32.5,
   "position": "G-F",
   "jersey": "10",
-  "usgPct": 21.5,
-  "tsPct": 59.5,
+  "usgPct": 21.6,
+  "tsPct": 59.2,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -19,8 +19,8 @@
       "result": "L",
       "min": 37,
       "pts": 29,
-      "adjPts": 30.0,
-      "pointsPlus": 240
+      "adjPts": 29.8,
+      "pointsPlus": 239
     },
     {
       "date": "2025-10-24",
@@ -28,7 +28,7 @@
       "result": "W",
       "min": 37,
       "pts": 7,
-      "adjPts": 6.4,
+      "adjPts": 6.5,
       "pointsPlus": 52
     },
     {
@@ -56,7 +56,7 @@
       "min": 35,
       "pts": 19,
       "adjPts": 18.1,
-      "pointsPlus": 146
+      "pointsPlus": 145
     },
     {
       "date": "2025-11-01",
@@ -82,8 +82,8 @@
       "result": "W",
       "min": 36,
       "pts": 25,
-      "adjPts": 25.4,
-      "pointsPlus": 204
+      "adjPts": 25.3,
+      "pointsPlus": 203
     },
     {
       "date": "2025-11-07",
@@ -146,7 +146,7 @@
       "min": 35,
       "pts": 17,
       "adjPts": 18.3,
-      "pointsPlus": 147
+      "pointsPlus": 146
     },
     {
       "date": "2025-11-20",
@@ -190,7 +190,7 @@
       "result": "L",
       "min": 36,
       "pts": 16,
-      "adjPts": 14.7,
+      "adjPts": 14.8,
       "pointsPlus": 118
     },
     {
@@ -217,7 +217,7 @@
       "result": "W",
       "min": 40,
       "pts": 13,
-      "adjPts": 12.7,
+      "adjPts": 12.8,
       "pointsPlus": 102
     },
     {
@@ -253,8 +253,8 @@
       "result": "L",
       "min": 35,
       "pts": 33,
-      "adjPts": 32.2,
-      "pointsPlus": 259
+      "adjPts": 32.1,
+      "pointsPlus": 258
     },
     {
       "date": "2025-12-20",
@@ -262,8 +262,8 @@
       "result": "L",
       "min": 35,
       "pts": 15,
-      "adjPts": 14.7,
-      "pointsPlus": 118
+      "adjPts": 14.6,
+      "pointsPlus": 117
     },
     {
       "date": "2025-12-21",
@@ -271,7 +271,7 @@
       "result": "W",
       "min": 40,
       "pts": 27,
-      "adjPts": 28.6,
+      "adjPts": 28.7,
       "pointsPlus": 230
     },
     {
@@ -280,8 +280,8 @@
       "result": "L",
       "min": 42,
       "pts": 37,
-      "adjPts": 39.0,
-      "pointsPlus": 313
+      "adjPts": 39.1,
+      "pointsPlus": 314
     },
     {
       "date": "2025-12-27",
@@ -326,7 +326,7 @@
       "min": 30,
       "pts": 13,
       "adjPts": 13.4,
-      "pointsPlus": 108
+      "pointsPlus": 107
     },
     {
       "date": "2026-01-04",
@@ -352,8 +352,8 @@
       "result": "L",
       "min": 35,
       "pts": 24,
-      "adjPts": 24.4,
-      "pointsPlus": 196
+      "adjPts": 24.3,
+      "pointsPlus": 195
     },
     {
       "date": "2026-01-11",
@@ -361,7 +361,7 @@
       "result": "W",
       "min": 37,
       "pts": 22,
-      "adjPts": 23.3,
+      "adjPts": 23.4,
       "pointsPlus": 187
     },
     {
@@ -379,7 +379,7 @@
       "result": "W",
       "min": 41,
       "pts": 27,
-      "adjPts": 27.8,
+      "adjPts": 27.9,
       "pointsPlus": 223
     },
     {
@@ -389,7 +389,7 @@
       "min": 33,
       "pts": 17,
       "adjPts": 15.9,
-      "pointsPlus": 128
+      "pointsPlus": 127
     },
     {
       "date": "2026-01-18",
@@ -397,8 +397,8 @@
       "result": "L",
       "min": 35,
       "pts": 14,
-      "adjPts": 13.7,
-      "pointsPlus": 110
+      "adjPts": 13.6,
+      "pointsPlus": 109
     },
     {
       "date": "2026-01-20",
@@ -406,7 +406,7 @@
       "result": "L",
       "min": 35,
       "pts": 23,
-      "adjPts": 22.5,
+      "adjPts": 22.6,
       "pointsPlus": 181
     },
     {
@@ -434,7 +434,7 @@
       "min": 19,
       "pts": 16,
       "adjPts": 16.9,
-      "pointsPlus": 135
+      "pointsPlus": 136
     },
     {
       "date": "2026-01-27",
@@ -442,7 +442,7 @@
       "result": "L",
       "min": 39,
       "pts": 34,
-      "adjPts": 35.0,
+      "adjPts": 35.1,
       "pointsPlus": 281
     },
     {
@@ -452,7 +452,7 @@
       "min": 38,
       "pts": 25,
       "adjPts": 25.2,
-      "pointsPlus": 203
+      "pointsPlus": 202
     },
     {
       "date": "2026-01-30",
@@ -469,8 +469,8 @@
       "result": "L",
       "min": 33,
       "pts": 32,
-      "adjPts": 30.0,
-      "pointsPlus": 241
+      "adjPts": 29.9,
+      "pointsPlus": 240
     },
     {
       "date": "2026-02-04",
@@ -479,7 +479,7 @@
       "min": 28,
       "pts": 20,
       "adjPts": 19.6,
-      "pointsPlus": 158
+      "pointsPlus": 157
     },
     {
       "date": "2026-02-06",
@@ -507,6 +507,15 @@
       "pts": 8,
       "adjPts": 7.7,
       "pointsPlus": 62
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "SAC @ UTA",
+      "result": "L",
+      "min": 29,
+      "pts": 20,
+      "adjPts": 18.5,
+      "pointsPlus": 148
     }
   ]
 }

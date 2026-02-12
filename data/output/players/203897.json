@@ -2,7 +2,7 @@
   "id": 203897,
   "name": "Zach LaVine",
   "team": "SAC",
-  "rank": 50,
+  "rank": 49,
   "gp": 39,
   "ppg": 19.2,
   "adjPpg": 19.1,
@@ -19,8 +19,8 @@
       "result": "L",
       "min": 35,
       "pts": 30,
-      "adjPts": 31.0,
-      "pointsPlus": 249
+      "adjPts": 30.9,
+      "pointsPlus": 248
     },
     {
       "date": "2025-10-24",
@@ -28,8 +28,8 @@
       "result": "W",
       "min": 37,
       "pts": 31,
-      "adjPts": 28.5,
-      "pointsPlus": 229
+      "adjPts": 28.6,
+      "pointsPlus": 230
     },
     {
       "date": "2025-10-26",
@@ -55,7 +55,7 @@
       "result": "L",
       "min": 36,
       "pts": 30,
-      "adjPts": 28.7,
+      "adjPts": 28.6,
       "pointsPlus": 230
     },
     {
@@ -137,7 +137,7 @@
       "min": 26,
       "pts": 26,
       "adjPts": 25.5,
-      "pointsPlus": 205
+      "pointsPlus": 204
     },
     {
       "date": "2025-11-22",
@@ -164,7 +164,7 @@
       "min": 32,
       "pts": 13,
       "adjPts": 13.4,
-      "pointsPlus": 108
+      "pointsPlus": 107
     },
     {
       "date": "2025-11-28",
@@ -172,8 +172,8 @@
       "result": "L",
       "min": 39,
       "pts": 34,
-      "adjPts": 31.3,
-      "pointsPlus": 251
+      "adjPts": 31.4,
+      "pointsPlus": 252
     },
     {
       "date": "2025-11-30",
@@ -181,8 +181,8 @@
       "result": "L",
       "min": 35,
       "pts": 19,
-      "adjPts": 18.7,
-      "pointsPlus": 150
+      "adjPts": 18.6,
+      "pointsPlus": 149
     },
     {
       "date": "2025-12-03",
@@ -200,7 +200,7 @@
       "min": 39,
       "pts": 42,
       "adjPts": 41.2,
-      "pointsPlus": 330
+      "pointsPlus": 331
     },
     {
       "date": "2025-12-08",
@@ -217,7 +217,7 @@
       "result": "L",
       "min": 16,
       "pts": 10,
-      "adjPts": 10.0,
+      "adjPts": 10.1,
       "pointsPlus": 81
     },
     {
@@ -271,8 +271,8 @@
       "result": "W",
       "min": 36,
       "pts": 25,
-      "adjPts": 25.7,
-      "pointsPlus": 206
+      "adjPts": 25.8,
+      "pointsPlus": 207
     },
     {
       "date": "2026-01-16",
@@ -289,7 +289,7 @@
       "result": "L",
       "min": 29,
       "pts": 18,
-      "adjPts": 17.6,
+      "adjPts": 17.5,
       "pointsPlus": 141
     },
     {
@@ -298,7 +298,7 @@
       "result": "L",
       "min": 22,
       "pts": 18,
-      "adjPts": 17.6,
+      "adjPts": 17.7,
       "pointsPlus": 142
     },
     {
@@ -325,8 +325,8 @@
       "result": "L",
       "min": 29,
       "pts": 17,
-      "adjPts": 17.2,
-      "pointsPlus": 138
+      "adjPts": 17.1,
+      "pointsPlus": 137
     },
     {
       "date": "2026-01-30",
@@ -343,8 +343,8 @@
       "result": "L",
       "min": 35,
       "pts": 35,
-      "adjPts": 32.8,
-      "pointsPlus": 263
+      "adjPts": 32.7,
+      "pointsPlus": 262
     },
     {
       "date": "2026-02-04",
@@ -353,7 +353,7 @@
       "min": 22,
       "pts": 11,
       "adjPts": 10.8,
-      "pointsPlus": 87
+      "pointsPlus": 86
     },
     {
       "date": "2026-02-06",
@@ -362,7 +362,7 @@
       "min": 18,
       "pts": 6,
       "adjPts": 6.2,
-      "pointsPlus": 49
+      "pointsPlus": 50
     }
   ]
 }

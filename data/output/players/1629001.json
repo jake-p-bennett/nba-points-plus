@@ -2,16 +2,16 @@
   "id": 1629001,
   "name": "De'Anthony Melton",
   "team": "GSW",
-  "rank": 155,
-  "gp": 27,
-  "ppg": 11.5,
-  "adjPpg": 11.4,
-  "pointsPlus": 92,
-  "mpg": 21.7,
+  "rank": 148,
+  "gp": 28,
+  "ppg": 11.7,
+  "adjPpg": 11.6,
+  "pointsPlus": 93,
+  "mpg": 21.8,
   "position": "G",
   "jersey": "8",
-  "usgPct": 24.4,
-  "tsPct": 52.0,
+  "usgPct": 24.0,
+  "tsPct": 53.6,
   "gameLog": [
     {
       "date": "2025-12-04",
@@ -29,7 +29,7 @@
       "min": 17,
       "pts": 13,
       "adjPts": 12.4,
-      "pointsPlus": 100
+      "pointsPlus": 99
     },
     {
       "date": "2025-12-12",
@@ -154,7 +154,7 @@
       "result": "W",
       "min": 18,
       "pts": 23,
-      "adjPts": 22.5,
+      "adjPts": 22.4,
       "pointsPlus": 180
     },
     {
@@ -163,7 +163,7 @@
       "result": "W",
       "min": 23,
       "pts": 5,
-      "adjPts": 5.1,
+      "adjPts": 5.2,
       "pointsPlus": 41
     },
     {
@@ -173,7 +173,7 @@
       "min": 21,
       "pts": 24,
       "adjPts": 24.4,
-      "pointsPlus": 196
+      "pointsPlus": 195
     },
     {
       "date": "2026-01-20",
@@ -191,7 +191,7 @@
       "min": 23,
       "pts": 22,
       "adjPts": 21.8,
-      "pointsPlus": 175
+      "pointsPlus": 174
     },
     {
       "date": "2026-01-25",
@@ -208,7 +208,7 @@
       "result": "W",
       "min": 23,
       "pts": 12,
-      "adjPts": 11.0,
+      "adjPts": 11.1,
       "pointsPlus": 89
     },
     {
@@ -218,7 +218,7 @@
       "min": 26,
       "pts": 18,
       "adjPts": 19.0,
-      "pointsPlus": 152
+      "pointsPlus": 153
     },
     {
       "date": "2026-02-03",
@@ -235,8 +235,8 @@
       "result": "W",
       "min": 25,
       "pts": 17,
-      "adjPts": 17.6,
-      "pointsPlus": 141
+      "adjPts": 17.5,
+      "pointsPlus": 140
     },
     {
       "date": "2026-02-07",
@@ -255,6 +255,15 @@
       "pts": 10,
       "adjPts": 9.8,
       "pointsPlus": 79
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "GSW vs. SAS",
+      "result": "L",
+      "min": 25,
+      "pts": 17,
+      "adjPts": 17.5,
+      "pointsPlus": 140
     }
   ]
 }

@@ -2,16 +2,16 @@
   "id": 1642366,
   "name": "Quinten Post",
   "team": "GSW",
-  "rank": 236,
-  "gp": 54,
-  "ppg": 7.6,
-  "adjPpg": 7.6,
+  "rank": 234,
+  "gp": 55,
+  "ppg": 7.7,
+  "adjPpg": 7.7,
   "pointsPlus": 61,
-  "mpg": 17.2,
+  "mpg": 17.1,
   "position": "C",
   "jersey": "21",
-  "usgPct": 18.0,
-  "tsPct": 56.1,
+  "usgPct": 18.1,
+  "tsPct": 56.7,
   "gameLog": [
     {
       "date": "2025-10-21",
@@ -82,7 +82,7 @@
       "result": "W",
       "min": 27,
       "pts": 14,
-      "adjPts": 14.5,
+      "adjPts": 14.4,
       "pointsPlus": 116
     },
     {
@@ -164,7 +164,7 @@
       "min": 26,
       "pts": 19,
       "adjPts": 18.6,
-      "pointsPlus": 149
+      "pointsPlus": 150
     },
     {
       "date": "2025-11-21",
@@ -182,7 +182,7 @@
       "min": 28,
       "pts": 9,
       "adjPts": 8.3,
-      "pointsPlus": 66
+      "pointsPlus": 67
     },
     {
       "date": "2025-11-26",
@@ -236,7 +236,7 @@
       "min": 26,
       "pts": 19,
       "adjPts": 18.1,
-      "pointsPlus": 146
+      "pointsPlus": 145
     },
     {
       "date": "2025-12-12",
@@ -263,7 +263,7 @@
       "min": 27,
       "pts": 9,
       "adjPts": 9.3,
-      "pointsPlus": 75
+      "pointsPlus": 74
     },
     {
       "date": "2025-12-20",
@@ -380,7 +380,7 @@
       "min": 14,
       "pts": 3,
       "adjPts": 2.9,
-      "pointsPlus": 24
+      "pointsPlus": 23
     },
     {
       "date": "2026-01-15",
@@ -388,7 +388,7 @@
       "result": "W",
       "min": 12,
       "pts": 5,
-      "adjPts": 5.1,
+      "adjPts": 5.2,
       "pointsPlus": 41
     },
     {
@@ -498,6 +498,15 @@
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "GSW vs. SAS",
+      "result": "L",
+      "min": 13,
+      "pts": 12,
+      "adjPts": 12.3,
+      "pointsPlus": 99
     }
   ]
 }

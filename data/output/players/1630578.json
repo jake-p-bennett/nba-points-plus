@@ -3,15 +3,15 @@
   "name": "Alperen Sengun",
   "team": "HOU",
   "rank": 36,
-  "gp": 45,
-  "ppg": 20.8,
-  "adjPpg": 20.8,
-  "pointsPlus": 167,
-  "mpg": 34.0,
+  "gp": 46,
+  "ppg": 20.7,
+  "adjPpg": 20.7,
+  "pointsPlus": 166,
+  "mpg": 33.9,
   "position": "C",
   "jersey": "28",
-  "usgPct": 26.4,
-  "tsPct": 55.4,
+  "usgPct": 26.5,
+  "tsPct": 55.2,
   "gameLog": [
     {
       "date": "2025-10-21",
@@ -28,7 +28,7 @@
       "result": "L",
       "min": 38,
       "pts": 17,
-      "adjPts": 17.9,
+      "adjPts": 18.0,
       "pointsPlus": 144
     },
     {
@@ -55,7 +55,7 @@
       "result": "W",
       "min": 31,
       "pts": 16,
-      "adjPts": 17.0,
+      "adjPts": 17.1,
       "pointsPlus": 137
     },
     {
@@ -74,7 +74,7 @@
       "min": 35,
       "pts": 20,
       "adjPts": 19.6,
-      "pointsPlus": 158
+      "pointsPlus": 157
     },
     {
       "date": "2025-11-07",
@@ -110,7 +110,7 @@
       "min": 36,
       "pts": 25,
       "adjPts": 24.4,
-      "pointsPlus": 196
+      "pointsPlus": 195
     },
     {
       "date": "2025-11-16",
@@ -118,7 +118,7 @@
       "result": "W",
       "min": 45,
       "pts": 30,
-      "adjPts": 30.1,
+      "adjPts": 30.0,
       "pointsPlus": 241
     },
     {
@@ -145,7 +145,7 @@
       "result": "W",
       "min": 35,
       "pts": 18,
-      "adjPts": 18.6,
+      "adjPts": 18.5,
       "pointsPlus": 149
     },
     {
@@ -154,8 +154,8 @@
       "result": "W",
       "min": 35,
       "pts": 16,
-      "adjPts": 16.3,
-      "pointsPlus": 131
+      "adjPts": 16.2,
+      "pointsPlus": 130
     },
     {
       "date": "2025-11-30",
@@ -163,8 +163,8 @@
       "result": "W",
       "min": 28,
       "pts": 27,
-      "adjPts": 24.8,
-      "pointsPlus": 199
+      "adjPts": 24.9,
+      "pointsPlus": 200
     },
     {
       "date": "2025-12-01",
@@ -172,8 +172,8 @@
       "result": "L",
       "min": 38,
       "pts": 31,
-      "adjPts": 28.5,
-      "pointsPlus": 229
+      "adjPts": 28.6,
+      "pointsPlus": 230
     },
     {
       "date": "2025-12-03",
@@ -191,7 +191,7 @@
       "min": 36,
       "pts": 22,
       "adjPts": 22.6,
-      "pointsPlus": 181
+      "pointsPlus": 182
     },
     {
       "date": "2025-12-15",
@@ -199,8 +199,8 @@
       "result": "L",
       "min": 42,
       "pts": 33,
-      "adjPts": 33.0,
-      "pointsPlus": 265
+      "adjPts": 32.9,
+      "pointsPlus": 264
     },
     {
       "date": "2025-12-18",
@@ -209,7 +209,7 @@
       "min": 36,
       "pts": 28,
       "adjPts": 27.0,
-      "pointsPlus": 217
+      "pointsPlus": 216
     },
     {
       "date": "2025-12-20",
@@ -235,7 +235,7 @@
       "result": "L",
       "min": 28,
       "pts": 19,
-      "adjPts": 19.5,
+      "adjPts": 19.6,
       "pointsPlus": 157
     },
     {
@@ -254,7 +254,7 @@
       "min": 34,
       "pts": 20,
       "adjPts": 20.1,
-      "pointsPlus": 162
+      "pointsPlus": 161
     },
     {
       "date": "2026-01-03",
@@ -280,7 +280,7 @@
       "result": "W",
       "min": 36,
       "pts": 23,
-      "adjPts": 22.0,
+      "adjPts": 21.9,
       "pointsPlus": 176
     },
     {
@@ -334,7 +334,7 @@
       "result": "W",
       "min": 30,
       "pts": 19,
-      "adjPts": 20.0,
+      "adjPts": 20.1,
       "pointsPlus": 161
     },
     {
@@ -344,7 +344,7 @@
       "min": 34,
       "pts": 33,
       "adjPts": 32.4,
-      "pointsPlus": 260
+      "pointsPlus": 259
     },
     {
       "date": "2026-01-28",
@@ -379,7 +379,7 @@
       "result": "W",
       "min": 35,
       "pts": 39,
-      "adjPts": 37.9,
+      "adjPts": 38.0,
       "pointsPlus": 305
     },
     {
@@ -388,7 +388,7 @@
       "result": "L",
       "min": 31,
       "pts": 13,
-      "adjPts": 13.8,
+      "adjPts": 13.9,
       "pointsPlus": 111
     },
     {
@@ -407,7 +407,7 @@
       "min": 37,
       "pts": 17,
       "adjPts": 18.3,
-      "pointsPlus": 147
+      "pointsPlus": 146
     },
     {
       "date": "2026-02-10",
@@ -416,7 +416,16 @@
       "min": 35,
       "pts": 22,
       "adjPts": 22.6,
-      "pointsPlus": 181
+      "pointsPlus": 182
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "HOU vs. LAC",
+      "result": "L",
+      "min": 29,
+      "pts": 16,
+      "adjPts": 16.5,
+      "pointsPlus": 132
     }
   ]
 }

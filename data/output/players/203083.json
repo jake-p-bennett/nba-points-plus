@@ -2,12 +2,12 @@
   "id": 203083,
   "name": "Andre Drummond",
   "team": "PHI",
-  "rank": 245,
-  "gp": 39,
-  "ppg": 7.0,
-  "adjPpg": 7.1,
-  "pointsPlus": 57,
-  "mpg": 20.1,
+  "rank": 248,
+  "gp": 40,
+  "ppg": 6.9,
+  "adjPpg": 7.0,
+  "pointsPlus": 56,
+  "mpg": 19.8,
   "position": "C",
   "jersey": "1",
   "usgPct": 14.7,
@@ -91,7 +91,7 @@
       "result": "L",
       "min": 35,
       "pts": 17,
-      "adjPts": 17.9,
+      "adjPts": 18.0,
       "pointsPlus": 144
     },
     {
@@ -119,7 +119,7 @@
       "min": 38,
       "pts": 14,
       "adjPts": 14.4,
-      "pointsPlus": 115
+      "pointsPlus": 116
     },
     {
       "date": "2025-11-19",
@@ -290,7 +290,7 @@
       "min": 12,
       "pts": 11,
       "adjPts": 10.3,
-      "pointsPlus": 83
+      "pointsPlus": 82
     },
     {
       "date": "2026-01-09",
@@ -325,7 +325,7 @@
       "result": "L",
       "min": 22,
       "pts": 8,
-      "adjPts": 8.3,
+      "adjPts": 8.2,
       "pointsPlus": 66
     },
     {
@@ -363,6 +363,15 @@
       "pts": 11,
       "adjPts": 10.7,
       "pointsPlus": 86
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "PHI vs. NYK",
+      "result": "L",
+      "min": 11,
+      "pts": 2,
+      "adjPts": 2.1,
+      "pointsPlus": 17
     }
   ]
 }

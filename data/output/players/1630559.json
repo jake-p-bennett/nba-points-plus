@@ -2,7 +2,7 @@
   "id": 1630559,
   "name": "Austin Reaves",
   "team": "LAL",
-  "rank": 16,
+  "rank": 15,
   "gp": 27,
   "ppg": 25.7,
   "adjPpg": 25.7,
@@ -20,7 +20,7 @@
       "min": 36,
       "pts": 26,
       "adjPts": 26.4,
-      "pointsPlus": 212
+      "pointsPlus": 211
     },
     {
       "date": "2025-10-24",
@@ -46,8 +46,8 @@
       "result": "L",
       "min": 39,
       "pts": 41,
-      "adjPts": 40.1,
-      "pointsPlus": 322
+      "adjPts": 39.9,
+      "pointsPlus": 320
     },
     {
       "date": "2025-10-29",
@@ -83,7 +83,7 @@
       "min": 29,
       "pts": 24,
       "adjPts": 24.4,
-      "pointsPlus": 196
+      "pointsPlus": 195
     },
     {
       "date": "2025-11-12",
@@ -101,7 +101,7 @@
       "min": 39,
       "pts": 31,
       "adjPts": 29.9,
-      "pointsPlus": 240
+      "pointsPlus": 239
     },
     {
       "date": "2025-11-15",
@@ -118,8 +118,8 @@
       "result": "W",
       "min": 33,
       "pts": 26,
-      "adjPts": 23.9,
-      "pointsPlus": 192
+      "adjPts": 24.0,
+      "pointsPlus": 193
     },
     {
       "date": "2025-11-23",
@@ -127,8 +127,8 @@
       "result": "W",
       "min": 40,
       "pts": 22,
-      "adjPts": 20.2,
-      "pointsPlus": 162
+      "adjPts": 20.3,
+      "pointsPlus": 163
     },
     {
       "date": "2025-11-25",
@@ -136,7 +136,7 @@
       "result": "W",
       "min": 35,
       "pts": 31,
-      "adjPts": 31.8,
+      "adjPts": 31.9,
       "pointsPlus": 256
     },
     {
@@ -146,7 +146,7 @@
       "min": 41,
       "pts": 38,
       "adjPts": 37.6,
-      "pointsPlus": 302
+      "pointsPlus": 301
     },
     {
       "date": "2025-11-30",
@@ -164,7 +164,7 @@
       "min": 33,
       "pts": 16,
       "adjPts": 16.5,
-      "pointsPlus": 133
+      "pointsPlus": 132
     },
     {
       "date": "2025-12-04",
@@ -181,7 +181,7 @@
       "result": "L",
       "min": 33,
       "pts": 36,
-      "adjPts": 38.3,
+      "adjPts": 38.4,
       "pointsPlus": 308
     },
     {
@@ -208,8 +208,8 @@
       "result": "L",
       "min": 22,
       "pts": 17,
-      "adjPts": 17.6,
-      "pointsPlus": 141
+      "adjPts": 17.5,
+      "pointsPlus": 140
     },
     {
       "date": "2025-12-25",
@@ -235,8 +235,8 @@
       "result": "W",
       "min": 25,
       "pts": 35,
-      "adjPts": 35.3,
-      "pointsPlus": 284
+      "adjPts": 35.2,
+      "pointsPlus": 283
     },
     {
       "date": "2026-02-07",
@@ -244,8 +244,8 @@
       "result": "W",
       "min": 24,
       "pts": 16,
-      "adjPts": 16.3,
-      "pointsPlus": 131
+      "adjPts": 16.2,
+      "pointsPlus": 130
     },
     {
       "date": "2026-02-09",

@@ -2,16 +2,16 @@
   "id": 1630631,
   "name": "Jose Alvarado",
   "team": "NYK",
-  "rank": 224,
-  "gp": 43,
-  "ppg": 7.9,
-  "adjPpg": 8.0,
-  "pointsPlus": 64,
-  "mpg": 21.9,
+  "rank": 214,
+  "gp": 44,
+  "ppg": 8.3,
+  "adjPpg": 8.4,
+  "pointsPlus": 67,
+  "mpg": 21.8,
   "position": "G",
   "jersey": "5",
-  "usgPct": 15.7,
-  "tsPct": 55.0,
+  "usgPct": 16.1,
+  "tsPct": 56.6,
   "gameLog": [
     {
       "date": "2025-10-24",
@@ -91,7 +91,7 @@
       "result": "L",
       "min": 23,
       "pts": 8,
-      "adjPts": 8.3,
+      "adjPts": 8.2,
       "pointsPlus": 66
     },
     {
@@ -119,7 +119,7 @@
       "min": 25,
       "pts": 18,
       "adjPts": 18.3,
-      "pointsPlus": 147
+      "pointsPlus": 146
     },
     {
       "date": "2025-11-17",
@@ -164,7 +164,7 @@
       "min": 32,
       "pts": 16,
       "adjPts": 15.3,
-      "pointsPlus": 123
+      "pointsPlus": 122
     },
     {
       "date": "2025-11-26",
@@ -172,7 +172,7 @@
       "result": "L",
       "min": 27,
       "pts": 24,
-      "adjPts": 23.6,
+      "adjPts": 23.5,
       "pointsPlus": 189
     },
     {
@@ -289,7 +289,7 @@
       "result": "L",
       "min": 25,
       "pts": 11,
-      "adjPts": 11.4,
+      "adjPts": 11.3,
       "pointsPlus": 91
     },
     {
@@ -353,7 +353,7 @@
       "min": 23,
       "pts": 11,
       "adjPts": 10.8,
-      "pointsPlus": 87
+      "pointsPlus": 86
     },
     {
       "date": "2026-01-31",
@@ -399,6 +399,15 @@
       "pts": 4,
       "adjPts": 3.9,
       "pointsPlus": 31
+    },
+    {
+      "date": "2026-02-11",
+      "matchup": "NYK @ PHI",
+      "result": "W",
+      "min": 19,
+      "pts": 26,
+      "adjPts": 26.2,
+      "pointsPlus": 210
     }
   ]
 }
