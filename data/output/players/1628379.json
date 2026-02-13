@@ -2,18 +2,18 @@
   "id": 1628379,
   "name": "Luke Kennard",
   "team": "LAL",
-  "rank": 222,
-  "gp": 49,
+  "rank": 220,
+  "gp": 50,
   "ppg": 8.1,
   "adjPpg": 8.1,
   "pointsPlus": 65,
-  "mpg": 20.9,
+  "mpg": 20.8,
   "position": "G",
   "jersey": "10",
   "usgPct": 12.5,
-  "tsPct": 71.4,
-  "pointsPlusStdDev": 41.5,
-  "volatilityPctile": 30,
+  "tsPct": 71.7,
+  "pointsPlusStdDev": 41.2,
+  "volatilityPctile": 29,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -157,7 +157,7 @@
       "min": 15,
       "pts": 9,
       "adjPts": 8.4,
-      "pointsPlus": 67
+      "pointsPlus": 68
     },
     {
       "date": "2025-11-28",
@@ -211,7 +211,7 @@
       "min": 23,
       "pts": 15,
       "adjPts": 14.0,
-      "pointsPlus": 112
+      "pointsPlus": 113
     },
     {
       "date": "2025-12-12",
@@ -319,7 +319,7 @@
       "min": 22,
       "pts": 13,
       "adjPts": 12.5,
-      "pointsPlus": 100
+      "pointsPlus": 101
     },
     {
       "date": "2026-01-09",
@@ -427,7 +427,7 @@
       "min": 23,
       "pts": 12,
       "adjPts": 11.8,
-      "pointsPlus": 94
+      "pointsPlus": 95
     },
     {
       "date": "2026-02-07",
@@ -455,6 +455,15 @@
       "pts": 14,
       "adjPts": 14.4,
       "pointsPlus": 115
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "LAL vs. DAL",
+      "result": "W",
+      "min": 18,
+      "pts": 9,
+      "adjPts": 8.9,
+      "pointsPlus": 71
     }
   ]
 }

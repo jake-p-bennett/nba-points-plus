@@ -2,11 +2,11 @@
   "id": 203471,
   "name": "Dennis Schr\u00f6der",
   "team": "CLE",
-  "rank": 135,
+  "rank": 136,
   "gp": 44,
   "ppg": 12.3,
   "adjPpg": 12.4,
-  "pointsPlus": 99,
+  "pointsPlus": 100,
   "mpg": 25.8,
   "position": "G",
   "jersey": "8",
@@ -40,7 +40,7 @@
       "min": 35,
       "pts": 18,
       "adjPts": 17.8,
-      "pointsPlus": 142
+      "pointsPlus": 143
     },
     {
       "date": "2025-10-28",
@@ -66,8 +66,8 @@
       "result": "W",
       "min": 37,
       "pts": 24,
-      "adjPts": 24.0,
-      "pointsPlus": 192
+      "adjPts": 24.1,
+      "pointsPlus": 193
     },
     {
       "date": "2025-11-03",
@@ -84,8 +84,8 @@
       "result": "W",
       "min": 32,
       "pts": 18,
-      "adjPts": 18.3,
-      "pointsPlus": 146
+      "adjPts": 18.2,
+      "pointsPlus": 147
     },
     {
       "date": "2025-11-07",
@@ -147,7 +147,7 @@
       "result": "L",
       "min": 32,
       "pts": 21,
-      "adjPts": 22.6,
+      "adjPts": 22.5,
       "pointsPlus": 181
     },
     {
@@ -211,7 +211,7 @@
       "min": 32,
       "pts": 24,
       "adjPts": 25.5,
-      "pointsPlus": 204
+      "pointsPlus": 205
     },
     {
       "date": "2025-12-23",
@@ -274,7 +274,7 @@
       "min": 26,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2026-01-06",
@@ -301,7 +301,7 @@
       "min": 20,
       "pts": 15,
       "adjPts": 14.0,
-      "pointsPlus": 112
+      "pointsPlus": 113
     },
     {
       "date": "2026-01-18",
@@ -319,7 +319,7 @@
       "min": 19,
       "pts": 4,
       "adjPts": 3.9,
-      "pointsPlus": 31
+      "pointsPlus": 32
     },
     {
       "date": "2026-01-21",
@@ -328,7 +328,7 @@
       "min": 20,
       "pts": 16,
       "adjPts": 16.5,
-      "pointsPlus": 132
+      "pointsPlus": 133
     },
     {
       "date": "2026-01-23",
@@ -345,7 +345,7 @@
       "result": "L",
       "min": 25,
       "pts": 15,
-      "adjPts": 15.9,
+      "adjPts": 15.8,
       "pointsPlus": 127
     },
     {
@@ -409,7 +409,7 @@
       "min": 18,
       "pts": 7,
       "adjPts": 6.5,
-      "pointsPlus": 52
+      "pointsPlus": 53
     }
   ]
 }

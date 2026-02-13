@@ -12,7 +12,7 @@
   "jersey": "3",
   "usgPct": 16.3,
   "tsPct": 60.6,
-  "pointsPlusStdDev": 48.2,
+  "pointsPlusStdDev": 48.4,
   "volatilityPctile": 55,
   "gameLog": [
     {
@@ -112,7 +112,7 @@
       "min": 34,
       "pts": 12,
       "adjPts": 11.8,
-      "pointsPlus": 94
+      "pointsPlus": 95
     },
     {
       "date": "2025-11-17",
@@ -139,7 +139,7 @@
       "min": 29,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 96
+      "pointsPlus": 97
     },
     {
       "date": "2025-11-24",
@@ -157,7 +157,7 @@
       "min": 34,
       "pts": 22,
       "adjPts": 22.3,
-      "pointsPlus": 179
+      "pointsPlus": 180
     },
     {
       "date": "2025-11-28",
@@ -165,8 +165,8 @@
       "result": "W",
       "min": 40,
       "pts": 19,
-      "adjPts": 19.0,
-      "pointsPlus": 152
+      "adjPts": 19.1,
+      "pointsPlus": 153
     },
     {
       "date": "2025-11-30",
@@ -175,7 +175,7 @@
       "min": 35,
       "pts": 20,
       "adjPts": 20.6,
-      "pointsPlus": 165
+      "pointsPlus": 166
     },
     {
       "date": "2025-12-02",
@@ -184,7 +184,7 @@
       "min": 36,
       "pts": 19,
       "adjPts": 20.2,
-      "pointsPlus": 162
+      "pointsPlus": 163
     },
     {
       "date": "2025-12-03",
@@ -229,7 +229,7 @@
       "min": 31,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 96
+      "pointsPlus": 97
     },
     {
       "date": "2025-12-19",
@@ -346,7 +346,7 @@
       "min": 30,
       "pts": 20,
       "adjPts": 19.5,
-      "pointsPlus": 156
+      "pointsPlus": 157
     },
     {
       "date": "2026-02-01",
@@ -354,8 +354,8 @@
       "result": "W",
       "min": 36,
       "pts": 20,
-      "adjPts": 19.7,
-      "pointsPlus": 158
+      "adjPts": 19.8,
+      "pointsPlus": 159
     },
     {
       "date": "2026-02-03",
@@ -382,7 +382,7 @@
       "min": 26,
       "pts": 19,
       "adjPts": 20.2,
-      "pointsPlus": 162
+      "pointsPlus": 163
     },
     {
       "date": "2026-02-10",
@@ -400,7 +400,7 @@
       "min": 29,
       "pts": 6,
       "adjPts": 6.0,
-      "pointsPlus": 48
+      "pointsPlus": 49
     }
   ]
 }

@@ -3,17 +3,17 @@
   "name": "Jarred Vanderbilt",
   "team": "LAL",
   "rank": 295,
-  "gp": 44,
+  "gp": 45,
   "ppg": 5.1,
   "adjPpg": 5.1,
   "pointsPlus": 41,
   "mpg": 19.3,
   "position": "F",
   "jersey": "2",
-  "usgPct": 12.1,
-  "tsPct": 55.3,
-  "pointsPlusStdDev": 28.1,
-  "volatilityPctile": 5,
+  "usgPct": 12.0,
+  "tsPct": 55.7,
+  "pointsPlusStdDev": 27.9,
+  "volatilityPctile": 4,
   "gameLog": [
     {
       "date": "2025-10-21",
@@ -49,7 +49,7 @@
       "min": 28,
       "pts": 14,
       "adjPts": 13.6,
-      "pointsPlus": 109
+      "pointsPlus": 110
     },
     {
       "date": "2025-10-29",
@@ -76,7 +76,7 @@
       "min": 10,
       "pts": 4,
       "adjPts": 3.9,
-      "pointsPlus": 31
+      "pointsPlus": 32
     },
     {
       "date": "2025-11-03",
@@ -103,7 +103,7 @@
       "min": 28,
       "pts": 12,
       "adjPts": 11.7,
-      "pointsPlus": 93
+      "pointsPlus": 94
     },
     {
       "date": "2025-11-10",
@@ -202,7 +202,7 @@
       "min": 22,
       "pts": 5,
       "adjPts": 4.8,
-      "pointsPlus": 38
+      "pointsPlus": 39
     },
     {
       "date": "2025-12-30",
@@ -256,7 +256,7 @@
       "min": 27,
       "pts": 9,
       "adjPts": 9.0,
-      "pointsPlus": 72
+      "pointsPlus": 73
     },
     {
       "date": "2026-01-12",
@@ -373,7 +373,7 @@
       "min": 19,
       "pts": 6,
       "adjPts": 6.0,
-      "pointsPlus": 48
+      "pointsPlus": 49
     },
     {
       "date": "2026-02-05",
@@ -382,7 +382,7 @@
       "min": 23,
       "pts": 6,
       "adjPts": 6.0,
-      "pointsPlus": 48
+      "pointsPlus": 49
     },
     {
       "date": "2026-02-07",
@@ -410,6 +410,15 @@
       "pts": 6,
       "adjPts": 6.2,
       "pointsPlus": 49
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "LAL vs. DAL",
+      "result": "W",
+      "min": 17,
+      "pts": 5,
+      "adjPts": 4.9,
+      "pointsPlus": 40
     }
   ]
 }

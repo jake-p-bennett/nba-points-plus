@@ -2,7 +2,7 @@
   "id": 1642920,
   "name": "Kobe Sanders",
   "team": "LAC",
-  "rank": 253,
+  "rank": 254,
   "gp": 46,
   "ppg": 6.9,
   "adjPpg": 6.9,
@@ -13,7 +13,7 @@
   "usgPct": 15.3,
   "tsPct": 55.4,
   "pointsPlusStdDev": 41.4,
-  "volatilityPctile": 29,
+  "volatilityPctile": 30,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -103,7 +103,7 @@
       "min": 17,
       "pts": 6,
       "adjPts": 5.9,
-      "pointsPlus": 47
+      "pointsPlus": 48
     },
     {
       "date": "2025-11-28",
@@ -139,7 +139,7 @@
       "min": 27,
       "pts": 17,
       "adjPts": 16.5,
-      "pointsPlus": 132
+      "pointsPlus": 133
     },
     {
       "date": "2025-12-05",
@@ -192,7 +192,7 @@
       "result": "W",
       "min": 17,
       "pts": 4,
-      "adjPts": 3.9,
+      "adjPts": 4.0,
       "pointsPlus": 32
     },
     {
@@ -301,7 +301,7 @@
       "min": 26,
       "pts": 11,
       "adjPts": 10.3,
-      "pointsPlus": 82
+      "pointsPlus": 83
     },
     {
       "date": "2026-01-16",

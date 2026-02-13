@@ -2,7 +2,7 @@
   "id": 1631245,
   "name": "Quenton Jackson",
   "team": "IND",
-  "rank": 216,
+  "rank": 215,
   "gp": 26,
   "ppg": 8.3,
   "adjPpg": 8.4,
@@ -12,8 +12,8 @@
   "jersey": "29",
   "usgPct": 20.2,
   "tsPct": 61.2,
-  "pointsPlusStdDev": 50.7,
-  "volatilityPctile": 63,
+  "pointsPlusStdDev": 50.8,
+  "volatilityPctile": 64,
   "gameLog": [
     {
       "date": "2025-10-26",
@@ -49,7 +49,7 @@
       "min": 31,
       "pts": 25,
       "adjPts": 25.3,
-      "pointsPlus": 203
+      "pointsPlus": 204
     },
     {
       "date": "2025-11-03",
@@ -67,7 +67,7 @@
       "min": 8,
       "pts": 1,
       "adjPts": 0.9,
-      "pointsPlus": 7
+      "pointsPlus": 8
     },
     {
       "date": "2025-12-18",
@@ -121,7 +121,7 @@
       "min": 14,
       "pts": 4,
       "adjPts": 3.9,
-      "pointsPlus": 31
+      "pointsPlus": 32
     },
     {
       "date": "2025-12-29",
@@ -166,7 +166,7 @@
       "min": 15,
       "pts": 8,
       "adjPts": 8.5,
-      "pointsPlus": 68
+      "pointsPlus": 69
     },
     {
       "date": "2026-01-14",
@@ -202,7 +202,7 @@
       "min": 25,
       "pts": 6,
       "adjPts": 6.0,
-      "pointsPlus": 48
+      "pointsPlus": 49
     },
     {
       "date": "2026-01-21",
@@ -228,7 +228,7 @@
       "result": "L",
       "min": 17,
       "pts": 24,
-      "adjPts": 22.2,
+      "adjPts": 22.1,
       "pointsPlus": 178
     },
     {
@@ -238,7 +238,7 @@
       "min": 28,
       "pts": 19,
       "adjPts": 19.6,
-      "pointsPlus": 157
+      "pointsPlus": 158
     },
     {
       "date": "2026-02-11",

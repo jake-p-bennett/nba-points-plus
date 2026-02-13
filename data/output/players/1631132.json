@@ -2,7 +2,7 @@
   "id": 1631132,
   "name": "Christian Koloko",
   "team": "ATL",
-  "rank": 315,
+  "rank": 316,
   "gp": 20,
   "ppg": 2.8,
   "adjPpg": 2.8,
@@ -12,7 +12,7 @@
   "jersey": "10",
   "usgPct": 9.9,
   "tsPct": 44.7,
-  "pointsPlusStdDev": 22.7,
+  "pointsPlusStdDev": 22.8,
   "volatilityPctile": 1,
   "gameLog": [
     {
@@ -94,7 +94,7 @@
       "min": 13,
       "pts": 6,
       "adjPts": 5.9,
-      "pointsPlus": 47
+      "pointsPlus": 48
     },
     {
       "date": "2026-01-06",

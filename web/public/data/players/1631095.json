@@ -2,7 +2,7 @@
   "id": 1631095,
   "name": "Jabari Smith Jr.",
   "team": "HOU",
-  "rank": 86,
+  "rank": 87,
   "gp": 52,
   "ppg": 15.2,
   "adjPpg": 15.2,
@@ -12,7 +12,7 @@
   "jersey": "10",
   "usgPct": 17.5,
   "tsPct": 55.7,
-  "pointsPlusStdDev": 39.6,
+  "pointsPlusStdDev": 39.8,
   "volatilityPctile": 26,
   "gameLog": [
     {
@@ -85,7 +85,7 @@
       "min": 31,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 128
+      "pointsPlus": 129
     },
     {
       "date": "2025-11-12",
@@ -94,7 +94,7 @@
       "min": 30,
       "pts": 15,
       "adjPts": 14.0,
-      "pointsPlus": 112
+      "pointsPlus": 113
     },
     {
       "date": "2025-11-14",
@@ -139,7 +139,7 @@
       "min": 32,
       "pts": 17,
       "adjPts": 17.5,
-      "pointsPlus": 140
+      "pointsPlus": 141
     },
     {
       "date": "2025-11-26",
@@ -192,8 +192,8 @@
       "result": "L",
       "min": 41,
       "pts": 22,
-      "adjPts": 21.8,
-      "pointsPlus": 174
+      "adjPts": 21.7,
+      "pointsPlus": 175
     },
     {
       "date": "2025-12-11",
@@ -238,7 +238,7 @@
       "min": 36,
       "pts": 18,
       "adjPts": 17.3,
-      "pointsPlus": 138
+      "pointsPlus": 139
     },
     {
       "date": "2025-12-23",
@@ -301,7 +301,7 @@
       "min": 38,
       "pts": 17,
       "adjPts": 17.5,
-      "pointsPlus": 140
+      "pointsPlus": 141
     },
     {
       "date": "2026-01-07",
@@ -345,8 +345,8 @@
       "result": "L",
       "min": 34,
       "pts": 17,
-      "adjPts": 18.3,
-      "pointsPlus": 146
+      "adjPts": 18.2,
+      "pointsPlus": 147
     },
     {
       "date": "2026-01-16",
@@ -364,7 +364,7 @@
       "min": 41,
       "pts": 32,
       "adjPts": 30.8,
-      "pointsPlus": 247
+      "pointsPlus": 248
     },
     {
       "date": "2026-01-20",
@@ -436,7 +436,7 @@
       "min": 35,
       "pts": 19,
       "adjPts": 18.5,
-      "pointsPlus": 148
+      "pointsPlus": 149
     },
     {
       "date": "2026-02-04",
@@ -454,7 +454,7 @@
       "min": 33,
       "pts": 17,
       "adjPts": 17.3,
-      "pointsPlus": 138
+      "pointsPlus": 139
     },
     {
       "date": "2026-02-07",
@@ -463,7 +463,7 @@
       "min": 43,
       "pts": 22,
       "adjPts": 23.6,
-      "pointsPlus": 189
+      "pointsPlus": 190
     },
     {
       "date": "2026-02-10",

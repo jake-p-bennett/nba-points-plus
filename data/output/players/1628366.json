@@ -2,7 +2,7 @@
   "id": 1628366,
   "name": "Lonzo Ball",
   "team": "CLE",
-  "rank": 305,
+  "rank": 304,
   "gp": 35,
   "ppg": 4.6,
   "adjPpg": 4.6,
@@ -12,7 +12,7 @@
   "usgPct": 13.0,
   "tsPct": 43.2,
   "pointsPlusStdDev": 29.5,
-  "volatilityPctile": 6,
+  "volatilityPctile": 7,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -39,7 +39,7 @@
       "min": 23,
       "pts": 11,
       "adjPts": 11.0,
-      "pointsPlus": 88
+      "pointsPlus": 89
     },
     {
       "date": "2025-10-29",
@@ -183,7 +183,7 @@
       "min": 24,
       "pts": 5,
       "adjPts": 4.7,
-      "pointsPlus": 37
+      "pointsPlus": 38
     },
     {
       "date": "2025-12-14",

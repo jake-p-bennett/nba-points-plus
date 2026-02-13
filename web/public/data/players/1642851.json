@@ -2,7 +2,7 @@
   "id": 1642851,
   "name": "Kon Knueppel",
   "team": "CHA",
-  "rank": 52,
+  "rank": 51,
   "gp": 54,
   "ppg": 18.9,
   "adjPpg": 18.8,
@@ -12,7 +12,7 @@
   "jersey": "7",
   "usgPct": 21.5,
   "tsPct": 64.6,
-  "pointsPlusStdDev": 54.5,
+  "pointsPlusStdDev": 54.7,
   "volatilityPctile": 75,
   "gameLog": [
     {
@@ -75,7 +75,7 @@
       "result": "W",
       "min": 35,
       "pts": 24,
-      "adjPts": 22.2,
+      "adjPts": 22.1,
       "pointsPlus": 178
     },
     {
@@ -85,7 +85,7 @@
       "min": 32,
       "pts": 20,
       "adjPts": 19.3,
-      "pointsPlus": 154
+      "pointsPlus": 155
     },
     {
       "date": "2025-11-07",
@@ -94,7 +94,7 @@
       "min": 40,
       "pts": 30,
       "adjPts": 29.4,
-      "pointsPlus": 236
+      "pointsPlus": 237
     },
     {
       "date": "2025-11-10",
@@ -102,8 +102,8 @@
       "result": "L",
       "min": 38,
       "pts": 19,
-      "adjPts": 18.7,
-      "pointsPlus": 150
+      "adjPts": 18.8,
+      "pointsPlus": 151
     },
     {
       "date": "2025-11-12",
@@ -112,7 +112,7 @@
       "min": 34,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 128
+      "pointsPlus": 129
     },
     {
       "date": "2025-11-14",
@@ -120,8 +120,8 @@
       "result": "L",
       "min": 41,
       "pts": 32,
-      "adjPts": 32.0,
-      "pointsPlus": 256
+      "adjPts": 32.1,
+      "pointsPlus": 258
     },
     {
       "date": "2025-11-15",
@@ -139,7 +139,7 @@
       "min": 36,
       "pts": 24,
       "adjPts": 24.7,
-      "pointsPlus": 198
+      "pointsPlus": 199
     },
     {
       "date": "2025-11-19",
@@ -166,7 +166,7 @@
       "min": 34,
       "pts": 28,
       "adjPts": 27.2,
-      "pointsPlus": 218
+      "pointsPlus": 219
     },
     {
       "date": "2025-11-26",
@@ -193,7 +193,7 @@
       "min": 37,
       "pts": 20,
       "adjPts": 20.6,
-      "pointsPlus": 165
+      "pointsPlus": 166
     },
     {
       "date": "2025-12-01",
@@ -202,7 +202,7 @@
       "min": 35,
       "pts": 18,
       "adjPts": 18.1,
-      "pointsPlus": 145
+      "pointsPlus": 146
     },
     {
       "date": "2025-12-03",
@@ -256,7 +256,7 @@
       "min": 35,
       "pts": 28,
       "adjPts": 27.2,
-      "pointsPlus": 218
+      "pointsPlus": 219
     },
     {
       "date": "2025-12-20",
@@ -283,7 +283,7 @@
       "min": 28,
       "pts": 19,
       "adjPts": 17.8,
-      "pointsPlus": 142
+      "pointsPlus": 143
     },
     {
       "date": "2025-12-26",
@@ -292,7 +292,7 @@
       "min": 15,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 128
+      "pointsPlus": 129
     },
     {
       "date": "2025-12-31",
@@ -309,8 +309,8 @@
       "result": "L",
       "min": 34,
       "pts": 26,
-      "adjPts": 26.0,
-      "pointsPlus": 208
+      "adjPts": 26.1,
+      "pointsPlus": 210
     },
     {
       "date": "2026-01-03",
@@ -372,8 +372,8 @@
       "result": "W",
       "min": 33,
       "pts": 19,
-      "adjPts": 18.7,
-      "pointsPlus": 150
+      "adjPts": 18.8,
+      "pointsPlus": 151
     },
     {
       "date": "2026-01-17",
@@ -382,7 +382,7 @@
       "min": 29,
       "pts": 24,
       "adjPts": 24.3,
-      "pointsPlus": 195
+      "pointsPlus": 196
     },
     {
       "date": "2026-01-18",
@@ -409,7 +409,7 @@
       "min": 28,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2026-01-24",
@@ -463,7 +463,7 @@
       "min": 36,
       "pts": 17,
       "adjPts": 16.4,
-      "pointsPlus": 131
+      "pointsPlus": 132
     },
     {
       "date": "2026-02-05",
@@ -472,7 +472,7 @@
       "min": 32,
       "pts": 24,
       "adjPts": 25.5,
-      "pointsPlus": 204
+      "pointsPlus": 205
     },
     {
       "date": "2026-02-07",
@@ -490,7 +490,7 @@
       "min": 34,
       "pts": 20,
       "adjPts": 21.1,
-      "pointsPlus": 169
+      "pointsPlus": 170
     },
     {
       "date": "2026-02-11",

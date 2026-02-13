@@ -2,7 +2,7 @@
   "id": 1629675,
   "name": "Naz Reid",
   "team": "MIN",
-  "rank": 104,
+  "rank": 105,
   "gp": 56,
   "ppg": 14.2,
   "adjPpg": 14.1,
@@ -12,8 +12,8 @@
   "jersey": "11",
   "usgPct": 21.0,
   "tsPct": 59.0,
-  "pointsPlusStdDev": 55.9,
-  "volatilityPctile": 80,
+  "pointsPlusStdDev": 56.0,
+  "volatilityPctile": 79,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -138,8 +138,8 @@
       "result": "W",
       "min": 23,
       "pts": 22,
-      "adjPts": 21.8,
-      "pointsPlus": 174
+      "adjPts": 21.7,
+      "pointsPlus": 175
     },
     {
       "date": "2025-11-19",
@@ -166,7 +166,7 @@
       "min": 23,
       "pts": 15,
       "adjPts": 14.4,
-      "pointsPlus": 115
+      "pointsPlus": 116
     },
     {
       "date": "2025-11-26",
@@ -184,7 +184,7 @@
       "min": 28,
       "pts": 10,
       "adjPts": 10.7,
-      "pointsPlus": 85
+      "pointsPlus": 86
     },
     {
       "date": "2025-11-30",
@@ -219,7 +219,7 @@
       "result": "W",
       "min": 28,
       "pts": 19,
-      "adjPts": 19.6,
+      "adjPts": 19.5,
       "pointsPlus": 157
     },
     {
@@ -237,8 +237,8 @@
       "result": "W",
       "min": 30,
       "pts": 18,
-      "adjPts": 18.3,
-      "pointsPlus": 146
+      "adjPts": 18.2,
+      "pointsPlus": 147
     },
     {
       "date": "2025-12-14",
@@ -274,7 +274,7 @@
       "min": 29,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 96
+      "pointsPlus": 97
     },
     {
       "date": "2025-12-23",
@@ -328,7 +328,7 @@
       "min": 25,
       "pts": 29,
       "adjPts": 28.5,
-      "pointsPlus": 228
+      "pointsPlus": 229
     },
     {
       "date": "2026-01-04",
@@ -337,7 +337,7 @@
       "min": 20,
       "pts": 9,
       "adjPts": 8.4,
-      "pointsPlus": 67
+      "pointsPlus": 68
     },
     {
       "date": "2026-01-06",
@@ -381,8 +381,8 @@
       "result": "W",
       "min": 28,
       "pts": 19,
-      "adjPts": 19.0,
-      "pointsPlus": 152
+      "adjPts": 19.1,
+      "pointsPlus": 153
     },
     {
       "date": "2026-01-16",
@@ -463,7 +463,7 @@
       "min": 31,
       "pts": 20,
       "adjPts": 19.6,
-      "pointsPlus": 157
+      "pointsPlus": 158
     },
     {
       "date": "2026-02-02",

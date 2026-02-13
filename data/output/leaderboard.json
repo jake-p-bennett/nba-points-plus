@@ -13,7 +13,7 @@
     "jersey": "77",
     "usgPct": 36.6,
     "tsPct": 61.4,
-    "pointsPlusStdDev": 65.9,
+    "pointsPlusStdDev": 66.0,
     "volatilityPctile": 93
   },
   {
@@ -23,14 +23,14 @@
     "rank": 2,
     "gp": 49,
     "ppg": 31.8,
-    "adjPpg": 31.6,
-    "pointsPlus": 253,
+    "adjPpg": 31.5,
+    "pointsPlus": 254,
     "mpg": 33.3,
     "position": "G",
     "jersey": "2",
     "usgPct": 32.2,
     "tsPct": 67.0,
-    "pointsPlusStdDev": 52.0,
+    "pointsPlusStdDev": 52.2,
     "volatilityPctile": 68
   },
   {
@@ -41,13 +41,13 @@
     "gp": 49,
     "ppg": 29.3,
     "adjPpg": 29.2,
-    "pointsPlus": 234,
+    "pointsPlus": 235,
     "mpg": 34.2,
     "position": "G-F",
     "jersey": "7",
     "usgPct": 36.0,
     "tsPct": 57.1,
-    "pointsPlusStdDev": 60.5,
+    "pointsPlusStdDev": 60.6,
     "volatilityPctile": 88
   },
   {
@@ -58,13 +58,13 @@
     "gp": 46,
     "ppg": 29.3,
     "adjPpg": 29.1,
-    "pointsPlus": 233,
+    "pointsPlus": 234,
     "mpg": 35.4,
     "position": "G",
     "jersey": "5",
     "usgPct": 30.4,
     "tsPct": 62.0,
-    "pointsPlusStdDev": 80.2,
+    "pointsPlusStdDev": 80.4,
     "volatilityPctile": 99
   },
   {
@@ -75,13 +75,13 @@
     "gp": 52,
     "ppg": 28.9,
     "adjPpg": 29.1,
-    "pointsPlus": 233,
+    "pointsPlus": 234,
     "mpg": 38.6,
     "position": "G",
     "jersey": "0",
     "usgPct": 28.3,
     "tsPct": 59.8,
-    "pointsPlusStdDev": 72.3,
+    "pointsPlusStdDev": 72.5,
     "volatilityPctile": 97
   },
   {
@@ -91,14 +91,14 @@
     "rank": 6,
     "gp": 51,
     "ppg": 29.0,
-    "adjPpg": 28.9,
-    "pointsPlus": 232,
+    "adjPpg": 29.0,
+    "pointsPlus": 233,
     "mpg": 33.7,
     "position": "G",
     "jersey": "45",
     "usgPct": 31.6,
     "tsPct": 61.9,
-    "pointsPlusStdDev": 68.2,
+    "pointsPlusStdDev": 68.3,
     "volatilityPctile": 95
   },
   {
@@ -115,7 +115,7 @@
     "jersey": "15",
     "usgPct": 29.3,
     "tsPct": 69.9,
-    "pointsPlusStdDev": 75.6,
+    "pointsPlusStdDev": 75.8,
     "volatilityPctile": 98
   },
   {
@@ -132,7 +132,7 @@
     "jersey": "2",
     "usgPct": 32.9,
     "tsPct": 61.9,
-    "pointsPlusStdDev": 66.4,
+    "pointsPlusStdDev": 66.5,
     "volatilityPctile": 93
   },
   {
@@ -149,7 +149,7 @@
     "jersey": "34",
     "usgPct": 34.9,
     "tsPct": 67.9,
-    "pointsPlusStdDev": 63.9,
+    "pointsPlusStdDev": 64.1,
     "volatilityPctile": 91
   },
   {
@@ -159,14 +159,14 @@
     "rank": 10,
     "gp": 39,
     "ppg": 27.2,
-    "adjPpg": 27.2,
+    "adjPpg": 27.1,
     "pointsPlus": 218,
     "mpg": 31.4,
     "position": "G",
     "jersey": "30",
     "usgPct": 31.1,
     "tsPct": 63.6,
-    "pointsPlusStdDev": 82.0,
+    "pointsPlusStdDev": 82.2,
     "volatilityPctile": 100
   },
   {
@@ -183,7 +183,7 @@
     "jersey": "11",
     "usgPct": 30.2,
     "tsPct": 58.7,
-    "pointsPlusStdDev": 69.1,
+    "pointsPlusStdDev": 69.3,
     "volatilityPctile": 96
   },
   {
@@ -194,13 +194,13 @@
     "gp": 41,
     "ppg": 26.7,
     "adjPpg": 26.9,
-    "pointsPlus": 215,
+    "pointsPlus": 216,
     "mpg": 34.4,
     "position": "F-C",
     "jersey": "23",
     "usgPct": 26.7,
     "tsPct": 61.0,
-    "pointsPlusStdDev": 63.7,
+    "pointsPlusStdDev": 63.8,
     "volatilityPctile": 91
   },
   {
@@ -211,13 +211,13 @@
     "gp": 31,
     "ppg": 26.6,
     "adjPpg": 26.5,
-    "pointsPlus": 212,
+    "pointsPlus": 213,
     "mpg": 31.3,
     "position": "C-F",
     "jersey": "21",
     "usgPct": 33.7,
     "tsPct": 60.6,
-    "pointsPlusStdDev": 64.2,
+    "pointsPlusStdDev": 64.4,
     "volatilityPctile": 92
   },
   {
@@ -228,37 +228,20 @@
     "gp": 50,
     "ppg": 25.8,
     "adjPpg": 25.8,
-    "pointsPlus": 207,
+    "pointsPlus": 208,
     "mpg": 36.7,
     "position": "F",
     "jersey": "7",
     "usgPct": 26.3,
     "tsPct": 62.7,
-    "pointsPlusStdDev": 53.1,
+    "pointsPlusStdDev": 53.3,
     "volatilityPctile": 71
-  },
-  {
-    "id": 1630559,
-    "name": "Austin Reaves",
-    "team": "LAL",
-    "rank": 15,
-    "gp": 27,
-    "ppg": 25.7,
-    "adjPpg": 25.7,
-    "pointsPlus": 206,
-    "mpg": 33.7,
-    "position": "G",
-    "jersey": "15",
-    "usgPct": 28.1,
-    "tsPct": 66.5,
-    "pointsPlusStdDev": 80.7,
-    "volatilityPctile": 99
   },
   {
     "id": 1627750,
     "name": "Jamal Murray",
     "team": "DEN",
-    "rank": 16,
+    "rank": 15,
     "gp": 50,
     "ppg": 25.7,
     "adjPpg": 25.7,
@@ -268,8 +251,25 @@
     "jersey": "27",
     "usgPct": 27.6,
     "tsPct": 61.5,
-    "pointsPlusStdDev": 69.8,
-    "volatilityPctile": 97
+    "pointsPlusStdDev": 70.0,
+    "volatilityPctile": 96
+  },
+  {
+    "id": 1630559,
+    "name": "Austin Reaves",
+    "team": "LAL",
+    "rank": 16,
+    "gp": 28,
+    "ppg": 25.4,
+    "adjPpg": 25.4,
+    "pointsPlus": 204,
+    "mpg": 33.5,
+    "position": "G",
+    "jersey": "15",
+    "usgPct": 28.0,
+    "tsPct": 66.5,
+    "pointsPlusStdDev": 80.3,
+    "volatilityPctile": 99
   },
   {
     "id": 1630166,
@@ -302,7 +302,7 @@
     "jersey": "2",
     "usgPct": 29.9,
     "tsPct": 56.8,
-    "pointsPlusStdDev": 61.7,
+    "pointsPlusStdDev": 61.9,
     "volatilityPctile": 89
   },
   {
@@ -313,13 +313,13 @@
     "gp": 41,
     "ppg": 25.0,
     "adjPpg": 25.1,
-    "pointsPlus": 201,
+    "pointsPlus": 202,
     "mpg": 33.0,
     "position": "F",
     "jersey": "17",
     "usgPct": 29.3,
     "tsPct": 60.9,
-    "pointsPlusStdDev": 61.9,
+    "pointsPlusStdDev": 62.1,
     "volatilityPctile": 90
   },
   {
@@ -347,13 +347,13 @@
     "gp": 47,
     "ppg": 25.0,
     "adjPpg": 25.0,
-    "pointsPlus": 200,
+    "pointsPlus": 201,
     "mpg": 35.3,
     "position": "G",
     "jersey": "1",
     "usgPct": 29.6,
     "tsPct": 60.1,
-    "pointsPlusStdDev": 67.7,
+    "pointsPlusStdDev": 67.8,
     "volatilityPctile": 94
   },
   {
@@ -370,7 +370,7 @@
     "jersey": "1",
     "usgPct": 31.7,
     "tsPct": 62.4,
-    "pointsPlusStdDev": 60.6,
+    "pointsPlusStdDev": 60.7,
     "volatilityPctile": 89
   },
   {
@@ -387,7 +387,7 @@
     "jersey": "3",
     "usgPct": 27.1,
     "tsPct": 61.2,
-    "pointsPlusStdDev": 73.0,
+    "pointsPlusStdDev": 73.1,
     "volatilityPctile": 98
   },
   {
@@ -404,8 +404,8 @@
     "jersey": "43",
     "usgPct": 28.5,
     "tsPct": 56.0,
-    "pointsPlusStdDev": 51.1,
-    "volatilityPctile": 65
+    "pointsPlusStdDev": 51.2,
+    "volatilityPctile": 66
   },
   {
     "id": 1630552,
@@ -421,8 +421,8 @@
     "jersey": "1",
     "usgPct": 26.4,
     "tsPct": 59.2,
-    "pointsPlusStdDev": 60.5,
-    "volatilityPctile": 88
+    "pointsPlusStdDev": 60.7,
+    "volatilityPctile": 89
   },
   {
     "id": 1626181,
@@ -438,31 +438,14 @@
     "jersey": "24",
     "usgPct": 26.2,
     "tsPct": 61.6,
-    "pointsPlusStdDev": 52.4,
+    "pointsPlusStdDev": 52.5,
     "volatilityPctile": 70
-  },
-  {
-    "id": 203944,
-    "name": "Julius Randle",
-    "team": "MIN",
-    "rank": 27,
-    "gp": 56,
-    "ppg": 22.3,
-    "adjPpg": 22.2,
-    "pointsPlus": 178,
-    "mpg": 33.6,
-    "position": "F-C",
-    "jersey": "30",
-    "usgPct": 25.9,
-    "tsPct": 59.9,
-    "pointsPlusStdDev": 54.7,
-    "volatilityPctile": 76
   },
   {
     "id": 1630530,
     "name": "Trey Murphy III",
     "team": "NOP",
-    "rank": 28,
+    "rank": 27,
     "gp": 52,
     "ppg": 22.1,
     "adjPpg": 22.2,
@@ -472,14 +455,48 @@
     "jersey": "25",
     "usgPct": 22.4,
     "tsPct": 61.6,
-    "pointsPlusStdDev": 67.8,
-    "volatilityPctile": 94
+    "pointsPlusStdDev": 68.1,
+    "volatilityPctile": 95
+  },
+  {
+    "id": 203944,
+    "name": "Julius Randle",
+    "team": "MIN",
+    "rank": 28,
+    "gp": 56,
+    "ppg": 22.3,
+    "adjPpg": 22.2,
+    "pointsPlus": 178,
+    "mpg": 33.6,
+    "position": "F-C",
+    "jersey": "30",
+    "usgPct": 25.9,
+    "tsPct": 59.9,
+    "pointsPlusStdDev": 54.9,
+    "volatilityPctile": 76
+  },
+  {
+    "id": 2544,
+    "name": "LeBron James",
+    "team": "LAL",
+    "rank": 29,
+    "gp": 36,
+    "ppg": 22.0,
+    "adjPpg": 21.9,
+    "pointsPlus": 176,
+    "mpg": 33.3,
+    "position": "F",
+    "jersey": "23",
+    "usgPct": 27.4,
+    "tsPct": 58.5,
+    "pointsPlusStdDev": 51.6,
+    "volatilityPctile": 67
   },
   {
     "id": 1627742,
     "name": "Brandon Ingram",
     "team": "TOR",
-    "rank": 29,
+    "rank": 30,
     "gp": 53,
     "ppg": 21.8,
     "adjPpg": 21.8,
@@ -489,25 +506,8 @@
     "jersey": "3",
     "usgPct": 26.6,
     "tsPct": 57.0,
-    "pointsPlusStdDev": 55.7,
-    "volatilityPctile": 78
-  },
-  {
-    "id": 2544,
-    "name": "LeBron James",
-    "team": "LAL",
-    "rank": 30,
-    "gp": 35,
-    "ppg": 21.8,
-    "adjPpg": 21.8,
-    "pointsPlus": 175,
-    "mpg": 33.3,
-    "position": "F",
-    "jersey": "23",
-    "usgPct": 27.3,
-    "tsPct": 58.4,
-    "pointsPlusStdDev": 51.5,
-    "volatilityPctile": 67
+    "pointsPlusStdDev": 56.0,
+    "volatilityPctile": 79
   },
   {
     "id": 1629627,
@@ -523,7 +523,7 @@
     "jersey": "1",
     "usgPct": 26.2,
     "tsPct": 62.9,
-    "pointsPlusStdDev": 54.5,
+    "pointsPlusStdDev": 54.7,
     "volatilityPctile": 75
   },
   {
@@ -534,13 +534,13 @@
     "gp": 28,
     "ppg": 21.3,
     "adjPpg": 21.5,
-    "pointsPlus": 172,
+    "pointsPlus": 173,
     "mpg": 31.8,
     "position": "F",
     "jersey": "22",
     "usgPct": 25.1,
     "tsPct": 59.1,
-    "pointsPlusStdDev": 55.6,
+    "pointsPlusStdDev": 55.7,
     "volatilityPctile": 78
   },
   {
@@ -557,7 +557,7 @@
     "jersey": "17",
     "usgPct": 29.3,
     "tsPct": 55.0,
-    "pointsPlusStdDev": 55.8,
+    "pointsPlusStdDev": 56.0,
     "volatilityPctile": 79
   },
   {
@@ -591,7 +591,7 @@
     "jersey": "5",
     "usgPct": 26.7,
     "tsPct": 55.9,
-    "pointsPlusStdDev": 55.9,
+    "pointsPlusStdDev": 56.1,
     "volatilityPctile": 80
   },
   {
@@ -608,8 +608,8 @@
     "jersey": "28",
     "usgPct": 26.5,
     "tsPct": 55.2,
-    "pointsPlusStdDev": 62.4,
-    "volatilityPctile": 90
+    "pointsPlusStdDev": 62.5,
+    "volatilityPctile": 91
   },
   {
     "id": 1641706,
@@ -625,8 +625,8 @@
     "jersey": "24",
     "usgPct": 28.4,
     "tsPct": 55.9,
-    "pointsPlusStdDev": 56.2,
-    "volatilityPctile": 80
+    "pointsPlusStdDev": 56.4,
+    "volatilityPctile": 81
   },
   {
     "id": 1642843,
@@ -642,7 +642,7 @@
     "jersey": "32",
     "usgPct": 24.7,
     "tsPct": 56.0,
-    "pointsPlusStdDev": 74.4,
+    "pointsPlusStdDev": 74.5,
     "volatilityPctile": 98
   },
   {
@@ -659,7 +659,7 @@
     "jersey": "23",
     "usgPct": 27.2,
     "tsPct": 55.1,
-    "pointsPlusStdDev": 76.1,
+    "pointsPlusStdDev": 76.3,
     "volatilityPctile": 99
   },
   {
@@ -670,13 +670,13 @@
     "gp": 54,
     "ppg": 20.1,
     "adjPpg": 20.2,
-    "pointsPlus": 162,
+    "pointsPlus": 163,
     "mpg": 33.3,
     "position": "G",
     "jersey": "7",
     "usgPct": 23.7,
     "tsPct": 57.6,
-    "pointsPlusStdDev": 57.1,
+    "pointsPlusStdDev": 57.3,
     "volatilityPctile": 83
   },
   {
@@ -693,8 +693,8 @@
     "jersey": "10",
     "usgPct": 22.6,
     "tsPct": 64.6,
-    "pointsPlusStdDev": 53.0,
-    "volatilityPctile": 70
+    "pointsPlusStdDev": 53.1,
+    "volatilityPctile": 71
   },
   {
     "id": 1626157,
@@ -703,14 +703,14 @@
     "rank": 42,
     "gp": 51,
     "ppg": 19.8,
-    "adjPpg": 19.8,
-    "pointsPlus": 158,
+    "adjPpg": 19.7,
+    "pointsPlus": 159,
     "mpg": 31.3,
     "position": "C-F",
     "jersey": "32",
     "usgPct": 25.1,
     "tsPct": 59.4,
-    "pointsPlusStdDev": 67.8,
+    "pointsPlusStdDev": 67.9,
     "volatilityPctile": 94
   },
   {
@@ -727,7 +727,7 @@
     "jersey": "3",
     "usgPct": 22.6,
     "tsPct": 58.8,
-    "pointsPlusStdDev": 64.5,
+    "pointsPlusStdDev": 64.6,
     "volatilityPctile": 92
   },
   {
@@ -745,7 +745,7 @@
     "usgPct": 25.3,
     "tsPct": 57.6,
     "pointsPlusStdDev": 47.4,
-    "volatilityPctile": 52
+    "volatilityPctile": 51
   },
   {
     "id": 1629630,
@@ -761,7 +761,7 @@
     "jersey": "12",
     "usgPct": 30.5,
     "tsPct": 52.1,
-    "pointsPlusStdDev": 63.6,
+    "pointsPlusStdDev": 63.7,
     "volatilityPctile": 91
   },
   {
@@ -772,13 +772,13 @@
     "gp": 45,
     "ppg": 19.4,
     "adjPpg": 19.4,
-    "pointsPlus": 155,
+    "pointsPlus": 156,
     "mpg": 32.0,
     "position": "G",
     "jersey": "4",
     "usgPct": 24.4,
     "tsPct": 58.5,
-    "pointsPlusStdDev": 59.2,
+    "pointsPlusStdDev": 59.4,
     "volatilityPctile": 87
   },
   {
@@ -795,7 +795,7 @@
     "jersey": "4",
     "usgPct": 23.2,
     "tsPct": 57.7,
-    "pointsPlusStdDev": 47.9,
+    "pointsPlusStdDev": 48.0,
     "volatilityPctile": 54
   },
   {
@@ -812,8 +812,8 @@
     "jersey": "1",
     "usgPct": 30.7,
     "tsPct": 53.3,
-    "pointsPlusStdDev": 54.6,
-    "volatilityPctile": 76
+    "pointsPlusStdDev": 54.7,
+    "volatilityPctile": 75
   },
   {
     "id": 203897,
@@ -829,7 +829,7 @@
     "jersey": "8",
     "usgPct": 23.4,
     "tsPct": 61.4,
-    "pointsPlusStdDev": 70.0,
+    "pointsPlusStdDev": 70.1,
     "volatilityPctile": 97
   },
   {
@@ -840,37 +840,20 @@
     "gp": 51,
     "ppg": 18.8,
     "adjPpg": 18.9,
-    "pointsPlus": 151,
+    "pointsPlus": 152,
     "mpg": 30.1,
     "position": "G",
     "jersey": "3",
     "usgPct": 24.5,
     "tsPct": 56.7,
-    "pointsPlusStdDev": 68.6,
+    "pointsPlusStdDev": 68.9,
     "volatilityPctile": 96
-  },
-  {
-    "id": 203924,
-    "name": "Jerami Grant",
-    "team": "POR",
-    "rank": 51,
-    "gp": 39,
-    "ppg": 18.8,
-    "adjPpg": 18.9,
-    "pointsPlus": 151,
-    "mpg": 29.1,
-    "position": "F",
-    "jersey": "9",
-    "usgPct": 23.6,
-    "tsPct": 59.7,
-    "pointsPlusStdDev": 60.5,
-    "volatilityPctile": 88
   },
   {
     "id": 1642851,
     "name": "Kon Knueppel",
     "team": "CHA",
-    "rank": 52,
+    "rank": 51,
     "gp": 54,
     "ppg": 18.9,
     "adjPpg": 18.8,
@@ -880,8 +863,25 @@
     "jersey": "7",
     "usgPct": 21.5,
     "tsPct": 64.6,
-    "pointsPlusStdDev": 54.5,
+    "pointsPlusStdDev": 54.7,
     "volatilityPctile": 75
+  },
+  {
+    "id": 203924,
+    "name": "Jerami Grant",
+    "team": "POR",
+    "rank": 52,
+    "gp": 40,
+    "ppg": 18.8,
+    "adjPpg": 18.8,
+    "pointsPlus": 151,
+    "mpg": 29.2,
+    "position": "F",
+    "jersey": "9",
+    "usgPct": 23.7,
+    "tsPct": 59.4,
+    "pointsPlusStdDev": 59.8,
+    "volatilityPctile": 87
   },
   {
     "id": 201942,
@@ -897,7 +897,7 @@
     "jersey": "10",
     "usgPct": 21.6,
     "tsPct": 59.2,
-    "pointsPlusStdDev": 67.3,
+    "pointsPlusStdDev": 67.5,
     "volatilityPctile": 94
   },
   {
@@ -908,13 +908,13 @@
     "gp": 31,
     "ppg": 18.5,
     "adjPpg": 18.5,
-    "pointsPlus": 148,
+    "pointsPlus": 149,
     "mpg": 29.5,
     "position": "F-G",
     "jersey": "9",
     "usgPct": 25.2,
     "tsPct": 57.8,
-    "pointsPlusStdDev": 41.0,
+    "pointsPlusStdDev": 41.1,
     "volatilityPctile": 28
   },
   {
@@ -931,8 +931,8 @@
     "jersey": "13",
     "usgPct": 23.8,
     "tsPct": 54.8,
-    "pointsPlusStdDev": 56.4,
-    "volatilityPctile": 81
+    "pointsPlusStdDev": 56.5,
+    "volatilityPctile": 82
   },
   {
     "id": 1630581,
@@ -965,7 +965,7 @@
     "jersey": "3",
     "usgPct": 26.7,
     "tsPct": 58.6,
-    "pointsPlusStdDev": 52.9,
+    "pointsPlusStdDev": 53.0,
     "volatilityPctile": 70
   },
   {
@@ -975,15 +975,15 @@
     "rank": 58,
     "gp": 53,
     "ppg": 18.2,
-    "adjPpg": 18.0,
+    "adjPpg": 18.1,
     "pointsPlus": 145,
     "mpg": 32.2,
     "position": "F",
     "jersey": "0",
     "usgPct": 22.8,
     "tsPct": 56.5,
-    "pointsPlusStdDev": 57.6,
-    "volatilityPctile": 84
+    "pointsPlusStdDev": 57.8,
+    "volatilityPctile": 85
   },
   {
     "id": 1630596,
@@ -999,7 +999,7 @@
     "jersey": "4",
     "usgPct": 21.6,
     "tsPct": 57.6,
-    "pointsPlusStdDev": 42.3,
+    "pointsPlusStdDev": 42.4,
     "volatilityPctile": 33
   },
   {
@@ -1016,8 +1016,8 @@
     "jersey": "10",
     "usgPct": 25.0,
     "tsPct": 56.7,
-    "pointsPlusStdDev": 51.9,
-    "volatilityPctile": 67
+    "pointsPlusStdDev": 52.1,
+    "volatilityPctile": 68
   },
   {
     "id": 1641708,
@@ -1033,7 +1033,7 @@
     "jersey": "1",
     "usgPct": 19.6,
     "tsPct": 56.8,
-    "pointsPlusStdDev": 48.5,
+    "pointsPlusStdDev": 48.6,
     "volatilityPctile": 56
   },
   {
@@ -1050,7 +1050,7 @@
     "jersey": "0",
     "usgPct": 22.1,
     "tsPct": 66.7,
-    "pointsPlusStdDev": 49.5,
+    "pointsPlusStdDev": 49.6,
     "volatilityPctile": 59
   },
   {
@@ -1067,7 +1067,7 @@
     "jersey": "2",
     "usgPct": 23.5,
     "tsPct": 55.8,
-    "pointsPlusStdDev": 55.6,
+    "pointsPlusStdDev": 55.7,
     "volatilityPctile": 78
   },
   {
@@ -1084,8 +1084,8 @@
     "jersey": "9",
     "usgPct": 22.9,
     "tsPct": 58.0,
-    "pointsPlusStdDev": 60.0,
-    "volatilityPctile": 87
+    "pointsPlusStdDev": 60.1,
+    "volatilityPctile": 88
   },
   {
     "id": 203932,
@@ -1095,7 +1095,7 @@
     "gp": 23,
     "ppg": 17.7,
     "adjPpg": 17.5,
-    "pointsPlus": 140,
+    "pointsPlus": 141,
     "mpg": 27.9,
     "position": "F",
     "jersey": "32",
@@ -1118,48 +1118,31 @@
     "jersey": "8",
     "usgPct": 25.4,
     "tsPct": 55.5,
-    "pointsPlusStdDev": 42.6,
-    "volatilityPctile": 34
-  },
-  {
-    "id": 1629645,
-    "name": "Kevin Porter Jr.",
-    "team": "MIL",
-    "rank": 67,
-    "gp": 27,
-    "ppg": 17.5,
-    "adjPpg": 17.5,
-    "pointsPlus": 140,
-    "mpg": 33.7,
-    "position": "G-F",
-    "jersey": "7",
-    "usgPct": 23.9,
-    "tsPct": 56.5,
-    "pointsPlusStdDev": 62.7,
-    "volatilityPctile": 90
+    "pointsPlusStdDev": 42.8,
+    "volatilityPctile": 35
   },
   {
     "id": 1631096,
     "name": "Chet Holmgren",
     "team": "OKC",
-    "rank": 68,
-    "gp": 48,
-    "ppg": 17.5,
+    "rank": 67,
+    "gp": 49,
+    "ppg": 17.4,
     "adjPpg": 17.4,
     "pointsPlus": 140,
     "mpg": 29.2,
     "position": "C-F",
     "jersey": "7",
     "usgPct": 21.7,
-    "tsPct": 65.4,
-    "pointsPlusStdDev": 49.9,
-    "volatilityPctile": 60
+    "tsPct": 65.1,
+    "pointsPlusStdDev": 49.6,
+    "volatilityPctile": 59
   },
   {
     "id": 1642259,
     "name": "Alex Sarr",
     "team": "WAS",
-    "rank": 69,
+    "rank": 68,
     "gp": 41,
     "ppg": 17.2,
     "adjPpg": 17.3,
@@ -1169,8 +1152,25 @@
     "jersey": "20",
     "usgPct": 25.0,
     "tsPct": 55.4,
-    "pointsPlusStdDev": 55.8,
-    "volatilityPctile": 79
+    "pointsPlusStdDev": 55.9,
+    "volatilityPctile": 78
+  },
+  {
+    "id": 1629645,
+    "name": "Kevin Porter Jr.",
+    "team": "MIL",
+    "rank": 69,
+    "gp": 28,
+    "ppg": 17.3,
+    "adjPpg": 17.3,
+    "pointsPlus": 139,
+    "mpg": 33.6,
+    "position": "G-F",
+    "jersey": "7",
+    "usgPct": 23.9,
+    "tsPct": 55.9,
+    "pointsPlusStdDev": 62.2,
+    "volatilityPctile": 90
   },
   {
     "id": 1628401,
@@ -1186,7 +1186,7 @@
     "jersey": "9",
     "usgPct": 22.7,
     "tsPct": 52.2,
-    "pointsPlusStdDev": 58.5,
+    "pointsPlusStdDev": 58.6,
     "volatilityPctile": 86
   },
   {
@@ -1203,7 +1203,7 @@
     "jersey": "11",
     "usgPct": 20.8,
     "tsPct": 57.8,
-    "pointsPlusStdDev": 68.2,
+    "pointsPlusStdDev": 68.3,
     "volatilityPctile": 95
   },
   {
@@ -1214,13 +1214,13 @@
     "gp": 35,
     "ppg": 17.0,
     "adjPpg": 17.0,
-    "pointsPlus": 136,
+    "pointsPlus": 137,
     "mpg": 30.3,
     "position": "G",
     "jersey": "8",
     "usgPct": 22.3,
     "tsPct": 57.8,
-    "pointsPlusStdDev": 57.8,
+    "pointsPlusStdDev": 58.0,
     "volatilityPctile": 85
   },
   {
@@ -1231,13 +1231,13 @@
     "gp": 52,
     "ppg": 17.0,
     "adjPpg": 17.0,
-    "pointsPlus": 136,
+    "pointsPlus": 137,
     "mpg": 32.5,
     "position": "G",
     "jersey": "5",
     "usgPct": 20.9,
     "tsPct": 57.9,
-    "pointsPlusStdDev": 54.0,
+    "pointsPlusStdDev": 54.2,
     "volatilityPctile": 73
   },
   {
@@ -1248,13 +1248,13 @@
     "gp": 51,
     "ppg": 16.9,
     "adjPpg": 16.9,
-    "pointsPlus": 135,
+    "pointsPlus": 136,
     "mpg": 32.0,
     "position": "G",
     "jersey": "13",
     "usgPct": 23.3,
     "tsPct": 56.8,
-    "pointsPlusStdDev": 54.8,
+    "pointsPlusStdDev": 54.9,
     "volatilityPctile": 76
   },
   {
@@ -1265,13 +1265,13 @@
     "gp": 51,
     "ppg": 16.7,
     "adjPpg": 16.6,
-    "pointsPlus": 133,
+    "pointsPlus": 134,
     "mpg": 30.5,
     "position": "C",
     "jersey": "4",
     "usgPct": 21.6,
     "tsPct": 58.4,
-    "pointsPlusStdDev": 49.2,
+    "pointsPlusStdDev": 49.3,
     "volatilityPctile": 58
   },
   {
@@ -1288,7 +1288,7 @@
     "jersey": "41",
     "usgPct": 20.4,
     "tsPct": 57.2,
-    "pointsPlusStdDev": 59.8,
+    "pointsPlusStdDev": 60.0,
     "volatilityPctile": 87
   },
   {
@@ -1305,7 +1305,7 @@
     "jersey": "5",
     "usgPct": 25.0,
     "tsPct": 56.1,
-    "pointsPlusStdDev": 54.5,
+    "pointsPlusStdDev": 54.6,
     "volatilityPctile": 75
   },
   {
@@ -1322,7 +1322,7 @@
     "jersey": "8",
     "usgPct": 19.8,
     "tsPct": 60.3,
-    "pointsPlusStdDev": 54.4,
+    "pointsPlusStdDev": 54.5,
     "volatilityPctile": 74
   },
   {
@@ -1339,8 +1339,8 @@
     "jersey": "17",
     "usgPct": 19.7,
     "tsPct": 59.6,
-    "pointsPlusStdDev": 52.2,
-    "volatilityPctile": 68
+    "pointsPlusStdDev": 52.3,
+    "volatilityPctile": 69
   },
   {
     "id": 1641710,
@@ -1356,7 +1356,7 @@
     "jersey": "0",
     "usgPct": 22.0,
     "tsPct": 56.6,
-    "pointsPlusStdDev": 60.3,
+    "pointsPlusStdDev": 60.5,
     "volatilityPctile": 88
   },
   {
@@ -1367,7 +1367,7 @@
     "gp": 50,
     "ppg": 15.9,
     "adjPpg": 16.0,
-    "pointsPlus": 128,
+    "pointsPlus": 129,
     "mpg": 31.3,
     "position": "F",
     "jersey": "22",
@@ -1377,27 +1377,10 @@
     "volatilityPctile": 49
   },
   {
-    "id": 1630560,
-    "name": "Cam Thomas",
-    "team": "MIL",
-    "rank": 82,
-    "gp": 26,
-    "ppg": 15.9,
-    "adjPpg": 16.0,
-    "pointsPlus": 128,
-    "mpg": 23.9,
-    "position": "G",
-    "jersey": "24",
-    "usgPct": 30.0,
-    "tsPct": 53.8,
-    "pointsPlusStdDev": 84.5,
-    "volatilityPctile": 100
-  },
-  {
     "id": 1628969,
     "name": "Mikal Bridges",
     "team": "NYK",
-    "rank": 83,
+    "rank": 82,
     "gp": 55,
     "ppg": 15.9,
     "adjPpg": 15.9,
@@ -1407,48 +1390,82 @@
     "jersey": "25",
     "usgPct": 17.2,
     "tsPct": 60.4,
-    "pointsPlusStdDev": 48.0,
+    "pointsPlusStdDev": 48.1,
     "volatilityPctile": 54
   },
   {
     "id": 202331,
     "name": "Paul George",
     "team": "PHI",
-    "rank": 84,
+    "rank": 83,
     "gp": 27,
     "ppg": 16.0,
-    "adjPpg": 15.8,
+    "adjPpg": 15.9,
     "pointsPlus": 127,
     "mpg": 30.5,
     "position": "F",
     "jersey": "8",
     "usgPct": 21.8,
     "tsPct": 55.6,
-    "pointsPlusStdDev": 50.8,
-    "volatilityPctile": 64
+    "pointsPlusStdDev": 51.0,
+    "volatilityPctile": 65
+  },
+  {
+    "id": 1630560,
+    "name": "Cam Thomas",
+    "team": "MIL",
+    "rank": 84,
+    "gp": 27,
+    "ppg": 15.7,
+    "adjPpg": 15.9,
+    "pointsPlus": 127,
+    "mpg": 23.7,
+    "position": "G",
+    "jersey": "24",
+    "usgPct": 30.0,
+    "tsPct": 53.5,
+    "pointsPlusStdDev": 83.2,
+    "volatilityPctile": 100
+  },
+  {
+    "id": 201950,
+    "name": "Jrue Holiday",
+    "team": "POR",
+    "rank": 85,
+    "gp": 27,
+    "ppg": 15.7,
+    "adjPpg": 15.6,
+    "pointsPlus": 126,
+    "mpg": 28.2,
+    "position": "G",
+    "jersey": "5",
+    "usgPct": 22.5,
+    "tsPct": 57.1,
+    "pointsPlusStdDev": 49.6,
+    "volatilityPctile": 59
   },
   {
     "id": 201566,
     "name": "Russell Westbrook",
     "team": "SAC",
-    "rank": 85,
+    "rank": 86,
     "gp": 52,
     "ppg": 15.3,
     "adjPpg": 15.4,
-    "pointsPlus": 123,
+    "pointsPlus": 124,
     "mpg": 29.2,
     "position": "G",
     "jersey": "18",
     "usgPct": 25.1,
     "tsPct": 53.3,
-    "pointsPlusStdDev": 49.6,
-    "volatilityPctile": 59
+    "pointsPlusStdDev": 49.7,
+    "volatilityPctile": 60
   },
   {
     "id": 1631095,
     "name": "Jabari Smith Jr.",
     "team": "HOU",
-    "rank": 86,
+    "rank": 87,
     "gp": 52,
     "ppg": 15.2,
     "adjPpg": 15.2,
@@ -1458,14 +1475,14 @@
     "jersey": "10",
     "usgPct": 17.5,
     "tsPct": 55.7,
-    "pointsPlusStdDev": 39.6,
+    "pointsPlusStdDev": 39.8,
     "volatilityPctile": 26
   },
   {
     "id": 1642273,
     "name": "Kyshawn George",
     "team": "WAS",
-    "rank": 87,
+    "rank": 88,
     "gp": 43,
     "ppg": 15.1,
     "adjPpg": 15.2,
@@ -1475,14 +1492,14 @@
     "jersey": "18",
     "usgPct": 21.9,
     "tsPct": 56.0,
-    "pointsPlusStdDev": 57.4,
-    "volatilityPctile": 83
+    "pointsPlusStdDev": 57.7,
+    "volatilityPctile": 84
   },
   {
     "id": 1641824,
     "name": "Matas Buzelis",
     "team": "CHI",
-    "rank": 88,
+    "rank": 89,
     "gp": 55,
     "ppg": 15.2,
     "adjPpg": 15.2,
@@ -1492,14 +1509,14 @@
     "jersey": "14",
     "usgPct": 21.2,
     "tsPct": 59.5,
-    "pointsPlusStdDev": 48.3,
-    "volatilityPctile": 56
+    "pointsPlusStdDev": 48.4,
+    "volatilityPctile": 55
   },
   {
     "id": 1631170,
     "name": "Jaime Jaquez Jr.",
     "team": "MIA",
-    "rank": 89,
+    "rank": 90,
     "gp": 51,
     "ppg": 15.2,
     "adjPpg": 15.2,
@@ -1509,31 +1526,31 @@
     "jersey": "11",
     "usgPct": 21.6,
     "tsPct": 56.0,
-    "pointsPlusStdDev": 53.3,
-    "volatilityPctile": 71
+    "pointsPlusStdDev": 53.4,
+    "volatilityPctile": 72
   },
   {
-    "id": 201950,
-    "name": "Jrue Holiday",
-    "team": "POR",
-    "rank": 90,
-    "gp": 26,
+    "id": 1630230,
+    "name": "Naji Marshall",
+    "team": "DAL",
+    "rank": 91,
+    "gp": 53,
     "ppg": 15.1,
     "adjPpg": 15.1,
     "pointsPlus": 121,
-    "mpg": 28.0,
-    "position": "G",
-    "jersey": "5",
-    "usgPct": 22.5,
-    "tsPct": 55.7,
-    "pointsPlusStdDev": 46.0,
-    "volatilityPctile": 45
+    "mpg": 29.5,
+    "position": "F",
+    "jersey": "13",
+    "usgPct": 18.6,
+    "tsPct": 62.0,
+    "pointsPlusStdDev": 57.2,
+    "volatilityPctile": 83
   },
   {
     "id": 1642845,
     "name": "VJ Edgecombe",
     "team": "PHI",
-    "rank": 91,
+    "rank": 92,
     "gp": 50,
     "ppg": 14.9,
     "adjPpg": 15.0,
@@ -1545,23 +1562,6 @@
     "tsPct": 52.8,
     "pointsPlusStdDev": 56.3,
     "volatilityPctile": 80
-  },
-  {
-    "id": 1630230,
-    "name": "Naji Marshall",
-    "team": "DAL",
-    "rank": 92,
-    "gp": 52,
-    "ppg": 15.0,
-    "adjPpg": 15.0,
-    "pointsPlus": 120,
-    "mpg": 29.6,
-    "position": "F",
-    "jersey": "13",
-    "usgPct": 18.5,
-    "tsPct": 61.9,
-    "pointsPlusStdDev": 57.6,
-    "volatilityPctile": 84
   },
   {
     "id": 1630245,
@@ -1577,8 +1577,8 @@
     "jersey": "13",
     "usgPct": 20.1,
     "tsPct": 63.7,
-    "pointsPlusStdDev": 47.0,
-    "volatilityPctile": 50
+    "pointsPlusStdDev": 47.2,
+    "volatilityPctile": 51
   },
   {
     "id": 1630183,
@@ -1588,13 +1588,13 @@
     "gp": 54,
     "ppg": 15.0,
     "adjPpg": 14.9,
-    "pointsPlus": 119,
+    "pointsPlus": 120,
     "mpg": 32.1,
     "position": "F",
     "jersey": "3",
     "usgPct": 17.8,
     "tsPct": 62.3,
-    "pointsPlusStdDev": 54.0,
+    "pointsPlusStdDev": 54.1,
     "volatilityPctile": 73
   },
   {
@@ -1611,7 +1611,7 @@
     "jersey": "8",
     "usgPct": 20.0,
     "tsPct": 60.0,
-    "pointsPlusStdDev": 69.7,
+    "pointsPlusStdDev": 70.0,
     "volatilityPctile": 96
   },
   {
@@ -1628,7 +1628,7 @@
     "jersey": "3",
     "usgPct": 24.0,
     "tsPct": 53.3,
-    "pointsPlusStdDev": 61.9,
+    "pointsPlusStdDev": 62.0,
     "volatilityPctile": 90
   },
   {
@@ -1645,8 +1645,8 @@
     "jersey": "31",
     "usgPct": 18.6,
     "tsPct": 66.1,
-    "pointsPlusStdDev": 57.5,
-    "volatilityPctile": 83
+    "pointsPlusStdDev": 57.7,
+    "volatilityPctile": 84
   },
   {
     "id": 1627826,
@@ -1662,7 +1662,7 @@
     "jersey": "40",
     "usgPct": 18.4,
     "tsPct": 63.5,
-    "pointsPlusStdDev": 54.0,
+    "pointsPlusStdDev": 54.2,
     "volatilityPctile": 73
   },
   {
@@ -1673,14 +1673,14 @@
     "gp": 45,
     "ppg": 14.4,
     "adjPpg": 14.4,
-    "pointsPlus": 115,
+    "pointsPlus": 116,
     "mpg": 22.9,
     "position": "G",
     "jersey": "2",
     "usgPct": 25.0,
     "tsPct": 60.9,
     "pointsPlusStdDev": 38.0,
-    "volatilityPctile": 19
+    "volatilityPctile": 20
   },
   {
     "id": 1629014,
@@ -1696,7 +1696,7 @@
     "jersey": "22",
     "usgPct": 22.6,
     "tsPct": 57.9,
-    "pointsPlusStdDev": 55.1,
+    "pointsPlusStdDev": 55.2,
     "volatilityPctile": 77
   },
   {
@@ -1713,6 +1713,23 @@
     "jersey": "4",
     "usgPct": 22.5,
     "tsPct": 56.9,
+    "pointsPlusStdDev": 50.1,
+    "volatilityPctile": 61
+  },
+  {
+    "id": 1629023,
+    "name": "P.J. Washington",
+    "team": "DAL",
+    "rank": 102,
+    "gp": 39,
+    "ppg": 14.1,
+    "adjPpg": 14.1,
+    "pointsPlus": 113,
+    "mpg": 30.6,
+    "position": "F",
+    "jersey": "25",
+    "usgPct": 20.3,
+    "tsPct": 52.8,
     "pointsPlusStdDev": 50.0,
     "volatilityPctile": 61
   },
@@ -1720,7 +1737,7 @@
     "id": 203501,
     "name": "Tim Hardaway Jr.",
     "team": "DEN",
-    "rank": 102,
+    "rank": 103,
     "gp": 54,
     "ppg": 14.1,
     "adjPpg": 14.1,
@@ -1730,14 +1747,14 @@
     "jersey": "10",
     "usgPct": 17.7,
     "tsPct": 63.3,
-    "pointsPlusStdDev": 52.2,
-    "volatilityPctile": 68
+    "pointsPlusStdDev": 52.3,
+    "volatilityPctile": 69
   },
   {
     "id": 1626162,
     "name": "Kelly Oubre Jr.",
     "team": "PHI",
-    "rank": 103,
+    "rank": 104,
     "gp": 32,
     "ppg": 13.9,
     "adjPpg": 14.1,
@@ -1747,14 +1764,14 @@
     "jersey": "9",
     "usgPct": 17.0,
     "tsPct": 58.5,
-    "pointsPlusStdDev": 58.4,
+    "pointsPlusStdDev": 58.6,
     "volatilityPctile": 86
   },
   {
     "id": 1629675,
     "name": "Naz Reid",
     "team": "MIN",
-    "rank": 104,
+    "rank": 105,
     "gp": 56,
     "ppg": 14.2,
     "adjPpg": 14.1,
@@ -1764,14 +1781,14 @@
     "jersey": "11",
     "usgPct": 21.0,
     "tsPct": 59.0,
-    "pointsPlusStdDev": 55.9,
-    "volatilityPctile": 80
+    "pointsPlusStdDev": 56.0,
+    "volatilityPctile": 79
   },
   {
     "id": 1630170,
     "name": "Devin Vassell",
     "team": "SAS",
-    "rank": 105,
+    "rank": 106,
     "gp": 41,
     "ppg": 14.1,
     "adjPpg": 14.0,
@@ -1783,23 +1800,6 @@
     "tsPct": 55.0,
     "pointsPlusStdDev": 52.6,
     "volatilityPctile": 70
-  },
-  {
-    "id": 1629023,
-    "name": "P.J. Washington",
-    "team": "DAL",
-    "rank": 106,
-    "gp": 38,
-    "ppg": 14.0,
-    "adjPpg": 14.0,
-    "pointsPlus": 112,
-    "mpg": 30.5,
-    "position": "F",
-    "jersey": "25",
-    "usgPct": 20.3,
-    "tsPct": 52.4,
-    "pointsPlusStdDev": 50.2,
-    "volatilityPctile": 62
   },
   {
     "id": 1630583,
@@ -1815,8 +1815,8 @@
     "jersey": "7",
     "usgPct": 19.1,
     "tsPct": 57.2,
-    "pointsPlusStdDev": 53.3,
-    "volatilityPctile": 71
+    "pointsPlusStdDev": 53.4,
+    "volatilityPctile": 72
   },
   {
     "id": 1642349,
@@ -1849,8 +1849,8 @@
     "jersey": "20",
     "usgPct": 18.2,
     "tsPct": 66.0,
-    "pointsPlusStdDev": 42.4,
-    "volatilityPctile": 34
+    "pointsPlusStdDev": 42.5,
+    "volatilityPctile": 33
   },
   {
     "id": 1642281,
@@ -1860,7 +1860,7 @@
     "gp": 50,
     "ppg": 13.9,
     "adjPpg": 13.9,
-    "pointsPlus": 111,
+    "pointsPlus": 112,
     "mpg": 27.8,
     "position": "G-F",
     "jersey": "20",
@@ -1883,7 +1883,7 @@
     "jersey": "15",
     "usgPct": 21.8,
     "tsPct": 54.5,
-    "pointsPlusStdDev": 52.3,
+    "pointsPlusStdDev": 52.4,
     "volatilityPctile": 69
   },
   {
@@ -1900,8 +1900,8 @@
     "jersey": "23",
     "usgPct": 18.7,
     "tsPct": 53.2,
-    "pointsPlusStdDev": 49.8,
-    "volatilityPctile": 60
+    "pointsPlusStdDev": 50.0,
+    "volatilityPctile": 61
   },
   {
     "id": 1630241,
@@ -1911,14 +1911,14 @@
     "gp": 31,
     "ppg": 13.6,
     "adjPpg": 13.5,
-    "pointsPlus": 108,
+    "pointsPlus": 109,
     "mpg": 25.4,
     "position": "G",
     "jersey": "5",
     "usgPct": 17.0,
     "tsPct": 69.5,
-    "pointsPlusStdDev": 53.3,
-    "volatilityPctile": 71
+    "pointsPlusStdDev": 53.4,
+    "volatilityPctile": 72
   },
   {
     "id": 1629640,
@@ -1934,8 +1934,8 @@
     "jersey": "3",
     "usgPct": 19.5,
     "tsPct": 64.4,
-    "pointsPlusStdDev": 49.4,
-    "volatilityPctile": 58
+    "pointsPlusStdDev": 49.5,
+    "volatilityPctile": 59
   },
   {
     "id": 202699,
@@ -1951,7 +1951,7 @@
     "jersey": "12",
     "usgPct": 18.3,
     "tsPct": 56.9,
-    "pointsPlusStdDev": 47.0,
+    "pointsPlusStdDev": 47.1,
     "volatilityPctile": 50
   },
   {
@@ -1972,10 +1972,27 @@
     "volatilityPctile": 34
   },
   {
+    "id": 1631108,
+    "name": "Max Christie",
+    "team": "DAL",
+    "rank": 117,
+    "gp": 50,
+    "ppg": 13.3,
+    "adjPpg": 13.3,
+    "pointsPlus": 107,
+    "mpg": 29.6,
+    "position": "G",
+    "jersey": "0",
+    "usgPct": 16.3,
+    "tsPct": 62.6,
+    "pointsPlusStdDev": 47.5,
+    "volatilityPctile": 52
+  },
+  {
     "id": 1631221,
     "name": "Collin Gillespie",
     "team": "PHX",
-    "rank": 117,
+    "rank": 118,
     "gp": 54,
     "ppg": 13.3,
     "adjPpg": 13.3,
@@ -1985,14 +2002,14 @@
     "jersey": "12",
     "usgPct": 18.6,
     "tsPct": 59.4,
-    "pointsPlusStdDev": 49.5,
-    "volatilityPctile": 59
+    "pointsPlusStdDev": 49.7,
+    "volatilityPctile": 60
   },
   {
     "id": 1642847,
     "name": "Jeremiah Fears",
     "team": "NOP",
-    "rank": 118,
+    "rank": 119,
     "gp": 56,
     "ppg": 13.2,
     "adjPpg": 13.2,
@@ -2002,31 +2019,31 @@
     "jersey": "0",
     "usgPct": 23.9,
     "tsPct": 51.3,
-    "pointsPlusStdDev": 44.8,
+    "pointsPlusStdDev": 44.9,
     "volatilityPctile": 41
   },
   {
-    "id": 1631108,
-    "name": "Max Christie",
-    "team": "DAL",
-    "rank": 119,
-    "gp": 49,
-    "ppg": 13.1,
+    "id": 1626171,
+    "name": "Bobby Portis",
+    "team": "MIL",
+    "rank": 120,
+    "gp": 51,
+    "ppg": 13.2,
     "adjPpg": 13.2,
     "pointsPlus": 106,
-    "mpg": 29.6,
-    "position": "G",
-    "jersey": "0",
-    "usgPct": 16.2,
-    "tsPct": 62.4,
-    "pointsPlusStdDev": 47.3,
-    "volatilityPctile": 51
+    "mpg": 24.2,
+    "position": "F",
+    "jersey": "9",
+    "usgPct": 22.1,
+    "tsPct": 57.9,
+    "pointsPlusStdDev": 46.5,
+    "volatilityPctile": 47
   },
   {
     "id": 1629028,
     "name": "Deandre Ayton",
     "team": "LAL",
-    "rank": 120,
+    "rank": 121,
     "gp": 46,
     "ppg": 13.2,
     "adjPpg": 13.2,
@@ -2037,39 +2054,22 @@
     "usgPct": 16.8,
     "tsPct": 68.0,
     "pointsPlusStdDev": 50.7,
-    "volatilityPctile": 63
+    "volatilityPctile": 64
   },
   {
     "id": 1641739,
     "name": "Toumani Camara",
     "team": "POR",
-    "rank": 121,
-    "gp": 55,
+    "rank": 122,
+    "gp": 56,
     "ppg": 13.1,
     "adjPpg": 13.2,
     "pointsPlus": 106,
-    "mpg": 33.5,
+    "mpg": 33.4,
     "position": "F",
     "jersey": "33",
     "usgPct": 15.8,
-    "tsPct": 57.7,
-    "pointsPlusStdDev": 47.2,
-    "volatilityPctile": 51
-  },
-  {
-    "id": 1626171,
-    "name": "Bobby Portis",
-    "team": "MIL",
-    "rank": 122,
-    "gp": 50,
-    "ppg": 13.1,
-    "adjPpg": 13.2,
-    "pointsPlus": 106,
-    "mpg": 24.1,
-    "position": "F",
-    "jersey": "9",
-    "usgPct": 22.2,
-    "tsPct": 57.7,
+    "tsPct": 57.9,
     "pointsPlusStdDev": 46.8,
     "volatilityPctile": 49
   },
@@ -2087,7 +2087,7 @@
     "jersey": "12",
     "usgPct": 20.7,
     "tsPct": 57.0,
-    "pointsPlusStdDev": 41.5,
+    "pointsPlusStdDev": 41.6,
     "volatilityPctile": 30
   },
   {
@@ -2112,17 +2112,17 @@
     "name": "Kyle Kuzma",
     "team": "MIL",
     "rank": 125,
-    "gp": 49,
+    "gp": 50,
     "ppg": 12.9,
     "adjPpg": 12.9,
     "pointsPlus": 104,
     "mpg": 26.9,
     "position": "F",
     "jersey": "18",
-    "usgPct": 20.9,
-    "tsPct": 56.8,
-    "pointsPlusStdDev": 56.4,
-    "volatilityPctile": 81
+    "usgPct": 21.0,
+    "tsPct": 56.5,
+    "pointsPlusStdDev": 56.0,
+    "volatilityPctile": 79
   },
   {
     "id": 1630540,
@@ -2132,14 +2132,14 @@
     "gp": 35,
     "ppg": 12.9,
     "adjPpg": 12.9,
-    "pointsPlus": 103,
+    "pointsPlus": 104,
     "mpg": 28.0,
     "position": "G",
     "jersey": "2",
     "usgPct": 17.0,
     "tsPct": 59.2,
-    "pointsPlusStdDev": 50.1,
-    "volatilityPctile": 61
+    "pointsPlusStdDev": 50.2,
+    "volatilityPctile": 62
   },
   {
     "id": 1629656,
@@ -2149,14 +2149,14 @@
     "gp": 48,
     "ppg": 12.7,
     "adjPpg": 12.8,
-    "pointsPlus": 102,
+    "pointsPlus": 103,
     "mpg": 30.0,
     "position": "G",
     "jersey": "5",
     "usgPct": 17.2,
     "tsPct": 59.2,
-    "pointsPlusStdDev": 51.2,
-    "volatilityPctile": 66
+    "pointsPlusStdDev": 51.4,
+    "volatilityPctile": 67
   },
   {
     "id": 1628978,
@@ -2172,8 +2172,8 @@
     "jersey": "0",
     "usgPct": 16.6,
     "tsPct": 57.4,
-    "pointsPlusStdDev": 44.5,
-    "volatilityPctile": 39
+    "pointsPlusStdDev": 44.6,
+    "volatilityPctile": 40
   },
   {
     "id": 1642263,
@@ -2189,8 +2189,8 @@
     "jersey": "15",
     "usgPct": 20.8,
     "tsPct": 55.0,
-    "pointsPlusStdDev": 46.0,
-    "volatilityPctile": 45
+    "pointsPlusStdDev": 46.2,
+    "volatilityPctile": 46
   },
   {
     "id": 1626167,
@@ -2206,7 +2206,7 @@
     "jersey": "3",
     "usgPct": 18.1,
     "tsPct": 58.6,
-    "pointsPlusStdDev": 47.5,
+    "pointsPlusStdDev": 47.6,
     "volatilityPctile": 52
   },
   {
@@ -2214,17 +2214,17 @@
     "name": "Brandon Williams",
     "team": "DAL",
     "rank": 131,
-    "gp": 45,
-    "ppg": 12.6,
-    "adjPpg": 12.6,
-    "pointsPlus": 101,
-    "mpg": 21.9,
+    "gp": 46,
+    "ppg": 12.7,
+    "adjPpg": 12.7,
+    "pointsPlus": 102,
+    "mpg": 22.0,
     "position": "G",
     "jersey": "10",
-    "usgPct": 24.4,
-    "tsPct": 55.2,
-    "pointsPlusStdDev": 51.2,
-    "volatilityPctile": 66
+    "usgPct": 24.5,
+    "tsPct": 55.5,
+    "pointsPlusStdDev": 51.0,
+    "volatilityPctile": 65
   },
   {
     "id": 1629651,
@@ -2240,7 +2240,7 @@
     "jersey": "33",
     "usgPct": 17.2,
     "tsPct": 60.8,
-    "pointsPlusStdDev": 36.9,
+    "pointsPlusStdDev": 37.0,
     "volatilityPctile": 17
   },
   {
@@ -2251,20 +2251,37 @@
     "gp": 43,
     "ppg": 12.4,
     "adjPpg": 12.5,
-    "pointsPlus": 100,
+    "pointsPlus": 101,
     "mpg": 22.2,
     "position": "G",
     "jersey": "0",
     "usgPct": 23.0,
     "tsPct": 56.9,
     "pointsPlusStdDev": 59.2,
-    "volatilityPctile": 87
+    "volatilityPctile": 86
+  },
+  {
+    "id": 1641729,
+    "name": "Brice Sensabaugh",
+    "team": "UTA",
+    "rank": 134,
+    "gp": 53,
+    "ppg": 12.5,
+    "adjPpg": 12.5,
+    "pointsPlus": 100,
+    "mpg": 22.0,
+    "position": "F",
+    "jersey": "28",
+    "usgPct": 22.0,
+    "tsPct": 58.5,
+    "pointsPlusStdDev": 66.7,
+    "volatilityPctile": 93
   },
   {
     "id": 1630200,
     "name": "Tre Jones",
     "team": "CHI",
-    "rank": 134,
+    "rank": 135,
     "gp": 38,
     "ppg": 12.4,
     "adjPpg": 12.4,
@@ -2274,18 +2291,18 @@
     "jersey": "30",
     "usgPct": 16.6,
     "tsPct": 64.8,
-    "pointsPlusStdDev": 45.4,
+    "pointsPlusStdDev": 45.6,
     "volatilityPctile": 43
   },
   {
     "id": 203471,
     "name": "Dennis Schr\u00f6der",
     "team": "CLE",
-    "rank": 135,
+    "rank": 136,
     "gp": 44,
     "ppg": 12.3,
     "adjPpg": 12.4,
-    "pointsPlus": 99,
+    "pointsPlus": 100,
     "mpg": 25.8,
     "position": "G",
     "jersey": "8",
@@ -2298,10 +2315,10 @@
     "id": 1631106,
     "name": "Tari Eason",
     "team": "HOU",
-    "rank": 136,
+    "rank": 137,
     "gp": 31,
     "ppg": 12.2,
-    "adjPpg": 12.3,
+    "adjPpg": 12.2,
     "pointsPlus": 98,
     "mpg": 25.5,
     "position": "F",
@@ -2315,7 +2332,7 @@
     "id": 1642852,
     "name": "Derik Queen",
     "team": "NOP",
-    "rank": 137,
+    "rank": 138,
     "gp": 55,
     "ppg": 12.2,
     "adjPpg": 12.2,
@@ -2325,25 +2342,8 @@
     "jersey": "22",
     "usgPct": 21.5,
     "tsPct": 55.5,
-    "pointsPlusStdDev": 54.0,
+    "pointsPlusStdDev": 54.1,
     "volatilityPctile": 73
-  },
-  {
-    "id": 1641729,
-    "name": "Brice Sensabaugh",
-    "team": "UTA",
-    "rank": 138,
-    "gp": 52,
-    "ppg": 12.2,
-    "adjPpg": 12.2,
-    "pointsPlus": 98,
-    "mpg": 21.7,
-    "position": "F",
-    "jersey": "28",
-    "usgPct": 21.9,
-    "tsPct": 58.4,
-    "pointsPlusStdDev": 65.2,
-    "volatilityPctile": 92
   },
   {
     "id": 1629130,
@@ -2359,8 +2359,8 @@
     "jersey": "55",
     "usgPct": 15.2,
     "tsPct": 61.3,
-    "pointsPlusStdDev": 39.1,
-    "volatilityPctile": 24
+    "pointsPlusStdDev": 39.0,
+    "volatilityPctile": 23
   },
   {
     "id": 1628404,
@@ -2376,7 +2376,7 @@
     "jersey": "3",
     "usgPct": 16.3,
     "tsPct": 60.6,
-    "pointsPlusStdDev": 48.2,
+    "pointsPlusStdDev": 48.4,
     "volatilityPctile": 55
   },
   {
@@ -2393,7 +2393,7 @@
     "jersey": "0",
     "usgPct": 23.9,
     "tsPct": 54.3,
-    "pointsPlusStdDev": 56.6,
+    "pointsPlusStdDev": 56.8,
     "volatilityPctile": 82
   },
   {
@@ -2410,8 +2410,8 @@
     "jersey": "15",
     "usgPct": 16.5,
     "tsPct": 69.8,
-    "pointsPlusStdDev": 50.1,
-    "volatilityPctile": 61
+    "pointsPlusStdDev": 50.3,
+    "volatilityPctile": 62
   },
   {
     "id": 1642377,
@@ -2431,10 +2431,27 @@
     "volatilityPctile": 31
   },
   {
+    "id": 1629060,
+    "name": "Rui Hachimura",
+    "team": "LAL",
+    "rank": 144,
+    "gp": 44,
+    "ppg": 12.1,
+    "adjPpg": 12.1,
+    "pointsPlus": 97,
+    "mpg": 29.9,
+    "position": "F",
+    "jersey": "28",
+    "usgPct": 15.0,
+    "tsPct": 62.0,
+    "pointsPlusStdDev": 48.9,
+    "volatilityPctile": 56
+  },
+  {
     "id": 1641764,
     "name": "Brandin Podziemski",
     "team": "GSW",
-    "rank": 144,
+    "rank": 145,
     "gp": 55,
     "ppg": 12.0,
     "adjPpg": 12.0,
@@ -2444,42 +2461,25 @@
     "jersey": "2",
     "usgPct": 18.5,
     "tsPct": 56.9,
-    "pointsPlusStdDev": 43.0,
-    "volatilityPctile": 36
-  },
-  {
-    "id": 1629060,
-    "name": "Rui Hachimura",
-    "team": "LAL",
-    "rank": 145,
-    "gp": 43,
-    "ppg": 11.9,
-    "adjPpg": 11.9,
-    "pointsPlus": 95,
-    "mpg": 29.7,
-    "position": "F",
-    "jersey": "28",
-    "usgPct": 15.0,
-    "tsPct": 61.4,
-    "pointsPlusStdDev": 48.1,
-    "volatilityPctile": 55
+    "pointsPlusStdDev": 43.1,
+    "volatilityPctile": 37
   },
   {
     "id": 1642846,
     "name": "Ace Bailey",
     "team": "UTA",
     "rank": 146,
-    "gp": 48,
-    "ppg": 11.6,
+    "gp": 49,
+    "ppg": 11.7,
     "adjPpg": 11.7,
     "pointsPlus": 94,
-    "mpg": 26.1,
+    "mpg": 26.3,
     "position": "F",
     "jersey": "19",
-    "usgPct": 18.7,
-    "tsPct": 53.2,
-    "pointsPlusStdDev": 50.9,
-    "volatilityPctile": 65
+    "usgPct": 18.8,
+    "tsPct": 53.1,
+    "pointsPlusStdDev": 50.6,
+    "volatilityPctile": 63
   },
   {
     "id": 1630700,
@@ -2496,7 +2496,7 @@
     "usgPct": 16.0,
     "tsPct": 52.0,
     "pointsPlusStdDev": 45.1,
-    "volatilityPctile": 43
+    "volatilityPctile": 42
   },
   {
     "id": 1629001,
@@ -2512,14 +2512,31 @@
     "jersey": "8",
     "usgPct": 24.0,
     "tsPct": 53.6,
-    "pointsPlusStdDev": 53.5,
+    "pointsPlusStdDev": 53.8,
     "volatilityPctile": 72
+  },
+  {
+    "id": 1642270,
+    "name": "Donovan Clingan",
+    "team": "POR",
+    "rank": 149,
+    "gp": 52,
+    "ppg": 11.6,
+    "adjPpg": 11.6,
+    "pointsPlus": 93,
+    "mpg": 27.5,
+    "position": "C",
+    "jersey": "23",
+    "usgPct": 15.0,
+    "tsPct": 60.4,
+    "pointsPlusStdDev": 42.6,
+    "volatilityPctile": 34
   },
   {
     "id": 1628976,
     "name": "Wendell Carter Jr.",
     "team": "ORL",
-    "rank": 149,
+    "rank": 150,
     "gp": 51,
     "ppg": 11.6,
     "adjPpg": 11.6,
@@ -2529,14 +2546,14 @@
     "jersey": "34",
     "usgPct": 15.4,
     "tsPct": 60.3,
-    "pointsPlusStdDev": 42.3,
+    "pointsPlusStdDev": 42.5,
     "volatilityPctile": 33
   },
   {
     "id": 1642285,
     "name": "Cam Spencer",
     "team": "MEM",
-    "rank": 150,
+    "rank": 151,
     "gp": 51,
     "ppg": 11.6,
     "adjPpg": 11.6,
@@ -2546,31 +2563,31 @@
     "jersey": "24",
     "usgPct": 17.1,
     "tsPct": 65.6,
-    "pointsPlusStdDev": 48.7,
-    "volatilityPctile": 57
+    "pointsPlusStdDev": 48.8,
+    "volatilityPctile": 56
   },
   {
     "id": 202691,
     "name": "Klay Thompson",
     "team": "DAL",
-    "rank": 151,
-    "gp": 48,
+    "rank": 152,
+    "gp": 49,
     "ppg": 11.6,
     "adjPpg": 11.5,
-    "pointsPlus": 93,
+    "pointsPlus": 92,
     "mpg": 22.0,
     "position": "G",
     "jersey": "31",
     "usgPct": 20.8,
-    "tsPct": 53.2,
-    "pointsPlusStdDev": 47.0,
-    "volatilityPctile": 50
+    "tsPct": 53.3,
+    "pointsPlusStdDev": 46.7,
+    "volatilityPctile": 49
   },
   {
     "id": 1630541,
     "name": "Moses Moody",
     "team": "GSW",
-    "rank": 152,
+    "rank": 153,
     "gp": 53,
     "ppg": 11.5,
     "adjPpg": 11.5,
@@ -2580,25 +2597,8 @@
     "jersey": "4",
     "usgPct": 17.0,
     "tsPct": 59.8,
-    "pointsPlusStdDev": 55.4,
+    "pointsPlusStdDev": 55.5,
     "volatilityPctile": 77
-  },
-  {
-    "id": 1642270,
-    "name": "Donovan Clingan",
-    "team": "POR",
-    "rank": 153,
-    "gp": 51,
-    "ppg": 11.4,
-    "adjPpg": 11.4,
-    "pointsPlus": 92,
-    "mpg": 27.5,
-    "position": "C",
-    "jersey": "23",
-    "usgPct": 15.0,
-    "tsPct": 60.0,
-    "pointsPlusStdDev": 41.5,
-    "volatilityPctile": 30
   },
   {
     "id": 1629111,
@@ -2618,27 +2618,10 @@
     "volatilityPctile": 46
   },
   {
-    "id": 1631126,
-    "name": "Caleb Love",
-    "team": "POR",
-    "rank": 155,
-    "gp": 44,
-    "ppg": 11.3,
-    "adjPpg": 11.4,
-    "pointsPlus": 91,
-    "mpg": 22.4,
-    "position": "G",
-    "jersey": "2",
-    "usgPct": 22.7,
-    "tsPct": 50.1,
-    "pointsPlusStdDev": 58.3,
-    "volatilityPctile": 85
-  },
-  {
     "id": 1630572,
     "name": "Sandro Mamukelashvili",
     "team": "TOR",
-    "rank": 156,
+    "rank": 155,
     "gp": 53,
     "ppg": 11.4,
     "adjPpg": 11.4,
@@ -2648,8 +2631,25 @@
     "jersey": "54",
     "usgPct": 17.8,
     "tsPct": 63.8,
-    "pointsPlusStdDev": 45.0,
-    "volatilityPctile": 42
+    "pointsPlusStdDev": 45.2,
+    "volatilityPctile": 43
+  },
+  {
+    "id": 1631126,
+    "name": "Caleb Love",
+    "team": "POR",
+    "rank": 156,
+    "gp": 45,
+    "ppg": 11.3,
+    "adjPpg": 11.3,
+    "pointsPlus": 91,
+    "mpg": 22.3,
+    "position": "G",
+    "jersey": "2",
+    "usgPct": 22.8,
+    "tsPct": 50.0,
+    "pointsPlusStdDev": 57.7,
+    "volatilityPctile": 84
   },
   {
     "id": 1629661,
@@ -2666,7 +2666,7 @@
     "usgPct": 14.3,
     "tsPct": 61.1,
     "pointsPlusStdDev": 48.3,
-    "volatilityPctile": 56
+    "volatilityPctile": 55
   },
   {
     "id": 1642276,
@@ -2682,7 +2682,7 @@
     "jersey": "7",
     "usgPct": 17.5,
     "tsPct": 61.9,
-    "pointsPlusStdDev": 54.4,
+    "pointsPlusStdDev": 54.5,
     "volatilityPctile": 74
   },
   {
@@ -2734,7 +2734,7 @@
     "usgPct": 12.5,
     "tsPct": 67.3,
     "pointsPlusStdDev": 38.2,
-    "volatilityPctile": 20
+    "volatilityPctile": 21
   },
   {
     "id": 1642844,
@@ -2750,7 +2750,7 @@
     "jersey": "2",
     "usgPct": 21.8,
     "tsPct": 52.9,
-    "pointsPlusStdDev": 47.1,
+    "pointsPlusStdDev": 47.2,
     "volatilityPctile": 51
   },
   {
@@ -2771,21 +2771,21 @@
     "volatilityPctile": 67
   },
   {
-    "id": 1630598,
-    "name": "Aaron Wiggins",
-    "team": "OKC",
+    "id": 1631260,
+    "name": "AJ Green",
+    "team": "MIL",
     "rank": 164,
-    "gp": 40,
+    "gp": 49,
     "ppg": 10.7,
     "adjPpg": 10.6,
-    "pointsPlus": 85,
-    "mpg": 23.9,
+    "pointsPlus": 86,
+    "mpg": 30.2,
     "position": "G",
-    "jersey": "21",
-    "usgPct": 19.1,
-    "tsPct": 56.5,
-    "pointsPlusStdDev": 48.3,
-    "volatilityPctile": 56
+    "jersey": "20",
+    "usgPct": 12.8,
+    "tsPct": 64.3,
+    "pointsPlusStdDev": 43.8,
+    "volatilityPctile": 38
   },
   {
     "id": 1641716,
@@ -2801,7 +2801,7 @@
     "jersey": "5",
     "usgPct": 19.5,
     "tsPct": 53.1,
-    "pointsPlusStdDev": 46.5,
+    "pointsPlusStdDev": 46.6,
     "volatilityPctile": 48
   },
   {
@@ -2829,48 +2829,48 @@
     "gp": 42,
     "ppg": 10.5,
     "adjPpg": 10.5,
-    "pointsPlus": 84,
+    "pointsPlus": 85,
     "mpg": 24.2,
     "position": "F",
     "jersey": "10",
     "usgPct": 17.6,
     "tsPct": 54.2,
-    "pointsPlusStdDev": 44.1,
-    "volatilityPctile": 38
+    "pointsPlusStdDev": 44.2,
+    "volatilityPctile": 39
   },
   {
-    "id": 1631260,
-    "name": "AJ Green",
-    "team": "MIL",
+    "id": 1630598,
+    "name": "Aaron Wiggins",
+    "team": "OKC",
     "rank": 168,
-    "gp": 48,
+    "gp": 41,
+    "ppg": 10.6,
+    "adjPpg": 10.5,
+    "pointsPlus": 84,
+    "mpg": 23.8,
+    "position": "G",
+    "jersey": "21",
+    "usgPct": 19.1,
+    "tsPct": 56.3,
+    "pointsPlusStdDev": 48.3,
+    "volatilityPctile": 55
+  },
+  {
+    "id": 1630198,
+    "name": "Isaiah Joe",
+    "team": "OKC",
+    "rank": 169,
+    "gp": 47,
     "ppg": 10.5,
     "adjPpg": 10.5,
     "pointsPlus": 84,
-    "mpg": 30.1,
+    "mpg": 21.1,
     "position": "G",
-    "jersey": "20",
-    "usgPct": 12.8,
+    "jersey": "11",
+    "usgPct": 17.4,
     "tsPct": 64.4,
-    "pointsPlusStdDev": 43.2,
-    "volatilityPctile": 37
-  },
-  {
-    "id": 203114,
-    "name": "Khris Middleton",
-    "team": "DAL",
-    "rank": 169,
-    "gp": 35,
-    "ppg": 10.4,
-    "adjPpg": 10.5,
-    "pointsPlus": 84,
-    "mpg": 24.3,
-    "position": "F",
-    "jersey": "20",
-    "usgPct": 18.9,
-    "tsPct": 53.6,
-    "pointsPlusStdDev": 40.5,
-    "volatilityPctile": 27
+    "pointsPlusStdDev": 51.1,
+    "volatilityPctile": 66
   },
   {
     "id": 1628392,
@@ -2886,14 +2886,48 @@
     "jersey": "55",
     "usgPct": 16.4,
     "tsPct": 64.9,
-    "pointsPlusStdDev": 46.4,
+    "pointsPlusStdDev": 46.5,
     "volatilityPctile": 47
+  },
+  {
+    "id": 203114,
+    "name": "Khris Middleton",
+    "team": "DAL",
+    "rank": 171,
+    "gp": 36,
+    "ppg": 10.3,
+    "adjPpg": 10.4,
+    "pointsPlus": 84,
+    "mpg": 24.2,
+    "position": "F",
+    "jersey": "20",
+    "usgPct": 19.0,
+    "tsPct": 53.0,
+    "pointsPlusStdDev": 40.3,
+    "volatilityPctile": 27
+  },
+  {
+    "id": 1642268,
+    "name": "Isaiah Collier",
+    "team": "UTA",
+    "rank": 172,
+    "gp": 48,
+    "ppg": 10.4,
+    "adjPpg": 10.4,
+    "pointsPlus": 83,
+    "mpg": 25.5,
+    "position": "G",
+    "jersey": "8",
+    "usgPct": 18.5,
+    "tsPct": 57.8,
+    "pointsPlusStdDev": 43.0,
+    "volatilityPctile": 36
   },
   {
     "id": 1628989,
     "name": "Kevin Huerter",
     "team": "DET",
-    "rank": 171,
+    "rank": 173,
     "gp": 48,
     "ppg": 10.3,
     "adjPpg": 10.4,
@@ -2903,31 +2937,14 @@
     "jersey": "27",
     "usgPct": 18.7,
     "tsPct": 55.4,
-    "pointsPlusStdDev": 45.5,
+    "pointsPlusStdDev": 45.6,
     "volatilityPctile": 43
-  },
-  {
-    "id": 1628963,
-    "name": "Marvin Bagley III",
-    "team": "DAL",
-    "rank": 172,
-    "gp": 40,
-    "ppg": 10.2,
-    "adjPpg": 10.3,
-    "pointsPlus": 83,
-    "mpg": 19.5,
-    "position": "F",
-    "jersey": "35",
-    "usgPct": 18.2,
-    "tsPct": 65.8,
-    "pointsPlusStdDev": 38.8,
-    "volatilityPctile": 22
   },
   {
     "id": 1626220,
     "name": "Royce O'Neale",
     "team": "PHX",
-    "rank": 173,
+    "rank": 174,
     "gp": 55,
     "ppg": 10.3,
     "adjPpg": 10.3,
@@ -2944,7 +2961,7 @@
     "id": 1626156,
     "name": "D'Angelo Russell",
     "team": "DAL",
-    "rank": 174,
+    "rank": 175,
     "gp": 26,
     "ppg": 10.2,
     "adjPpg": 10.3,
@@ -2954,42 +2971,25 @@
     "jersey": "5",
     "usgPct": 26.1,
     "tsPct": 51.1,
-    "pointsPlusStdDev": 65.7,
-    "volatilityPctile": 93
+    "pointsPlusStdDev": 65.8,
+    "volatilityPctile": 92
   },
   {
-    "id": 1630198,
-    "name": "Isaiah Joe",
-    "team": "OKC",
-    "rank": 175,
-    "gp": 46,
-    "ppg": 10.4,
-    "adjPpg": 10.3,
-    "pointsPlus": 83,
-    "mpg": 20.9,
-    "position": "G",
-    "jersey": "11",
-    "usgPct": 17.4,
-    "tsPct": 64.2,
-    "pointsPlusStdDev": 50.8,
-    "volatilityPctile": 64
-  },
-  {
-    "id": 1642268,
-    "name": "Isaiah Collier",
-    "team": "UTA",
+    "id": 1628963,
+    "name": "Marvin Bagley III",
+    "team": "DAL",
     "rank": 176,
-    "gp": 47,
-    "ppg": 10.3,
+    "gp": 41,
+    "ppg": 10.2,
     "adjPpg": 10.3,
-    "pointsPlus": 83,
-    "mpg": 25.3,
-    "position": "G",
-    "jersey": "8",
-    "usgPct": 18.4,
-    "tsPct": 57.8,
-    "pointsPlusStdDev": 43.1,
-    "volatilityPctile": 37
+    "pointsPlus": 82,
+    "mpg": 19.5,
+    "position": "F",
+    "jersey": "35",
+    "usgPct": 18.2,
+    "tsPct": 65.3,
+    "pointsPlusStdDev": 38.6,
+    "volatilityPctile": 22
   },
   {
     "id": 1642267,
@@ -3005,7 +3005,7 @@
     "jersey": "7",
     "usgPct": 16.9,
     "tsPct": 54.2,
-    "pointsPlusStdDev": 40.6,
+    "pointsPlusStdDev": 40.7,
     "volatilityPctile": 27
   },
   {
@@ -3050,14 +3050,14 @@
     "gp": 43,
     "ppg": 10.2,
     "adjPpg": 10.2,
-    "pointsPlus": 81,
+    "pointsPlus": 82,
     "mpg": 20.2,
     "position": "F-C",
     "jersey": "25",
     "usgPct": 18.6,
     "tsPct": 60.8,
-    "pointsPlusStdDev": 35.1,
-    "volatilityPctile": 14
+    "pointsPlusStdDev": 35.2,
+    "volatilityPctile": 15
   },
   {
     "id": 1627884,
@@ -3073,8 +3073,8 @@
     "jersey": "5",
     "usgPct": 14.3,
     "tsPct": 66.1,
-    "pointsPlusStdDev": 38.4,
-    "volatilityPctile": 21
+    "pointsPlusStdDev": 38.6,
+    "volatilityPctile": 22
   },
   {
     "id": 1630191,
@@ -3084,37 +3084,20 @@
     "gp": 48,
     "ppg": 10.0,
     "adjPpg": 9.9,
-    "pointsPlus": 79,
+    "pointsPlus": 80,
     "mpg": 23.2,
     "position": "F-C",
     "jersey": "28",
     "usgPct": 16.1,
     "tsPct": 62.2,
-    "pointsPlusStdDev": 44.8,
-    "volatilityPctile": 41
-  },
-  {
-    "id": 203935,
-    "name": "Marcus Smart",
-    "team": "LAL",
-    "rank": 183,
-    "gp": 43,
-    "ppg": 9.9,
-    "adjPpg": 9.9,
-    "pointsPlus": 79,
-    "mpg": 28.5,
-    "position": "G",
-    "jersey": "36",
-    "usgPct": 15.7,
-    "tsPct": 55.7,
-    "pointsPlusStdDev": 46.3,
-    "volatilityPctile": 46
+    "pointsPlusStdDev": 45.0,
+    "volatilityPctile": 42
   },
   {
     "id": 1642875,
     "name": "Maxime Raynaud",
     "team": "SAC",
-    "rank": 184,
+    "rank": 183,
     "gp": 48,
     "ppg": 9.8,
     "adjPpg": 9.8,
@@ -3131,7 +3114,7 @@
     "id": 1641731,
     "name": "Bilal Coulibaly",
     "team": "WAS",
-    "rank": 185,
+    "rank": 184,
     "gp": 33,
     "ppg": 9.8,
     "adjPpg": 9.8,
@@ -3145,10 +3128,44 @@
     "volatilityPctile": 24
   },
   {
+    "id": 203935,
+    "name": "Marcus Smart",
+    "team": "LAL",
+    "rank": 185,
+    "gp": 44,
+    "ppg": 9.8,
+    "adjPpg": 9.8,
+    "pointsPlus": 79,
+    "mpg": 28.4,
+    "position": "G",
+    "jersey": "36",
+    "usgPct": 15.9,
+    "tsPct": 54.9,
+    "pointsPlusStdDev": 45.8,
+    "volatilityPctile": 44
+  },
+  {
+    "id": 1642271,
+    "name": "Kyle Filipowski",
+    "team": "UTA",
+    "rank": 186,
+    "gp": 55,
+    "ppg": 9.7,
+    "adjPpg": 9.8,
+    "pointsPlus": 78,
+    "mpg": 22.1,
+    "position": "C",
+    "jersey": "22",
+    "usgPct": 18.0,
+    "tsPct": 57.7,
+    "pointsPlusStdDev": 44.5,
+    "volatilityPctile": 39
+  },
+  {
     "id": 1630533,
     "name": "Ziaire Williams",
     "team": "BKN",
-    "rank": 186,
+    "rank": 187,
     "gp": 38,
     "ppg": 9.7,
     "adjPpg": 9.7,
@@ -3165,7 +3182,7 @@
     "id": 1627751,
     "name": "Jakob Poeltl",
     "team": "TOR",
-    "rank": 187,
+    "rank": 188,
     "gp": 22,
     "ppg": 9.7,
     "adjPpg": 9.7,
@@ -3175,14 +3192,14 @@
     "jersey": "19",
     "usgPct": 14.3,
     "tsPct": 68.5,
-    "pointsPlusStdDev": 42.7,
+    "pointsPlusStdDev": 42.8,
     "volatilityPctile": 35
   },
   {
     "id": 1629674,
     "name": "Neemias Queta",
     "team": "BOS",
-    "rank": 188,
+    "rank": 189,
     "gp": 51,
     "ppg": 9.7,
     "adjPpg": 9.7,
@@ -3192,25 +3209,8 @@
     "jersey": "88",
     "usgPct": 14.6,
     "tsPct": 65.5,
-    "pointsPlusStdDev": 30.9,
-    "volatilityPctile": 8
-  },
-  {
-    "id": 1642271,
-    "name": "Kyle Filipowski",
-    "team": "UTA",
-    "rank": 189,
-    "gp": 54,
-    "ppg": 9.6,
-    "adjPpg": 9.7,
-    "pointsPlus": 78,
-    "mpg": 22.0,
-    "position": "C",
-    "jersey": "22",
-    "usgPct": 18.0,
-    "tsPct": 57.4,
-    "pointsPlusStdDev": 44.6,
-    "volatilityPctile": 39
+    "pointsPlusStdDev": 31.0,
+    "volatilityPctile": 9
   },
   {
     "id": 1630557,
@@ -3243,8 +3243,8 @@
     "jersey": "9",
     "usgPct": 23.7,
     "tsPct": 56.8,
-    "pointsPlusStdDev": 39.5,
-    "volatilityPctile": 25
+    "pointsPlusStdDev": 39.7,
+    "volatilityPctile": 26
   },
   {
     "id": 1629013,
@@ -3260,7 +3260,7 @@
     "jersey": "44",
     "usgPct": 15.1,
     "tsPct": 61.9,
-    "pointsPlusStdDev": 58.0,
+    "pointsPlusStdDev": 58.3,
     "volatilityPctile": 85
   },
   {
@@ -3268,17 +3268,17 @@
     "name": "Jake LaRavia",
     "team": "LAL",
     "rank": 193,
-    "gp": 53,
-    "ppg": 9.4,
+    "gp": 54,
+    "ppg": 9.5,
     "adjPpg": 9.4,
-    "pointsPlus": 75,
+    "pointsPlus": 76,
     "mpg": 26.9,
     "position": "F",
     "jersey": "12",
     "usgPct": 14.5,
-    "tsPct": 57.8,
-    "pointsPlusStdDev": 51.4,
-    "volatilityPctile": 67
+    "tsPct": 58.1,
+    "pointsPlusStdDev": 51.1,
+    "volatilityPctile": 66
   },
   {
     "id": 1641715,
@@ -3288,13 +3288,13 @@
     "gp": 21,
     "ppg": 9.2,
     "adjPpg": 9.3,
-    "pointsPlus": 74,
+    "pointsPlus": 75,
     "mpg": 16.9,
     "position": "F",
     "jersey": "1",
     "usgPct": 22.5,
     "tsPct": 52.8,
-    "pointsPlusStdDev": 48.9,
+    "pointsPlusStdDev": 49.1,
     "volatilityPctile": 57
   },
   {
@@ -3312,13 +3312,30 @@
     "usgPct": 18.9,
     "tsPct": 62.7,
     "pointsPlusStdDev": 52.0,
-    "volatilityPctile": 68
+    "volatilityPctile": 67
+  },
+  {
+    "id": 1629004,
+    "name": "Svi Mykhailiuk",
+    "team": "UTA",
+    "rank": 196,
+    "gp": 45,
+    "ppg": 9.0,
+    "adjPpg": 9.1,
+    "pointsPlus": 73,
+    "mpg": 23.8,
+    "position": "G-F",
+    "jersey": "10",
+    "usgPct": 13.6,
+    "tsPct": 62.1,
+    "pointsPlusStdDev": 44.6,
+    "volatilityPctile": 40
   },
   {
     "id": 1630558,
     "name": "Davion Mitchell",
     "team": "MIA",
-    "rank": 196,
+    "rank": 197,
     "gp": 46,
     "ppg": 9.0,
     "adjPpg": 9.1,
@@ -3332,10 +3349,27 @@
     "volatilityPctile": 13
   },
   {
+    "id": 1630249,
+    "name": "V\u00edt Krej\u010d\u00ed",
+    "team": "POR",
+    "rank": 198,
+    "gp": 52,
+    "ppg": 9.1,
+    "adjPpg": 9.1,
+    "pointsPlus": 73,
+    "mpg": 22.2,
+    "position": "G",
+    "jersey": "27",
+    "usgPct": 14.2,
+    "tsPct": 63.2,
+    "pointsPlusStdDev": 50.6,
+    "volatilityPctile": 63
+  },
+  {
     "id": 203903,
     "name": "Jordan Clarkson",
     "team": "NYK",
-    "rank": 197,
+    "rank": 199,
     "gp": 51,
     "ppg": 9.1,
     "adjPpg": 9.1,
@@ -3345,31 +3379,14 @@
     "jersey": "0",
     "usgPct": 20.5,
     "tsPct": 53.7,
-    "pointsPlusStdDev": 44.7,
-    "volatilityPctile": 40
-  },
-  {
-    "id": 1630249,
-    "name": "V\u00edt Krej\u010d\u00ed",
-    "team": "POR",
-    "rank": 198,
-    "gp": 51,
-    "ppg": 9.1,
-    "adjPpg": 9.1,
-    "pointsPlus": 73,
-    "mpg": 22.2,
-    "position": "G",
-    "jersey": "27",
-    "usgPct": 14.2,
-    "tsPct": 63.4,
-    "pointsPlusStdDev": 51.0,
-    "volatilityPctile": 65
+    "pointsPlusStdDev": 44.8,
+    "volatilityPctile": 41
   },
   {
     "id": 1630573,
     "name": "Sam Hauser",
     "team": "BOS",
-    "rank": 199,
+    "rank": 200,
     "gp": 51,
     "ppg": 9.1,
     "adjPpg": 9.0,
@@ -3379,25 +3396,8 @@
     "jersey": "30",
     "usgPct": 14.5,
     "tsPct": 58.4,
-    "pointsPlusStdDev": 52.3,
+    "pointsPlusStdDev": 52.4,
     "volatilityPctile": 69
-  },
-  {
-    "id": 1629004,
-    "name": "Svi Mykhailiuk",
-    "team": "UTA",
-    "rank": 200,
-    "gp": 44,
-    "ppg": 8.9,
-    "adjPpg": 9.0,
-    "pointsPlus": 72,
-    "mpg": 23.9,
-    "position": "G-F",
-    "jersey": "10",
-    "usgPct": 13.4,
-    "tsPct": 61.4,
-    "pointsPlusStdDev": 44.7,
-    "volatilityPctile": 40
   },
   {
     "id": 1630529,
@@ -3431,7 +3431,7 @@
     "usgPct": 18.9,
     "tsPct": 58.4,
     "pointsPlusStdDev": 47.9,
-    "volatilityPctile": 54
+    "volatilityPctile": 53
   },
   {
     "id": 1630171,
@@ -3447,8 +3447,8 @@
     "jersey": "35",
     "usgPct": 13.6,
     "tsPct": 57.4,
-    "pointsPlusStdDev": 42.1,
-    "volatilityPctile": 33
+    "pointsPlusStdDev": 42.2,
+    "volatilityPctile": 32
   },
   {
     "id": 1630692,
@@ -3498,7 +3498,7 @@
     "jersey": "23",
     "usgPct": 16.8,
     "tsPct": 53.9,
-    "pointsPlusStdDev": 39.3,
+    "pointsPlusStdDev": 39.4,
     "volatilityPctile": 25
   },
   {
@@ -3509,7 +3509,7 @@
     "gp": 55,
     "ppg": 8.7,
     "adjPpg": 8.7,
-    "pointsPlus": 69,
+    "pointsPlus": 70,
     "mpg": 20.0,
     "position": "C",
     "jersey": "32",
@@ -3523,17 +3523,17 @@
     "name": "Luguentz Dort",
     "team": "OKC",
     "rank": 208,
-    "gp": 44,
+    "gp": 45,
     "ppg": 8.7,
     "adjPpg": 8.6,
     "pointsPlus": 69,
     "mpg": 27.8,
     "position": "G",
     "jersey": "5",
-    "usgPct": 13.5,
-    "tsPct": 54.3,
-    "pointsPlusStdDev": 38.8,
-    "volatilityPctile": 22
+    "usgPct": 13.6,
+    "tsPct": 53.7,
+    "pointsPlusStdDev": 38.4,
+    "volatilityPctile": 21
   },
   {
     "id": 1641783,
@@ -3550,7 +3550,7 @@
     "usgPct": 16.1,
     "tsPct": 54.1,
     "pointsPlusStdDev": 47.9,
-    "volatilityPctile": 54
+    "volatilityPctile": 53
   },
   {
     "id": 1631093,
@@ -3566,8 +3566,8 @@
     "jersey": "31",
     "usgPct": 19.2,
     "tsPct": 57.1,
-    "pointsPlusStdDev": 30.7,
-    "volatilityPctile": 7
+    "pointsPlusStdDev": 30.8,
+    "volatilityPctile": 8
   },
   {
     "id": 1631230,
@@ -3583,7 +3583,7 @@
     "jersey": "25",
     "usgPct": 13.3,
     "tsPct": 62.3,
-    "pointsPlusStdDev": 38.6,
+    "pointsPlusStdDev": 38.7,
     "volatilityPctile": 22
   },
   {
@@ -3600,31 +3600,14 @@
     "jersey": "20",
     "usgPct": 18.4,
     "tsPct": 65.0,
-    "pointsPlusStdDev": 39.1,
+    "pointsPlusStdDev": 39.2,
     "volatilityPctile": 24
-  },
-  {
-    "id": 1629018,
-    "name": "Gary Trent Jr.",
-    "team": "MIL",
-    "rank": 213,
-    "gp": 46,
-    "ppg": 8.5,
-    "adjPpg": 8.5,
-    "pointsPlus": 68,
-    "mpg": 24.0,
-    "position": "G",
-    "jersey": "5",
-    "usgPct": 15.0,
-    "tsPct": 54.0,
-    "pointsPlusStdDev": 42.1,
-    "volatilityPctile": 33
   },
   {
     "id": 1630631,
     "name": "Jose Alvarado",
     "team": "NYK",
-    "rank": 214,
+    "rank": 213,
     "gp": 44,
     "ppg": 8.3,
     "adjPpg": 8.4,
@@ -3634,14 +3617,14 @@
     "jersey": "5",
     "usgPct": 16.1,
     "tsPct": 56.6,
-    "pointsPlusStdDev": 44.9,
+    "pointsPlusStdDev": 45.0,
     "volatilityPctile": 42
   },
   {
     "id": 203484,
     "name": "Kentavious Caldwell-Pope",
     "team": "MEM",
-    "rank": 215,
+    "rank": 214,
     "gp": 51,
     "ppg": 8.4,
     "adjPpg": 8.4,
@@ -3651,14 +3634,14 @@
     "jersey": "3",
     "usgPct": 17.3,
     "tsPct": 53.3,
-    "pointsPlusStdDev": 39.4,
+    "pointsPlusStdDev": 39.5,
     "volatilityPctile": 25
   },
   {
     "id": 1631245,
     "name": "Quenton Jackson",
     "team": "IND",
-    "rank": 216,
+    "rank": 215,
     "gp": 26,
     "ppg": 8.3,
     "adjPpg": 8.4,
@@ -3668,8 +3651,25 @@
     "jersey": "29",
     "usgPct": 20.2,
     "tsPct": 61.2,
-    "pointsPlusStdDev": 50.7,
-    "volatilityPctile": 63
+    "pointsPlusStdDev": 50.8,
+    "volatilityPctile": 64
+  },
+  {
+    "id": 1629018,
+    "name": "Gary Trent Jr.",
+    "team": "MIL",
+    "rank": 216,
+    "gp": 47,
+    "ppg": 8.3,
+    "adjPpg": 8.3,
+    "pointsPlus": 67,
+    "mpg": 23.5,
+    "position": "G",
+    "jersey": "5",
+    "usgPct": 15.1,
+    "tsPct": 53.6,
+    "pointsPlusStdDev": 42.9,
+    "volatilityPctile": 35
   },
   {
     "id": 1642874,
@@ -3685,31 +3685,14 @@
     "jersey": "2",
     "usgPct": 19.4,
     "tsPct": 51.3,
-    "pointsPlusStdDev": 42.0,
+    "pointsPlusStdDev": 42.1,
     "volatilityPctile": 32
-  },
-  {
-    "id": 1629655,
-    "name": "Daniel Gafford",
-    "team": "DAL",
-    "rank": 218,
-    "gp": 37,
-    "ppg": 8.2,
-    "adjPpg": 8.2,
-    "pointsPlus": 66,
-    "mpg": 21.2,
-    "position": "F-C",
-    "jersey": "21",
-    "usgPct": 14.0,
-    "tsPct": 67.5,
-    "pointsPlusStdDev": 40.5,
-    "volatilityPctile": 27
   },
   {
     "id": 1641750,
     "name": "Ryan Kalkbrenner",
     "team": "CHA",
-    "rank": 219,
+    "rank": 218,
     "gp": 43,
     "ppg": 8.2,
     "adjPpg": 8.2,
@@ -3726,58 +3709,58 @@
     "id": 1631217,
     "name": "Moussa Diabat\u00e9",
     "team": "CHA",
-    "rank": 220,
+    "rank": 219,
     "gp": 50,
     "ppg": 8.2,
     "adjPpg": 8.2,
-    "pointsPlus": 65,
+    "pointsPlus": 66,
     "mpg": 25.1,
     "position": "F",
     "jersey": "14",
     "usgPct": 11.7,
     "tsPct": 65.7,
-    "pointsPlusStdDev": 33.4,
+    "pointsPlusStdDev": 33.5,
     "volatilityPctile": 12
-  },
-  {
-    "id": 1641717,
-    "name": "Cason Wallace",
-    "team": "OKC",
-    "rank": 221,
-    "gp": 52,
-    "ppg": 8.2,
-    "adjPpg": 8.2,
-    "pointsPlus": 65,
-    "mpg": 26.8,
-    "position": "G",
-    "jersey": "22",
-    "usgPct": 13.3,
-    "tsPct": 53.9,
-    "pointsPlusStdDev": 41.7,
-    "volatilityPctile": 31
   },
   {
     "id": 1628379,
     "name": "Luke Kennard",
     "team": "LAL",
-    "rank": 222,
-    "gp": 49,
+    "rank": 220,
+    "gp": 50,
     "ppg": 8.1,
     "adjPpg": 8.1,
     "pointsPlus": 65,
-    "mpg": 20.9,
+    "mpg": 20.8,
     "position": "G",
     "jersey": "10",
     "usgPct": 12.5,
-    "tsPct": 71.4,
-    "pointsPlusStdDev": 41.5,
-    "volatilityPctile": 30
+    "tsPct": 71.7,
+    "pointsPlusStdDev": 41.2,
+    "volatilityPctile": 29
+  },
+  {
+    "id": 1629655,
+    "name": "Daniel Gafford",
+    "team": "DAL",
+    "rank": 221,
+    "gp": 38,
+    "ppg": 8.0,
+    "adjPpg": 8.1,
+    "pointsPlus": 65,
+    "mpg": 21.3,
+    "position": "F-C",
+    "jersey": "21",
+    "usgPct": 13.8,
+    "tsPct": 67.4,
+    "pointsPlusStdDev": 40.9,
+    "volatilityPctile": 28
   },
   {
     "id": 1641842,
     "name": "Ronald Holland II",
     "team": "DET",
-    "rank": 223,
+    "rank": 222,
     "gp": 49,
     "ppg": 8.1,
     "adjPpg": 8.1,
@@ -3789,6 +3772,23 @@
     "tsPct": 50.4,
     "pointsPlusStdDev": 35.0,
     "volatilityPctile": 14
+  },
+  {
+    "id": 1641717,
+    "name": "Cason Wallace",
+    "team": "OKC",
+    "rank": 223,
+    "gp": 53,
+    "ppg": 8.1,
+    "adjPpg": 8.1,
+    "pointsPlus": 65,
+    "mpg": 26.8,
+    "position": "G",
+    "jersey": "22",
+    "usgPct": 13.3,
+    "tsPct": 53.2,
+    "pointsPlusStdDev": 41.8,
+    "volatilityPctile": 31
   },
   {
     "id": 1627739,
@@ -3804,8 +3804,8 @@
     "jersey": "8",
     "usgPct": 13.1,
     "tsPct": 58.9,
-    "pointsPlusStdDev": 36.2,
-    "volatilityPctile": 16
+    "pointsPlusStdDev": 36.3,
+    "volatilityPctile": 17
   },
   {
     "id": 1642450,
@@ -3821,8 +3821,8 @@
     "jersey": "24",
     "usgPct": 21.0,
     "tsPct": 53.6,
-    "pointsPlusStdDev": 56.3,
-    "volatilityPctile": 80
+    "pointsPlusStdDev": 56.4,
+    "volatilityPctile": 81
   },
   {
     "id": 1642867,
@@ -3842,27 +3842,10 @@
     "volatilityPctile": 27
   },
   {
-    "id": 1631246,
-    "name": "Vince Williams Jr.",
-    "team": "UTA",
-    "rank": 227,
-    "gp": 37,
-    "ppg": 7.7,
-    "adjPpg": 7.8,
-    "pointsPlus": 63,
-    "mpg": 21.1,
-    "position": "G",
-    "jersey": "0",
-    "usgPct": 18.9,
-    "tsPct": 48.3,
-    "pointsPlusStdDev": 38.2,
-    "volatilityPctile": 20
-  },
-  {
     "id": 1627741,
     "name": "Buddy Hield",
     "team": "ATL",
-    "rank": 228,
+    "rank": 227,
     "gp": 45,
     "ppg": 7.9,
     "adjPpg": 7.8,
@@ -3872,14 +3855,14 @@
     "jersey": "8",
     "usgPct": 18.8,
     "tsPct": 56.0,
-    "pointsPlusStdDev": 46.4,
+    "pointsPlusStdDev": 46.3,
     "volatilityPctile": 47
   },
   {
     "id": 1630551,
     "name": "Justin Champagnie",
     "team": "WAS",
-    "rank": 229,
+    "rank": 228,
     "gp": 50,
     "ppg": 7.8,
     "adjPpg": 7.8,
@@ -3889,14 +3872,14 @@
     "jersey": "9",
     "usgPct": 15.0,
     "tsPct": 58.8,
-    "pointsPlusStdDev": 44.9,
+    "pointsPlusStdDev": 45.0,
     "volatilityPctile": 42
   },
   {
     "id": 1631121,
     "name": "Bryce McGowens",
     "team": "NOP",
-    "rank": 230,
+    "rank": 229,
     "gp": 32,
     "ppg": 7.9,
     "adjPpg": 7.8,
@@ -3906,8 +3889,25 @@
     "jersey": "11",
     "usgPct": 14.2,
     "tsPct": 61.5,
-    "pointsPlusStdDev": 47.7,
+    "pointsPlusStdDev": 47.8,
     "volatilityPctile": 53
+  },
+  {
+    "id": 1631246,
+    "name": "Vince Williams Jr.",
+    "team": "UTA",
+    "rank": 230,
+    "gp": 38,
+    "ppg": 7.7,
+    "adjPpg": 7.8,
+    "pointsPlus": 63,
+    "mpg": 20.8,
+    "position": "G",
+    "jersey": "0",
+    "usgPct": 19.0,
+    "tsPct": 48.5,
+    "pointsPlusStdDev": 37.8,
+    "volatilityPctile": 19
   },
   {
     "id": 1630568,
@@ -3940,7 +3940,7 @@
     "jersey": "11",
     "usgPct": 14.7,
     "tsPct": 64.6,
-    "pointsPlusStdDev": 39.1,
+    "pointsPlusStdDev": 39.2,
     "volatilityPctile": 24
   },
   {
@@ -3957,8 +3957,8 @@
     "jersey": "8",
     "usgPct": 17.3,
     "tsPct": 53.9,
-    "pointsPlusStdDev": 34.5,
-    "volatilityPctile": 13
+    "pointsPlusStdDev": 34.6,
+    "volatilityPctile": 14
   },
   {
     "id": 1642366,
@@ -3974,7 +3974,7 @@
     "jersey": "21",
     "usgPct": 18.1,
     "tsPct": 56.7,
-    "pointsPlusStdDev": 40.7,
+    "pointsPlusStdDev": 40.8,
     "volatilityPctile": 28
   },
   {
@@ -4008,7 +4008,7 @@
     "jersey": "5",
     "usgPct": 20.3,
     "tsPct": 48.5,
-    "pointsPlusStdDev": 54.2,
+    "pointsPlusStdDev": 54.3,
     "volatilityPctile": 74
   },
   {
@@ -4025,7 +4025,7 @@
     "jersey": "14",
     "usgPct": 13.4,
     "tsPct": 55.6,
-    "pointsPlusStdDev": 35.7,
+    "pointsPlusStdDev": 35.8,
     "volatilityPctile": 15
   },
   {
@@ -4042,8 +4042,8 @@
     "jersey": "11",
     "usgPct": 13.6,
     "tsPct": 54.3,
-    "pointsPlusStdDev": 37.9,
-    "volatilityPctile": 18
+    "pointsPlusStdDev": 38.0,
+    "volatilityPctile": 20
   },
   {
     "id": 203937,
@@ -4053,14 +4053,14 @@
     "gp": 23,
     "ppg": 7.3,
     "adjPpg": 7.4,
-    "pointsPlus": 59,
+    "pointsPlus": 60,
     "mpg": 20.6,
     "position": "F-G",
     "jersey": "2",
     "usgPct": 14.8,
     "tsPct": 59.1,
     "pointsPlusStdDev": 37.4,
-    "volatilityPctile": 17
+    "volatilityPctile": 18
   },
   {
     "id": 1642849,
@@ -4076,8 +4076,8 @@
     "jersey": "88",
     "usgPct": 18.2,
     "tsPct": 50.7,
-    "pointsPlusStdDev": 47.6,
-    "volatilityPctile": 53
+    "pointsPlusStdDev": 47.7,
+    "volatilityPctile": 52
   },
   {
     "id": 1631213,
@@ -4093,7 +4093,7 @@
     "usgPct": 18.1,
     "tsPct": 50.7,
     "pointsPlusStdDev": 49.2,
-    "volatilityPctile": 58
+    "volatilityPctile": 57
   },
   {
     "id": 1628436,
@@ -4126,7 +4126,7 @@
     "jersey": "9",
     "usgPct": 15.1,
     "tsPct": 53.5,
-    "pointsPlusStdDev": 38.9,
+    "pointsPlusStdDev": 39.0,
     "volatilityPctile": 23
   },
   {
@@ -4147,10 +4147,27 @@
     "volatilityPctile": 45
   },
   {
+    "id": 201567,
+    "name": "Kevin Love",
+    "team": "UTA",
+    "rank": 245,
+    "gp": 29,
+    "ppg": 7.0,
+    "adjPpg": 7.0,
+    "pointsPlus": 56,
+    "mpg": 17.2,
+    "position": "F-C",
+    "jersey": "42",
+    "usgPct": 16.4,
+    "tsPct": 56.3,
+    "pointsPlusStdDev": 39.8,
+    "volatilityPctile": 26
+  },
+  {
     "id": 1642383,
     "name": "Walter Clayton Jr.",
     "team": "MEM",
-    "rank": 245,
+    "rank": 246,
     "gp": 47,
     "ppg": 6.9,
     "adjPpg": 7.0,
@@ -4161,24 +4178,7 @@
     "usgPct": 17.0,
     "tsPct": 53.6,
     "pointsPlusStdDev": 37.9,
-    "volatilityPctile": 18
-  },
-  {
-    "id": 201567,
-    "name": "Kevin Love",
-    "team": "UTA",
-    "rank": 246,
-    "gp": 29,
-    "ppg": 7.0,
-    "adjPpg": 7.0,
-    "pointsPlus": 56,
-    "mpg": 17.2,
-    "position": "F-C",
-    "jersey": "42",
-    "usgPct": 16.4,
-    "tsPct": 56.3,
-    "pointsPlusStdDev": 39.6,
-    "volatilityPctile": 26
+    "volatilityPctile": 19
   },
   {
     "id": 1642860,
@@ -4194,14 +4194,31 @@
     "jersey": "27",
     "usgPct": 18.4,
     "tsPct": 51.6,
-    "pointsPlusStdDev": 47.6,
-    "volatilityPctile": 53
+    "pointsPlusStdDev": 47.7,
+    "volatilityPctile": 52
+  },
+  {
+    "id": 1629026,
+    "name": "Kenrich Williams",
+    "team": "OKC",
+    "rank": 248,
+    "gp": 36,
+    "ppg": 7.0,
+    "adjPpg": 7.0,
+    "pointsPlus": 56,
+    "mpg": 16.1,
+    "position": "G-F",
+    "jersey": "34",
+    "usgPct": 17.3,
+    "tsPct": 61.1,
+    "pointsPlusStdDev": 49.3,
+    "volatilityPctile": 58
   },
   {
     "id": 203083,
     "name": "Andre Drummond",
     "team": "PHI",
-    "rank": 248,
+    "rank": 249,
     "gp": 40,
     "ppg": 6.9,
     "adjPpg": 7.0,
@@ -4211,14 +4228,14 @@
     "jersey": "1",
     "usgPct": 14.7,
     "tsPct": 56.5,
-    "pointsPlusStdDev": 39.2,
-    "volatilityPctile": 24
+    "pointsPlusStdDev": 39.3,
+    "volatilityPctile": 25
   },
   {
     "id": 1629750,
     "name": "Javonte Green",
     "team": "DET",
-    "rank": 249,
+    "rank": 250,
     "gp": 53,
     "ppg": 7.0,
     "adjPpg": 6.9,
@@ -4229,24 +4246,7 @@
     "usgPct": 14.3,
     "tsPct": 59.1,
     "pointsPlusStdDev": 38.0,
-    "volatilityPctile": 19
-  },
-  {
-    "id": 1629026,
-    "name": "Kenrich Williams",
-    "team": "OKC",
-    "rank": 250,
-    "gp": 35,
-    "ppg": 6.9,
-    "adjPpg": 6.9,
-    "pointsPlus": 56,
-    "mpg": 15.9,
-    "position": "G-F",
-    "jersey": "34",
-    "usgPct": 17.2,
-    "tsPct": 61.6,
-    "pointsPlusStdDev": 49.8,
-    "volatilityPctile": 60
+    "volatilityPctile": 20
   },
   {
     "id": 1631123,
@@ -4262,7 +4262,7 @@
     "jersey": "17",
     "usgPct": 17.7,
     "tsPct": 57.6,
-    "pointsPlusStdDev": 41.9,
+    "pointsPlusStdDev": 42.0,
     "volatilityPctile": 32
   },
   {
@@ -4273,20 +4273,37 @@
     "gp": 51,
     "ppg": 6.9,
     "adjPpg": 6.9,
-    "pointsPlus": 55,
+    "pointsPlus": 56,
     "mpg": 19.2,
     "position": "F",
     "jersey": "44",
     "usgPct": 16.3,
     "tsPct": 50.7,
-    "pointsPlusStdDev": 35.6,
+    "pointsPlusStdDev": 35.8,
     "volatilityPctile": 15
+  },
+  {
+    "id": 1642272,
+    "name": "Jared McCain",
+    "team": "OKC",
+    "rank": 253,
+    "gp": 41,
+    "ppg": 6.9,
+    "adjPpg": 6.9,
+    "pointsPlus": 55,
+    "mpg": 17.0,
+    "position": "G",
+    "jersey": "3",
+    "usgPct": 18.1,
+    "tsPct": 51.5,
+    "pointsPlusStdDev": 43.5,
+    "volatilityPctile": 38
   },
   {
     "id": 1642920,
     "name": "Kobe Sanders",
     "team": "LAC",
-    "rank": 253,
+    "rank": 254,
     "gp": 46,
     "ppg": 6.9,
     "adjPpg": 6.9,
@@ -4297,13 +4314,30 @@
     "usgPct": 15.3,
     "tsPct": 55.4,
     "pointsPlusStdDev": 41.4,
-    "volatilityPctile": 29
+    "volatilityPctile": 30
+  },
+  {
+    "id": 1629637,
+    "name": "Jaxson Hayes",
+    "team": "LAL",
+    "rank": 255,
+    "gp": 45,
+    "ppg": 6.9,
+    "adjPpg": 6.9,
+    "pointsPlus": 55,
+    "mpg": 17.7,
+    "position": "C-F",
+    "jersey": "11",
+    "usgPct": 11.7,
+    "tsPct": 77.0,
+    "pointsPlusStdDev": 33.5,
+    "volatilityPctile": 12
   },
   {
     "id": 1642347,
     "name": "Jamal Shead",
     "team": "TOR",
-    "rank": 254,
+    "rank": 256,
     "gp": 55,
     "ppg": 6.8,
     "adjPpg": 6.8,
@@ -4314,13 +4348,13 @@
     "usgPct": 15.5,
     "tsPct": 48.7,
     "pointsPlusStdDev": 38.0,
-    "volatilityPctile": 19
+    "volatilityPctile": 20
   },
   {
     "id": 201572,
     "name": "Brook Lopez",
     "team": "LAC",
-    "rank": 255,
+    "rank": 257,
     "gp": 47,
     "ppg": 6.8,
     "adjPpg": 6.8,
@@ -4330,14 +4364,14 @@
     "jersey": "11",
     "usgPct": 17.5,
     "tsPct": 52.8,
-    "pointsPlusStdDev": 43.7,
+    "pointsPlusStdDev": 43.8,
     "volatilityPctile": 38
   },
   {
     "id": 1630175,
     "name": "Cole Anthony",
     "team": "MIL",
-    "rank": 256,
+    "rank": 258,
     "gp": 35,
     "ppg": 6.7,
     "adjPpg": 6.8,
@@ -4347,42 +4381,8 @@
     "jersey": "50",
     "usgPct": 24.4,
     "tsPct": 48.3,
-    "pointsPlusStdDev": 44.9,
+    "pointsPlusStdDev": 45.0,
     "volatilityPctile": 42
-  },
-  {
-    "id": 1642272,
-    "name": "Jared McCain",
-    "team": "OKC",
-    "rank": 257,
-    "gp": 40,
-    "ppg": 6.7,
-    "adjPpg": 6.7,
-    "pointsPlus": 54,
-    "mpg": 16.8,
-    "position": "G",
-    "jersey": "3",
-    "usgPct": 17.9,
-    "tsPct": 51.3,
-    "pointsPlusStdDev": 43.1,
-    "volatilityPctile": 37
-  },
-  {
-    "id": 1629637,
-    "name": "Jaxson Hayes",
-    "team": "LAL",
-    "rank": 258,
-    "gp": 44,
-    "ppg": 6.7,
-    "adjPpg": 6.7,
-    "pointsPlus": 53,
-    "mpg": 17.3,
-    "position": "C-F",
-    "jersey": "11",
-    "usgPct": 11.6,
-    "tsPct": 76.8,
-    "pointsPlusStdDev": 32.0,
-    "volatilityPctile": 10
   },
   {
     "id": 1642948,
@@ -4398,8 +4398,8 @@
     "jersey": "9",
     "usgPct": 17.9,
     "tsPct": 50.5,
-    "pointsPlusStdDev": 45.7,
-    "volatilityPctile": 44
+    "pointsPlusStdDev": 45.9,
+    "volatilityPctile": 45
   },
   {
     "id": 1642363,
@@ -4416,7 +4416,7 @@
     "usgPct": 15.5,
     "tsPct": 48.6,
     "pointsPlusStdDev": 48.9,
-    "volatilityPctile": 57
+    "volatilityPctile": 56
   },
   {
     "id": 1642954,
@@ -4450,7 +4450,7 @@
     "usgPct": 15.2,
     "tsPct": 55.5,
     "pointsPlusStdDev": 34.3,
-    "volatilityPctile": 12
+    "volatilityPctile": 13
   },
   {
     "id": 1641711,
@@ -4466,7 +4466,7 @@
     "jersey": "1",
     "usgPct": 16.4,
     "tsPct": 55.2,
-    "pointsPlusStdDev": 41.2,
+    "pointsPlusStdDev": 41.3,
     "volatilityPctile": 29
   },
   {
@@ -4487,10 +4487,27 @@
     "volatilityPctile": 5
   },
   {
+    "id": 1631321,
+    "name": "Sidy Cissoko",
+    "team": "POR",
+    "rank": 265,
+    "gp": 50,
+    "ppg": 6.5,
+    "adjPpg": 6.5,
+    "pointsPlus": 52,
+    "mpg": 22.3,
+    "position": "G",
+    "jersey": "91",
+    "usgPct": 12.5,
+    "tsPct": 54.1,
+    "pointsPlusStdDev": 42.4,
+    "volatilityPctile": 33
+  },
+  {
     "id": 1641767,
     "name": "Ben Sheppard",
     "team": "IND",
-    "rank": 265,
+    "rank": 266,
     "gp": 44,
     "ppg": 6.5,
     "adjPpg": 6.5,
@@ -4500,25 +4517,8 @@
     "jersey": "26",
     "usgPct": 12.6,
     "tsPct": 53.1,
-    "pointsPlusStdDev": 32.9,
-    "volatilityPctile": 10
-  },
-  {
-    "id": 1631321,
-    "name": "Sidy Cissoko",
-    "team": "POR",
-    "rank": 266,
-    "gp": 49,
-    "ppg": 6.4,
-    "adjPpg": 6.5,
-    "pointsPlus": 52,
-    "mpg": 22.1,
-    "position": "G",
-    "jersey": "91",
-    "usgPct": 12.7,
-    "tsPct": 53.5,
-    "pointsPlusStdDev": 42.8,
-    "volatilityPctile": 35
+    "pointsPlusStdDev": 33.0,
+    "volatilityPctile": 11
   },
   {
     "id": 1630311,
@@ -4534,7 +4534,7 @@
     "jersey": "61",
     "usgPct": 18.9,
     "tsPct": 53.0,
-    "pointsPlusStdDev": 50.5,
+    "pointsPlusStdDev": 50.6,
     "volatilityPctile": 63
   },
   {
@@ -4551,14 +4551,48 @@
     "jersey": "23",
     "usgPct": 15.2,
     "tsPct": 61.7,
-    "pointsPlusStdDev": 38.9,
+    "pointsPlusStdDev": 39.0,
     "volatilityPctile": 23
+  },
+  {
+    "id": 1627936,
+    "name": "Alex Caruso",
+    "team": "OKC",
+    "rank": 269,
+    "gp": 37,
+    "ppg": 6.3,
+    "adjPpg": 6.3,
+    "pointsPlus": 51,
+    "mpg": 18.4,
+    "position": "G",
+    "jersey": "9",
+    "usgPct": 14.7,
+    "tsPct": 55.7,
+    "pointsPlusStdDev": 33.0,
+    "volatilityPctile": 11
+  },
+  {
+    "id": 1631119,
+    "name": "Jaylin Williams",
+    "team": "OKC",
+    "rank": 270,
+    "gp": 41,
+    "ppg": 6.3,
+    "adjPpg": 6.3,
+    "pointsPlus": 51,
+    "mpg": 19.3,
+    "position": "F",
+    "jersey": "6",
+    "usgPct": 15.3,
+    "tsPct": 53.3,
+    "pointsPlusStdDev": 37.2,
+    "volatilityPctile": 17
   },
   {
     "id": 1630570,
     "name": "Trendon Watford",
     "team": "PHI",
-    "rank": 269,
+    "rank": 271,
     "gp": 32,
     "ppg": 6.2,
     "adjPpg": 6.3,
@@ -4568,14 +4602,14 @@
     "jersey": "12",
     "usgPct": 15.9,
     "tsPct": 57.2,
-    "pointsPlusStdDev": 46.0,
-    "volatilityPctile": 45
+    "pointsPlusStdDev": 46.1,
+    "volatilityPctile": 46
   },
   {
     "id": 1642275,
     "name": "Tidjane Sala\u00fcn",
     "team": "CHA",
-    "rank": 270,
+    "rank": 272,
     "gp": 32,
     "ppg": 6.3,
     "adjPpg": 6.3,
@@ -4585,42 +4619,8 @@
     "jersey": "31",
     "usgPct": 14.5,
     "tsPct": 64.0,
-    "pointsPlusStdDev": 40.9,
+    "pointsPlusStdDev": 41.0,
     "volatilityPctile": 28
-  },
-  {
-    "id": 1631119,
-    "name": "Jaylin Williams",
-    "team": "OKC",
-    "rank": 271,
-    "gp": 40,
-    "ppg": 6.3,
-    "adjPpg": 6.3,
-    "pointsPlus": 50,
-    "mpg": 19.4,
-    "position": "F",
-    "jersey": "6",
-    "usgPct": 15.3,
-    "tsPct": 53.0,
-    "pointsPlusStdDev": 37.7,
-    "volatilityPctile": 18
-  },
-  {
-    "id": 1627936,
-    "name": "Alex Caruso",
-    "team": "OKC",
-    "rank": 272,
-    "gp": 36,
-    "ppg": 6.2,
-    "adjPpg": 6.3,
-    "pointsPlus": 50,
-    "mpg": 18.3,
-    "position": "G",
-    "jersey": "9",
-    "usgPct": 14.7,
-    "tsPct": 55.1,
-    "pointsPlusStdDev": 33.2,
-    "volatilityPctile": 12
   },
   {
     "id": 1642962,
@@ -4636,7 +4636,7 @@
     "jersey": "4",
     "usgPct": 14.8,
     "tsPct": 56.0,
-    "pointsPlusStdDev": 36.1,
+    "pointsPlusStdDev": 36.2,
     "volatilityPctile": 16
   },
   {
@@ -4653,7 +4653,7 @@
     "jersey": "14",
     "usgPct": 13.5,
     "tsPct": 57.0,
-    "pointsPlusStdDev": 42.7,
+    "pointsPlusStdDev": 42.9,
     "volatilityPctile": 35
   },
   {
@@ -4670,7 +4670,7 @@
     "jersey": "12",
     "usgPct": 14.6,
     "tsPct": 53.6,
-    "pointsPlusStdDev": 27.0,
+    "pointsPlusStdDev": 27.1,
     "volatilityPctile": 3
   },
   {
@@ -4687,8 +4687,8 @@
     "jersey": "24",
     "usgPct": 10.0,
     "tsPct": 53.5,
-    "pointsPlusStdDev": 28.4,
-    "volatilityPctile": 5
+    "pointsPlusStdDev": 28.5,
+    "volatilityPctile": 6
   },
   {
     "id": 1642346,
@@ -4705,7 +4705,7 @@
     "usgPct": 14.4,
     "tsPct": 52.4,
     "pointsPlusStdDev": 28.0,
-    "volatilityPctile": 4
+    "volatilityPctile": 5
   },
   {
     "id": 1642461,
@@ -4721,7 +4721,7 @@
     "jersey": "21",
     "usgPct": 9.9,
     "tsPct": 63.5,
-    "pointsPlusStdDev": 46.7,
+    "pointsPlusStdDev": 46.8,
     "volatilityPctile": 49
   },
   {
@@ -4729,16 +4729,16 @@
     "name": "Cody Williams",
     "team": "UTA",
     "rank": 279,
-    "gp": 41,
-    "ppg": 5.8,
+    "gp": 42,
+    "ppg": 5.9,
     "adjPpg": 5.9,
-    "pointsPlus": 47,
-    "mpg": 19.4,
+    "pointsPlus": 48,
+    "mpg": 19.5,
     "position": "F",
     "jersey": "5",
-    "usgPct": 12.7,
-    "tsPct": 53.2,
-    "pointsPlusStdDev": 38.0,
+    "usgPct": 13.0,
+    "tsPct": 53.0,
+    "pointsPlusStdDev": 37.8,
     "volatilityPctile": 19
   },
   {
@@ -4755,7 +4755,7 @@
     "jersey": "12",
     "usgPct": 11.6,
     "tsPct": 53.5,
-    "pointsPlusStdDev": 24.3,
+    "pointsPlusStdDev": 24.4,
     "volatilityPctile": 1
   },
   {
@@ -4772,7 +4772,7 @@
     "jersey": "35",
     "usgPct": 11.7,
     "tsPct": 71.1,
-    "pointsPlusStdDev": 28.9,
+    "pointsPlusStdDev": 29.0,
     "volatilityPctile": 6
   },
   {
@@ -4783,7 +4783,7 @@
     "gp": 43,
     "ppg": 5.8,
     "adjPpg": 5.8,
-    "pointsPlus": 46,
+    "pointsPlus": 47,
     "mpg": 22.9,
     "position": "F-C",
     "jersey": "32",
@@ -4800,14 +4800,14 @@
     "gp": 33,
     "ppg": 5.8,
     "adjPpg": 5.8,
-    "pointsPlus": 46,
+    "pointsPlus": 47,
     "mpg": 15.9,
     "position": "F",
     "jersey": "0",
     "usgPct": 13.5,
     "tsPct": 65.1,
-    "pointsPlusStdDev": 42.8,
-    "volatilityPctile": 35
+    "pointsPlusStdDev": 43.0,
+    "volatilityPctile": 36
   },
   {
     "id": 1642274,
@@ -4840,7 +4840,7 @@
     "jersey": "27",
     "usgPct": 11.6,
     "tsPct": 61.9,
-    "pointsPlusStdDev": 41.6,
+    "pointsPlusStdDev": 41.7,
     "volatilityPctile": 31
   },
   {
@@ -4857,7 +4857,7 @@
     "jersey": "4",
     "usgPct": 10.5,
     "tsPct": 54.3,
-    "pointsPlusStdDev": 30.2,
+    "pointsPlusStdDev": 30.3,
     "volatilityPctile": 7
   },
   {
@@ -4875,7 +4875,7 @@
     "usgPct": 13.1,
     "tsPct": 53.5,
     "pointsPlusStdDev": 43.4,
-    "volatilityPctile": 38
+    "volatilityPctile": 37
   },
   {
     "id": 1642345,
@@ -4891,8 +4891,8 @@
     "jersey": "11",
     "usgPct": 11.8,
     "tsPct": 62.2,
-    "pointsPlusStdDev": 30.7,
-    "volatilityPctile": 7
+    "pointsPlusStdDev": 30.8,
+    "volatilityPctile": 8
   },
   {
     "id": 1642857,
@@ -4908,8 +4908,8 @@
     "jersey": "25",
     "usgPct": 12.9,
     "tsPct": 58.3,
-    "pointsPlusStdDev": 45.8,
-    "volatilityPctile": 44
+    "pointsPlusStdDev": 45.9,
+    "volatilityPctile": 45
   },
   {
     "id": 1629618,
@@ -4925,8 +4925,8 @@
     "jersey": "24",
     "usgPct": 14.5,
     "tsPct": 53.0,
-    "pointsPlusStdDev": 46.5,
-    "volatilityPctile": 48
+    "pointsPlusStdDev": 46.7,
+    "volatilityPctile": 49
   },
   {
     "id": 1641707,
@@ -4943,7 +4943,7 @@
     "usgPct": 14.1,
     "tsPct": 55.4,
     "pointsPlusStdDev": 43.4,
-    "volatilityPctile": 38
+    "volatilityPctile": 37
   },
   {
     "id": 1642928,
@@ -4960,7 +4960,7 @@
     "usgPct": 10.2,
     "tsPct": 60.2,
     "pointsPlusStdDev": 27.6,
-    "volatilityPctile": 3
+    "volatilityPctile": 4
   },
   {
     "id": 1629006,
@@ -5001,17 +5001,17 @@
     "name": "Jarred Vanderbilt",
     "team": "LAL",
     "rank": 295,
-    "gp": 44,
+    "gp": 45,
     "ppg": 5.1,
     "adjPpg": 5.1,
     "pointsPlus": 41,
     "mpg": 19.3,
     "position": "F",
     "jersey": "2",
-    "usgPct": 12.1,
-    "tsPct": 55.3,
-    "pointsPlusStdDev": 28.1,
-    "volatilityPctile": 5
+    "usgPct": 12.0,
+    "tsPct": 55.7,
+    "pointsPlusStdDev": 27.9,
+    "volatilityPctile": 4
   },
   {
     "id": 1630679,
@@ -5028,7 +5028,7 @@
     "usgPct": 14.4,
     "tsPct": 50.4,
     "pointsPlusStdDev": 41.4,
-    "volatilityPctile": 29
+    "volatilityPctile": 30
   },
   {
     "id": 1642879,
@@ -5044,7 +5044,7 @@
     "jersey": "77",
     "usgPct": 18.0,
     "tsPct": 43.9,
-    "pointsPlusStdDev": 27.7,
+    "pointsPlusStdDev": 27.8,
     "volatilityPctile": 4
   },
   {
@@ -5078,8 +5078,8 @@
     "jersey": "5",
     "usgPct": 12.4,
     "tsPct": 49.8,
-    "pointsPlusStdDev": 37.4,
-    "volatilityPctile": 17
+    "pointsPlusStdDev": 37.5,
+    "volatilityPctile": 18
   },
   {
     "id": 1631243,
@@ -5095,8 +5095,8 @@
     "jersey": "18",
     "usgPct": 13.1,
     "tsPct": 52.5,
-    "pointsPlusStdDev": 36.2,
-    "volatilityPctile": 16
+    "pointsPlusStdDev": 36.3,
+    "volatilityPctile": 17
   },
   {
     "id": 1641854,
@@ -5106,13 +5106,13 @@
     "gp": 49,
     "ppg": 4.7,
     "adjPpg": 4.7,
-    "pointsPlus": 37,
+    "pointsPlus": 38,
     "mpg": 17.8,
     "position": "G",
     "jersey": "9",
     "usgPct": 11.9,
     "tsPct": 52.9,
-    "pointsPlusStdDev": 33.0,
+    "pointsPlusStdDev": 33.1,
     "volatilityPctile": 11
   },
   {
@@ -5123,7 +5123,7 @@
     "gp": 30,
     "ppg": 4.7,
     "adjPpg": 4.7,
-    "pointsPlus": 37,
+    "pointsPlus": 38,
     "mpg": 19.2,
     "position": "G",
     "jersey": "4",
@@ -5150,26 +5150,10 @@
     "volatilityPctile": 9
   },
   {
-    "id": 1630526,
-    "name": "Jeremiah Robinson-Earl",
-    "team": "DAL",
-    "rank": 304,
-    "gp": 22,
-    "ppg": 4.6,
-    "adjPpg": 4.6,
-    "pointsPlus": 37,
-    "mpg": 16.4,
-    "position": "F",
-    "usgPct": 12.9,
-    "tsPct": 46.8,
-    "pointsPlusStdDev": 26.5,
-    "volatilityPctile": 2
-  },
-  {
     "id": 1628366,
     "name": "Lonzo Ball",
     "team": "CLE",
-    "rank": 305,
+    "rank": 304,
     "gp": 35,
     "ppg": 4.6,
     "adjPpg": 4.6,
@@ -5179,7 +5163,23 @@
     "usgPct": 13.0,
     "tsPct": 43.2,
     "pointsPlusStdDev": 29.5,
-    "volatilityPctile": 6
+    "volatilityPctile": 7
+  },
+  {
+    "id": 1630526,
+    "name": "Jeremiah Robinson-Earl",
+    "team": "DAL",
+    "rank": 305,
+    "gp": 22,
+    "ppg": 4.6,
+    "adjPpg": 4.6,
+    "pointsPlus": 37,
+    "mpg": 16.4,
+    "position": "F",
+    "usgPct": 12.9,
+    "tsPct": 46.8,
+    "pointsPlusStdDev": 26.4,
+    "volatilityPctile": 2
   },
   {
     "id": 201144,
@@ -5194,7 +5194,7 @@
     "position": "G",
     "usgPct": 11.2,
     "tsPct": 50.2,
-    "pointsPlusStdDev": 23.6,
+    "pointsPlusStdDev": 23.7,
     "volatilityPctile": 1
   },
   {
@@ -5228,7 +5228,7 @@
     "jersey": "14",
     "usgPct": 14.1,
     "tsPct": 44.1,
-    "pointsPlusStdDev": 35.3,
+    "pointsPlusStdDev": 35.4,
     "volatilityPctile": 15
   },
   {
@@ -5245,7 +5245,7 @@
     "jersey": "30",
     "usgPct": 12.9,
     "tsPct": 48.7,
-    "pointsPlusStdDev": 30.2,
+    "pointsPlusStdDev": 30.3,
     "volatilityPctile": 7
   },
   {
@@ -5262,8 +5262,8 @@
     "jersey": "30",
     "usgPct": 10.3,
     "tsPct": 62.6,
-    "pointsPlusStdDev": 27.9,
-    "volatilityPctile": 4
+    "pointsPlusStdDev": 28.0,
+    "volatilityPctile": 5
   },
   {
     "id": 1642864,
@@ -5287,40 +5287,57 @@
     "name": "Jericho Sims",
     "team": "MIL",
     "rank": 312,
-    "gp": 38,
-    "ppg": 3.6,
-    "adjPpg": 3.6,
-    "pointsPlus": 29,
-    "mpg": 15.6,
+    "gp": 39,
+    "ppg": 3.7,
+    "adjPpg": 3.7,
+    "pointsPlus": 30,
+    "mpg": 15.7,
     "position": "C",
     "jersey": "0",
+    "usgPct": 8.7,
+    "tsPct": 81.1,
+    "pointsPlusStdDev": 32.1,
+    "volatilityPctile": 10
+  },
+  {
+    "id": 1629723,
+    "name": "John Konchar",
+    "team": "UTA",
+    "rank": 313,
+    "gp": 34,
+    "ppg": 3.1,
+    "adjPpg": 3.1,
+    "pointsPlus": 25,
+    "mpg": 15.1,
+    "position": "G",
+    "jersey": "55",
     "usgPct": 8.4,
-    "tsPct": 81.2,
-    "pointsPlusStdDev": 31.9,
-    "volatilityPctile": 9
+    "tsPct": 56.4,
+    "pointsPlusStdDev": 26.5,
+    "volatilityPctile": 2
   },
   {
     "id": 1626145,
     "name": "Tyus Jones",
     "team": "DAL",
-    "rank": 313,
-    "gp": 50,
+    "rank": 314,
+    "gp": 51,
     "ppg": 3.0,
     "adjPpg": 3.0,
     "pointsPlus": 24,
-    "mpg": 15.7,
+    "mpg": 15.8,
     "position": "G",
     "jersey": "1",
-    "usgPct": 9.7,
-    "tsPct": 44.5,
-    "pointsPlusStdDev": 27.1,
+    "usgPct": 9.6,
+    "tsPct": 44.6,
+    "pointsPlusStdDev": 26.8,
     "volatilityPctile": 3
   },
   {
     "id": 1627827,
     "name": "Dorian Finney-Smith",
     "team": "HOU",
-    "rank": 314,
+    "rank": 315,
     "gp": 20,
     "ppg": 2.9,
     "adjPpg": 2.9,
@@ -5330,14 +5347,14 @@
     "jersey": "2",
     "usgPct": 10.3,
     "tsPct": 41.9,
-    "pointsPlusStdDev": 16.0,
+    "pointsPlusStdDev": 16.1,
     "volatilityPctile": 0
   },
   {
     "id": 1631132,
     "name": "Christian Koloko",
     "team": "ATL",
-    "rank": 315,
+    "rank": 316,
     "gp": 20,
     "ppg": 2.8,
     "adjPpg": 2.8,
@@ -5347,7 +5364,7 @@
     "jersey": "10",
     "usgPct": 9.9,
     "tsPct": 44.7,
-    "pointsPlusStdDev": 22.7,
+    "pointsPlusStdDev": 22.8,
     "volatilityPctile": 1
   }
 ]

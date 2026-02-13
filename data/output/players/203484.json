@@ -2,7 +2,7 @@
   "id": 203484,
   "name": "Kentavious Caldwell-Pope",
   "team": "MEM",
-  "rank": 215,
+  "rank": 214,
   "gp": 51,
   "ppg": 8.4,
   "adjPpg": 8.4,
@@ -12,7 +12,7 @@
   "jersey": "3",
   "usgPct": 17.3,
   "tsPct": 53.3,
-  "pointsPlusStdDev": 39.4,
+  "pointsPlusStdDev": 39.5,
   "volatilityPctile": 25,
   "gameLog": [
     {
@@ -66,7 +66,7 @@
       "result": "L",
       "min": 24,
       "pts": 12,
-      "adjPts": 11.8,
+      "adjPts": 11.9,
       "pointsPlus": 95
     },
     {
@@ -102,7 +102,7 @@
       "result": "W",
       "min": 24,
       "pts": 12,
-      "adjPts": 11.9,
+      "adjPts": 11.8,
       "pointsPlus": 95
     },
     {
@@ -265,7 +265,7 @@
       "min": 28,
       "pts": 11,
       "adjPts": 10.3,
-      "pointsPlus": 82
+      "pointsPlus": 83
     },
     {
       "date": "2025-12-22",
@@ -282,7 +282,7 @@
       "result": "W",
       "min": 20,
       "pts": 11,
-      "adjPts": 10.2,
+      "adjPts": 10.1,
       "pointsPlus": 81
     },
     {
@@ -292,7 +292,7 @@
       "min": 22,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-12-28",
@@ -309,8 +309,8 @@
       "result": "L",
       "min": 23,
       "pts": 20,
-      "adjPts": 19.7,
-      "pointsPlus": 158
+      "adjPts": 19.8,
+      "pointsPlus": 159
     },
     {
       "date": "2026-01-04",
@@ -319,7 +319,7 @@
       "min": 25,
       "pts": 7,
       "adjPts": 6.9,
-      "pointsPlus": 55
+      "pointsPlus": 56
     },
     {
       "date": "2026-01-06",
@@ -445,7 +445,7 @@
       "min": 22,
       "pts": 15,
       "adjPts": 14.4,
-      "pointsPlus": 115
+      "pointsPlus": 116
     },
     {
       "date": "2026-02-07",

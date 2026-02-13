@@ -2,7 +2,7 @@
   "id": 1627827,
   "name": "Dorian Finney-Smith",
   "team": "HOU",
-  "rank": 314,
+  "rank": 315,
   "gp": 20,
   "ppg": 2.9,
   "adjPpg": 2.9,
@@ -12,7 +12,7 @@
   "jersey": "2",
   "usgPct": 10.3,
   "tsPct": 41.9,
-  "pointsPlusStdDev": 16.0,
+  "pointsPlusStdDev": 16.1,
   "volatilityPctile": 0,
   "gameLog": [
     {
@@ -130,7 +130,7 @@
       "min": 15,
       "pts": 6,
       "adjPts": 6.0,
-      "pointsPlus": 48
+      "pointsPlus": 49
     },
     {
       "date": "2026-01-26",

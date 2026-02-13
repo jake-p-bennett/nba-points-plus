@@ -2,7 +2,7 @@
   "id": 203083,
   "name": "Andre Drummond",
   "team": "PHI",
-  "rank": 248,
+  "rank": 249,
   "gp": 40,
   "ppg": 6.9,
   "adjPpg": 7.0,
@@ -12,8 +12,8 @@
   "jersey": "1",
   "usgPct": 14.7,
   "tsPct": 56.5,
-  "pointsPlusStdDev": 39.2,
-  "volatilityPctile": 24,
+  "pointsPlusStdDev": 39.3,
+  "volatilityPctile": 25,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -292,7 +292,7 @@
       "min": 12,
       "pts": 11,
       "adjPts": 10.3,
-      "pointsPlus": 82
+      "pointsPlus": 83
     },
     {
       "date": "2026-01-09",

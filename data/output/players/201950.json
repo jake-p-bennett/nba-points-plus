@@ -2,18 +2,18 @@
   "id": 201950,
   "name": "Jrue Holiday",
   "team": "POR",
-  "rank": 90,
-  "gp": 26,
-  "ppg": 15.1,
-  "adjPpg": 15.1,
-  "pointsPlus": 121,
-  "mpg": 28.0,
+  "rank": 85,
+  "gp": 27,
+  "ppg": 15.7,
+  "adjPpg": 15.6,
+  "pointsPlus": 126,
+  "mpg": 28.2,
   "position": "G",
   "jersey": "5",
   "usgPct": 22.5,
-  "tsPct": 55.7,
-  "pointsPlusStdDev": 46.0,
-  "volatilityPctile": 45,
+  "tsPct": 57.1,
+  "pointsPlusStdDev": 49.6,
+  "volatilityPctile": 59,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -40,7 +40,7 @@
       "min": 34,
       "pts": 21,
       "adjPts": 21.6,
-      "pointsPlus": 173
+      "pointsPlus": 174
     },
     {
       "date": "2025-10-27",
@@ -49,7 +49,7 @@
       "min": 30,
       "pts": 24,
       "adjPts": 23.7,
-      "pointsPlus": 190
+      "pointsPlus": 191
     },
     {
       "date": "2025-10-29",
@@ -76,7 +76,7 @@
       "min": 36,
       "pts": 8,
       "adjPts": 7.9,
-      "pointsPlus": 63
+      "pointsPlus": 64
     },
     {
       "date": "2025-11-05",
@@ -85,7 +85,7 @@
       "min": 35,
       "pts": 22,
       "adjPts": 23.6,
-      "pointsPlus": 189
+      "pointsPlus": 190
     },
     {
       "date": "2025-11-08",
@@ -103,7 +103,7 @@
       "min": 36,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-11-12",
@@ -112,7 +112,7 @@
       "min": 37,
       "pts": 17,
       "adjPts": 16.4,
-      "pointsPlus": 131
+      "pointsPlus": 132
     },
     {
       "date": "2025-11-14",
@@ -148,7 +148,7 @@
       "min": 21,
       "pts": 12,
       "adjPts": 11.7,
-      "pointsPlus": 93
+      "pointsPlus": 94
     },
     {
       "date": "2026-01-17",
@@ -193,7 +193,7 @@
       "min": 25,
       "pts": 5,
       "adjPts": 4.7,
-      "pointsPlus": 37
+      "pointsPlus": 38
     },
     {
       "date": "2026-01-30",
@@ -220,7 +220,7 @@
       "min": 25,
       "pts": 20,
       "adjPts": 19.6,
-      "pointsPlus": 157
+      "pointsPlus": 158
     },
     {
       "date": "2026-02-07",
@@ -247,7 +247,16 @@
       "min": 30,
       "pts": 23,
       "adjPts": 23.1,
-      "pointsPlus": 185
+      "pointsPlus": 186
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "POR @ UTA",
+      "result": "W",
+      "min": 33,
+      "pts": 31,
+      "adjPts": 28.6,
+      "pointsPlus": 230
     }
   ]
 }

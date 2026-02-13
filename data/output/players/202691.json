@@ -2,18 +2,18 @@
   "id": 202691,
   "name": "Klay Thompson",
   "team": "DAL",
-  "rank": 151,
-  "gp": 48,
+  "rank": 152,
+  "gp": 49,
   "ppg": 11.6,
   "adjPpg": 11.5,
-  "pointsPlus": 93,
+  "pointsPlus": 92,
   "mpg": 22.0,
   "position": "G",
   "jersey": "31",
   "usgPct": 20.8,
-  "tsPct": 53.2,
-  "pointsPlusStdDev": 47.0,
-  "volatilityPctile": 50,
+  "tsPct": 53.3,
+  "pointsPlusStdDev": 46.7,
+  "volatilityPctile": 49,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -130,7 +130,7 @@
       "min": 26,
       "pts": 19,
       "adjPts": 18.5,
-      "pointsPlus": 148
+      "pointsPlus": 149
     },
     {
       "date": "2025-11-17",
@@ -139,7 +139,7 @@
       "min": 17,
       "pts": 7,
       "adjPts": 7.0,
-      "pointsPlus": 56
+      "pointsPlus": 57
     },
     {
       "date": "2025-11-19",
@@ -265,7 +265,7 @@
       "min": 31,
       "pts": 20,
       "adjPts": 19.3,
-      "pointsPlus": 154
+      "pointsPlus": 155
     },
     {
       "date": "2025-12-25",
@@ -292,7 +292,7 @@
       "min": 19,
       "pts": 14,
       "adjPts": 13.6,
-      "pointsPlus": 109
+      "pointsPlus": 110
     },
     {
       "date": "2026-01-01",
@@ -346,7 +346,7 @@
       "min": 27,
       "pts": 18,
       "adjPts": 18.1,
-      "pointsPlus": 145
+      "pointsPlus": 146
     },
     {
       "date": "2026-01-14",
@@ -400,7 +400,7 @@
       "min": 14,
       "pts": 6,
       "adjPts": 5.9,
-      "pointsPlus": 47
+      "pointsPlus": 48
     },
     {
       "date": "2026-01-29",
@@ -409,7 +409,7 @@
       "min": 27,
       "pts": 16,
       "adjPts": 16.2,
-      "pointsPlus": 130
+      "pointsPlus": 131
     },
     {
       "date": "2026-01-31",
@@ -445,7 +445,16 @@
       "min": 19,
       "pts": 19,
       "adjPts": 19.5,
-      "pointsPlus": 156
+      "pointsPlus": 157
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "DAL @ LAL",
+      "result": "L",
+      "min": 23,
+      "pts": 9,
+      "adjPts": 8.9,
+      "pointsPlus": 71
     }
   ]
 }

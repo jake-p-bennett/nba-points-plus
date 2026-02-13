@@ -2,18 +2,18 @@
   "id": 1631119,
   "name": "Jaylin Williams",
   "team": "OKC",
-  "rank": 271,
-  "gp": 40,
+  "rank": 270,
+  "gp": 41,
   "ppg": 6.3,
   "adjPpg": 6.3,
-  "pointsPlus": 50,
-  "mpg": 19.4,
+  "pointsPlus": 51,
+  "mpg": 19.3,
   "position": "F",
   "jersey": "6",
   "usgPct": 15.3,
-  "tsPct": 53.0,
-  "pointsPlusStdDev": 37.7,
-  "volatilityPctile": 18,
+  "tsPct": 53.3,
+  "pointsPlusStdDev": 37.2,
+  "volatilityPctile": 17,
   "gameLog": [
     {
       "date": "2025-10-21",
@@ -48,7 +48,7 @@
       "result": "W",
       "min": 17,
       "pts": 4,
-      "adjPts": 4.0,
+      "adjPts": 3.9,
       "pointsPlus": 32
     },
     {
@@ -67,7 +67,7 @@
       "min": 22,
       "pts": 7,
       "adjPts": 6.5,
-      "pointsPlus": 52
+      "pointsPlus": 53
     },
     {
       "date": "2025-11-02",
@@ -130,7 +130,7 @@
       "min": 20,
       "pts": 6,
       "adjPts": 5.9,
-      "pointsPlus": 47
+      "pointsPlus": 48
     },
     {
       "date": "2025-11-17",
@@ -210,7 +210,7 @@
       "result": "W",
       "min": 19,
       "pts": 4,
-      "adjPts": 4.0,
+      "adjPts": 3.9,
       "pointsPlus": 32
     },
     {
@@ -374,6 +374,15 @@
       "pts": 11,
       "adjPts": 11.3,
       "pointsPlus": 91
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "OKC vs. MIL",
+      "result": "L",
+      "min": 16,
+      "pts": 7,
+      "adjPts": 7.0,
+      "pointsPlus": 56
     }
   ]
 }

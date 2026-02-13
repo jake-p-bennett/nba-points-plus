@@ -2,18 +2,18 @@
   "id": 201566,
   "name": "Russell Westbrook",
   "team": "SAC",
-  "rank": 85,
+  "rank": 86,
   "gp": 52,
   "ppg": 15.3,
   "adjPpg": 15.4,
-  "pointsPlus": 123,
+  "pointsPlus": 124,
   "mpg": 29.2,
   "position": "G",
   "jersey": "18",
   "usgPct": 25.1,
   "tsPct": 53.3,
-  "pointsPlusStdDev": 49.6,
-  "volatilityPctile": 59,
+  "pointsPlusStdDev": 49.7,
+  "volatilityPctile": 60,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -40,7 +40,7 @@
       "min": 27,
       "pts": 18,
       "adjPts": 17.8,
-      "pointsPlus": 142
+      "pointsPlus": 143
     },
     {
       "date": "2025-10-28",
@@ -67,7 +67,7 @@
       "min": 34,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 96
+      "pointsPlus": 97
     },
     {
       "date": "2025-11-03",
@@ -76,7 +76,7 @@
       "min": 37,
       "pts": 26,
       "adjPts": 26.0,
-      "pointsPlus": 208
+      "pointsPlus": 209
     },
     {
       "date": "2025-11-05",
@@ -157,7 +157,7 @@
       "min": 21,
       "pts": 11,
       "adjPts": 10.8,
-      "pointsPlus": 86
+      "pointsPlus": 87
     },
     {
       "date": "2025-11-22",
@@ -175,7 +175,7 @@
       "min": 29,
       "pts": 7,
       "adjPts": 7.0,
-      "pointsPlus": 56
+      "pointsPlus": 57
     },
     {
       "date": "2025-11-26",
@@ -193,7 +193,7 @@
       "min": 33,
       "pts": 16,
       "adjPts": 14.8,
-      "pointsPlus": 118
+      "pointsPlus": 119
     },
     {
       "date": "2025-11-30",
@@ -220,7 +220,7 @@
       "min": 32,
       "pts": 12,
       "adjPts": 11.8,
-      "pointsPlus": 94
+      "pointsPlus": 95
     },
     {
       "date": "2025-12-08",
@@ -229,7 +229,7 @@
       "min": 40,
       "pts": 24,
       "adjPts": 23.4,
-      "pointsPlus": 187
+      "pointsPlus": 188
     },
     {
       "date": "2025-12-11",
@@ -247,7 +247,7 @@
       "min": 28,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 64
+      "pointsPlus": 65
     },
     {
       "date": "2025-12-18",
@@ -256,7 +256,7 @@
       "min": 35,
       "pts": 20,
       "adjPts": 19.5,
-      "pointsPlus": 156
+      "pointsPlus": 157
     },
     {
       "date": "2025-12-20",
@@ -291,7 +291,7 @@
       "result": "W",
       "min": 28,
       "pts": 21,
-      "adjPts": 20.8,
+      "adjPts": 20.7,
       "pointsPlus": 167
     },
     {
@@ -319,7 +319,7 @@
       "min": 27,
       "pts": 10,
       "adjPts": 10.7,
-      "pointsPlus": 85
+      "pointsPlus": 86
     },
     {
       "date": "2026-01-02",
@@ -328,7 +328,7 @@
       "min": 26,
       "pts": 17,
       "adjPts": 17.5,
-      "pointsPlus": 140
+      "pointsPlus": 141
     },
     {
       "date": "2026-01-04",
@@ -336,8 +336,8 @@
       "result": "L",
       "min": 38,
       "pts": 21,
-      "adjPts": 21.0,
-      "pointsPlus": 168
+      "adjPts": 21.1,
+      "pointsPlus": 169
     },
     {
       "date": "2026-01-06",
@@ -373,7 +373,7 @@
       "min": 34,
       "pts": 22,
       "adjPts": 21.7,
-      "pointsPlus": 174
+      "pointsPlus": 175
     },
     {
       "date": "2026-01-14",
@@ -382,7 +382,7 @@
       "min": 39,
       "pts": 19,
       "adjPts": 19.6,
-      "pointsPlus": 157
+      "pointsPlus": 158
     },
     {
       "date": "2026-01-16",
@@ -418,7 +418,7 @@
       "min": 35,
       "pts": 23,
       "adjPts": 23.7,
-      "pointsPlus": 190
+      "pointsPlus": 191
     },
     {
       "date": "2026-01-23",
@@ -481,7 +481,7 @@
       "min": 21,
       "pts": 17,
       "adjPts": 16.4,
-      "pointsPlus": 131
+      "pointsPlus": 132
     }
   ]
 }

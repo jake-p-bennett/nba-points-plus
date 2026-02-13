@@ -2,17 +2,17 @@
   "id": 1641717,
   "name": "Cason Wallace",
   "team": "OKC",
-  "rank": 221,
-  "gp": 52,
-  "ppg": 8.2,
-  "adjPpg": 8.2,
+  "rank": 223,
+  "gp": 53,
+  "ppg": 8.1,
+  "adjPpg": 8.1,
   "pointsPlus": 65,
   "mpg": 26.8,
   "position": "G",
   "jersey": "22",
   "usgPct": 13.3,
-  "tsPct": 53.9,
-  "pointsPlusStdDev": 41.7,
+  "tsPct": 53.2,
+  "pointsPlusStdDev": 41.8,
   "volatilityPctile": 31,
   "gameLog": [
     {
@@ -39,7 +39,7 @@
       "result": "W",
       "min": 33,
       "pts": 4,
-      "adjPts": 4.0,
+      "adjPts": 3.9,
       "pointsPlus": 32
     },
     {
@@ -49,7 +49,7 @@
       "min": 27,
       "pts": 8,
       "adjPts": 7.7,
-      "pointsPlus": 61
+      "pointsPlus": 62
     },
     {
       "date": "2025-10-30",
@@ -67,7 +67,7 @@
       "min": 26,
       "pts": 13,
       "adjPts": 12.5,
-      "pointsPlus": 100
+      "pointsPlus": 101
     },
     {
       "date": "2025-11-04",
@@ -94,7 +94,7 @@
       "min": 27,
       "pts": 15,
       "adjPts": 14.4,
-      "pointsPlus": 115
+      "pointsPlus": 116
     },
     {
       "date": "2025-11-09",
@@ -121,7 +121,7 @@
       "min": 24,
       "pts": 6,
       "adjPts": 5.9,
-      "pointsPlus": 47
+      "pointsPlus": 48
     },
     {
       "date": "2025-11-15",
@@ -130,7 +130,7 @@
       "min": 30,
       "pts": 10,
       "adjPts": 10.2,
-      "pointsPlus": 81
+      "pointsPlus": 82
     },
     {
       "date": "2025-11-17",
@@ -301,7 +301,7 @@
       "min": 34,
       "pts": 17,
       "adjPts": 16.5,
-      "pointsPlus": 132
+      "pointsPlus": 133
     },
     {
       "date": "2025-12-31",
@@ -400,7 +400,7 @@
       "min": 31,
       "pts": 9,
       "adjPts": 9.0,
-      "pointsPlus": 72
+      "pointsPlus": 73
     },
     {
       "date": "2026-01-23",
@@ -435,8 +435,8 @@
       "result": "W",
       "min": 30,
       "pts": 27,
-      "adjPts": 27.0,
-      "pointsPlus": 216
+      "adjPts": 26.9,
+      "pointsPlus": 217
     },
     {
       "date": "2026-02-03",
@@ -471,7 +471,7 @@
       "result": "W",
       "min": 31,
       "pts": 12,
-      "adjPts": 11.8,
+      "adjPts": 11.9,
       "pointsPlus": 95
     },
     {
@@ -482,6 +482,15 @@
       "pts": 4,
       "adjPts": 4.1,
       "pointsPlus": 33
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "OKC vs. MIL",
+      "result": "L",
+      "min": 28,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 24
     }
   ]
 }

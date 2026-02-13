@@ -3,17 +3,17 @@
   "name": "Luguentz Dort",
   "team": "OKC",
   "rank": 208,
-  "gp": 44,
+  "gp": 45,
   "ppg": 8.7,
   "adjPpg": 8.6,
   "pointsPlus": 69,
   "mpg": 27.8,
   "position": "G",
   "jersey": "5",
-  "usgPct": 13.5,
-  "tsPct": 54.3,
-  "pointsPlusStdDev": 38.8,
-  "volatilityPctile": 22,
+  "usgPct": 13.6,
+  "tsPct": 53.7,
+  "pointsPlusStdDev": 38.4,
+  "volatilityPctile": 21,
   "gameLog": [
     {
       "date": "2025-10-21",
@@ -67,7 +67,7 @@
       "min": 26,
       "pts": 7,
       "adjPts": 6.5,
-      "pointsPlus": 52
+      "pointsPlus": 53
     },
     {
       "date": "2025-11-04",
@@ -94,7 +94,7 @@
       "min": 28,
       "pts": 17,
       "adjPts": 16.4,
-      "pointsPlus": 131
+      "pointsPlus": 132
     },
     {
       "date": "2025-11-19",
@@ -247,7 +247,7 @@
       "min": 26,
       "pts": 11,
       "adjPts": 11.2,
-      "pointsPlus": 89
+      "pointsPlus": 90
     },
     {
       "date": "2026-01-04",
@@ -292,7 +292,7 @@
       "min": 19,
       "pts": 4,
       "adjPts": 3.9,
-      "pointsPlus": 31
+      "pointsPlus": 32
     },
     {
       "date": "2026-01-15",
@@ -328,7 +328,7 @@
       "min": 33,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2026-01-23",
@@ -400,7 +400,7 @@
       "min": 29,
       "pts": 7,
       "adjPts": 6.9,
-      "pointsPlus": 55
+      "pointsPlus": 56
     },
     {
       "date": "2026-02-11",
@@ -410,6 +410,15 @@
       "pts": 9,
       "adjPts": 9.3,
       "pointsPlus": 74
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "OKC vs. MIL",
+      "result": "L",
+      "min": 28,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 73
     }
   ]
 }

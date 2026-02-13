@@ -2,7 +2,7 @@
   "id": 1630558,
   "name": "Davion Mitchell",
   "team": "MIA",
-  "rank": 196,
+  "rank": 197,
   "gp": 46,
   "ppg": 9.0,
   "adjPpg": 9.1,
@@ -22,7 +22,7 @@
       "min": 35,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 128
+      "pointsPlus": 129
     },
     {
       "date": "2025-10-24",
@@ -40,7 +40,7 @@
       "min": 24,
       "pts": 9,
       "adjPts": 9.3,
-      "pointsPlus": 74
+      "pointsPlus": 75
     },
     {
       "date": "2025-10-28",
@@ -67,7 +67,7 @@
       "min": 32,
       "pts": 8,
       "adjPts": 7.9,
-      "pointsPlus": 63
+      "pointsPlus": 64
     },
     {
       "date": "2025-11-03",
@@ -129,7 +129,7 @@
       "result": "L",
       "min": 33,
       "pts": 11,
-      "adjPts": 11.4,
+      "adjPts": 11.3,
       "pointsPlus": 91
     },
     {
@@ -157,7 +157,7 @@
       "min": 24,
       "pts": 16,
       "adjPts": 15.3,
-      "pointsPlus": 122
+      "pointsPlus": 123
     },
     {
       "date": "2025-11-23",
@@ -210,7 +210,7 @@
       "result": "L",
       "min": 30,
       "pts": 4,
-      "adjPts": 4.0,
+      "adjPts": 3.9,
       "pointsPlus": 32
     },
     {
@@ -229,7 +229,7 @@
       "min": 37,
       "pts": 11,
       "adjPts": 11.0,
-      "pointsPlus": 88
+      "pointsPlus": 89
     },
     {
       "date": "2025-12-15",
@@ -382,7 +382,7 @@
       "min": 21,
       "pts": 13,
       "adjPts": 12.4,
-      "pointsPlus": 99
+      "pointsPlus": 100
     },
     {
       "date": "2026-02-03",
@@ -409,7 +409,7 @@
       "min": 25,
       "pts": 5,
       "adjPts": 4.7,
-      "pointsPlus": 37
+      "pointsPlus": 38
     },
     {
       "date": "2026-02-09",

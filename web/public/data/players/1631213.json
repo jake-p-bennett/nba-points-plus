@@ -12,7 +12,7 @@
   "usgPct": 18.1,
   "tsPct": 50.7,
   "pointsPlusStdDev": 49.2,
-  "volatilityPctile": 58,
+  "volatilityPctile": 57,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -138,7 +138,7 @@
       "min": 18,
       "pts": 8,
       "adjPts": 8.5,
-      "pointsPlus": 68
+      "pointsPlus": 69
     },
     {
       "date": "2025-11-21",
@@ -147,7 +147,7 @@
       "min": 19,
       "pts": 10,
       "adjPts": 10.7,
-      "pointsPlus": 85
+      "pointsPlus": 86
     },
     {
       "date": "2025-11-23",
@@ -183,7 +183,7 @@
       "min": 24,
       "pts": 9,
       "adjPts": 9.0,
-      "pointsPlus": 72
+      "pointsPlus": 73
     },
     {
       "date": "2025-12-01",
@@ -228,7 +228,7 @@
       "min": 18,
       "pts": 14,
       "adjPts": 14.0,
-      "pointsPlus": 112
+      "pointsPlus": 113
     },
     {
       "date": "2025-12-18",

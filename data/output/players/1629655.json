@@ -2,18 +2,18 @@
   "id": 1629655,
   "name": "Daniel Gafford",
   "team": "DAL",
-  "rank": 218,
-  "gp": 37,
-  "ppg": 8.2,
-  "adjPpg": 8.2,
-  "pointsPlus": 66,
-  "mpg": 21.2,
+  "rank": 221,
+  "gp": 38,
+  "ppg": 8.0,
+  "adjPpg": 8.1,
+  "pointsPlus": 65,
+  "mpg": 21.3,
   "position": "F-C",
   "jersey": "21",
-  "usgPct": 14.0,
-  "tsPct": 67.5,
-  "pointsPlusStdDev": 40.5,
-  "volatilityPctile": 27,
+  "usgPct": 13.8,
+  "tsPct": 67.4,
+  "pointsPlusStdDev": 40.9,
+  "volatilityPctile": 28,
   "gameLog": [
     {
       "date": "2025-11-01",
@@ -94,7 +94,7 @@
       "min": 31,
       "pts": 20,
       "adjPts": 19.5,
-      "pointsPlus": 156
+      "pointsPlus": 157
     },
     {
       "date": "2025-11-19",
@@ -319,7 +319,7 @@
       "min": 25,
       "pts": 10,
       "adjPts": 10.7,
-      "pointsPlus": 85
+      "pointsPlus": 86
     },
     {
       "date": "2026-02-05",
@@ -347,6 +347,15 @@
       "pts": 4,
       "adjPts": 4.1,
       "pointsPlus": 33
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "DAL @ LAL",
+      "result": "L",
+      "min": 28,
+      "pts": 2,
+      "adjPts": 2.0,
+      "pointsPlus": 16
     }
   ]
 }

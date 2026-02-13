@@ -2,7 +2,7 @@
   "id": 1631121,
   "name": "Bryce McGowens",
   "team": "NOP",
-  "rank": 230,
+  "rank": 229,
   "gp": 32,
   "ppg": 7.9,
   "adjPpg": 7.8,
@@ -12,7 +12,7 @@
   "jersey": "11",
   "usgPct": 14.2,
   "tsPct": 61.5,
-  "pointsPlusStdDev": 47.7,
+  "pointsPlusStdDev": 47.8,
   "volatilityPctile": 53,
   "gameLog": [
     {
@@ -112,7 +112,7 @@
       "min": 33,
       "pts": 23,
       "adjPts": 22.7,
-      "pointsPlus": 182
+      "pointsPlus": 183
     },
     {
       "date": "2025-12-02",
@@ -292,7 +292,7 @@
       "min": 24,
       "pts": 8,
       "adjPts": 7.7,
-      "pointsPlus": 61
+      "pointsPlus": 62
     },
     {
       "date": "2026-02-11",
@@ -301,7 +301,7 @@
       "min": 21,
       "pts": 12,
       "adjPts": 11.8,
-      "pointsPlus": 94
+      "pointsPlus": 95
     }
   ]
 }

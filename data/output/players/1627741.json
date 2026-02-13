@@ -2,7 +2,7 @@
   "id": 1627741,
   "name": "Buddy Hield",
   "team": "ATL",
-  "rank": 228,
+  "rank": 227,
   "gp": 45,
   "ppg": 7.9,
   "adjPpg": 7.8,
@@ -12,7 +12,7 @@
   "jersey": "8",
   "usgPct": 18.8,
   "tsPct": 56.0,
-  "pointsPlusStdDev": 46.4,
+  "pointsPlusStdDev": 46.3,
   "volatilityPctile": 47,
   "gameLog": [
     {
@@ -112,7 +112,7 @@
       "min": 20,
       "pts": 8,
       "adjPts": 7.8,
-      "pointsPlus": 62
+      "pointsPlus": 63
     },
     {
       "date": "2025-11-11",
@@ -183,7 +183,7 @@
       "result": "W",
       "min": 23,
       "pts": 20,
-      "adjPts": 18.5,
+      "adjPts": 18.4,
       "pointsPlus": 148
     },
     {
@@ -292,7 +292,7 @@
       "min": 11,
       "pts": 6,
       "adjPts": 6.0,
-      "pointsPlus": 48
+      "pointsPlus": 49
     },
     {
       "date": "2026-01-02",

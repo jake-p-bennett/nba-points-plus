@@ -2,7 +2,7 @@
   "id": 1629028,
   "name": "Deandre Ayton",
   "team": "LAL",
-  "rank": 120,
+  "rank": 121,
   "gp": 46,
   "ppg": 13.2,
   "adjPpg": 13.2,
@@ -13,7 +13,7 @@
   "usgPct": 16.8,
   "tsPct": 68.0,
   "pointsPlusStdDev": 50.7,
-  "volatilityPctile": 63,
+  "volatilityPctile": 64,
   "gameLog": [
     {
       "date": "2025-10-21",
@@ -121,7 +121,7 @@
       "min": 36,
       "pts": 20,
       "adjPts": 19.3,
-      "pointsPlus": 154
+      "pointsPlus": 155
     },
     {
       "date": "2025-11-15",
@@ -129,8 +129,8 @@
       "result": "W",
       "min": 28,
       "pts": 20,
-      "adjPts": 20.0,
-      "pointsPlus": 160
+      "adjPts": 20.1,
+      "pointsPlus": 161
     },
     {
       "date": "2025-11-18",
@@ -138,7 +138,7 @@
       "result": "W",
       "min": 30,
       "pts": 20,
-      "adjPts": 18.5,
+      "adjPts": 18.4,
       "pointsPlus": 148
     },
     {
@@ -265,7 +265,7 @@
       "min": 25,
       "pts": 4,
       "adjPts": 3.9,
-      "pointsPlus": 31
+      "pointsPlus": 32
     },
     {
       "date": "2026-01-04",
@@ -319,7 +319,7 @@
       "min": 31,
       "pts": 17,
       "adjPts": 16.5,
-      "pointsPlus": 132
+      "pointsPlus": 133
     },
     {
       "date": "2026-01-15",

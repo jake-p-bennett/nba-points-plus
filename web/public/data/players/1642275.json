@@ -2,7 +2,7 @@
   "id": 1642275,
   "name": "Tidjane Sala\u00fcn",
   "team": "CHA",
-  "rank": 270,
+  "rank": 272,
   "gp": 32,
   "ppg": 6.3,
   "adjPpg": 6.3,
@@ -12,7 +12,7 @@
   "jersey": "31",
   "usgPct": 14.5,
   "tsPct": 64.0,
-  "pointsPlusStdDev": 40.9,
+  "pointsPlusStdDev": 41.0,
   "volatilityPctile": 28,
   "gameLog": [
     {
@@ -166,7 +166,7 @@
       "min": 22,
       "pts": 11,
       "adjPts": 10.3,
-      "pointsPlus": 82
+      "pointsPlus": 83
     },
     {
       "date": "2025-12-26",
@@ -175,7 +175,7 @@
       "min": 22,
       "pts": 14,
       "adjPts": 14.0,
-      "pointsPlus": 112
+      "pointsPlus": 113
     },
     {
       "date": "2025-12-29",
@@ -202,7 +202,7 @@
       "min": 22,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 96
+      "pointsPlus": 97
     },
     {
       "date": "2026-01-05",
@@ -274,7 +274,7 @@
       "min": 18,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2026-01-26",

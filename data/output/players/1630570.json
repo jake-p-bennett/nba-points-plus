@@ -2,7 +2,7 @@
   "id": 1630570,
   "name": "Trendon Watford",
   "team": "PHI",
-  "rank": 269,
+  "rank": 271,
   "gp": 32,
   "ppg": 6.2,
   "adjPpg": 6.3,
@@ -12,8 +12,8 @@
   "jersey": "12",
   "usgPct": 15.9,
   "tsPct": 57.2,
-  "pointsPlusStdDev": 46.0,
-  "volatilityPctile": 45,
+  "pointsPlusStdDev": 46.1,
+  "volatilityPctile": 46,
   "gameLog": [
     {
       "date": "2025-10-28",
@@ -67,7 +67,7 @@
       "min": 37,
       "pts": 20,
       "adjPts": 20.6,
-      "pointsPlus": 165
+      "pointsPlus": 166
     },
     {
       "date": "2025-11-09",
@@ -112,7 +112,7 @@
       "min": 21,
       "pts": 9,
       "adjPts": 9.3,
-      "pointsPlus": 74
+      "pointsPlus": 75
     },
     {
       "date": "2025-11-20",
@@ -274,7 +274,7 @@
       "min": 16,
       "pts": 6,
       "adjPts": 5.9,
-      "pointsPlus": 47
+      "pointsPlus": 48
     },
     {
       "date": "2026-02-07",

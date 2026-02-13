@@ -2,7 +2,7 @@
   "id": 1630572,
   "name": "Sandro Mamukelashvili",
   "team": "TOR",
-  "rank": 156,
+  "rank": 155,
   "gp": 53,
   "ppg": 11.4,
   "adjPpg": 11.4,
@@ -12,8 +12,8 @@
   "jersey": "54",
   "usgPct": 17.8,
   "tsPct": 63.8,
-  "pointsPlusStdDev": 45.0,
-  "volatilityPctile": 42,
+  "pointsPlusStdDev": 45.2,
+  "volatilityPctile": 43,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -85,7 +85,7 @@
       "min": 23,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 120
+      "pointsPlus": 121
     },
     {
       "date": "2025-11-07",
@@ -94,7 +94,7 @@
       "min": 21,
       "pts": 12,
       "adjPts": 11.7,
-      "pointsPlus": 93
+      "pointsPlus": 94
     },
     {
       "date": "2025-11-08",
@@ -148,7 +148,7 @@
       "min": 21,
       "pts": 23,
       "adjPts": 21.5,
-      "pointsPlus": 172
+      "pointsPlus": 173
     },
     {
       "date": "2025-11-23",
@@ -193,7 +193,7 @@
       "min": 27,
       "pts": 9,
       "adjPts": 9.3,
-      "pointsPlus": 74
+      "pointsPlus": 75
     },
     {
       "date": "2025-12-02",
@@ -255,8 +255,8 @@
       "result": "W",
       "min": 36,
       "pts": 18,
-      "adjPts": 18.0,
-      "pointsPlus": 144
+      "adjPts": 18.1,
+      "pointsPlus": 145
     },
     {
       "date": "2025-12-20",
@@ -265,7 +265,7 @@
       "min": 30,
       "pts": 24,
       "adjPts": 25.6,
-      "pointsPlus": 205
+      "pointsPlus": 206
     },
     {
       "date": "2025-12-21",
@@ -292,7 +292,7 @@
       "min": 33,
       "pts": 13,
       "adjPts": 12.2,
-      "pointsPlus": 97
+      "pointsPlus": 98
     },
     {
       "date": "2025-12-28",
@@ -310,7 +310,7 @@
       "min": 23,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-12-31",
@@ -337,7 +337,7 @@
       "min": 23,
       "pts": 12,
       "adjPts": 11.7,
-      "pointsPlus": 93
+      "pointsPlus": 94
     },
     {
       "date": "2026-01-07",
@@ -346,7 +346,7 @@
       "min": 25,
       "pts": 10,
       "adjPts": 10.2,
-      "pointsPlus": 81
+      "pointsPlus": 82
     },
     {
       "date": "2026-01-09",
@@ -390,8 +390,8 @@
       "result": "L",
       "min": 24,
       "pts": 20,
-      "adjPts": 19.7,
-      "pointsPlus": 158
+      "adjPts": 19.8,
+      "pointsPlus": 159
     },
     {
       "date": "2026-01-20",
@@ -436,7 +436,7 @@
       "min": 25,
       "pts": 9,
       "adjPts": 9.3,
-      "pointsPlus": 74
+      "pointsPlus": 75
     },
     {
       "date": "2026-01-30",
@@ -453,7 +453,7 @@
       "result": "W",
       "min": 30,
       "pts": 20,
-      "adjPts": 18.5,
+      "adjPts": 18.4,
       "pointsPlus": 148
     },
     {

@@ -2,17 +2,17 @@
   "id": 2544,
   "name": "LeBron James",
   "team": "LAL",
-  "rank": 30,
-  "gp": 35,
-  "ppg": 21.8,
-  "adjPpg": 21.8,
-  "pointsPlus": 175,
+  "rank": 29,
+  "gp": 36,
+  "ppg": 22.0,
+  "adjPpg": 21.9,
+  "pointsPlus": 176,
   "mpg": 33.3,
   "position": "F",
   "jersey": "23",
-  "usgPct": 27.3,
-  "tsPct": 58.4,
-  "pointsPlusStdDev": 51.5,
+  "usgPct": 27.4,
+  "tsPct": 58.5,
+  "pointsPlusStdDev": 51.6,
   "volatilityPctile": 67,
   "gameLog": [
     {
@@ -21,7 +21,7 @@
       "result": "W",
       "min": 30,
       "pts": 11,
-      "adjPts": 10.2,
+      "adjPts": 10.1,
       "pointsPlus": 81
     },
     {
@@ -40,7 +40,7 @@
       "min": 32,
       "pts": 25,
       "adjPts": 25.7,
-      "pointsPlus": 206
+      "pointsPlus": 207
     },
     {
       "date": "2025-11-28",
@@ -48,7 +48,7 @@
       "result": "W",
       "min": 34,
       "pts": 13,
-      "adjPts": 12.9,
+      "adjPts": 12.8,
       "pointsPlus": 103
     },
     {
@@ -76,7 +76,7 @@
       "min": 34,
       "pts": 29,
       "adjPts": 29.2,
-      "pointsPlus": 234
+      "pointsPlus": 235
     },
     {
       "date": "2025-12-10",
@@ -85,7 +85,7 @@
       "min": 36,
       "pts": 19,
       "adjPts": 19.5,
-      "pointsPlus": 156
+      "pointsPlus": 157
     },
     {
       "date": "2025-12-14",
@@ -102,7 +102,7 @@
       "result": "W",
       "min": 33,
       "pts": 28,
-      "adjPts": 25.9,
+      "adjPts": 25.8,
       "pointsPlus": 207
     },
     {
@@ -112,7 +112,7 @@
       "min": 38,
       "pts": 36,
       "adjPts": 37.0,
-      "pointsPlus": 297
+      "pointsPlus": 298
     },
     {
       "date": "2025-12-23",
@@ -130,7 +130,7 @@
       "min": 32,
       "pts": 18,
       "adjPts": 19.1,
-      "pointsPlus": 153
+      "pointsPlus": 154
     },
     {
       "date": "2025-12-28",
@@ -139,7 +139,7 @@
       "min": 29,
       "pts": 24,
       "adjPts": 23.0,
-      "pointsPlus": 184
+      "pointsPlus": 185
     },
     {
       "date": "2025-12-30",
@@ -166,7 +166,7 @@
       "min": 37,
       "pts": 26,
       "adjPts": 25.5,
-      "pointsPlus": 204
+      "pointsPlus": 205
     },
     {
       "date": "2026-01-06",
@@ -183,8 +183,8 @@
       "result": "L",
       "min": 33,
       "pts": 26,
-      "adjPts": 26.0,
-      "pointsPlus": 208
+      "adjPts": 26.1,
+      "pointsPlus": 210
     },
     {
       "date": "2026-01-12",
@@ -202,7 +202,7 @@
       "min": 33,
       "pts": 31,
       "adjPts": 30.1,
-      "pointsPlus": 241
+      "pointsPlus": 242
     },
     {
       "date": "2026-01-15",
@@ -210,8 +210,8 @@
       "result": "L",
       "min": 33,
       "pts": 29,
-      "adjPts": 29.5,
-      "pointsPlus": 236
+      "adjPts": 29.4,
+      "pointsPlus": 237
     },
     {
       "date": "2026-01-17",
@@ -220,7 +220,7 @@
       "min": 32,
       "pts": 20,
       "adjPts": 19.5,
-      "pointsPlus": 156
+      "pointsPlus": 157
     },
     {
       "date": "2026-01-18",
@@ -229,7 +229,7 @@
       "min": 32,
       "pts": 24,
       "adjPts": 24.7,
-      "pointsPlus": 198
+      "pointsPlus": 199
     },
     {
       "date": "2026-01-20",
@@ -328,7 +328,16 @@
       "min": 36,
       "pts": 22,
       "adjPts": 23.6,
-      "pointsPlus": 189
+      "pointsPlus": 190
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "LAL vs. DAL",
+      "result": "W",
+      "min": 35,
+      "pts": 28,
+      "adjPts": 27.6,
+      "pointsPlus": 222
     }
   ]
 }

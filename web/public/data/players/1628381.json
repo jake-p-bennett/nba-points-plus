@@ -12,8 +12,8 @@
   "jersey": "20",
   "usgPct": 18.2,
   "tsPct": 66.0,
-  "pointsPlusStdDev": 42.4,
-  "volatilityPctile": 34,
+  "pointsPlusStdDev": 42.5,
+  "volatilityPctile": 33,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -67,7 +67,7 @@
       "min": 25,
       "pts": 12,
       "adjPts": 11.8,
-      "pointsPlus": 94
+      "pointsPlus": 95
     },
     {
       "date": "2025-11-04",
@@ -75,8 +75,8 @@
       "result": "L",
       "min": 25,
       "pts": 17,
-      "adjPts": 18.3,
-      "pointsPlus": 146
+      "adjPts": 18.2,
+      "pointsPlus": 147
     },
     {
       "date": "2025-11-06",
@@ -130,7 +130,7 @@
       "min": 30,
       "pts": 17,
       "adjPts": 18.1,
-      "pointsPlus": 145
+      "pointsPlus": 146
     },
     {
       "date": "2025-11-17",
@@ -157,7 +157,7 @@
       "min": 26,
       "pts": 10,
       "adjPts": 10.2,
-      "pointsPlus": 81
+      "pointsPlus": 82
     },
     {
       "date": "2025-11-23",
@@ -175,7 +175,7 @@
       "min": 34,
       "pts": 18,
       "adjPts": 17.8,
-      "pointsPlus": 142
+      "pointsPlus": 143
     },
     {
       "date": "2025-11-28",
@@ -192,7 +192,7 @@
       "result": "L",
       "min": 36,
       "pts": 21,
-      "adjPts": 20.8,
+      "adjPts": 20.7,
       "pointsPlus": 167
     },
     {
@@ -283,7 +283,7 @@
       "min": 19,
       "pts": 8,
       "adjPts": 7.8,
-      "pointsPlus": 62
+      "pointsPlus": 63
     },
     {
       "date": "2025-12-30",
@@ -318,8 +318,8 @@
       "result": "W",
       "min": 39,
       "pts": 18,
-      "adjPts": 18.3,
-      "pointsPlus": 146
+      "adjPts": 18.2,
+      "pointsPlus": 147
     },
     {
       "date": "2026-01-07",
@@ -364,7 +364,7 @@
       "min": 26,
       "pts": 11,
       "adjPts": 10.3,
-      "pointsPlus": 82
+      "pointsPlus": 83
     },
     {
       "date": "2026-01-20",
@@ -391,7 +391,7 @@
       "min": 26,
       "pts": 18,
       "adjPts": 18.1,
-      "pointsPlus": 145
+      "pointsPlus": 146
     },
     {
       "date": "2026-01-27",
@@ -399,7 +399,7 @@
       "result": "W",
       "min": 23,
       "pts": 11,
-      "adjPts": 10.2,
+      "adjPts": 10.1,
       "pointsPlus": 81
     },
     {

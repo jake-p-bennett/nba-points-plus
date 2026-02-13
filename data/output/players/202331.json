@@ -2,18 +2,18 @@
   "id": 202331,
   "name": "Paul George",
   "team": "PHI",
-  "rank": 84,
+  "rank": 83,
   "gp": 27,
   "ppg": 16.0,
-  "adjPpg": 15.8,
+  "adjPpg": 15.9,
   "pointsPlus": 127,
   "mpg": 30.5,
   "position": "F",
   "jersey": "8",
   "usgPct": 21.8,
   "tsPct": 55.6,
-  "pointsPlusStdDev": 50.8,
-  "volatilityPctile": 64,
+  "pointsPlusStdDev": 51.0,
+  "volatilityPctile": 65,
   "gameLog": [
     {
       "date": "2025-11-17",
@@ -30,8 +30,8 @@
       "result": "W",
       "min": 25,
       "pts": 21,
-      "adjPts": 21.0,
-      "pointsPlus": 168
+      "adjPts": 21.1,
+      "pointsPlus": 169
     },
     {
       "date": "2025-11-23",
@@ -67,7 +67,7 @@
       "min": 18,
       "pts": 11,
       "adjPts": 10.3,
-      "pointsPlus": 82
+      "pointsPlus": 83
     },
     {
       "date": "2025-12-05",
@@ -75,8 +75,8 @@
       "result": "W",
       "min": 30,
       "pts": 20,
-      "adjPts": 20.0,
-      "pointsPlus": 160
+      "adjPts": 20.1,
+      "pointsPlus": 161
     },
     {
       "date": "2025-12-07",
@@ -84,7 +84,7 @@
       "result": "L",
       "min": 32,
       "pts": 12,
-      "adjPts": 11.8,
+      "adjPts": 11.9,
       "pointsPlus": 95
     },
     {
@@ -121,7 +121,7 @@
       "min": 33,
       "pts": 19,
       "adjPts": 19.1,
-      "pointsPlus": 153
+      "pointsPlus": 154
     },
     {
       "date": "2025-12-26",
@@ -184,7 +184,7 @@
       "min": 33,
       "pts": 23,
       "adjPts": 21.5,
-      "pointsPlus": 172
+      "pointsPlus": 173
     },
     {
       "date": "2026-01-09",
@@ -238,7 +238,7 @@
       "min": 32,
       "pts": 9,
       "adjPts": 9.3,
-      "pointsPlus": 74
+      "pointsPlus": 75
     },
     {
       "date": "2026-01-27",
@@ -246,8 +246,8 @@
       "result": "W",
       "min": 33,
       "pts": 32,
-      "adjPts": 32.0,
-      "pointsPlus": 256
+      "adjPts": 32.1,
+      "pointsPlus": 258
     },
     {
       "date": "2026-01-29",
@@ -256,7 +256,7 @@
       "min": 36,
       "pts": 15,
       "adjPts": 14.4,
-      "pointsPlus": 115
+      "pointsPlus": 116
     }
   ]
 }

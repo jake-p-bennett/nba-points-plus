@@ -2,18 +2,18 @@
   "id": 1630230,
   "name": "Naji Marshall",
   "team": "DAL",
-  "rank": 92,
-  "gp": 52,
-  "ppg": 15.0,
-  "adjPpg": 15.0,
-  "pointsPlus": 120,
-  "mpg": 29.6,
+  "rank": 91,
+  "gp": 53,
+  "ppg": 15.1,
+  "adjPpg": 15.1,
+  "pointsPlus": 121,
+  "mpg": 29.5,
   "position": "F",
   "jersey": "13",
-  "usgPct": 18.5,
-  "tsPct": 61.9,
-  "pointsPlusStdDev": 57.6,
-  "volatilityPctile": 84,
+  "usgPct": 18.6,
+  "tsPct": 62.0,
+  "pointsPlusStdDev": 57.2,
+  "volatilityPctile": 83,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -31,7 +31,7 @@
       "min": 25,
       "pts": 7,
       "adjPts": 6.5,
-      "pointsPlus": 52
+      "pointsPlus": 53
     },
     {
       "date": "2025-10-26",
@@ -102,7 +102,7 @@
       "result": "W",
       "min": 31,
       "pts": 30,
-      "adjPts": 28.1,
+      "adjPts": 28.0,
       "pointsPlus": 225
     },
     {
@@ -112,7 +112,7 @@
       "min": 25,
       "pts": 9,
       "adjPts": 9.0,
-      "pointsPlus": 72
+      "pointsPlus": 73
     },
     {
       "date": "2025-11-12",
@@ -148,7 +148,7 @@
       "min": 23,
       "pts": 7,
       "adjPts": 7.0,
-      "pointsPlus": 56
+      "pointsPlus": 57
     },
     {
       "date": "2025-11-19",
@@ -157,7 +157,7 @@
       "min": 34,
       "pts": 23,
       "adjPts": 23.7,
-      "pointsPlus": 190
+      "pointsPlus": 191
     },
     {
       "date": "2025-11-21",
@@ -346,7 +346,7 @@
       "min": 32,
       "pts": 15,
       "adjPts": 14.4,
-      "pointsPlus": 115
+      "pointsPlus": 116
     },
     {
       "date": "2026-01-08",
@@ -400,7 +400,7 @@
       "min": 29,
       "pts": 16,
       "adjPts": 14.8,
-      "pointsPlus": 118
+      "pointsPlus": 119
     },
     {
       "date": "2026-01-19",
@@ -409,7 +409,7 @@
       "min": 33,
       "pts": 19,
       "adjPts": 19.6,
-      "pointsPlus": 157
+      "pointsPlus": 158
     },
     {
       "date": "2026-01-22",
@@ -426,8 +426,8 @@
       "result": "L",
       "min": 37,
       "pts": 21,
-      "adjPts": 20.7,
-      "pointsPlus": 166
+      "adjPts": 20.8,
+      "pointsPlus": 167
     },
     {
       "date": "2026-01-28",
@@ -463,7 +463,7 @@
       "min": 39,
       "pts": 32,
       "adjPts": 32.9,
-      "pointsPlus": 263
+      "pointsPlus": 264
     },
     {
       "date": "2026-02-07",
@@ -482,6 +482,15 @@
       "pts": 31,
       "adjPts": 31.9,
       "pointsPlus": 256
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "DAL @ LAL",
+      "result": "L",
+      "min": 29,
+      "pts": 19,
+      "adjPts": 18.8,
+      "pointsPlus": 151
     }
   ]
 }

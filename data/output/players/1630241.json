@@ -6,14 +6,14 @@
   "gp": 31,
   "ppg": 13.6,
   "adjPpg": 13.5,
-  "pointsPlus": 108,
+  "pointsPlus": 109,
   "mpg": 25.4,
   "position": "G",
   "jersey": "5",
   "usgPct": 17.0,
   "tsPct": 69.5,
-  "pointsPlusStdDev": 53.3,
-  "volatilityPctile": 71,
+  "pointsPlusStdDev": 53.4,
+  "volatilityPctile": 72,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -22,7 +22,7 @@
       "min": 28,
       "pts": 19,
       "adjPts": 19.6,
-      "pointsPlus": 157
+      "pointsPlus": 158
     },
     {
       "date": "2025-10-24",
@@ -39,8 +39,8 @@
       "result": "W",
       "min": 30,
       "pts": 17,
-      "adjPts": 17.0,
-      "pointsPlus": 136
+      "adjPts": 17.1,
+      "pointsPlus": 137
     },
     {
       "date": "2025-10-27",
@@ -85,7 +85,7 @@
       "min": 33,
       "pts": 12,
       "adjPts": 11.8,
-      "pointsPlus": 94
+      "pointsPlus": 95
     },
     {
       "date": "2025-11-12",
@@ -120,8 +120,8 @@
       "result": "W",
       "min": 28,
       "pts": 20,
-      "adjPts": 20.0,
-      "pointsPlus": 160
+      "adjPts": 20.1,
+      "pointsPlus": 161
     },
     {
       "date": "2025-12-22",
@@ -147,7 +147,7 @@
       "result": "L",
       "min": 29,
       "pts": 11,
-      "adjPts": 11.4,
+      "adjPts": 11.3,
       "pointsPlus": 91
     },
     {
@@ -183,7 +183,7 @@
       "result": "L",
       "min": 27,
       "pts": 15,
-      "adjPts": 15.9,
+      "adjPts": 15.8,
       "pointsPlus": 127
     },
     {
@@ -193,7 +193,7 @@
       "min": 31,
       "pts": 19,
       "adjPts": 18.5,
-      "pointsPlus": 148
+      "pointsPlus": 149
     },
     {
       "date": "2026-01-08",
@@ -202,7 +202,7 @@
       "min": 31,
       "pts": 22,
       "adjPts": 22.1,
-      "pointsPlus": 177
+      "pointsPlus": 178
     },
     {
       "date": "2026-01-10",
@@ -211,7 +211,7 @@
       "min": 26,
       "pts": 20,
       "adjPts": 20.1,
-      "pointsPlus": 161
+      "pointsPlus": 162
     },
     {
       "date": "2026-01-12",
@@ -237,7 +237,7 @@
       "result": "W",
       "min": 24,
       "pts": 4,
-      "adjPts": 3.9,
+      "adjPts": 4.0,
       "pointsPlus": 32
     },
     {

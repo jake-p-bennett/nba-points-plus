@@ -2,18 +2,18 @@
   "id": 1641739,
   "name": "Toumani Camara",
   "team": "POR",
-  "rank": 121,
-  "gp": 55,
+  "rank": 122,
+  "gp": 56,
   "ppg": 13.1,
   "adjPpg": 13.2,
   "pointsPlus": 106,
-  "mpg": 33.5,
+  "mpg": 33.4,
   "position": "F",
   "jersey": "33",
   "usgPct": 15.8,
-  "tsPct": 57.7,
-  "pointsPlusStdDev": 47.2,
-  "volatilityPctile": 51,
+  "tsPct": 57.9,
+  "pointsPlusStdDev": 46.8,
+  "volatilityPctile": 49,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -31,7 +31,7 @@
       "min": 33,
       "pts": 19,
       "adjPts": 19.3,
-      "pointsPlus": 154
+      "pointsPlus": 155
     },
     {
       "date": "2025-10-26",
@@ -48,7 +48,7 @@
       "result": "W",
       "min": 30,
       "pts": 4,
-      "adjPts": 3.9,
+      "adjPts": 4.0,
       "pointsPlus": 32
     },
     {
@@ -112,7 +112,7 @@
       "min": 38,
       "pts": 13,
       "adjPts": 12.5,
-      "pointsPlus": 100
+      "pointsPlus": 101
     },
     {
       "date": "2025-11-14",
@@ -175,7 +175,7 @@
       "min": 32,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-11-26",
@@ -265,7 +265,7 @@
       "min": 37,
       "pts": 15,
       "adjPts": 14.4,
-      "pointsPlus": 115
+      "pointsPlus": 116
     },
     {
       "date": "2025-12-22",
@@ -372,7 +372,7 @@
       "result": "L",
       "min": 39,
       "pts": 11,
-      "adjPts": 11.4,
+      "adjPts": 11.3,
       "pointsPlus": 91
     },
     {
@@ -427,7 +427,7 @@
       "min": 37,
       "pts": 16,
       "adjPts": 16.5,
-      "pointsPlus": 132
+      "pointsPlus": 133
     },
     {
       "date": "2026-01-26",
@@ -499,7 +499,7 @@
       "min": 27,
       "pts": 30,
       "adjPts": 30.2,
-      "pointsPlus": 242
+      "pointsPlus": 243
     },
     {
       "date": "2026-02-11",
@@ -509,6 +509,15 @@
       "pts": 9,
       "adjPts": 9.0,
       "pointsPlus": 73
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "POR @ UTA",
+      "result": "W",
+      "min": 29,
+      "pts": 14,
+      "adjPts": 12.9,
+      "pointsPlus": 104
     }
   ]
 }

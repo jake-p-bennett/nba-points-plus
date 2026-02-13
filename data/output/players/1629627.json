@@ -12,7 +12,7 @@
   "jersey": "1",
   "usgPct": 26.2,
   "tsPct": 62.9,
-  "pointsPlusStdDev": 54.5,
+  "pointsPlusStdDev": 54.7,
   "volatilityPctile": 75,
   "gameLog": [
     {
@@ -22,7 +22,7 @@
       "min": 33,
       "pts": 27,
       "adjPts": 26.5,
-      "pointsPlus": 212
+      "pointsPlus": 213
     },
     {
       "date": "2025-10-24",
@@ -31,7 +31,7 @@
       "min": 37,
       "pts": 27,
       "adjPts": 27.7,
-      "pointsPlus": 222
+      "pointsPlus": 223
     },
     {
       "date": "2025-10-29",
@@ -49,7 +49,7 @@
       "min": 33,
       "pts": 29,
       "adjPts": 29.8,
-      "pointsPlus": 239
+      "pointsPlus": 240
     },
     {
       "date": "2025-11-02",
@@ -75,8 +75,8 @@
       "result": "L",
       "min": 30,
       "pts": 22,
-      "adjPts": 21.8,
-      "pointsPlus": 174
+      "adjPts": 21.7,
+      "pointsPlus": 175
     },
     {
       "date": "2025-11-24",
@@ -103,7 +103,7 @@
       "min": 31,
       "pts": 25,
       "adjPts": 25.3,
-      "pointsPlus": 203
+      "pointsPlus": 204
     },
     {
       "date": "2025-12-14",
@@ -130,7 +130,7 @@
       "min": 23,
       "pts": 29,
       "adjPts": 28.2,
-      "pointsPlus": 226
+      "pointsPlus": 227
     },
     {
       "date": "2025-12-22",
@@ -184,7 +184,7 @@
       "min": 29,
       "pts": 31,
       "adjPts": 29.6,
-      "pointsPlus": 237
+      "pointsPlus": 238
     },
     {
       "date": "2026-01-02",
@@ -193,7 +193,7 @@
       "min": 31,
       "pts": 35,
       "adjPts": 34.1,
-      "pointsPlus": 273
+      "pointsPlus": 274
     },
     {
       "date": "2026-01-04",
@@ -202,7 +202,7 @@
       "min": 26,
       "pts": 12,
       "adjPts": 11.8,
-      "pointsPlus": 94
+      "pointsPlus": 95
     },
     {
       "date": "2026-01-06",
@@ -220,7 +220,7 @@
       "min": 31,
       "pts": 22,
       "adjPts": 21.4,
-      "pointsPlus": 171
+      "pointsPlus": 172
     },
     {
       "date": "2026-01-09",
@@ -229,7 +229,7 @@
       "min": 29,
       "pts": 31,
       "adjPts": 29.0,
-      "pointsPlus": 232
+      "pointsPlus": 233
     },
     {
       "date": "2026-01-11",
@@ -274,7 +274,7 @@
       "min": 30,
       "pts": 20,
       "adjPts": 21.2,
-      "pointsPlus": 170
+      "pointsPlus": 171
     },
     {
       "date": "2026-01-21",
@@ -309,7 +309,7 @@
       "result": "L",
       "min": 34,
       "pts": 21,
-      "adjPts": 22.6,
+      "adjPts": 22.5,
       "pointsPlus": 181
     },
     {
@@ -345,8 +345,8 @@
       "result": "L",
       "min": 38,
       "pts": 20,
-      "adjPts": 20.0,
-      "pointsPlus": 160
+      "adjPts": 20.1,
+      "pointsPlus": 161
     },
     {
       "date": "2026-02-06",
@@ -354,7 +354,7 @@
       "result": "W",
       "min": 32,
       "pts": 29,
-      "adjPts": 29.2,
+      "adjPts": 29.1,
       "pointsPlus": 234
     },
     {
@@ -364,7 +364,7 @@
       "min": 27,
       "pts": 18,
       "adjPts": 17.3,
-      "pointsPlus": 138
+      "pointsPlus": 139
     },
     {
       "date": "2026-02-11",

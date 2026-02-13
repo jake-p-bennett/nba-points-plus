@@ -6,14 +6,14 @@
   "gp": 23,
   "ppg": 7.3,
   "adjPpg": 7.4,
-  "pointsPlus": 59,
+  "pointsPlus": 60,
   "mpg": 20.6,
   "position": "F-G",
   "jersey": "2",
   "usgPct": 14.8,
   "tsPct": 59.1,
   "pointsPlusStdDev": 37.4,
-  "volatilityPctile": 17,
+  "volatilityPctile": 18,
   "gameLog": [
     {
       "date": "2025-10-31",
@@ -40,7 +40,7 @@
       "min": 12,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 64
+      "pointsPlus": 65
     },
     {
       "date": "2025-11-18",
@@ -138,7 +138,7 @@
       "result": "L",
       "min": 26,
       "pts": 12,
-      "adjPts": 11.9,
+      "adjPts": 11.8,
       "pointsPlus": 95
     },
     {

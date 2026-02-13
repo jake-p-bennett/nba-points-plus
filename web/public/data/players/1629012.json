@@ -6,14 +6,14 @@
   "gp": 45,
   "ppg": 14.4,
   "adjPpg": 14.4,
-  "pointsPlus": 115,
+  "pointsPlus": 116,
   "mpg": 22.9,
   "position": "G",
   "jersey": "2",
   "usgPct": 25.0,
   "tsPct": 60.9,
   "pointsPlusStdDev": 38.0,
-  "volatilityPctile": 19,
+  "volatilityPctile": 20,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -85,7 +85,7 @@
       "min": 30,
       "pts": 17,
       "adjPts": 16.4,
-      "pointsPlus": 131
+      "pointsPlus": 132
     },
     {
       "date": "2025-11-10",
@@ -103,7 +103,7 @@
       "min": 32,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 128
+      "pointsPlus": 129
     },
     {
       "date": "2025-11-14",
@@ -112,7 +112,7 @@
       "min": 16,
       "pts": 14,
       "adjPts": 14.0,
-      "pointsPlus": 112
+      "pointsPlus": 113
     },
     {
       "date": "2025-11-15",
@@ -157,7 +157,7 @@
       "min": 36,
       "pts": 22,
       "adjPts": 21.4,
-      "pointsPlus": 171
+      "pointsPlus": 172
     },
     {
       "date": "2025-11-26",
@@ -220,7 +220,7 @@
       "min": 18,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-12-29",
@@ -229,7 +229,7 @@
       "min": 19,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 128
+      "pointsPlus": 129
     },
     {
       "date": "2025-12-31",
@@ -247,7 +247,7 @@
       "min": 27,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 128
+      "pointsPlus": 129
     },
     {
       "date": "2026-01-03",
@@ -256,7 +256,7 @@
       "min": 20,
       "pts": 13,
       "adjPts": 12.4,
-      "pointsPlus": 99
+      "pointsPlus": 100
     },
     {
       "date": "2026-01-05",
@@ -301,7 +301,7 @@
       "min": 14,
       "pts": 6,
       "adjPts": 5.9,
-      "pointsPlus": 47
+      "pointsPlus": 48
     },
     {
       "date": "2026-01-17",
@@ -346,7 +346,7 @@
       "min": 16,
       "pts": 9,
       "adjPts": 8.4,
-      "pointsPlus": 67
+      "pointsPlus": 68
     },
     {
       "date": "2026-01-26",

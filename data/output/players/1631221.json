@@ -2,7 +2,7 @@
   "id": 1631221,
   "name": "Collin Gillespie",
   "team": "PHX",
-  "rank": 117,
+  "rank": 118,
   "gp": 54,
   "ppg": 13.3,
   "adjPpg": 13.3,
@@ -12,8 +12,8 @@
   "jersey": "12",
   "usgPct": 18.6,
   "tsPct": 59.4,
-  "pointsPlusStdDev": 49.5,
-  "volatilityPctile": 59,
+  "pointsPlusStdDev": 49.7,
+  "volatilityPctile": 60,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -120,7 +120,7 @@
       "result": "W",
       "min": 19,
       "pts": 4,
-      "adjPts": 4.0,
+      "adjPts": 3.9,
       "pointsPlus": 32
     },
     {
@@ -148,7 +148,7 @@
       "min": 28,
       "pts": 19,
       "adjPts": 18.5,
-      "pointsPlus": 148
+      "pointsPlus": 149
     },
     {
       "date": "2025-11-21",
@@ -157,7 +157,7 @@
       "min": 34,
       "pts": 20,
       "adjPts": 20.1,
-      "pointsPlus": 161
+      "pointsPlus": 162
     },
     {
       "date": "2025-11-23",
@@ -184,7 +184,7 @@
       "min": 34,
       "pts": 21,
       "adjPts": 20.1,
-      "pointsPlus": 161
+      "pointsPlus": 162
     },
     {
       "date": "2025-11-28",
@@ -210,7 +210,7 @@
       "result": "W",
       "min": 34,
       "pts": 28,
-      "adjPts": 27.6,
+      "adjPts": 27.7,
       "pointsPlus": 222
     },
     {
@@ -292,7 +292,7 @@
       "min": 31,
       "pts": 17,
       "adjPts": 16.4,
-      "pointsPlus": 131
+      "pointsPlus": 132
     },
     {
       "date": "2025-12-29",
@@ -301,7 +301,7 @@
       "min": 29,
       "pts": 25,
       "adjPts": 23.4,
-      "pointsPlus": 187
+      "pointsPlus": 188
     },
     {
       "date": "2025-12-31",
@@ -319,7 +319,7 @@
       "min": 26,
       "pts": 15,
       "adjPts": 14.4,
-      "pointsPlus": 115
+      "pointsPlus": 116
     },
     {
       "date": "2026-01-04",
@@ -390,7 +390,7 @@
       "result": "W",
       "min": 26,
       "pts": 11,
-      "adjPts": 11.4,
+      "adjPts": 11.3,
       "pointsPlus": 91
     },
     {
@@ -463,7 +463,7 @@
       "min": 33,
       "pts": 30,
       "adjPts": 29.2,
-      "pointsPlus": 234
+      "pointsPlus": 235
     },
     {
       "date": "2026-02-05",
@@ -472,7 +472,7 @@
       "min": 33,
       "pts": 11,
       "adjPts": 11.2,
-      "pointsPlus": 89
+      "pointsPlus": 90
     },
     {
       "date": "2026-02-07",
@@ -481,7 +481,7 @@
       "min": 28,
       "pts": 6,
       "adjPts": 6.0,
-      "pointsPlus": 48
+      "pointsPlus": 49
     },
     {
       "date": "2026-02-10",

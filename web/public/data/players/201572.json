@@ -2,7 +2,7 @@
   "id": 201572,
   "name": "Brook Lopez",
   "team": "LAC",
-  "rank": 255,
+  "rank": 257,
   "gp": 47,
   "ppg": 6.8,
   "adjPpg": 6.8,
@@ -12,7 +12,7 @@
   "jersey": "11",
   "usgPct": 17.5,
   "tsPct": 52.8,
-  "pointsPlusStdDev": 43.7,
+  "pointsPlusStdDev": 43.8,
   "volatilityPctile": 38,
   "gameLog": [
     {
@@ -139,7 +139,7 @@
       "min": 14,
       "pts": 6,
       "adjPts": 6.0,
-      "pointsPlus": 48
+      "pointsPlus": 49
     },
     {
       "date": "2025-11-20",
@@ -220,7 +220,7 @@
       "min": 33,
       "pts": 31,
       "adjPts": 30.2,
-      "pointsPlus": 242
+      "pointsPlus": 243
     },
     {
       "date": "2025-12-28",
@@ -238,7 +238,7 @@
       "min": 23,
       "pts": 8,
       "adjPts": 7.7,
-      "pointsPlus": 61
+      "pointsPlus": 62
     },
     {
       "date": "2026-01-01",
@@ -310,7 +310,7 @@
       "min": 21,
       "pts": 11,
       "adjPts": 10.3,
-      "pointsPlus": 82
+      "pointsPlus": 83
     },
     {
       "date": "2026-01-16",
@@ -409,7 +409,7 @@
       "min": 36,
       "pts": 15,
       "adjPts": 14.4,
-      "pointsPlus": 115
+      "pointsPlus": 116
     },
     {
       "date": "2026-02-08",

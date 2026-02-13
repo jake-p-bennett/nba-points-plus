@@ -2,7 +2,7 @@
   "id": 1642847,
   "name": "Jeremiah Fears",
   "team": "NOP",
-  "rank": 118,
+  "rank": 119,
   "gp": 56,
   "ppg": 13.2,
   "adjPpg": 13.2,
@@ -12,7 +12,7 @@
   "jersey": "0",
   "usgPct": 23.9,
   "tsPct": 51.3,
-  "pointsPlusStdDev": 44.8,
+  "pointsPlusStdDev": 44.9,
   "volatilityPctile": 41,
   "gameLog": [
     {
@@ -84,7 +84,7 @@
       "result": "W",
       "min": 25,
       "pts": 13,
-      "adjPts": 12.9,
+      "adjPts": 12.8,
       "pointsPlus": 103
     },
     {
@@ -120,8 +120,8 @@
       "result": "L",
       "min": 29,
       "pts": 19,
-      "adjPts": 18.7,
-      "pointsPlus": 150
+      "adjPts": 18.8,
+      "pointsPlus": 151
     },
     {
       "date": "2025-11-16",
@@ -156,7 +156,7 @@
       "result": "L",
       "min": 32,
       "pts": 21,
-      "adjPts": 20.8,
+      "adjPts": 20.7,
       "pointsPlus": 167
     },
     {
@@ -201,8 +201,8 @@
       "result": "L",
       "min": 27,
       "pts": 21,
-      "adjPts": 20.7,
-      "pointsPlus": 166
+      "adjPts": 20.8,
+      "pointsPlus": 167
     },
     {
       "date": "2025-12-02",
@@ -211,7 +211,7 @@
       "min": 34,
       "pts": 21,
       "adjPts": 21.1,
-      "pointsPlus": 169
+      "pointsPlus": 170
     },
     {
       "date": "2025-12-04",
@@ -220,7 +220,7 @@
       "min": 34,
       "pts": 20,
       "adjPts": 20.1,
-      "pointsPlus": 161
+      "pointsPlus": 162
     },
     {
       "date": "2025-12-06",
@@ -247,7 +247,7 @@
       "min": 25,
       "pts": 19,
       "adjPts": 18.5,
-      "pointsPlus": 148
+      "pointsPlus": 149
     },
     {
       "date": "2025-12-14",
@@ -282,7 +282,7 @@
       "result": "W",
       "min": 24,
       "pts": 12,
-      "adjPts": 11.9,
+      "adjPts": 11.8,
       "pointsPlus": 95
     },
     {
@@ -346,7 +346,7 @@
       "min": 26,
       "pts": 21,
       "adjPts": 20.6,
-      "pointsPlus": 165
+      "pointsPlus": 166
     },
     {
       "date": "2026-01-06",
@@ -373,7 +373,7 @@
       "min": 32,
       "pts": 21,
       "adjPts": 19.6,
-      "pointsPlus": 157
+      "pointsPlus": 158
     },
     {
       "date": "2026-01-11",
@@ -382,7 +382,7 @@
       "min": 28,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 128
+      "pointsPlus": 129
     },
     {
       "date": "2026-01-13",
@@ -436,7 +436,7 @@
       "min": 23,
       "pts": 12,
       "adjPts": 11.8,
-      "pointsPlus": 94
+      "pointsPlus": 95
     },
     {
       "date": "2026-01-25",
@@ -490,7 +490,7 @@
       "min": 20,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2026-02-06",

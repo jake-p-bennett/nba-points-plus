@@ -3,17 +3,17 @@
   "name": "Brandon Williams",
   "team": "DAL",
   "rank": 131,
-  "gp": 45,
-  "ppg": 12.6,
-  "adjPpg": 12.6,
-  "pointsPlus": 101,
-  "mpg": 21.9,
+  "gp": 46,
+  "ppg": 12.7,
+  "adjPpg": 12.7,
+  "pointsPlus": 102,
+  "mpg": 22.0,
   "position": "G",
   "jersey": "10",
-  "usgPct": 24.4,
-  "tsPct": 55.2,
-  "pointsPlusStdDev": 51.2,
-  "volatilityPctile": 66,
+  "usgPct": 24.5,
+  "tsPct": 55.5,
+  "pointsPlusStdDev": 51.0,
+  "volatilityPctile": 65,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -76,7 +76,7 @@
       "min": 22,
       "pts": 11,
       "adjPts": 10.8,
-      "pointsPlus": 86
+      "pointsPlus": 87
     },
     {
       "date": "2025-11-08",
@@ -93,8 +93,8 @@
       "result": "L",
       "min": 33,
       "pts": 19,
-      "adjPts": 19.0,
-      "pointsPlus": 152
+      "adjPts": 19.1,
+      "pointsPlus": 153
     },
     {
       "date": "2025-11-12",
@@ -103,7 +103,7 @@
       "min": 33,
       "pts": 17,
       "adjPts": 17.5,
-      "pointsPlus": 140
+      "pointsPlus": 141
     },
     {
       "date": "2025-11-14",
@@ -139,7 +139,7 @@
       "min": 20,
       "pts": 9,
       "adjPts": 9.3,
-      "pointsPlus": 74
+      "pointsPlus": 75
     },
     {
       "date": "2025-11-21",
@@ -166,7 +166,7 @@
       "min": 21,
       "pts": 12,
       "adjPts": 11.8,
-      "pointsPlus": 94
+      "pointsPlus": 95
     },
     {
       "date": "2025-11-28",
@@ -220,7 +220,7 @@
       "min": 23,
       "pts": 20,
       "adjPts": 21.2,
-      "pointsPlus": 170
+      "pointsPlus": 171
     },
     {
       "date": "2025-12-12",
@@ -274,7 +274,7 @@
       "min": 30,
       "pts": 26,
       "adjPts": 26.4,
-      "pointsPlus": 211
+      "pointsPlus": 212
     },
     {
       "date": "2025-12-29",
@@ -310,7 +310,7 @@
       "min": 27,
       "pts": 18,
       "adjPts": 17.3,
-      "pointsPlus": 138
+      "pointsPlus": 139
     },
     {
       "date": "2026-01-08",
@@ -364,7 +364,7 @@
       "min": 27,
       "pts": 19,
       "adjPts": 19.3,
-      "pointsPlus": 154
+      "pointsPlus": 155
     },
     {
       "date": "2026-01-24",
@@ -372,8 +372,8 @@
       "result": "L",
       "min": 23,
       "pts": 20,
-      "adjPts": 19.7,
-      "pointsPlus": 158
+      "adjPts": 19.8,
+      "pointsPlus": 159
     },
     {
       "date": "2026-01-28",
@@ -419,6 +419,15 @@
       "pts": 5,
       "adjPts": 5.1,
       "pointsPlus": 41
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "DAL @ LAL",
+      "result": "L",
+      "min": 29,
+      "pts": 17,
+      "adjPts": 16.8,
+      "pointsPlus": 135
     }
   ]
 }

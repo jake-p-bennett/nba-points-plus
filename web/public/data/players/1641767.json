@@ -2,7 +2,7 @@
   "id": 1641767,
   "name": "Ben Sheppard",
   "team": "IND",
-  "rank": 265,
+  "rank": 266,
   "gp": 44,
   "ppg": 6.5,
   "adjPpg": 6.5,
@@ -12,8 +12,8 @@
   "jersey": "26",
   "usgPct": 12.6,
   "tsPct": 53.1,
-  "pointsPlusStdDev": 32.9,
-  "volatilityPctile": 10,
+  "pointsPlusStdDev": 33.0,
+  "volatilityPctile": 11,
   "gameLog": [
     {
       "date": "2025-10-23",
@@ -48,7 +48,7 @@
       "result": "L",
       "min": 25,
       "pts": 4,
-      "adjPts": 4.0,
+      "adjPts": 3.9,
       "pointsPlus": 32
     },
     {
@@ -85,7 +85,7 @@
       "min": 35,
       "pts": 18,
       "adjPts": 18.1,
-      "pointsPlus": 145
+      "pointsPlus": 146
     },
     {
       "date": "2025-11-08",
@@ -184,7 +184,7 @@
       "min": 29,
       "pts": 9,
       "adjPts": 8.4,
-      "pointsPlus": 67
+      "pointsPlus": 68
     },
     {
       "date": "2025-11-29",
@@ -220,7 +220,7 @@
       "min": 19,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 96
+      "pointsPlus": 97
     },
     {
       "date": "2026-01-02",
@@ -319,7 +319,7 @@
       "min": 21,
       "pts": 8,
       "adjPts": 8.5,
-      "pointsPlus": 68
+      "pointsPlus": 69
     },
     {
       "date": "2026-01-23",

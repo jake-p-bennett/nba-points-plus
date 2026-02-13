@@ -2,7 +2,7 @@
   "id": 203944,
   "name": "Julius Randle",
   "team": "MIN",
-  "rank": 27,
+  "rank": 28,
   "gp": 56,
   "ppg": 22.3,
   "adjPpg": 22.2,
@@ -12,7 +12,7 @@
   "jersey": "30",
   "usgPct": 25.9,
   "tsPct": 59.9,
-  "pointsPlusStdDev": 54.7,
+  "pointsPlusStdDev": 54.9,
   "volatilityPctile": 76,
   "gameLog": [
     {
@@ -22,7 +22,7 @@
       "min": 37,
       "pts": 19,
       "adjPts": 18.5,
-      "pointsPlus": 148
+      "pointsPlus": 149
     },
     {
       "date": "2025-10-24",
@@ -58,7 +58,7 @@
       "min": 36,
       "pts": 33,
       "adjPts": 32.6,
-      "pointsPlus": 261
+      "pointsPlus": 262
     },
     {
       "date": "2025-11-01",
@@ -67,7 +67,7 @@
       "min": 32,
       "pts": 30,
       "adjPts": 30.5,
-      "pointsPlus": 244
+      "pointsPlus": 245
     },
     {
       "date": "2025-11-03",
@@ -76,7 +76,7 @@
       "min": 34,
       "pts": 19,
       "adjPts": 19.1,
-      "pointsPlus": 153
+      "pointsPlus": 154
     },
     {
       "date": "2025-11-05",
@@ -130,7 +130,7 @@
       "min": 38,
       "pts": 26,
       "adjPts": 26.0,
-      "pointsPlus": 208
+      "pointsPlus": 209
     },
     {
       "date": "2025-11-17",
@@ -138,7 +138,7 @@
       "result": "W",
       "min": 27,
       "pts": 12,
-      "adjPts": 11.9,
+      "adjPts": 11.8,
       "pointsPlus": 95
     },
     {
@@ -211,7 +211,7 @@
       "min": 37,
       "pts": 28,
       "adjPts": 27.0,
-      "pointsPlus": 216
+      "pointsPlus": 217
     },
     {
       "date": "2025-12-06",
@@ -229,7 +229,7 @@
       "min": 37,
       "pts": 21,
       "adjPts": 21.6,
-      "pointsPlus": 173
+      "pointsPlus": 174
     },
     {
       "date": "2025-12-12",
@@ -247,7 +247,7 @@
       "min": 36,
       "pts": 24,
       "adjPts": 23.0,
-      "pointsPlus": 184
+      "pointsPlus": 185
     },
     {
       "date": "2025-12-17",
@@ -274,7 +274,7 @@
       "min": 32,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 96
+      "pointsPlus": 97
     },
     {
       "date": "2025-12-23",
@@ -292,7 +292,7 @@
       "min": 39,
       "pts": 32,
       "adjPts": 31.9,
-      "pointsPlus": 256
+      "pointsPlus": 257
     },
     {
       "date": "2025-12-27",
@@ -381,8 +381,8 @@
       "result": "W",
       "min": 30,
       "pts": 29,
-      "adjPts": 29.0,
-      "pointsPlus": 232
+      "adjPts": 29.1,
+      "pointsPlus": 234
     },
     {
       "date": "2026-01-16",
@@ -391,7 +391,7 @@
       "min": 40,
       "pts": 39,
       "adjPts": 41.4,
-      "pointsPlus": 332
+      "pointsPlus": 333
     },
     {
       "date": "2026-01-17",
@@ -427,7 +427,7 @@
       "min": 35,
       "pts": 11,
       "adjPts": 11.2,
-      "pointsPlus": 89
+      "pointsPlus": 90
     },
     {
       "date": "2026-01-26",
@@ -435,8 +435,8 @@
       "result": "W",
       "min": 23,
       "pts": 18,
-      "adjPts": 18.3,
-      "pointsPlus": 146
+      "adjPts": 18.2,
+      "pointsPlus": 147
     },
     {
       "date": "2026-01-28",
@@ -444,7 +444,7 @@
       "result": "W",
       "min": 34,
       "pts": 31,
-      "adjPts": 30.7,
+      "adjPts": 30.6,
       "pointsPlus": 246
     },
     {
@@ -463,7 +463,7 @@
       "min": 35,
       "pts": 27,
       "adjPts": 26.5,
-      "pointsPlus": 212
+      "pointsPlus": 213
     },
     {
       "date": "2026-02-02",
@@ -472,7 +472,7 @@
       "min": 40,
       "pts": 19,
       "adjPts": 18.6,
-      "pointsPlus": 149
+      "pointsPlus": 150
     },
     {
       "date": "2026-02-04",
@@ -490,7 +490,7 @@
       "min": 37,
       "pts": 24,
       "adjPts": 23.1,
-      "pointsPlus": 185
+      "pointsPlus": 186
     },
     {
       "date": "2026-02-08",
@@ -499,7 +499,7 @@
       "min": 33,
       "pts": 17,
       "adjPts": 17.5,
-      "pointsPlus": 140
+      "pointsPlus": 141
     },
     {
       "date": "2026-02-09",
@@ -517,7 +517,7 @@
       "min": 33,
       "pts": 41,
       "adjPts": 39.9,
-      "pointsPlus": 320
+      "pointsPlus": 321
     }
   ]
 }

@@ -3,17 +3,17 @@
   "name": "Jake LaRavia",
   "team": "LAL",
   "rank": 193,
-  "gp": 53,
-  "ppg": 9.4,
+  "gp": 54,
+  "ppg": 9.5,
   "adjPpg": 9.4,
-  "pointsPlus": 75,
+  "pointsPlus": 76,
   "mpg": 26.9,
   "position": "F",
   "jersey": "12",
   "usgPct": 14.5,
-  "tsPct": 57.8,
-  "pointsPlusStdDev": 51.4,
-  "volatilityPctile": 67,
+  "tsPct": 58.1,
+  "pointsPlusStdDev": 51.1,
+  "volatilityPctile": 66,
   "gameLog": [
     {
       "date": "2025-10-21",
@@ -148,7 +148,7 @@
       "min": 26,
       "pts": 16,
       "adjPts": 14.8,
-      "pointsPlus": 118
+      "pointsPlus": 119
     },
     {
       "date": "2025-11-23",
@@ -310,7 +310,7 @@
       "min": 35,
       "pts": 26,
       "adjPts": 25.5,
-      "pointsPlus": 204
+      "pointsPlus": 205
     },
     {
       "date": "2026-01-06",
@@ -337,7 +337,7 @@
       "min": 34,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2026-01-12",
@@ -355,7 +355,7 @@
       "min": 36,
       "pts": 17,
       "adjPts": 16.5,
-      "pointsPlus": 132
+      "pointsPlus": 133
     },
     {
       "date": "2026-01-15",
@@ -408,7 +408,7 @@
       "result": "W",
       "min": 30,
       "pts": 13,
-      "adjPts": 12.9,
+      "adjPts": 12.8,
       "pointsPlus": 103
     },
     {
@@ -436,7 +436,7 @@
       "min": 25,
       "pts": 3,
       "adjPts": 2.8,
-      "pointsPlus": 22
+      "pointsPlus": 23
     },
     {
       "date": "2026-02-01",
@@ -454,7 +454,7 @@
       "min": 22,
       "pts": 18,
       "adjPts": 18.1,
-      "pointsPlus": 145
+      "pointsPlus": 146
     },
     {
       "date": "2026-02-05",
@@ -491,6 +491,15 @@
       "pts": 10,
       "adjPts": 10.3,
       "pointsPlus": 82
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "LAL vs. DAL",
+      "result": "W",
+      "min": 26,
+      "pts": 11,
+      "adjPts": 10.9,
+      "pointsPlus": 87
     }
   ]
 }

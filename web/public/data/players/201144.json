@@ -11,7 +11,7 @@
   "position": "G",
   "usgPct": 11.2,
   "tsPct": 50.2,
-  "pointsPlusStdDev": 23.6,
+  "pointsPlusStdDev": 23.7,
   "volatilityPctile": 1,
   "gameLog": [
     {
@@ -57,7 +57,7 @@
       "min": 28,
       "pts": 8,
       "adjPts": 7.9,
-      "pointsPlus": 63
+      "pointsPlus": 64
     },
     {
       "date": "2025-11-01",
@@ -66,7 +66,7 @@
       "min": 29,
       "pts": 10,
       "adjPts": 10.2,
-      "pointsPlus": 81
+      "pointsPlus": 82
     },
     {
       "date": "2025-11-03",
@@ -146,7 +146,7 @@
       "result": "W",
       "min": 27,
       "pts": 10,
-      "adjPts": 9.4,
+      "adjPts": 9.3,
       "pointsPlus": 75
     },
     {
@@ -291,7 +291,7 @@
       "min": 13,
       "pts": 7,
       "adjPts": 6.5,
-      "pointsPlus": 52
+      "pointsPlus": 53
     },
     {
       "date": "2026-01-06",
@@ -327,7 +327,7 @@
       "min": 21,
       "pts": 9,
       "adjPts": 9.0,
-      "pointsPlus": 72
+      "pointsPlus": 73
     },
     {
       "date": "2026-01-16",

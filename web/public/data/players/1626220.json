@@ -2,7 +2,7 @@
   "id": 1626220,
   "name": "Royce O'Neale",
   "team": "PHX",
-  "rank": 173,
+  "rank": 174,
   "gp": 55,
   "ppg": 10.3,
   "adjPpg": 10.3,
@@ -94,7 +94,7 @@
       "min": 28,
       "pts": 17,
       "adjPts": 17.5,
-      "pointsPlus": 140
+      "pointsPlus": 141
     },
     {
       "date": "2025-11-08",
@@ -120,7 +120,7 @@
       "result": "W",
       "min": 28,
       "pts": 13,
-      "adjPts": 12.9,
+      "adjPts": 12.8,
       "pointsPlus": 103
     },
     {
@@ -211,7 +211,7 @@
       "min": 33,
       "pts": 6,
       "adjPts": 5.9,
-      "pointsPlus": 47
+      "pointsPlus": 48
     },
     {
       "date": "2025-12-05",
@@ -246,7 +246,7 @@
       "result": "L",
       "min": 24,
       "pts": 12,
-      "adjPts": 11.8,
+      "adjPts": 11.9,
       "pointsPlus": 95
     },
     {
@@ -273,7 +273,7 @@
       "result": "W",
       "min": 23,
       "pts": 12,
-      "adjPts": 11.8,
+      "adjPts": 11.9,
       "pointsPlus": 95
     },
     {
@@ -301,7 +301,7 @@
       "min": 33,
       "pts": 15,
       "adjPts": 14.0,
-      "pointsPlus": 112
+      "pointsPlus": 113
     },
     {
       "date": "2025-12-31",
@@ -346,7 +346,7 @@
       "min": 27,
       "pts": 12,
       "adjPts": 11.8,
-      "pointsPlus": 94
+      "pointsPlus": 95
     },
     {
       "date": "2026-01-09",
@@ -364,7 +364,7 @@
       "min": 25,
       "pts": 19,
       "adjPts": 17.8,
-      "pointsPlus": 142
+      "pointsPlus": 143
     },
     {
       "date": "2026-01-13",
@@ -372,7 +372,7 @@
       "result": "L",
       "min": 32,
       "pts": 8,
-      "adjPts": 7.9,
+      "adjPts": 7.8,
       "pointsPlus": 63
     },
     {
@@ -426,7 +426,7 @@
       "result": "L",
       "min": 31,
       "pts": 8,
-      "adjPts": 7.9,
+      "adjPts": 7.8,
       "pointsPlus": 63
     },
     {
@@ -498,7 +498,7 @@
       "result": "W",
       "min": 23,
       "pts": 12,
-      "adjPts": 11.9,
+      "adjPts": 11.8,
       "pointsPlus": 95
     },
     {

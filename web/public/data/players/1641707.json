@@ -13,7 +13,7 @@
   "usgPct": 14.1,
   "tsPct": 55.4,
   "pointsPlusStdDev": 43.4,
-  "volatilityPctile": 38,
+  "volatilityPctile": 37,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -147,7 +147,7 @@
       "result": "L",
       "min": 23,
       "pts": 4,
-      "adjPts": 3.9,
+      "adjPts": 4.0,
       "pointsPlus": 32
     },
     {

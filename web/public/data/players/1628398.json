@@ -3,17 +3,17 @@
   "name": "Kyle Kuzma",
   "team": "MIL",
   "rank": 125,
-  "gp": 49,
+  "gp": 50,
   "ppg": 12.9,
   "adjPpg": 12.9,
   "pointsPlus": 104,
   "mpg": 26.9,
   "position": "F",
   "jersey": "18",
-  "usgPct": 20.9,
-  "tsPct": 56.8,
-  "pointsPlusStdDev": 56.4,
-  "volatilityPctile": 81,
+  "usgPct": 21.0,
+  "tsPct": 56.5,
+  "pointsPlusStdDev": 56.0,
+  "volatilityPctile": 79,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -120,8 +120,8 @@
       "result": "W",
       "min": 39,
       "pts": 29,
-      "adjPts": 29.5,
-      "pointsPlus": 236
+      "adjPts": 29.4,
+      "pointsPlus": 237
     },
     {
       "date": "2025-11-15",
@@ -174,7 +174,7 @@
       "result": "L",
       "min": 29,
       "pts": 8,
-      "adjPts": 7.9,
+      "adjPts": 7.8,
       "pointsPlus": 63
     },
     {
@@ -184,7 +184,7 @@
       "min": 28,
       "pts": 20,
       "adjPts": 20.6,
-      "pointsPlus": 165
+      "pointsPlus": 166
     },
     {
       "date": "2025-11-29",
@@ -202,7 +202,7 @@
       "min": 20,
       "pts": 3,
       "adjPts": 2.8,
-      "pointsPlus": 22
+      "pointsPlus": 23
     },
     {
       "date": "2025-12-03",
@@ -228,7 +228,7 @@
       "result": "L",
       "min": 29,
       "pts": 15,
-      "adjPts": 15.9,
+      "adjPts": 15.8,
       "pointsPlus": 127
     },
     {
@@ -301,7 +301,7 @@
       "min": 21,
       "pts": 5,
       "adjPts": 4.7,
-      "pointsPlus": 37
+      "pointsPlus": 38
     },
     {
       "date": "2026-01-02",
@@ -409,7 +409,7 @@
       "min": 35,
       "pts": 19,
       "adjPts": 17.8,
-      "pointsPlus": 142
+      "pointsPlus": 143
     },
     {
       "date": "2026-02-01",
@@ -427,7 +427,7 @@
       "min": 31,
       "pts": 31,
       "adjPts": 29.6,
-      "pointsPlus": 237
+      "pointsPlus": 238
     },
     {
       "date": "2026-02-04",
@@ -454,7 +454,16 @@
       "min": 30,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 120
+      "pointsPlus": 121
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "MIL @ OKC",
+      "result": "W",
+      "min": 29,
+      "pts": 14,
+      "adjPts": 15.0,
+      "pointsPlus": 121
     }
   ]
 }

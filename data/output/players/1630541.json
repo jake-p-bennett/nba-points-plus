@@ -2,7 +2,7 @@
   "id": 1630541,
   "name": "Moses Moody",
   "team": "GSW",
-  "rank": 152,
+  "rank": 153,
   "gp": 53,
   "ppg": 11.5,
   "adjPpg": 11.5,
@@ -12,7 +12,7 @@
   "jersey": "4",
   "usgPct": 17.0,
   "tsPct": 59.8,
-  "pointsPlusStdDev": 55.4,
+  "pointsPlusStdDev": 55.5,
   "volatilityPctile": 77,
   "gameLog": [
     {
@@ -31,7 +31,7 @@
       "min": 22,
       "pts": 20,
       "adjPts": 19.6,
-      "pointsPlus": 157
+      "pointsPlus": 158
     },
     {
       "date": "2025-10-28",
@@ -76,7 +76,7 @@
       "min": 39,
       "pts": 28,
       "adjPts": 26.8,
-      "pointsPlus": 215
+      "pointsPlus": 216
     },
     {
       "date": "2025-11-07",
@@ -112,7 +112,7 @@
       "min": 26,
       "pts": 19,
       "adjPts": 19.5,
-      "pointsPlus": 156
+      "pointsPlus": 157
     },
     {
       "date": "2025-11-14",
@@ -130,7 +130,7 @@
       "min": 33,
       "pts": 32,
       "adjPts": 30.8,
-      "pointsPlus": 247
+      "pointsPlus": 248
     },
     {
       "date": "2025-11-18",
@@ -273,7 +273,7 @@
       "result": "W",
       "min": 30,
       "pts": 12,
-      "adjPts": 11.9,
+      "adjPts": 11.8,
       "pointsPlus": 95
     },
     {
@@ -337,7 +337,7 @@
       "min": 28,
       "pts": 9,
       "adjPts": 9.0,
-      "pointsPlus": 72
+      "pointsPlus": 73
     },
     {
       "date": "2026-01-09",
@@ -364,7 +364,7 @@
       "min": 23,
       "pts": 14,
       "adjPts": 13.6,
-      "pointsPlus": 109
+      "pointsPlus": 110
     },
     {
       "date": "2026-01-15",
@@ -408,7 +408,7 @@
       "result": "L",
       "min": 23,
       "pts": 12,
-      "adjPts": 11.9,
+      "adjPts": 11.8,
       "pointsPlus": 95
     },
     {

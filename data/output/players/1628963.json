@@ -2,17 +2,17 @@
   "id": 1628963,
   "name": "Marvin Bagley III",
   "team": "DAL",
-  "rank": 172,
-  "gp": 40,
+  "rank": 176,
+  "gp": 41,
   "ppg": 10.2,
   "adjPpg": 10.3,
-  "pointsPlus": 83,
+  "pointsPlus": 82,
   "mpg": 19.5,
   "position": "F",
   "jersey": "35",
   "usgPct": 18.2,
-  "tsPct": 65.8,
-  "pointsPlusStdDev": 38.8,
+  "tsPct": 65.3,
+  "pointsPlusStdDev": 38.6,
   "volatilityPctile": 22,
   "gameLog": [
     {
@@ -147,8 +147,8 @@
       "result": "W",
       "min": 29,
       "pts": 22,
-      "adjPts": 22.0,
-      "pointsPlus": 176
+      "adjPts": 22.1,
+      "pointsPlus": 177
     },
     {
       "date": "2025-12-02",
@@ -256,7 +256,7 @@
       "min": 20,
       "pts": 9,
       "adjPts": 9.0,
-      "pointsPlus": 72
+      "pointsPlus": 73
     },
     {
       "date": "2026-01-02",
@@ -283,7 +283,7 @@
       "min": 17,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 96
+      "pointsPlus": 97
     },
     {
       "date": "2026-01-07",
@@ -319,7 +319,7 @@
       "min": 19,
       "pts": 8,
       "adjPts": 7.7,
-      "pointsPlus": 61
+      "pointsPlus": 62
     },
     {
       "date": "2026-01-17",
@@ -346,7 +346,7 @@
       "min": 19,
       "pts": 15,
       "adjPts": 14.4,
-      "pointsPlus": 115
+      "pointsPlus": 116
     },
     {
       "date": "2026-02-03",
@@ -354,7 +354,7 @@
       "result": "L",
       "min": 16,
       "pts": 11,
-      "adjPts": 11.4,
+      "adjPts": 11.3,
       "pointsPlus": 91
     },
     {
@@ -374,6 +374,15 @@
       "pts": 9,
       "adjPts": 9.3,
       "pointsPlus": 74
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "DAL @ LAL",
+      "result": "L",
+      "min": 20,
+      "pts": 7,
+      "adjPts": 6.9,
+      "pointsPlus": 56
     }
   ]
 }

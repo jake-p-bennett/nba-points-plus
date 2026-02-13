@@ -2,7 +2,7 @@
   "id": 1630533,
   "name": "Ziaire Williams",
   "team": "BKN",
-  "rank": 186,
+  "rank": 187,
   "gp": 38,
   "ppg": 9.7,
   "adjPpg": 9.7,
@@ -103,7 +103,7 @@
       "min": 36,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 120
+      "pointsPlus": 121
     },
     {
       "date": "2025-11-16",
@@ -112,7 +112,7 @@
       "min": 30,
       "pts": 13,
       "adjPts": 12.2,
-      "pointsPlus": 97
+      "pointsPlus": 98
     },
     {
       "date": "2025-11-18",
@@ -157,7 +157,7 @@
       "min": 19,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 80
+      "pointsPlus": 81
     },
     {
       "date": "2025-12-01",
@@ -211,7 +211,7 @@
       "min": 22,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 80
+      "pointsPlus": 81
     },
     {
       "date": "2025-12-18",
@@ -291,7 +291,7 @@
       "result": "L",
       "min": 19,
       "pts": 11,
-      "adjPts": 11.4,
+      "adjPts": 11.3,
       "pointsPlus": 91
     },
     {
@@ -355,7 +355,7 @@
       "min": 28,
       "pts": 19,
       "adjPts": 18.5,
-      "pointsPlus": 148
+      "pointsPlus": 149
     }
   ]
 }

@@ -2,7 +2,7 @@
   "id": 1630551,
   "name": "Justin Champagnie",
   "team": "WAS",
-  "rank": 229,
+  "rank": 228,
   "gp": 50,
   "ppg": 7.8,
   "adjPpg": 7.8,
@@ -12,7 +12,7 @@
   "jersey": "9",
   "usgPct": 15.0,
   "tsPct": 58.8,
-  "pointsPlusStdDev": 44.9,
+  "pointsPlusStdDev": 45.0,
   "volatilityPctile": 42,
   "gameLog": [
     {
@@ -166,7 +166,7 @@
       "min": 19,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 80
+      "pointsPlus": 81
     },
     {
       "date": "2025-12-02",
@@ -229,7 +229,7 @@
       "min": 24,
       "pts": 4,
       "adjPts": 3.9,
-      "pointsPlus": 31
+      "pointsPlus": 32
     },
     {
       "date": "2025-12-21",
@@ -247,7 +247,7 @@
       "min": 19,
       "pts": 10,
       "adjPts": 10.2,
-      "pointsPlus": 81
+      "pointsPlus": 82
     },
     {
       "date": "2025-12-26",
@@ -283,7 +283,7 @@
       "min": 33,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 96
+      "pointsPlus": 97
     },
     {
       "date": "2026-01-02",
@@ -292,7 +292,7 @@
       "min": 25,
       "pts": 20,
       "adjPts": 20.1,
-      "pointsPlus": 161
+      "pointsPlus": 162
     },
     {
       "date": "2026-01-04",
@@ -319,7 +319,7 @@
       "min": 25,
       "pts": 6,
       "adjPts": 6.0,
-      "pointsPlus": 48
+      "pointsPlus": 49
     },
     {
       "date": "2026-01-09",
@@ -355,7 +355,7 @@
       "min": 27,
       "pts": 15,
       "adjPts": 14.4,
-      "pointsPlus": 115
+      "pointsPlus": 116
     },
     {
       "date": "2026-01-17",
@@ -409,7 +409,7 @@
       "min": 26,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 96
+      "pointsPlus": 97
     },
     {
       "date": "2026-01-30",

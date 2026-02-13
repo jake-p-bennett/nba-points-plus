@@ -2,17 +2,17 @@
   "id": 1626145,
   "name": "Tyus Jones",
   "team": "DAL",
-  "rank": 313,
-  "gp": 50,
+  "rank": 314,
+  "gp": 51,
   "ppg": 3.0,
   "adjPpg": 3.0,
   "pointsPlus": 24,
-  "mpg": 15.7,
+  "mpg": 15.8,
   "position": "G",
   "jersey": "1",
-  "usgPct": 9.7,
-  "tsPct": 44.5,
-  "pointsPlusStdDev": 27.1,
+  "usgPct": 9.6,
+  "tsPct": 44.6,
+  "pointsPlusStdDev": 26.8,
   "volatilityPctile": 3,
   "gameLog": [
     {
@@ -346,7 +346,7 @@
       "min": 28,
       "pts": 3,
       "adjPts": 2.8,
-      "pointsPlus": 22
+      "pointsPlus": 23
     },
     {
       "date": "2026-01-07",
@@ -464,6 +464,15 @@
       "pts": 2,
       "adjPts": 2.1,
       "pointsPlus": 17
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "DAL @ LAL",
+      "result": "L",
+      "min": 19,
+      "pts": 3,
+      "adjPts": 3.0,
+      "pointsPlus": 24
     }
   ]
 }

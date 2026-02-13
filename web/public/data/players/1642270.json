@@ -2,18 +2,18 @@
   "id": 1642270,
   "name": "Donovan Clingan",
   "team": "POR",
-  "rank": 153,
-  "gp": 51,
-  "ppg": 11.4,
-  "adjPpg": 11.4,
-  "pointsPlus": 92,
+  "rank": 149,
+  "gp": 52,
+  "ppg": 11.6,
+  "adjPpg": 11.6,
+  "pointsPlus": 93,
   "mpg": 27.5,
   "position": "C",
   "jersey": "23",
   "usgPct": 15.0,
-  "tsPct": 60.0,
-  "pointsPlusStdDev": 41.5,
-  "volatilityPctile": 30,
+  "tsPct": 60.4,
+  "pointsPlusStdDev": 42.6,
+  "volatilityPctile": 34,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -22,7 +22,7 @@
       "min": 30,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 64
+      "pointsPlus": 65
     },
     {
       "date": "2025-10-24",
@@ -175,7 +175,7 @@
       "min": 27,
       "pts": 14,
       "adjPts": 14.0,
-      "pointsPlus": 112
+      "pointsPlus": 113
     },
     {
       "date": "2025-11-26",
@@ -364,7 +364,7 @@
       "min": 27,
       "pts": 18,
       "adjPts": 17.8,
-      "pointsPlus": 142
+      "pointsPlus": 143
     },
     {
       "date": "2026-01-18",
@@ -373,7 +373,7 @@
       "min": 37,
       "pts": 21,
       "adjPts": 20.1,
-      "pointsPlus": 161
+      "pointsPlus": 162
     },
     {
       "date": "2026-01-22",
@@ -454,7 +454,7 @@
       "min": 36,
       "pts": 20,
       "adjPts": 19.6,
-      "pointsPlus": 157
+      "pointsPlus": 158
     },
     {
       "date": "2026-02-09",
@@ -472,7 +472,16 @@
       "min": 28,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 64
+      "pointsPlus": 65
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "POR @ UTA",
+      "result": "W",
+      "min": 31,
+      "pts": 23,
+      "adjPts": 21.2,
+      "pointsPlus": 170
     }
   ]
 }

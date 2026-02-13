@@ -2,18 +2,18 @@
   "id": 1629637,
   "name": "Jaxson Hayes",
   "team": "LAL",
-  "rank": 258,
-  "gp": 44,
-  "ppg": 6.7,
-  "adjPpg": 6.7,
-  "pointsPlus": 53,
-  "mpg": 17.3,
+  "rank": 255,
+  "gp": 45,
+  "ppg": 6.9,
+  "adjPpg": 6.9,
+  "pointsPlus": 55,
+  "mpg": 17.7,
   "position": "C-F",
   "jersey": "11",
-  "usgPct": 11.6,
-  "tsPct": 76.8,
-  "pointsPlusStdDev": 32.0,
-  "volatilityPctile": 10,
+  "usgPct": 11.7,
+  "tsPct": 77.0,
+  "pointsPlusStdDev": 33.5,
+  "volatilityPctile": 12,
   "gameLog": [
     {
       "date": "2025-10-21",
@@ -112,7 +112,7 @@
       "min": 17,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 80
+      "pointsPlus": 81
     },
     {
       "date": "2025-11-18",
@@ -220,7 +220,7 @@
       "min": 22,
       "pts": 16,
       "adjPts": 14.8,
-      "pointsPlus": 118
+      "pointsPlus": 119
     },
     {
       "date": "2025-12-20",
@@ -256,7 +256,7 @@
       "min": 23,
       "pts": 12,
       "adjPts": 11.8,
-      "pointsPlus": 94
+      "pointsPlus": 95
     },
     {
       "date": "2026-01-04",
@@ -363,7 +363,7 @@
       "result": "W",
       "min": 14,
       "pts": 10,
-      "adjPts": 9.4,
+      "adjPts": 9.3,
       "pointsPlus": 75
     },
     {
@@ -410,6 +410,15 @@
       "pts": 13,
       "adjPts": 13.3,
       "pointsPlus": 107
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "LAL vs. DAL",
+      "result": "W",
+      "min": 34,
+      "pts": 16,
+      "adjPts": 15.8,
+      "pointsPlus": 127
     }
   ]
 }

@@ -2,7 +2,7 @@
   "id": 1626162,
   "name": "Kelly Oubre Jr.",
   "team": "PHI",
-  "rank": 103,
+  "rank": 104,
   "gp": 32,
   "ppg": 13.9,
   "adjPpg": 14.1,
@@ -12,7 +12,7 @@
   "jersey": "9",
   "usgPct": 17.0,
   "tsPct": 58.5,
-  "pointsPlusStdDev": 58.4,
+  "pointsPlusStdDev": 58.6,
   "volatilityPctile": 86,
   "gameLog": [
     {
@@ -22,7 +22,7 @@
       "min": 34,
       "pts": 10,
       "adjPts": 10.7,
-      "pointsPlus": 85
+      "pointsPlus": 86
     },
     {
       "date": "2025-10-25",
@@ -49,7 +49,7 @@
       "min": 44,
       "pts": 17,
       "adjPts": 15.9,
-      "pointsPlus": 127
+      "pointsPlus": 128
     },
     {
       "date": "2025-10-31",
@@ -58,7 +58,7 @@
       "min": 41,
       "pts": 17,
       "adjPts": 18.1,
-      "pointsPlus": 145
+      "pointsPlus": 146
     },
     {
       "date": "2025-11-02",
@@ -67,7 +67,7 @@
       "min": 33,
       "pts": 29,
       "adjPts": 29.2,
-      "pointsPlus": 234
+      "pointsPlus": 235
     },
     {
       "date": "2025-11-04",
@@ -193,7 +193,7 @@
       "min": 34,
       "pts": 21,
       "adjPts": 21.6,
-      "pointsPlus": 173
+      "pointsPlus": 174
     },
     {
       "date": "2026-01-22",
@@ -202,7 +202,7 @@
       "min": 41,
       "pts": 26,
       "adjPts": 27.6,
-      "pointsPlus": 221
+      "pointsPlus": 222
     },
     {
       "date": "2026-01-24",
@@ -220,7 +220,7 @@
       "min": 25,
       "pts": 17,
       "adjPts": 17.3,
-      "pointsPlus": 138
+      "pointsPlus": 139
     },
     {
       "date": "2026-01-27",
@@ -274,7 +274,7 @@
       "min": 40,
       "pts": 8,
       "adjPts": 7.9,
-      "pointsPlus": 63
+      "pointsPlus": 64
     },
     {
       "date": "2026-02-07",
@@ -292,7 +292,7 @@
       "min": 36,
       "pts": 19,
       "adjPts": 18.5,
-      "pointsPlus": 148
+      "pointsPlus": 149
     },
     {
       "date": "2026-02-11",

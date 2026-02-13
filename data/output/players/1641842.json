@@ -2,7 +2,7 @@
   "id": 1641842,
   "name": "Ronald Holland II",
   "team": "DET",
-  "rank": 223,
+  "rank": 222,
   "gp": 49,
   "ppg": 8.1,
   "adjPpg": 8.1,
@@ -22,7 +22,7 @@
       "min": 27,
       "pts": 19,
       "adjPts": 18.1,
-      "pointsPlus": 145
+      "pointsPlus": 146
     },
     {
       "date": "2025-10-24",
@@ -112,7 +112,7 @@
       "min": 24,
       "pts": 5,
       "adjPts": 4.7,
-      "pointsPlus": 37
+      "pointsPlus": 38
     },
     {
       "date": "2025-11-12",
@@ -202,7 +202,7 @@
       "min": 17,
       "pts": 17,
       "adjPts": 16.5,
-      "pointsPlus": 132
+      "pointsPlus": 133
     },
     {
       "date": "2025-12-03",
@@ -238,7 +238,7 @@
       "min": 25,
       "pts": 12,
       "adjPts": 11.7,
-      "pointsPlus": 93
+      "pointsPlus": 94
     },
     {
       "date": "2025-12-15",
@@ -255,7 +255,7 @@
       "result": "L",
       "min": 20,
       "pts": 12,
-      "adjPts": 11.9,
+      "adjPts": 11.8,
       "pointsPlus": 95
     },
     {
@@ -273,7 +273,7 @@
       "result": "L",
       "min": 19,
       "pts": 11,
-      "adjPts": 10.2,
+      "adjPts": 10.1,
       "pointsPlus": 81
     },
     {
@@ -427,7 +427,7 @@
       "min": 20,
       "pts": 6,
       "adjPts": 6.0,
-      "pointsPlus": 48
+      "pointsPlus": 49
     },
     {
       "date": "2026-02-03",
@@ -445,7 +445,7 @@
       "min": 25,
       "pts": 11,
       "adjPts": 10.3,
-      "pointsPlus": 82
+      "pointsPlus": 83
     },
     {
       "date": "2026-02-06",

@@ -2,7 +2,7 @@
   "id": 1642285,
   "name": "Cam Spencer",
   "team": "MEM",
-  "rank": 150,
+  "rank": 151,
   "gp": 51,
   "ppg": 11.6,
   "adjPpg": 11.6,
@@ -12,8 +12,8 @@
   "jersey": "24",
   "usgPct": 17.1,
   "tsPct": 65.6,
-  "pointsPlusStdDev": 48.7,
-  "volatilityPctile": 57,
+  "pointsPlusStdDev": 48.8,
+  "volatilityPctile": 56,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -40,7 +40,7 @@
       "min": 16,
       "pts": 8,
       "adjPts": 7.8,
-      "pointsPlus": 62
+      "pointsPlus": 63
     },
     {
       "date": "2025-10-27",
@@ -49,7 +49,7 @@
       "min": 14,
       "pts": 11,
       "adjPts": 11.2,
-      "pointsPlus": 89
+      "pointsPlus": 90
     },
     {
       "date": "2025-10-29",
@@ -66,7 +66,7 @@
       "result": "L",
       "min": 19,
       "pts": 12,
-      "adjPts": 11.8,
+      "adjPts": 11.9,
       "pointsPlus": 95
     },
     {
@@ -102,7 +102,7 @@
       "result": "W",
       "min": 19,
       "pts": 12,
-      "adjPts": 11.9,
+      "adjPts": 11.8,
       "pointsPlus": 95
     },
     {
@@ -120,7 +120,7 @@
       "result": "L",
       "min": 19,
       "pts": 11,
-      "adjPts": 11.4,
+      "adjPts": 11.3,
       "pointsPlus": 91
     },
     {
@@ -220,7 +220,7 @@
       "min": 29,
       "pts": 17,
       "adjPts": 17.5,
-      "pointsPlus": 140
+      "pointsPlus": 141
     },
     {
       "date": "2025-12-07",
@@ -237,7 +237,7 @@
       "result": "L",
       "min": 25,
       "pts": 20,
-      "adjPts": 18.5,
+      "adjPts": 18.4,
       "pointsPlus": 148
     },
     {
@@ -256,7 +256,7 @@
       "min": 37,
       "pts": 19,
       "adjPts": 17.8,
-      "pointsPlus": 142
+      "pointsPlus": 143
     },
     {
       "date": "2025-12-22",
@@ -273,7 +273,7 @@
       "result": "W",
       "min": 32,
       "pts": 11,
-      "adjPts": 10.2,
+      "adjPts": 10.1,
       "pointsPlus": 81
     },
     {
@@ -282,8 +282,8 @@
       "result": "W",
       "min": 26,
       "pts": 19,
-      "adjPts": 19.0,
-      "pointsPlus": 152
+      "adjPts": 19.1,
+      "pointsPlus": 153
     },
     {
       "date": "2025-12-28",

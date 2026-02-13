@@ -2,7 +2,7 @@
   "id": 1631170,
   "name": "Jaime Jaquez Jr.",
   "team": "MIA",
-  "rank": 89,
+  "rank": 90,
   "gp": 51,
   "ppg": 15.2,
   "adjPpg": 15.2,
@@ -12,8 +12,8 @@
   "jersey": "11",
   "usgPct": 21.6,
   "tsPct": 56.0,
-  "pointsPlusStdDev": 53.3,
-  "volatilityPctile": 71,
+  "pointsPlusStdDev": 53.4,
+  "volatilityPctile": 72,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -22,7 +22,7 @@
       "min": 30,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-10-24",
@@ -67,7 +67,7 @@
       "min": 35,
       "pts": 31,
       "adjPts": 30.6,
-      "pointsPlus": 245
+      "pointsPlus": 246
     },
     {
       "date": "2025-11-03",
@@ -103,7 +103,7 @@
       "min": 29,
       "pts": 14,
       "adjPts": 13.6,
-      "pointsPlus": 109
+      "pointsPlus": 110
     },
     {
       "date": "2025-11-10",
@@ -130,7 +130,7 @@
       "min": 34,
       "pts": 23,
       "adjPts": 23.7,
-      "pointsPlus": 190
+      "pointsPlus": 191
     },
     {
       "date": "2025-11-17",
@@ -174,7 +174,7 @@
       "result": "W",
       "min": 33,
       "pts": 13,
-      "adjPts": 12.9,
+      "adjPts": 12.8,
       "pointsPlus": 103
     },
     {
@@ -184,7 +184,7 @@
       "min": 17,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 80
+      "pointsPlus": 81
     },
     {
       "date": "2025-12-01",
@@ -211,7 +211,7 @@
       "min": 33,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 128
+      "pointsPlus": 129
     },
     {
       "date": "2025-12-06",
@@ -247,7 +247,7 @@
       "min": 29,
       "pts": 19,
       "adjPts": 19.1,
-      "pointsPlus": 153
+      "pointsPlus": 154
     },
     {
       "date": "2025-12-19",
@@ -265,7 +265,7 @@
       "min": 34,
       "pts": 23,
       "adjPts": 23.7,
-      "pointsPlus": 190
+      "pointsPlus": 191
     },
     {
       "date": "2025-12-23",
@@ -400,7 +400,7 @@
       "min": 28,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2026-01-29",
@@ -409,7 +409,7 @@
       "min": 32,
       "pts": 19,
       "adjPts": 18.1,
-      "pointsPlus": 145
+      "pointsPlus": 146
     },
     {
       "date": "2026-01-31",

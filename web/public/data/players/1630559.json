@@ -2,17 +2,17 @@
   "id": 1630559,
   "name": "Austin Reaves",
   "team": "LAL",
-  "rank": 15,
-  "gp": 27,
-  "ppg": 25.7,
-  "adjPpg": 25.7,
-  "pointsPlus": 206,
-  "mpg": 33.7,
+  "rank": 16,
+  "gp": 28,
+  "ppg": 25.4,
+  "adjPpg": 25.4,
+  "pointsPlus": 204,
+  "mpg": 33.5,
   "position": "G",
   "jersey": "15",
-  "usgPct": 28.1,
+  "usgPct": 28.0,
   "tsPct": 66.5,
-  "pointsPlusStdDev": 80.7,
+  "pointsPlusStdDev": 80.3,
   "volatilityPctile": 99,
   "gameLog": [
     {
@@ -22,7 +22,7 @@
       "min": 36,
       "pts": 26,
       "adjPts": 26.4,
-      "pointsPlus": 211
+      "pointsPlus": 212
     },
     {
       "date": "2025-10-24",
@@ -40,7 +40,7 @@
       "min": 39,
       "pts": 51,
       "adjPts": 48.9,
-      "pointsPlus": 392
+      "pointsPlus": 393
     },
     {
       "date": "2025-10-27",
@@ -49,7 +49,7 @@
       "min": 39,
       "pts": 41,
       "adjPts": 39.9,
-      "pointsPlus": 320
+      "pointsPlus": 321
     },
     {
       "date": "2025-10-29",
@@ -85,7 +85,7 @@
       "min": 29,
       "pts": 24,
       "adjPts": 24.4,
-      "pointsPlus": 195
+      "pointsPlus": 196
     },
     {
       "date": "2025-11-12",
@@ -102,8 +102,8 @@
       "result": "W",
       "min": 39,
       "pts": 31,
-      "adjPts": 29.9,
-      "pointsPlus": 239
+      "adjPts": 29.8,
+      "pointsPlus": 240
     },
     {
       "date": "2025-11-15",
@@ -111,8 +111,8 @@
       "result": "W",
       "min": 36,
       "pts": 25,
-      "adjPts": 25.0,
-      "pointsPlus": 200
+      "adjPts": 25.1,
+      "pointsPlus": 202
     },
     {
       "date": "2025-11-18",
@@ -147,7 +147,7 @@
       "result": "W",
       "min": 41,
       "pts": 38,
-      "adjPts": 37.6,
+      "adjPts": 37.5,
       "pointsPlus": 301
     },
     {
@@ -175,7 +175,7 @@
       "min": 41,
       "pts": 44,
       "adjPts": 45.4,
-      "pointsPlus": 364
+      "pointsPlus": 365
     },
     {
       "date": "2025-12-05",
@@ -211,7 +211,7 @@
       "min": 22,
       "pts": 17,
       "adjPts": 17.5,
-      "pointsPlus": 140
+      "pointsPlus": 141
     },
     {
       "date": "2025-12-25",
@@ -257,6 +257,15 @@
       "pts": 16,
       "adjPts": 17.2,
       "pointsPlus": 138
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "LAL vs. DAL",
+      "result": "W",
+      "min": 28,
+      "pts": 18,
+      "adjPts": 17.8,
+      "pointsPlus": 143
     }
   ]
 }

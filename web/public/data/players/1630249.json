@@ -3,7 +3,7 @@
   "name": "V\u00edt Krej\u010d\u00ed",
   "team": "POR",
   "rank": 198,
-  "gp": 51,
+  "gp": 52,
   "ppg": 9.1,
   "adjPpg": 9.1,
   "pointsPlus": 73,
@@ -11,9 +11,9 @@
   "position": "G",
   "jersey": "27",
   "usgPct": 14.2,
-  "tsPct": 63.4,
-  "pointsPlusStdDev": 51.0,
-  "volatilityPctile": 65,
+  "tsPct": 63.2,
+  "pointsPlusStdDev": 50.6,
+  "volatilityPctile": 63,
   "gameLog": [
     {
       "date": "2025-10-24",
@@ -93,7 +93,7 @@
       "result": "W",
       "min": 32,
       "pts": 20,
-      "adjPts": 18.5,
+      "adjPts": 18.4,
       "pointsPlus": 148
     },
     {
@@ -147,7 +147,7 @@
       "result": "L",
       "min": 14,
       "pts": 10,
-      "adjPts": 9.4,
+      "adjPts": 9.3,
       "pointsPlus": 75
     },
     {
@@ -220,7 +220,7 @@
       "min": 26,
       "pts": 19,
       "adjPts": 19.1,
-      "pointsPlus": 153
+      "pointsPlus": 154
     },
     {
       "date": "2025-12-18",
@@ -256,7 +256,7 @@
       "min": 29,
       "pts": 19,
       "adjPts": 18.1,
-      "pointsPlus": 145
+      "pointsPlus": 146
     },
     {
       "date": "2025-12-26",
@@ -274,7 +274,7 @@
       "min": 24,
       "pts": 9,
       "adjPts": 9.3,
-      "pointsPlus": 74
+      "pointsPlus": 75
     },
     {
       "date": "2025-12-29",
@@ -364,7 +364,7 @@
       "min": 21,
       "pts": 8,
       "adjPts": 7.8,
-      "pointsPlus": 62
+      "pointsPlus": 63
     },
     {
       "date": "2026-01-17",
@@ -445,7 +445,7 @@
       "min": 23,
       "pts": 11,
       "adjPts": 10.8,
-      "pointsPlus": 86
+      "pointsPlus": 87
     },
     {
       "date": "2026-02-07",
@@ -473,6 +473,15 @@
       "pts": 17,
       "adjPts": 17.1,
       "pointsPlus": 137
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "POR @ UTA",
+      "result": "W",
+      "min": 25,
+      "pts": 11,
+      "adjPts": 10.1,
+      "pointsPlus": 81
     }
   ]
 }

@@ -2,7 +2,7 @@
   "id": 1630530,
   "name": "Trey Murphy III",
   "team": "NOP",
-  "rank": 28,
+  "rank": 27,
   "gp": 52,
   "ppg": 22.1,
   "adjPpg": 22.2,
@@ -12,8 +12,8 @@
   "jersey": "25",
   "usgPct": 22.4,
   "tsPct": 61.6,
-  "pointsPlusStdDev": 67.8,
-  "volatilityPctile": 94,
+  "pointsPlusStdDev": 68.1,
+  "volatilityPctile": 95,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -58,7 +58,7 @@
       "min": 34,
       "pts": 17,
       "adjPts": 17.5,
-      "pointsPlus": 140
+      "pointsPlus": 141
     },
     {
       "date": "2025-11-02",
@@ -103,7 +103,7 @@
       "min": 33,
       "pts": 21,
       "adjPts": 21.6,
-      "pointsPlus": 173
+      "pointsPlus": 174
     },
     {
       "date": "2025-11-12",
@@ -120,8 +120,8 @@
       "result": "L",
       "min": 39,
       "pts": 35,
-      "adjPts": 34.5,
-      "pointsPlus": 277
+      "adjPts": 34.6,
+      "pointsPlus": 278
     },
     {
       "date": "2025-11-16",
@@ -184,7 +184,7 @@
       "min": 38,
       "pts": 12,
       "adjPts": 11.8,
-      "pointsPlus": 94
+      "pointsPlus": 95
     },
     {
       "date": "2025-12-02",
@@ -193,7 +193,7 @@
       "min": 41,
       "pts": 33,
       "adjPts": 33.2,
-      "pointsPlus": 266
+      "pointsPlus": 267
     },
     {
       "date": "2025-12-04",
@@ -202,7 +202,7 @@
       "min": 34,
       "pts": 21,
       "adjPts": 21.1,
-      "pointsPlus": 169
+      "pointsPlus": 170
     },
     {
       "date": "2025-12-06",
@@ -210,7 +210,7 @@
       "result": "L",
       "min": 35,
       "pts": 23,
-      "adjPts": 23.2,
+      "adjPts": 23.1,
       "pointsPlus": 186
     },
     {
@@ -220,7 +220,7 @@
       "min": 38,
       "pts": 32,
       "adjPts": 32.9,
-      "pointsPlus": 263
+      "pointsPlus": 264
     },
     {
       "date": "2025-12-11",
@@ -229,7 +229,7 @@
       "min": 31,
       "pts": 24,
       "adjPts": 23.4,
-      "pointsPlus": 187
+      "pointsPlus": 188
     },
     {
       "date": "2025-12-14",
@@ -319,7 +319,7 @@
       "min": 38,
       "pts": 27,
       "adjPts": 26.5,
-      "pointsPlus": 212
+      "pointsPlus": 213
     },
     {
       "date": "2026-01-06",
@@ -327,8 +327,8 @@
       "result": "L",
       "min": 39,
       "pts": 42,
-      "adjPts": 41.4,
-      "pointsPlus": 332
+      "adjPts": 41.5,
+      "pointsPlus": 333
     },
     {
       "date": "2026-01-09",
@@ -337,7 +337,7 @@
       "min": 36,
       "pts": 35,
       "adjPts": 32.7,
-      "pointsPlus": 262
+      "pointsPlus": 263
     },
     {
       "date": "2026-01-11",
@@ -355,7 +355,7 @@
       "min": 34,
       "pts": 31,
       "adjPts": 30.9,
-      "pointsPlus": 248
+      "pointsPlus": 249
     },
     {
       "date": "2026-01-14",
@@ -364,7 +364,7 @@
       "min": 38,
       "pts": 34,
       "adjPts": 34.2,
-      "pointsPlus": 274
+      "pointsPlus": 275
     },
     {
       "date": "2026-01-16",
@@ -436,7 +436,7 @@
       "min": 38,
       "pts": 19,
       "adjPts": 19.1,
-      "pointsPlus": 153
+      "pointsPlus": 154
     },
     {
       "date": "2026-02-02",
@@ -453,8 +453,8 @@
       "result": "L",
       "min": 40,
       "pts": 44,
-      "adjPts": 44.0,
-      "pointsPlus": 353
+      "adjPts": 44.1,
+      "pointsPlus": 355
     },
     {
       "date": "2026-02-06",
@@ -472,7 +472,7 @@
       "min": 29,
       "pts": 21,
       "adjPts": 20.1,
-      "pointsPlus": 161
+      "pointsPlus": 162
     },
     {
       "date": "2026-02-11",

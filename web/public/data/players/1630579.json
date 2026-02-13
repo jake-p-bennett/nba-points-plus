@@ -3,17 +3,17 @@
   "name": "Jericho Sims",
   "team": "MIL",
   "rank": 312,
-  "gp": 38,
-  "ppg": 3.6,
-  "adjPpg": 3.6,
-  "pointsPlus": 29,
-  "mpg": 15.6,
+  "gp": 39,
+  "ppg": 3.7,
+  "adjPpg": 3.7,
+  "pointsPlus": 30,
+  "mpg": 15.7,
   "position": "C",
   "jersey": "0",
-  "usgPct": 8.4,
-  "tsPct": 81.2,
-  "pointsPlusStdDev": 31.9,
-  "volatilityPctile": 9,
+  "usgPct": 8.7,
+  "tsPct": 81.1,
+  "pointsPlusStdDev": 32.1,
+  "volatilityPctile": 10,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -139,7 +139,7 @@
       "min": 17,
       "pts": 4,
       "adjPts": 3.9,
-      "pointsPlus": 31
+      "pointsPlus": 32
     },
     {
       "date": "2025-11-29",
@@ -157,7 +157,7 @@
       "min": 18,
       "pts": 5,
       "adjPts": 4.7,
-      "pointsPlus": 37
+      "pointsPlus": 38
     },
     {
       "date": "2025-12-03",
@@ -165,7 +165,7 @@
       "result": "W",
       "min": 30,
       "pts": 15,
-      "adjPts": 15.9,
+      "adjPts": 15.8,
       "pointsPlus": 127
     },
     {
@@ -356,6 +356,15 @@
       "pts": 17,
       "adjPts": 17.0,
       "pointsPlus": 137
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "MIL @ OKC",
+      "result": "W",
+      "min": 20,
+      "pts": 8,
+      "adjPts": 8.6,
+      "pointsPlus": 69
     }
   ]
 }

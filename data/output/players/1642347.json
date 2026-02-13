@@ -2,7 +2,7 @@
   "id": 1642347,
   "name": "Jamal Shead",
   "team": "TOR",
-  "rank": 254,
+  "rank": 256,
   "gp": 55,
   "ppg": 6.8,
   "adjPpg": 6.8,
@@ -13,7 +13,7 @@
   "usgPct": 15.5,
   "tsPct": 48.7,
   "pointsPlusStdDev": 38.0,
-  "volatilityPctile": 19,
+  "volatilityPctile": 20,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -112,7 +112,7 @@
       "min": 18,
       "pts": 6,
       "adjPts": 6.0,
-      "pointsPlus": 48
+      "pointsPlus": 49
     },
     {
       "date": "2025-11-13",
@@ -157,7 +157,7 @@
       "min": 16,
       "pts": 7,
       "adjPts": 6.5,
-      "pointsPlus": 52
+      "pointsPlus": 53
     },
     {
       "date": "2025-11-23",
@@ -219,7 +219,7 @@
       "result": "L",
       "min": 21,
       "pts": 4,
-      "adjPts": 3.9,
+      "adjPts": 4.0,
       "pointsPlus": 32
     },
     {
@@ -255,7 +255,7 @@
       "result": "W",
       "min": 23,
       "pts": 8,
-      "adjPts": 7.9,
+      "adjPts": 7.8,
       "pointsPlus": 63
     },
     {
@@ -291,7 +291,7 @@
       "result": "W",
       "min": 19,
       "pts": 8,
-      "adjPts": 7.9,
+      "adjPts": 7.8,
       "pointsPlus": 63
     },
     {
@@ -427,7 +427,7 @@
       "min": 33,
       "pts": 15,
       "adjPts": 14.4,
-      "pointsPlus": 115
+      "pointsPlus": 116
     },
     {
       "date": "2026-01-23",
@@ -481,7 +481,7 @@
       "min": 22,
       "pts": 7,
       "adjPts": 7.0,
-      "pointsPlus": 56
+      "pointsPlus": 57
     },
     {
       "date": "2026-02-05",

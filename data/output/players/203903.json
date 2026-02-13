@@ -2,7 +2,7 @@
   "id": 203903,
   "name": "Jordan Clarkson",
   "team": "NYK",
-  "rank": 197,
+  "rank": 199,
   "gp": 51,
   "ppg": 9.1,
   "adjPpg": 9.1,
@@ -12,8 +12,8 @@
   "jersey": "0",
   "usgPct": 20.5,
   "tsPct": 53.7,
-  "pointsPlusStdDev": 44.7,
-  "volatilityPctile": 40,
+  "pointsPlusStdDev": 44.8,
+  "volatilityPctile": 41,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -39,7 +39,7 @@
       "result": "L",
       "min": 15,
       "pts": 8,
-      "adjPts": 7.9,
+      "adjPts": 7.8,
       "pointsPlus": 63
     },
     {
@@ -49,7 +49,7 @@
       "min": 17,
       "pts": 10,
       "adjPts": 10.0,
-      "pointsPlus": 80
+      "pointsPlus": 81
     },
     {
       "date": "2025-10-31",
@@ -76,7 +76,7 @@
       "min": 21,
       "pts": 15,
       "adjPts": 14.0,
-      "pointsPlus": 112
+      "pointsPlus": 113
     },
     {
       "date": "2025-11-05",
@@ -85,7 +85,7 @@
       "min": 16,
       "pts": 7,
       "adjPts": 7.0,
-      "pointsPlus": 56
+      "pointsPlus": 57
     },
     {
       "date": "2025-11-09",
@@ -120,7 +120,7 @@
       "result": "W",
       "min": 33,
       "pts": 24,
-      "adjPts": 23.6,
+      "adjPts": 23.5,
       "pointsPlus": 189
     },
     {
@@ -148,7 +148,7 @@
       "min": 34,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 120
+      "pointsPlus": 121
     },
     {
       "date": "2025-11-24",
@@ -211,7 +211,7 @@
       "min": 31,
       "pts": 16,
       "adjPts": 14.8,
-      "pointsPlus": 118
+      "pointsPlus": 119
     },
     {
       "date": "2025-12-07",
@@ -382,7 +382,7 @@
       "min": 18,
       "pts": 11,
       "adjPts": 11.2,
-      "pointsPlus": 89
+      "pointsPlus": 90
     },
     {
       "date": "2026-01-17",

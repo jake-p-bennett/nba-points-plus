@@ -2,7 +2,7 @@
   "id": 1630175,
   "name": "Cole Anthony",
   "team": "MIL",
-  "rank": 256,
+  "rank": 258,
   "gp": 35,
   "ppg": 6.7,
   "adjPpg": 6.8,
@@ -12,7 +12,7 @@
   "jersey": "50",
   "usgPct": 24.4,
   "tsPct": 48.3,
-  "pointsPlusStdDev": 44.9,
+  "pointsPlusStdDev": 45.0,
   "volatilityPctile": 42,
   "gameLog": [
     {
@@ -22,7 +22,7 @@
       "min": 12,
       "pts": 9,
       "adjPts": 8.4,
-      "pointsPlus": 67
+      "pointsPlus": 68
     },
     {
       "date": "2025-10-24",
@@ -31,7 +31,7 @@
       "min": 27,
       "pts": 23,
       "adjPts": 23.7,
-      "pointsPlus": 190
+      "pointsPlus": 191
     },
     {
       "date": "2025-10-28",
@@ -102,7 +102,7 @@
       "result": "W",
       "min": 17,
       "pts": 4,
-      "adjPts": 4.0,
+      "adjPts": 3.9,
       "pointsPlus": 32
     },
     {
@@ -121,7 +121,7 @@
       "min": 19,
       "pts": 10,
       "adjPts": 10.2,
-      "pointsPlus": 81
+      "pointsPlus": 82
     },
     {
       "date": "2025-11-15",
@@ -282,8 +282,8 @@
       "result": "L",
       "min": 24,
       "pts": 17,
-      "adjPts": 18.3,
-      "pointsPlus": 146
+      "adjPts": 18.2,
+      "pointsPlus": 147
     },
     {
       "date": "2026-01-23",
@@ -310,7 +310,7 @@
       "min": 18,
       "pts": 5,
       "adjPts": 4.7,
-      "pointsPlus": 37
+      "pointsPlus": 38
     },
     {
       "date": "2026-02-01",

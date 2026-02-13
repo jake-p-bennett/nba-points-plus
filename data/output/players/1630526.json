@@ -2,7 +2,7 @@
   "id": 1630526,
   "name": "Jeremiah Robinson-Earl",
   "team": "DAL",
-  "rank": 304,
+  "rank": 305,
   "gp": 22,
   "ppg": 4.6,
   "adjPpg": 4.6,
@@ -11,7 +11,7 @@
   "position": "F",
   "usgPct": 12.9,
   "tsPct": 46.8,
-  "pointsPlusStdDev": 26.5,
+  "pointsPlusStdDev": 26.4,
   "volatilityPctile": 2,
   "gameLog": [
     {
@@ -138,7 +138,7 @@
       "min": 26,
       "pts": 3,
       "adjPts": 2.8,
-      "pointsPlus": 22
+      "pointsPlus": 23
     },
     {
       "date": "2025-11-29",

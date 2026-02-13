@@ -2,17 +2,17 @@
   "id": 1630560,
   "name": "Cam Thomas",
   "team": "MIL",
-  "rank": 82,
-  "gp": 26,
-  "ppg": 15.9,
-  "adjPpg": 16.0,
-  "pointsPlus": 128,
-  "mpg": 23.9,
+  "rank": 84,
+  "gp": 27,
+  "ppg": 15.7,
+  "adjPpg": 15.9,
+  "pointsPlus": 127,
+  "mpg": 23.7,
   "position": "G",
   "jersey": "24",
   "usgPct": 30.0,
-  "tsPct": 53.8,
-  "pointsPlusStdDev": 84.5,
+  "tsPct": 53.5,
+  "pointsPlusStdDev": 83.2,
   "volatilityPctile": 100,
   "gameLog": [
     {
@@ -31,7 +31,7 @@
       "min": 34,
       "pts": 33,
       "adjPts": 32.9,
-      "pointsPlus": 263
+      "pointsPlus": 264
     },
     {
       "date": "2025-10-26",
@@ -67,7 +67,7 @@
       "min": 35,
       "pts": 29,
       "adjPts": 29.2,
-      "pointsPlus": 234
+      "pointsPlus": 235
     },
     {
       "date": "2025-11-03",
@@ -211,7 +211,7 @@
       "min": 24,
       "pts": 21,
       "adjPts": 19.4,
-      "pointsPlus": 155
+      "pointsPlus": 156
     },
     {
       "date": "2026-02-01",
@@ -229,7 +229,7 @@
       "min": 23,
       "pts": 8,
       "adjPts": 7.9,
-      "pointsPlus": 63
+      "pointsPlus": 64
     },
     {
       "date": "2026-02-09",
@@ -247,7 +247,16 @@
       "min": 25,
       "pts": 34,
       "adjPts": 34.0,
-      "pointsPlus": 273
+      "pointsPlus": 274
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "MIL @ OKC",
+      "result": "W",
+      "min": 20,
+      "pts": 12,
+      "adjPts": 12.9,
+      "pointsPlus": 103
     }
   ]
 }

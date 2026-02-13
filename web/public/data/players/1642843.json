@@ -12,7 +12,7 @@
   "jersey": "32",
   "usgPct": 24.7,
   "tsPct": 56.0,
-  "pointsPlusStdDev": 74.4,
+  "pointsPlusStdDev": 74.5,
   "volatilityPctile": 98,
   "gameLog": [
     {
@@ -85,7 +85,7 @@
       "min": 35,
       "pts": 20,
       "adjPts": 19.3,
-      "pointsPlus": 154
+      "pointsPlus": 155
     },
     {
       "date": "2025-11-07",
@@ -94,7 +94,7 @@
       "min": 27,
       "pts": 12,
       "adjPts": 11.8,
-      "pointsPlus": 94
+      "pointsPlus": 95
     },
     {
       "date": "2025-11-08",
@@ -111,8 +111,8 @@
       "result": "L",
       "min": 35,
       "pts": 26,
-      "adjPts": 26.0,
-      "pointsPlus": 208
+      "adjPts": 26.1,
+      "pointsPlus": 210
     },
     {
       "date": "2025-11-12",
@@ -166,7 +166,7 @@
       "min": 33,
       "pts": 12,
       "adjPts": 11.8,
-      "pointsPlus": 94
+      "pointsPlus": 95
     },
     {
       "date": "2025-11-24",
@@ -175,7 +175,7 @@
       "min": 34,
       "pts": 12,
       "adjPts": 11.8,
-      "pointsPlus": 94
+      "pointsPlus": 95
     },
     {
       "date": "2025-11-28",
@@ -246,7 +246,7 @@
       "result": "L",
       "min": 42,
       "pts": 42,
-      "adjPts": 38.8,
+      "adjPts": 38.7,
       "pointsPlus": 311
     },
     {
@@ -283,7 +283,7 @@
       "min": 40,
       "pts": 33,
       "adjPts": 32.9,
-      "pointsPlus": 264
+      "pointsPlus": 265
     },
     {
       "date": "2025-12-25",
@@ -409,7 +409,7 @@
       "min": 38,
       "pts": 49,
       "adjPts": 49.8,
-      "pointsPlus": 399
+      "pointsPlus": 400
     },
     {
       "date": "2026-01-31",
@@ -418,7 +418,7 @@
       "min": 39,
       "pts": 34,
       "adjPts": 36.1,
-      "pointsPlus": 289
+      "pointsPlus": 290
     },
     {
       "date": "2026-02-03",
@@ -436,7 +436,7 @@
       "min": 39,
       "pts": 32,
       "adjPts": 32.9,
-      "pointsPlus": 263
+      "pointsPlus": 264
     },
     {
       "date": "2026-02-07",

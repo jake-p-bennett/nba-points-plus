@@ -2,7 +2,7 @@
   "id": 1642852,
   "name": "Derik Queen",
   "team": "NOP",
-  "rank": 137,
+  "rank": 138,
   "gp": 55,
   "ppg": 12.2,
   "adjPpg": 12.2,
@@ -12,7 +12,7 @@
   "jersey": "22",
   "usgPct": 21.5,
   "tsPct": 55.5,
-  "pointsPlusStdDev": 54.0,
+  "pointsPlusStdDev": 54.1,
   "volatilityPctile": 73,
   "gameLog": [
     {
@@ -112,7 +112,7 @@
       "min": 38,
       "pts": 26,
       "adjPts": 25.3,
-      "pointsPlus": 203
+      "pointsPlus": 204
     },
     {
       "date": "2025-11-14",
@@ -148,7 +148,7 @@
       "min": 30,
       "pts": 30,
       "adjPts": 29.9,
-      "pointsPlus": 240
+      "pointsPlus": 241
     },
     {
       "date": "2025-11-21",
@@ -156,7 +156,7 @@
       "result": "L",
       "min": 32,
       "pts": 20,
-      "adjPts": 19.8,
+      "adjPts": 19.7,
       "pointsPlus": 159
     },
     {
@@ -211,7 +211,7 @@
       "min": 39,
       "pts": 21,
       "adjPts": 21.1,
-      "pointsPlus": 169
+      "pointsPlus": 170
     },
     {
       "date": "2025-12-04",
@@ -229,7 +229,7 @@
       "min": 26,
       "pts": 6,
       "adjPts": 6.0,
-      "pointsPlus": 48
+      "pointsPlus": 49
     },
     {
       "date": "2025-12-08",
@@ -310,7 +310,7 @@
       "min": 27,
       "pts": 21,
       "adjPts": 21.6,
-      "pointsPlus": 173
+      "pointsPlus": 174
     },
     {
       "date": "2025-12-29",
@@ -400,7 +400,7 @@
       "min": 28,
       "pts": 14,
       "adjPts": 13.6,
-      "pointsPlus": 109
+      "pointsPlus": 110
     },
     {
       "date": "2026-01-18",
@@ -472,7 +472,7 @@
       "min": 31,
       "pts": 16,
       "adjPts": 16.2,
-      "pointsPlus": 130
+      "pointsPlus": 131
     },
     {
       "date": "2026-02-04",
@@ -499,7 +499,7 @@
       "min": 24,
       "pts": 8,
       "adjPts": 7.7,
-      "pointsPlus": 61
+      "pointsPlus": 62
     },
     {
       "date": "2026-02-11",
@@ -508,7 +508,7 @@
       "min": 31,
       "pts": 12,
       "adjPts": 11.8,
-      "pointsPlus": 94
+      "pointsPlus": 95
     }
   ]
 }

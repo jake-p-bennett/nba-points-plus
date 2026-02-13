@@ -2,10 +2,10 @@
   "id": 1631106,
   "name": "Tari Eason",
   "team": "HOU",
-  "rank": 136,
+  "rank": 137,
   "gp": 31,
   "ppg": 12.2,
-  "adjPpg": 12.3,
+  "adjPpg": 12.2,
   "pointsPlus": 98,
   "mpg": 25.5,
   "position": "F",
@@ -265,7 +265,7 @@
       "min": 28,
       "pts": 10,
       "adjPts": 10.7,
-      "pointsPlus": 85
+      "pointsPlus": 86
     },
     {
       "date": "2026-02-07",

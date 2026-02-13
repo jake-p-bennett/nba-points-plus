@@ -2,17 +2,17 @@
   "id": 203114,
   "name": "Khris Middleton",
   "team": "DAL",
-  "rank": 169,
-  "gp": 35,
-  "ppg": 10.4,
-  "adjPpg": 10.5,
+  "rank": 171,
+  "gp": 36,
+  "ppg": 10.3,
+  "adjPpg": 10.4,
   "pointsPlus": 84,
-  "mpg": 24.3,
+  "mpg": 24.2,
   "position": "F",
   "jersey": "20",
-  "usgPct": 18.9,
-  "tsPct": 53.6,
-  "pointsPlusStdDev": 40.5,
+  "usgPct": 19.0,
+  "tsPct": 53.0,
+  "pointsPlusStdDev": 40.3,
   "volatilityPctile": 27,
   "gameLog": [
     {
@@ -21,8 +21,8 @@
       "result": "L",
       "min": 29,
       "pts": 23,
-      "adjPts": 23.0,
-      "pointsPlus": 184
+      "adjPts": 23.1,
+      "pointsPlus": 185
     },
     {
       "date": "2025-10-24",
@@ -148,7 +148,7 @@
       "min": 31,
       "pts": 15,
       "adjPts": 15.0,
-      "pointsPlus": 120
+      "pointsPlus": 121
     },
     {
       "date": "2025-12-04",
@@ -175,7 +175,7 @@
       "min": 22,
       "pts": 16,
       "adjPts": 16.2,
-      "pointsPlus": 130
+      "pointsPlus": 131
     },
     {
       "date": "2025-12-26",
@@ -229,7 +229,7 @@
       "min": 23,
       "pts": 11,
       "adjPts": 11.0,
-      "pointsPlus": 88
+      "pointsPlus": 89
     },
     {
       "date": "2026-01-09",
@@ -256,7 +256,7 @@
       "min": 27,
       "pts": 17,
       "adjPts": 17.5,
-      "pointsPlus": 140
+      "pointsPlus": 141
     },
     {
       "date": "2026-01-17",
@@ -292,7 +292,7 @@
       "min": 27,
       "pts": 19,
       "adjPts": 18.5,
-      "pointsPlus": 148
+      "pointsPlus": 149
     },
     {
       "date": "2026-01-29",
@@ -301,7 +301,7 @@
       "min": 26,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2026-02-01",
@@ -329,6 +329,15 @@
       "pts": 13,
       "adjPts": 13.4,
       "pointsPlus": 107
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "DAL @ LAL",
+      "result": "L",
+      "min": 21,
+      "pts": 8,
+      "adjPts": 7.9,
+      "pointsPlus": 64
     }
   ]
 }

@@ -2,18 +2,18 @@
   "id": 1631108,
   "name": "Max Christie",
   "team": "DAL",
-  "rank": 119,
-  "gp": 49,
-  "ppg": 13.1,
-  "adjPpg": 13.2,
-  "pointsPlus": 106,
+  "rank": 117,
+  "gp": 50,
+  "ppg": 13.3,
+  "adjPpg": 13.3,
+  "pointsPlus": 107,
   "mpg": 29.6,
   "position": "G",
   "jersey": "0",
-  "usgPct": 16.2,
-  "tsPct": 62.4,
-  "pointsPlusStdDev": 47.3,
-  "volatilityPctile": 51,
+  "usgPct": 16.3,
+  "tsPct": 62.6,
+  "pointsPlusStdDev": 47.5,
+  "volatilityPctile": 52,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -31,7 +31,7 @@
       "min": 29,
       "pts": 9,
       "adjPts": 8.4,
-      "pointsPlus": 67
+      "pointsPlus": 68
     },
     {
       "date": "2025-10-26",
@@ -112,7 +112,7 @@
       "min": 30,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-11-12",
@@ -139,7 +139,7 @@
       "min": 28,
       "pts": 14,
       "adjPts": 13.6,
-      "pointsPlus": 109
+      "pointsPlus": 110
     },
     {
       "date": "2025-11-17",
@@ -301,7 +301,7 @@
       "min": 29,
       "pts": 25,
       "adjPts": 24.4,
-      "pointsPlus": 195
+      "pointsPlus": 196
     },
     {
       "date": "2026-01-01",
@@ -310,7 +310,7 @@
       "min": 29,
       "pts": 18,
       "adjPts": 18.1,
-      "pointsPlus": 145
+      "pointsPlus": 146
     },
     {
       "date": "2026-01-03",
@@ -319,7 +319,7 @@
       "min": 35,
       "pts": 24,
       "adjPts": 25.5,
-      "pointsPlus": 204
+      "pointsPlus": 205
     },
     {
       "date": "2026-01-06",
@@ -337,7 +337,7 @@
       "min": 32,
       "pts": 16,
       "adjPts": 14.8,
-      "pointsPlus": 118
+      "pointsPlus": 119
     },
     {
       "date": "2026-01-10",
@@ -373,7 +373,7 @@
       "min": 35,
       "pts": 26,
       "adjPts": 26.8,
-      "pointsPlus": 215
+      "pointsPlus": 216
     },
     {
       "date": "2026-01-22",
@@ -391,7 +391,7 @@
       "min": 35,
       "pts": 24,
       "adjPts": 23.7,
-      "pointsPlus": 190
+      "pointsPlus": 191
     },
     {
       "date": "2026-01-28",
@@ -427,7 +427,7 @@
       "min": 30,
       "pts": 10,
       "adjPts": 10.7,
-      "pointsPlus": 85
+      "pointsPlus": 86
     },
     {
       "date": "2026-02-05",
@@ -455,6 +455,15 @@
       "pts": 5,
       "adjPts": 5.1,
       "pointsPlus": 41
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "DAL @ LAL",
+      "result": "L",
+      "min": 30,
+      "pts": 19,
+      "adjPts": 18.8,
+      "pointsPlus": 151
     }
   ]
 }

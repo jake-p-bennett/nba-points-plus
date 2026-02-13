@@ -2,18 +2,18 @@
   "id": 1629023,
   "name": "P.J. Washington",
   "team": "DAL",
-  "rank": 106,
-  "gp": 38,
-  "ppg": 14.0,
-  "adjPpg": 14.0,
-  "pointsPlus": 112,
-  "mpg": 30.5,
+  "rank": 102,
+  "gp": 39,
+  "ppg": 14.1,
+  "adjPpg": 14.1,
+  "pointsPlus": 113,
+  "mpg": 30.6,
   "position": "F",
   "jersey": "25",
   "usgPct": 20.3,
-  "tsPct": 52.4,
-  "pointsPlusStdDev": 50.2,
-  "volatilityPctile": 62,
+  "tsPct": 52.8,
+  "pointsPlusStdDev": 50.0,
+  "volatilityPctile": 61,
   "gameLog": [
     {
       "date": "2025-10-22",
@@ -112,7 +112,7 @@
       "min": 22,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 128
+      "pointsPlus": 129
     },
     {
       "date": "2025-11-12",
@@ -157,7 +157,7 @@
       "min": 37,
       "pts": 24,
       "adjPts": 23.1,
-      "pointsPlus": 185
+      "pointsPlus": 186
     },
     {
       "date": "2025-11-22",
@@ -175,7 +175,7 @@
       "min": 34,
       "pts": 27,
       "adjPts": 26.5,
-      "pointsPlus": 212
+      "pointsPlus": 213
     },
     {
       "date": "2025-11-28",
@@ -184,7 +184,7 @@
       "min": 35,
       "pts": 22,
       "adjPts": 21.7,
-      "pointsPlus": 174
+      "pointsPlus": 175
     },
     {
       "date": "2025-12-06",
@@ -265,7 +265,7 @@
       "min": 29,
       "pts": 8,
       "adjPts": 7.8,
-      "pointsPlus": 62
+      "pointsPlus": 63
     },
     {
       "date": "2026-01-01",
@@ -319,7 +319,7 @@
       "min": 34,
       "pts": 21,
       "adjPts": 21.1,
-      "pointsPlus": 169
+      "pointsPlus": 170
     },
     {
       "date": "2026-01-29",
@@ -356,6 +356,15 @@
       "pts": 13,
       "adjPts": 13.4,
       "pointsPlus": 107
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "DAL @ LAL",
+      "result": "L",
+      "min": 34,
+      "pts": 18,
+      "adjPts": 17.8,
+      "pointsPlus": 143
     }
   ]
 }

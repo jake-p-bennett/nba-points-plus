@@ -2,17 +2,17 @@
   "id": 1629004,
   "name": "Svi Mykhailiuk",
   "team": "UTA",
-  "rank": 200,
-  "gp": 44,
-  "ppg": 8.9,
-  "adjPpg": 9.0,
-  "pointsPlus": 72,
-  "mpg": 23.9,
+  "rank": 196,
+  "gp": 45,
+  "ppg": 9.0,
+  "adjPpg": 9.1,
+  "pointsPlus": 73,
+  "mpg": 23.8,
   "position": "G-F",
   "jersey": "10",
-  "usgPct": 13.4,
-  "tsPct": 61.4,
-  "pointsPlusStdDev": 44.7,
+  "usgPct": 13.6,
+  "tsPct": 62.1,
+  "pointsPlusStdDev": 44.6,
   "volatilityPctile": 40,
   "gameLog": [
     {
@@ -85,7 +85,7 @@
       "min": 36,
       "pts": 28,
       "adjPts": 29.6,
-      "pointsPlus": 237
+      "pointsPlus": 238
     },
     {
       "date": "2025-11-07",
@@ -156,7 +156,7 @@
       "result": "L",
       "min": 28,
       "pts": 12,
-      "adjPts": 11.8,
+      "adjPts": 11.9,
       "pointsPlus": 95
     },
     {
@@ -310,7 +310,7 @@
       "min": 20,
       "pts": 8,
       "adjPts": 7.8,
-      "pointsPlus": 62
+      "pointsPlus": 63
     },
     {
       "date": "2026-01-07",
@@ -363,7 +363,7 @@
       "result": "L",
       "min": 17,
       "pts": 8,
-      "adjPts": 7.9,
+      "adjPts": 7.8,
       "pointsPlus": 63
     },
     {
@@ -410,6 +410,15 @@
       "pts": 14,
       "adjPts": 13.6,
       "pointsPlus": 109
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "UTA vs. POR",
+      "result": "L",
+      "min": 17,
+      "pts": 14,
+      "adjPts": 13.6,
+      "pointsPlus": 110
     }
   ]
 }

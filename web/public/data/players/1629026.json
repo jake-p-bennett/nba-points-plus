@@ -2,18 +2,18 @@
   "id": 1629026,
   "name": "Kenrich Williams",
   "team": "OKC",
-  "rank": 250,
-  "gp": 35,
-  "ppg": 6.9,
-  "adjPpg": 6.9,
+  "rank": 248,
+  "gp": 36,
+  "ppg": 7.0,
+  "adjPpg": 7.0,
   "pointsPlus": 56,
-  "mpg": 15.9,
+  "mpg": 16.1,
   "position": "G-F",
   "jersey": "34",
-  "usgPct": 17.2,
-  "tsPct": 61.6,
-  "pointsPlusStdDev": 49.8,
-  "volatilityPctile": 60,
+  "usgPct": 17.3,
+  "tsPct": 61.1,
+  "pointsPlusStdDev": 49.3,
+  "volatilityPctile": 58,
   "gameLog": [
     {
       "date": "2025-11-26",
@@ -40,7 +40,7 @@
       "min": 13,
       "pts": 8,
       "adjPts": 7.8,
-      "pointsPlus": 62
+      "pointsPlus": 63
     },
     {
       "date": "2025-12-02",
@@ -66,7 +66,7 @@
       "result": "W",
       "min": 24,
       "pts": 11,
-      "adjPts": 10.2,
+      "adjPts": 10.1,
       "pointsPlus": 81
     },
     {
@@ -94,7 +94,7 @@
       "min": 25,
       "pts": 11,
       "adjPts": 10.8,
-      "pointsPlus": 86
+      "pointsPlus": 87
     },
     {
       "date": "2025-12-23",
@@ -237,8 +237,8 @@
       "result": "W",
       "min": 28,
       "pts": 18,
-      "adjPts": 18.0,
-      "pointsPlus": 144
+      "adjPts": 18.1,
+      "pointsPlus": 145
     },
     {
       "date": "2026-01-23",
@@ -274,7 +274,7 @@
       "min": 18,
       "pts": 7,
       "adjPts": 7.0,
-      "pointsPlus": 56
+      "pointsPlus": 57
     },
     {
       "date": "2026-02-01",
@@ -292,7 +292,7 @@
       "min": 18,
       "pts": 11,
       "adjPts": 11.0,
-      "pointsPlus": 88
+      "pointsPlus": 89
     },
     {
       "date": "2026-02-04",
@@ -329,6 +329,15 @@
       "pts": 15,
       "adjPts": 15.4,
       "pointsPlus": 124
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "OKC vs. MIL",
+      "result": "L",
+      "min": 23,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 73
     }
   ]
 }

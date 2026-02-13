@@ -2,18 +2,18 @@
   "id": 1631126,
   "name": "Caleb Love",
   "team": "POR",
-  "rank": 155,
-  "gp": 44,
+  "rank": 156,
+  "gp": 45,
   "ppg": 11.3,
-  "adjPpg": 11.4,
+  "adjPpg": 11.3,
   "pointsPlus": 91,
-  "mpg": 22.4,
+  "mpg": 22.3,
   "position": "G",
   "jersey": "2",
-  "usgPct": 22.7,
-  "tsPct": 50.1,
-  "pointsPlusStdDev": 58.3,
-  "volatilityPctile": 85,
+  "usgPct": 22.8,
+  "tsPct": 50.0,
+  "pointsPlusStdDev": 57.7,
+  "volatilityPctile": 84,
   "gameLog": [
     {
       "date": "2025-10-27",
@@ -67,7 +67,7 @@
       "min": 32,
       "pts": 17,
       "adjPts": 17.5,
-      "pointsPlus": 140
+      "pointsPlus": 141
     },
     {
       "date": "2025-11-19",
@@ -85,7 +85,7 @@
       "min": 38,
       "pts": 26,
       "adjPts": 26.4,
-      "pointsPlus": 211
+      "pointsPlus": 212
     },
     {
       "date": "2025-11-23",
@@ -103,7 +103,7 @@
       "min": 26,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2025-11-26",
@@ -157,7 +157,7 @@
       "min": 20,
       "pts": 4,
       "adjPts": 3.9,
-      "pointsPlus": 31
+      "pointsPlus": 32
     },
     {
       "date": "2025-12-11",
@@ -184,7 +184,7 @@
       "min": 9,
       "pts": 5,
       "adjPts": 4.8,
-      "pointsPlus": 38
+      "pointsPlus": 39
     },
     {
       "date": "2025-12-20",
@@ -292,7 +292,7 @@
       "min": 25,
       "pts": 18,
       "adjPts": 19.1,
-      "pointsPlus": 153
+      "pointsPlus": 154
     },
     {
       "date": "2026-01-11",
@@ -319,7 +319,7 @@
       "min": 26,
       "pts": 12,
       "adjPts": 11.7,
-      "pointsPlus": 93
+      "pointsPlus": 94
     },
     {
       "date": "2026-01-17",
@@ -328,7 +328,7 @@
       "min": 31,
       "pts": 22,
       "adjPts": 21.7,
-      "pointsPlus": 174
+      "pointsPlus": 175
     },
     {
       "date": "2026-01-18",
@@ -346,7 +346,7 @@
       "min": 34,
       "pts": 20,
       "adjPts": 19.6,
-      "pointsPlus": 157
+      "pointsPlus": 158
     },
     {
       "date": "2026-01-23",
@@ -410,6 +410,15 @@
       "pts": 17,
       "adjPts": 16.7,
       "pointsPlus": 134
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "POR @ UTA",
+      "result": "W",
+      "min": 15,
+      "pts": 11,
+      "adjPts": 10.1,
+      "pointsPlus": 81
     }
   ]
 }

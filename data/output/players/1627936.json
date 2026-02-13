@@ -2,18 +2,18 @@
   "id": 1627936,
   "name": "Alex Caruso",
   "team": "OKC",
-  "rank": 272,
-  "gp": 36,
-  "ppg": 6.2,
+  "rank": 269,
+  "gp": 37,
+  "ppg": 6.3,
   "adjPpg": 6.3,
-  "pointsPlus": 50,
-  "mpg": 18.3,
+  "pointsPlus": 51,
+  "mpg": 18.4,
   "position": "G",
   "jersey": "9",
   "usgPct": 14.7,
-  "tsPct": 55.1,
-  "pointsPlusStdDev": 33.2,
-  "volatilityPctile": 12,
+  "tsPct": 55.7,
+  "pointsPlusStdDev": 33.0,
+  "volatilityPctile": 11,
   "gameLog": [
     {
       "date": "2025-10-21",
@@ -31,7 +31,7 @@
       "min": 24,
       "pts": 8,
       "adjPts": 7.7,
-      "pointsPlus": 61
+      "pointsPlus": 62
     },
     {
       "date": "2025-10-30",
@@ -120,7 +120,7 @@
       "result": "W",
       "min": 18,
       "pts": 11,
-      "adjPts": 10.2,
+      "adjPts": 10.1,
       "pointsPlus": 81
     },
     {
@@ -184,7 +184,7 @@
       "min": 22,
       "pts": 7,
       "adjPts": 7.0,
-      "pointsPlus": 56
+      "pointsPlus": 57
     },
     {
       "date": "2025-12-23",
@@ -338,6 +338,15 @@
       "pts": 0,
       "adjPts": 0.0,
       "pointsPlus": 0
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "OKC vs. MIL",
+      "result": "L",
+      "min": 20,
+      "pts": 9,
+      "adjPts": 9.0,
+      "pointsPlus": 73
     }
   ]
 }

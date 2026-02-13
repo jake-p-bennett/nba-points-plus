@@ -2,7 +2,7 @@
   "id": 201567,
   "name": "Kevin Love",
   "team": "UTA",
-  "rank": 246,
+  "rank": 245,
   "gp": 29,
   "ppg": 7.0,
   "adjPpg": 7.0,
@@ -12,7 +12,7 @@
   "jersey": "42",
   "usgPct": 16.4,
   "tsPct": 56.3,
-  "pointsPlusStdDev": 39.6,
+  "pointsPlusStdDev": 39.8,
   "volatilityPctile": 26,
   "gameLog": [
     {
@@ -102,7 +102,7 @@
       "result": "L",
       "min": 13,
       "pts": 4,
-      "adjPts": 3.9,
+      "adjPts": 4.0,
       "pointsPlus": 32
     },
     {
@@ -148,7 +148,7 @@
       "min": 20,
       "pts": 20,
       "adjPts": 19.6,
-      "pointsPlus": 157
+      "pointsPlus": 158
     },
     {
       "date": "2025-12-18",
@@ -166,7 +166,7 @@
       "min": 32,
       "pts": 16,
       "adjPts": 16.0,
-      "pointsPlus": 128
+      "pointsPlus": 129
     },
     {
       "date": "2025-12-23",
@@ -265,7 +265,7 @@
       "min": 12,
       "pts": 13,
       "adjPts": 13.0,
-      "pointsPlus": 104
+      "pointsPlus": 105
     },
     {
       "date": "2026-02-11",
@@ -274,7 +274,7 @@
       "min": 16,
       "pts": 5,
       "adjPts": 4.8,
-      "pointsPlus": 38
+      "pointsPlus": 39
     }
   ]
 }

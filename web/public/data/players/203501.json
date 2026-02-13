@@ -2,7 +2,7 @@
   "id": 203501,
   "name": "Tim Hardaway Jr.",
   "team": "DEN",
-  "rank": 102,
+  "rank": 103,
   "gp": 54,
   "ppg": 14.1,
   "adjPpg": 14.1,
@@ -12,8 +12,8 @@
   "jersey": "10",
   "usgPct": 17.7,
   "tsPct": 63.3,
-  "pointsPlusStdDev": 52.2,
-  "volatilityPctile": 68,
+  "pointsPlusStdDev": 52.3,
+  "volatilityPctile": 69,
   "gameLog": [
     {
       "date": "2025-10-23",
@@ -40,7 +40,7 @@
       "min": 32,
       "pts": 20,
       "adjPts": 20.1,
-      "pointsPlus": 161
+      "pointsPlus": 162
     },
     {
       "date": "2025-10-29",
@@ -67,7 +67,7 @@
       "min": 23,
       "pts": 5,
       "adjPts": 4.8,
-      "pointsPlus": 38
+      "pointsPlus": 39
     },
     {
       "date": "2025-11-05",
@@ -121,7 +121,7 @@
       "min": 29,
       "pts": 23,
       "adjPts": 23.1,
-      "pointsPlus": 185
+      "pointsPlus": 186
     },
     {
       "date": "2025-11-17",
@@ -157,7 +157,7 @@
       "min": 26,
       "pts": 8,
       "adjPts": 7.7,
-      "pointsPlus": 61
+      "pointsPlus": 62
     },
     {
       "date": "2025-11-24",
@@ -192,7 +192,7 @@
       "result": "L",
       "min": 31,
       "pts": 13,
-      "adjPts": 12.9,
+      "adjPts": 12.8,
       "pointsPlus": 103
     },
     {
@@ -211,7 +211,7 @@
       "min": 27,
       "pts": 17,
       "adjPts": 16.5,
-      "pointsPlus": 132
+      "pointsPlus": 133
     },
     {
       "date": "2025-12-07",
@@ -247,7 +247,7 @@
       "min": 27,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 96
+      "pointsPlus": 97
     },
     {
       "date": "2025-12-20",
@@ -265,7 +265,7 @@
       "min": 25,
       "pts": 21,
       "adjPts": 19.4,
-      "pointsPlus": 155
+      "pointsPlus": 156
     },
     {
       "date": "2025-12-23",
@@ -310,7 +310,7 @@
       "min": 30,
       "pts": 9,
       "adjPts": 9.3,
-      "pointsPlus": 74
+      "pointsPlus": 75
     },
     {
       "date": "2026-01-02",
@@ -354,8 +354,8 @@
       "result": "W",
       "min": 35,
       "pts": 25,
-      "adjPts": 25.0,
-      "pointsPlus": 200
+      "adjPts": 25.1,
+      "pointsPlus": 202
     },
     {
       "date": "2026-01-13",
@@ -372,7 +372,7 @@
       "result": "W",
       "min": 36,
       "pts": 12,
-      "adjPts": 11.9,
+      "adjPts": 11.8,
       "pointsPlus": 95
     },
     {
@@ -381,7 +381,7 @@
       "result": "W",
       "min": 36,
       "pts": 30,
-      "adjPts": 28.1,
+      "adjPts": 28.0,
       "pointsPlus": 225
     },
     {
@@ -417,8 +417,8 @@
       "result": "W",
       "min": 26,
       "pts": 17,
-      "adjPts": 17.0,
-      "pointsPlus": 136
+      "adjPts": 17.1,
+      "pointsPlus": 137
     },
     {
       "date": "2026-01-27",
@@ -472,7 +472,7 @@
       "min": 42,
       "pts": 19,
       "adjPts": 19.6,
-      "pointsPlus": 157
+      "pointsPlus": 158
     },
     {
       "date": "2026-02-07",

@@ -2,18 +2,18 @@
   "id": 1629060,
   "name": "Rui Hachimura",
   "team": "LAL",
-  "rank": 145,
-  "gp": 43,
-  "ppg": 11.9,
-  "adjPpg": 11.9,
-  "pointsPlus": 95,
-  "mpg": 29.7,
+  "rank": 144,
+  "gp": 44,
+  "ppg": 12.1,
+  "adjPpg": 12.1,
+  "pointsPlus": 97,
+  "mpg": 29.9,
   "position": "F",
   "jersey": "28",
   "usgPct": 15.0,
-  "tsPct": 61.4,
-  "pointsPlusStdDev": 48.1,
-  "volatilityPctile": 55,
+  "tsPct": 62.0,
+  "pointsPlusStdDev": 48.9,
+  "volatilityPctile": 56,
   "gameLog": [
     {
       "date": "2025-10-21",
@@ -31,7 +31,7 @@
       "min": 32,
       "pts": 23,
       "adjPts": 23.1,
-      "pointsPlus": 185
+      "pointsPlus": 186
     },
     {
       "date": "2025-10-26",
@@ -40,7 +40,7 @@
       "min": 40,
       "pts": 18,
       "adjPts": 17.3,
-      "pointsPlus": 138
+      "pointsPlus": 139
     },
     {
       "date": "2025-10-27",
@@ -346,7 +346,7 @@
       "min": 18,
       "pts": 11,
       "adjPts": 10.3,
-      "pointsPlus": 82
+      "pointsPlus": 83
     },
     {
       "date": "2026-02-01",
@@ -354,7 +354,7 @@
       "result": "L",
       "min": 29,
       "pts": 11,
-      "adjPts": 11.4,
+      "adjPts": 11.3,
       "pointsPlus": 91
     },
     {
@@ -381,8 +381,8 @@
       "result": "W",
       "min": 28,
       "pts": 18,
-      "adjPts": 18.3,
-      "pointsPlus": 146
+      "adjPts": 18.2,
+      "pointsPlus": 147
     },
     {
       "date": "2026-02-09",
@@ -401,6 +401,15 @@
       "pts": 6,
       "adjPts": 6.2,
       "pointsPlus": 49
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "LAL vs. DAL",
+      "result": "W",
+      "min": 35,
+      "pts": 21,
+      "adjPts": 20.7,
+      "pointsPlus": 167
     }
   ]
 }

@@ -2,7 +2,7 @@
   "id": 1642845,
   "name": "VJ Edgecombe",
   "team": "PHI",
-  "rank": 91,
+  "rank": 92,
   "gp": 50,
   "ppg": 14.9,
   "adjPpg": 15.0,
@@ -58,7 +58,7 @@
       "min": 40,
       "pts": 17,
       "adjPts": 18.1,
-      "pointsPlus": 145
+      "pointsPlus": 146
     },
     {
       "date": "2025-11-02",
@@ -148,7 +148,7 @@
       "min": 38,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 96
+      "pointsPlus": 97
     },
     {
       "date": "2025-11-30",
@@ -166,7 +166,7 @@
       "min": 24,
       "pts": 9,
       "adjPts": 8.4,
-      "pointsPlus": 67
+      "pointsPlus": 68
     },
     {
       "date": "2025-12-04",
@@ -184,7 +184,7 @@
       "min": 24,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 96
+      "pointsPlus": 97
     },
     {
       "date": "2025-12-07",
@@ -220,7 +220,7 @@
       "min": 38,
       "pts": 23,
       "adjPts": 23.7,
-      "pointsPlus": 190
+      "pointsPlus": 191
     },
     {
       "date": "2025-12-20",
@@ -274,7 +274,7 @@
       "min": 41,
       "pts": 26,
       "adjPts": 26.8,
-      "pointsPlus": 215
+      "pointsPlus": 216
     },
     {
       "date": "2026-01-05",
@@ -292,7 +292,7 @@
       "min": 35,
       "pts": 13,
       "adjPts": 12.2,
-      "pointsPlus": 97
+      "pointsPlus": 98
     },
     {
       "date": "2026-01-09",
@@ -355,7 +355,7 @@
       "min": 37,
       "pts": 25,
       "adjPts": 25.7,
-      "pointsPlus": 206
+      "pointsPlus": 207
     },
     {
       "date": "2026-01-22",
@@ -391,7 +391,7 @@
       "min": 31,
       "pts": 12,
       "adjPts": 12.0,
-      "pointsPlus": 96
+      "pointsPlus": 97
     },
     {
       "date": "2026-01-29",
@@ -400,7 +400,7 @@
       "min": 35,
       "pts": 5,
       "adjPts": 4.8,
-      "pointsPlus": 38
+      "pointsPlus": 39
     },
     {
       "date": "2026-01-31",
@@ -427,7 +427,7 @@
       "min": 40,
       "pts": 25,
       "adjPts": 25.3,
-      "pointsPlus": 203
+      "pointsPlus": 204
     },
     {
       "date": "2026-02-05",
@@ -435,8 +435,8 @@
       "result": "L",
       "min": 39,
       "pts": 19,
-      "adjPts": 18.7,
-      "pointsPlus": 150
+      "adjPts": 18.8,
+      "pointsPlus": 151
     },
     {
       "date": "2026-02-07",

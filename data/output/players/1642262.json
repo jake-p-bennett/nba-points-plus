@@ -3,16 +3,16 @@
   "name": "Cody Williams",
   "team": "UTA",
   "rank": 279,
-  "gp": 41,
-  "ppg": 5.8,
+  "gp": 42,
+  "ppg": 5.9,
   "adjPpg": 5.9,
-  "pointsPlus": 47,
-  "mpg": 19.4,
+  "pointsPlus": 48,
+  "mpg": 19.5,
   "position": "F",
   "jersey": "5",
-  "usgPct": 12.7,
-  "tsPct": 53.2,
-  "pointsPlusStdDev": 38.0,
+  "usgPct": 13.0,
+  "tsPct": 53.0,
+  "pointsPlusStdDev": 37.8,
   "volatilityPctile": 19,
   "gameLog": [
     {
@@ -93,7 +93,7 @@
       "result": "L",
       "min": 21,
       "pts": 4,
-      "adjPts": 3.9,
+      "adjPts": 4.0,
       "pointsPlus": 32
     },
     {
@@ -166,7 +166,7 @@
       "min": 9,
       "pts": 4,
       "adjPts": 3.9,
-      "pointsPlus": 31
+      "pointsPlus": 32
     },
     {
       "date": "2025-12-27",
@@ -211,7 +211,7 @@
       "min": 20,
       "pts": 8,
       "adjPts": 7.8,
-      "pointsPlus": 62
+      "pointsPlus": 63
     },
     {
       "date": "2026-01-07",
@@ -264,7 +264,7 @@
       "result": "L",
       "min": 31,
       "pts": 13,
-      "adjPts": 12.9,
+      "adjPts": 12.8,
       "pointsPlus": 103
     },
     {
@@ -292,7 +292,7 @@
       "min": 29,
       "pts": 8,
       "adjPts": 8.0,
-      "pointsPlus": 64
+      "pointsPlus": 65
     },
     {
       "date": "2026-01-22",
@@ -328,7 +328,7 @@
       "min": 28,
       "pts": 6,
       "adjPts": 6.0,
-      "pointsPlus": 48
+      "pointsPlus": 49
     },
     {
       "date": "2026-02-01",
@@ -346,7 +346,7 @@
       "min": 40,
       "pts": 14,
       "adjPts": 13.6,
-      "pointsPlus": 109
+      "pointsPlus": 110
     },
     {
       "date": "2026-02-05",
@@ -383,6 +383,15 @@
       "pts": 9,
       "adjPts": 8.6,
       "pointsPlus": 69
+    },
+    {
+      "date": "2026-02-12",
+      "matchup": "UTA vs. POR",
+      "result": "L",
+      "min": 25,
+      "pts": 9,
+      "adjPts": 8.8,
+      "pointsPlus": 70
     }
   ]
 }
