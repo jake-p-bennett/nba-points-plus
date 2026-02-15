@@ -49,5 +49,5 @@ export interface Metadata {
   leagueAvgPointsPlus: number;
 }
 
-export type SortField = "rank" | "name" | "team" | "gp" | "ppg" | "adjPpg" | "pointsPlus" | "pointsPlusStdDev" | "mpg";
+export type SortField = "rank" | "name" | "team" | "gp" | "ppg" | "adjPpg" | "diff" | "pointsPlus" | "pointsPlusStdDev" | "mpg";
 export type SortDirection = "asc" | "desc";

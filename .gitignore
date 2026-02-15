@@ -1,6 +1,10 @@
 CLAUDE.md
 .claude/
 
+# Scripts
+scripts/*.log
+scripts/update-data-runner
+
 # Python
 __pycache__/
 data/raw/
