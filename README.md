@@ -87,7 +87,7 @@ Data is automatically updated daily via a launchd job that runs `scripts/update-
 ## Project Structure
 
 ```
-nba-dashboard/
+nba-points-plus/
 ├── web/                  # Next.js frontend
 │   ├── src/
 │   │   ├── app/          # Pages (home, player detail, about)
