@@ -5,7 +5,7 @@ An interactive web dashboard tracking **Points+**, a custom NBA scoring efficien
 - **100** = league average scorer
 - **120** = 20% better than league average
 
-**Live site:** [nba-points-plus.vercel.app](https://nba-points-plus.vercel.app) *(update with actual URL)*
+**Live site:** [nbapointsplus.com](https://nbapointsplus.com)
 
 ---
 
